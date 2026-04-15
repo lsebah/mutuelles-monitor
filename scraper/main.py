@@ -26,7 +26,11 @@ logger = logging.getLogger(__name__)
 
 REPO_ROOT = Path(__file__).parent.parent
 DATA_DIR = REPO_ROOT / "docs" / "data"
-ACPR_PDF = REPO_ROOT.parent / "20150101-listes-organismes-assurance-actifs-et-des-groupes.pdf"
+
+# ACPR PDF: prefer the in-repo copy (CI), fallback to parent dir (legacy local)
+_ACPR_IN_REPO = REPO_ROOT / "scraper" / "data" / "acpr_2015.pdf"
+_ACPR_LEGACY = REPO_ROOT.parent / "20150101-listes-organismes-assurance-actifs-et-des-groupes.pdf"
+ACPR_PDF = _ACPR_IN_REPO if _ACPR_IN_REPO.exists() else _ACPR_LEGACY
 
 
 def tag_groupes(entities: list) -> list:

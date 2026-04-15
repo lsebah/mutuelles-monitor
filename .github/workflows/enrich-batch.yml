@@ -12,6 +12,9 @@ on:
         description: "Max entities for SFCR analysis"
         default: "25"
 
+permissions:
+  contents: write
+
 jobs:
   enrich:
     runs-on: ubuntu-latest

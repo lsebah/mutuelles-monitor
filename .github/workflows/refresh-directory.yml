@@ -5,6 +5,9 @@ on:
     - cron: "0 6 * * 1"  # Monday 06:00 UTC ~ 08:00 Paris
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest

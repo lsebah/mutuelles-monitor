@@ -199,6 +199,14 @@ def run(bootstrap=False, refresh=False, no_online=False):
     merged = merge_all_sources(*sources_data)
     merged = tag_groupes(merged)
     write_outputs(merged, scrape_status)
+
+    # Re-apply structured products seed (manual overrides)
+    try:
+        from enrichment.apply_structured_seed import apply_seed
+        apply_seed()
+    except Exception as e:
+        logger.warning(f"Could not apply structured seed: {e}")
+
     logger.info("DONE")
 
 

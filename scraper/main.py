@@ -191,13 +191,21 @@ def run(bootstrap=False, refresh=False, no_online=False):
     if refresh and not no_online:
         # Phase 2 sources
         try:
+            from sources.wikipedia_federations import scrape_wikipedia_federations
+            wf = scrape_wikipedia_federations()
+            sources_data.append(wf)
+            scrape_status["wikipedia_federations"] = {"status": "success", "count": len(wf)}
+        except Exception as e:
+            logger.error(f"Wikipedia federations failed: {e}")
+            scrape_status["wikipedia_federations"] = {"status": "error", "error": str(e)}
+        try:
             from sources.wikipedia_mutuelles import scrape_wikipedia_mutuelles
             wiki = scrape_wikipedia_mutuelles()
             sources_data.append(wiki)
-            scrape_status["wikipedia"] = {"status": "success", "count": len(wiki)}
+            scrape_status["wikipedia_mutuelles"] = {"status": "success", "count": len(wiki)}
         except Exception as e:
-            logger.error(f"Wikipedia failed: {e}")
-            scrape_status["wikipedia"] = {"status": "error", "error": str(e)}
+            logger.error(f"Wikipedia mutuelles failed: {e}")
+            scrape_status["wikipedia_mutuelles"] = {"status": "error", "error": str(e)}
         try:
             from sources.rnm_mutuelles import scrape_rnm
             rnm = scrape_rnm()
@@ -206,14 +214,6 @@ def run(bootstrap=False, refresh=False, no_online=False):
         except Exception as e:
             logger.error(f"RNM failed: {e}")
             scrape_status["rnm"] = {"status": "error", "error": str(e)}
-        try:
-            from sources.cpme_federations import scrape_cpme
-            cpme = scrape_cpme()
-            sources_data.append(cpme)
-            scrape_status["cpme"] = {"status": "success", "count": len(cpme)}
-        except Exception as e:
-            logger.error(f"CPME failed: {e}")
-            scrape_status["cpme"] = {"status": "error", "error": str(e)}
 
     merged = merge_all_sources(*sources_data)
     merged = tag_groupes(merged)

@@ -19,6 +19,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from config import GROUPES_MUTUALISTES, TYPES_ORGANISME, SOURCES
 from merger import merge_all_sources
 from sources.acpr_pdf import parse_acpr_pdf
+from sources.acpr_xlsx import parse_acpr_xlsx
 from sources.base import normalize_name
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
@@ -27,10 +28,14 @@ logger = logging.getLogger(__name__)
 REPO_ROOT = Path(__file__).parent.parent
 DATA_DIR = REPO_ROOT / "docs" / "data"
 
-# ACPR PDF: prefer the in-repo copy (CI), fallback to parent dir (legacy local)
-_ACPR_IN_REPO = REPO_ROOT / "scraper" / "data" / "acpr_2015.pdf"
-_ACPR_LEGACY = REPO_ROOT.parent / "20150101-listes-organismes-assurance-actifs-et-des-groupes.pdf"
-ACPR_PDF = _ACPR_IN_REPO if _ACPR_IN_REPO.exists() else _ACPR_LEGACY
+# ACPR sources (prefer 2026 XLSX, fallback to 2015 PDF)
+_ACPR_XLSX_REPO = REPO_ROOT / "scraper" / "data" / "acpr_2026.xlsx"
+_ACPR_XLSX_LEGACY = REPO_ROOT.parent / "20260414_liste_des_organismes_d_assurances_actifs_xlsx.xlsx"
+_ACPR_PDF_REPO = REPO_ROOT / "scraper" / "data" / "acpr_2015.pdf"
+_ACPR_PDF_LEGACY = REPO_ROOT.parent / "20150101-listes-organismes-assurance-actifs-et-des-groupes.pdf"
+
+ACPR_XLSX = _ACPR_XLSX_REPO if _ACPR_XLSX_REPO.exists() else _ACPR_XLSX_LEGACY
+ACPR_PDF = _ACPR_PDF_REPO if _ACPR_PDF_REPO.exists() else _ACPR_PDF_LEGACY
 
 
 def tag_groupes(entities: list) -> list:
@@ -164,14 +169,24 @@ def run(bootstrap=False, refresh=False, no_online=False):
     sources_data = []
     scrape_status = {}
 
-    # ACPR PDF (always)
-    try:
-        acpr_entities = parse_acpr_pdf(str(ACPR_PDF))
-        sources_data.append(acpr_entities)
-        scrape_status["acpr_pdf_2015"] = {"status": "success", "count": len(acpr_entities)}
-    except Exception as e:
-        logger.error(f"ACPR PDF failed: {e}")
-        scrape_status["acpr_pdf_2015"] = {"status": "error", "error": str(e)}
+    # ACPR 2026 XLSX (primary, REGAFI export)
+    if ACPR_XLSX.exists():
+        try:
+            acpr_xlsx_entities = parse_acpr_xlsx(str(ACPR_XLSX))
+            sources_data.append(acpr_xlsx_entities)
+            scrape_status["acpr_xlsx_2026"] = {"status": "success", "count": len(acpr_xlsx_entities)}
+        except Exception as e:
+            logger.error(f"ACPR XLSX failed: {e}")
+            scrape_status["acpr_xlsx_2026"] = {"status": "error", "error": str(e)}
+    elif ACPR_PDF.exists():
+        # Fallback to legacy 2015 PDF only if XLSX missing
+        try:
+            acpr_pdf_entities = parse_acpr_pdf(str(ACPR_PDF))
+            sources_data.append(acpr_pdf_entities)
+            scrape_status["acpr_pdf_2015"] = {"status": "success", "count": len(acpr_pdf_entities)}
+        except Exception as e:
+            logger.error(f"ACPR PDF failed: {e}")
+            scrape_status["acpr_pdf_2015"] = {"status": "error", "error": str(e)}
 
     if refresh and not no_online:
         # Phase 2 sources

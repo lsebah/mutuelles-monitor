@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mutuelles Monitor - Annuaire Mutuelles & Assurances FR</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="theme-color" content="#d4a843">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <div class="header-left">
+                <h1>Mutuelles Monitor</h1>
+                <p class="subtitle">Annuaire mutuelles, assurances, IP & federations - France</p>
+            </div>
+            <div class="header-right">
+                <div class="header-meta">
+                    <div class="last-update" id="lastUpdate">Chargement...</div>
+                    <div class="sync-indicator"><span id="syncStatus">Local</span></div>
+                </div>
+                <div class="header-links">
+                    <button class="profile-link export-btn" onclick="exportFilteredCsv()">Export CSV</button>
+                    <a href="data/folk_import.csv" download class="profile-link gold-btn">Export Folk</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="stats-bar">
+        <div class="stat-card"><div class="stat-number" id="statTotal">-</div><div class="stat-label">Entites</div></div>
+        <div class="stat-card"><div class="stat-number" id="statMutuelles">-</div><div class="stat-label">Mutuelles</div></div>
+        <div class="stat-card"><div class="stat-number" id="statAssurances">-</div><div class="stat-label">Assurances</div></div>
+        <div class="stat-card"><div class="stat-number" id="statIP">-</div><div class="stat-label">Inst. prevoyance</div></div>
+        <div class="stat-card highlight"><div class="stat-number" id="statStructured">-</div><div class="stat-label">Porteurs structures</div></div>
+        <div class="stat-card"><div class="stat-number" id="statFolk">0</div><div class="stat-label">Dans Folk</div></div>
+    </section>
+
+    <nav class="tabs">
+        <button class="tab active" data-tab="dashboard">Dashboard</button>
+        <button class="tab" data-tab="directory">Annuaire <span class="tab-badge" id="badgeTotal"></span></button>
+        <button class="tab" data-tab="structured">Porteurs structures <span class="tab-badge" id="badgeStructured"></span></button>
+        <button class="tab" data-tab="federations">Federations <span class="tab-badge" id="badgeFederations"></span></button>
+    </nav>
+
+    <main class="main-content">
+        <!-- Dashboard -->
+        <div id="tab-dashboard" class="tab-content active">
+            <h3 class="section-title">Repartition par type d'organisme</h3>
+            <div class="type-grid" id="typeGrid"></div>
+            <h3 class="section-title">Top groupes</h3>
+            <div class="type-grid" id="groupeGrid"></div>
+        </div>
+
+        <!-- Annuaire -->
+        <div id="tab-directory" class="tab-content">
+            <section class="filters">
+                <div class="filter-row">
+                    <input type="text" id="searchInput" placeholder="Rechercher par nom, ville, SIREN, groupe..." class="search-input">
+                    <select id="filterType" class="filter-select">
+                        <option value="">Tous les types</option>
+                        <option value="mutuelle">Mutuelle</option>
+                        <option value="assurance_vie">Assurance Vie</option>
+                        <option value="assurance_non_vie">Assurance Non Vie</option>
+                        <option value="assurance_mixte">Assurance Mixte</option>
+                        <option value="institution_prevoyance">Inst. de prevoyance</option>
+                        <option value="reassurance">Reassurance</option>
+                        <option value="groupe">Groupe</option>
+                    </select>
+                    <select id="filterGroupe" class="filter-select">
+                        <option value="">Tous les groupes</option>
+                    </select>
+                    <select id="filterDepartment" class="filter-select">
+                        <option value="">Tous les departements</option>
+                    </select>
+                    <select id="filterStructured" class="filter-select">
+                        <option value="">Structures: tous</option>
+                        <option value="yes">Porteurs (oui)</option>
+                        <option value="no">Non porteurs</option>
+                        <option value="unknown">A verifier</option>
+                    </select>
+                    <label class="toggle-label">
+                        <input type="checkbox" id="filterHideFolk">
+                        Masquer "dans Folk"
+                    </label>
+                </div>
+            </section>
+            <div class="members-count" id="membersCount"></div>
+            <div class="members-grid" id="membersGrid"></div>
+            <button class="load-more-btn" id="loadMoreBtn" onclick="loadMore()" style="display:none">Charger plus...</button>
+        </div>
+
+        <!-- Structured products -->
+        <div id="tab-structured" class="tab-content">
+            <h3 class="section-title">Porteurs identifies de produits structures</h3>
+            <p style="color:var(--text-muted);font-size:13px;margin-bottom:16px">
+                Detection automatique via parsing des SFCR (mots-cles : autocall, fonds a formule, EMTN, titres structures...).
+                Les entites en "a verifier" n'ont pas encore ete enrichies.
+            </p>
+            <div class="members-grid" id="structuredGrid"></div>
+        </div>
+
+        <!-- Federations -->
+        <div id="tab-federations" class="tab-content">
+            <h3 class="section-title">Federations professionnelles (CPME et autres)</h3>
+            <div class="members-grid" id="federationsGrid"></div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>Mutuelles Monitor - Capital Management France</p>
+        <p>Sources: ACPR PDF 2015, ACPR online, RNM, Wikipedia, CPME</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

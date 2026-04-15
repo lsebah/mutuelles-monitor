@@ -1,0 +1,930 @@
+﻿First Name,Last Name,Job Title,Company,Email,Phone,LinkedIn,Address,City,Postal Code,Department,Region,Website,Type,Groupe,SIREN,Primes 2024 (EUR),Resultat net (EUR),Produits structures,Notes
+,,,BPCE MUTUELLE,,,,7 RUE LEON PATOUX CS 51032,REIMS Cedex 2,51686,Marne,Grand Est,,mutuelle,,776466963,,,unknown,Sources: acpr_pdf_2015.
+,,,525EME MUTUELLE D ENTREPRISES DE L AUTOMOBILE ET DU VEHICULE INDUSTRIEL (RENAULT TRUCK ET IRISBUS),,,,15 RUE MARCEL PAGNOL,VENISSIEUX,69200,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,779926294,,,unknown,Sources: acpr_pdf_2015.
+,,,ABP PREVOYANCE,,,,30 AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,assurance_non_vie,,352259717,,,unknown,Sources: acpr_pdf_2015.
+,,,ABP VIE,,,,30 AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,assurance_mixte,,349004341,,,unknown,Sources: acpr_pdf_2015.
+,,,ACORIS MUTUELLES,,,,137 RUE SAINT DIZIER,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,780004099,,,unknown,Sources: acpr_pdf_2015.
+,,,ACTA ASSURANCE,,,,PARC DES TUILERIES,LIMONEST CEDEX,69578,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,493466254,,,unknown,Sources: acpr_pdf_2015.
+,,,ACTE IARD,,,,14 AVENUE DE L EUROPE ESPACE EUROPEEN DE L ENTREPRISE,SCHILTIGHEIM,67300,Bas-Rhin,Grand Est,,assurance_non_vie,,332948546,,,unknown,Sources: acpr_pdf_2015.
+,,,ACTE VIE,,,,14 AVENUE DE L EUROPE ESPACE EUROPEEN DE L ENTREPRISE,SCHILTIGHEIM,67300,Bas-Rhin,Grand Est,,assurance_vie,,343030748,,,unknown,Sources: acpr_pdf_2015.
+,,,ADREA MUTUELLE,,,,104 AVENUE DE SAXE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,AESIO/AEMA,311799878,,,unknown,Sources: acpr_pdf_2015.
+,,,AFI ESCA IARD,,,,4 SQUARE DUTILLEUL,LILLE,59800,Nord,Hauts-de-France,,assurance_non_vie,,380138644,,,unknown,Sources: acpr_pdf_2015.
+,,,AFI-ESCA,,,,2 QUAI KLEBER CS 30441,STRASBOURG CEDEX,67008,Bas-Rhin,Grand Est,,assurance_vie,,548502517,,,unknown,Sources: acpr_pdf_2015.
+,,,AG2R MACIF PREVOYANCE,,,,84 RUE CHARLES MICHELS,SAINT DENIS CEDEX,93284,Seine-Saint-Denis,Ile-de-France,,institution_prevoyance,AESIO/AEMA,392813028,,,unknown,Sources: acpr_pdf_2015.
+,,,AG2R PREVOYANCE,,,,35 BOULEVARD BRUNE,PARIS,75014,Paris,Ile-de-France,,institution_prevoyance,AG2R La Mondiale,333232270,,,unknown,Sources: acpr_pdf_2015.
+,,,AGA INTERNATIONAL,,,,37 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,,519490080,,,unknown,Sources: acpr_pdf_2015.
+,,,AGEAS FRANCE,,,,VILLAGE 5 50 PLACE DE L ELLIPSE CS 30024,PARIS LA DEFENSE,92985,Hauts-de-Seine,Ile-de-France,,assurance_vie,,352191167,,,unknown,Sources: acpr_pdf_2015.
+,,,AGPM ASSURANCES,,,,RUE NICOLAS APPERT QUARTIER SAINTE MUSSE,TOULON CEDEX 9,83086,Var,Provence-Alpes-Cote d'Azur,,assurance_non_vie,,312786163,,,unknown,Sources: acpr_pdf_2015.
+,,,AGPM VIE,,,,RUE NICOLAS APPERT QUARTIER SAINTE MUSSE,TOULON CEDEX 9,83086,Var,Provence-Alpes-Cote d'Azur,,assurance_vie,,330220419,,,unknown,Sources: acpr_pdf_2015.
+,,,ALBINGIA,,,,109 à 111 RUE VICTOR HUGO,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,429369309,,,unknown,Sources: acpr_pdf_2015.
+,,,ALLIANZ AFRICA,,,,87 RUE DE RICHELIEU,PARIS CEDEX 02,75113,Paris,Ile-de-France,,reassurance,Allianz,382231801,,,unknown,Sources: acpr_pdf_2015.
+,,,ALLIANZ IARD,,,,87 RUE DE RICHELIEU,PARIS CEDEX 02,75113,Paris,Ile-de-France,,assurance_non_vie,Allianz,542110291,,,unknown,Sources: acpr_pdf_2015.
+,,,ALLIANZ VIE,,,,87 RUE DE RICHELIEU,PARIS CEDEX 02,75113,Paris,Ile-de-France,,assurance_mixte,Allianz,340234962,,,unknown,Sources: acpr_pdf_2015.
+,,,ALLIANZ WORLDWIDE CARE,,,,37 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_mixte,Allianz,401154679,,,unknown,Sources: acpr_pdf_2015.
+,,,ALTIMA ASSURANCES,,,,RUE EUCLIDE,NIORT,79000,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,431942838,,,unknown,Sources: acpr_pdf_2015.
+,,,AMALINE ASSURANCES,,,,8 à 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,393474457,,,unknown,Sources: acpr_pdf_2015.
+,,,AMELLIS MUTUELLES,,,,8 à 12 RUE DE LA POYAT,SAINT CLAUDE,39200,Jura,Bourgogne-Franche-Comte,,mutuelle,,775597768,,,unknown,Sources: acpr_pdf_2015.
+,,,AMF ASSURANCES,,,,66 rue DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,assurance_non_vie,,487597510,,,unknown,Sources: acpr_pdf_2015.
+,,,ANIPS,,,,IMMEUBLE ELYSEES LA DEFENSE 7 PLACE DU DOME,PARIS LA DEFENSE CEDEX,92056,Hauts-de-Seine,Ile-de-France,,institution_prevoyance,,429351703,,,unknown,Sources: acpr_pdf_2015.
+,,,ANTARIUS,,,,59 BOULEVARD HAUSSMANN,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,402630826,,,unknown,Sources: acpr_pdf_2015.
+,,,APGIS,,,,12 RUE MASSUE,VINCENNES CEDEX,94684,Val-de-Marne,Ile-de-France,,institution_prevoyance,,304217904,,,unknown,Sources: acpr_pdf_2015.
+,,,APICIL ASSURANCES,,,,38 RUE FRANÇOIS PEISSEL,CALUIRE ET CUIRE,69300,Rhone,Auvergne-Rhone-Alpes,,assurance_mixte,Apicil,440839942,,,unknown,Sources: acpr_pdf_2015.
+,,,APICIL PREVOYANCE,,,,38 RUE FRANÇOIS PEISSEL BP 47,CALUIRE ET CUIRE CEDEX,69642,Rhone,Auvergne-Rhone-Alpes,,institution_prevoyance,Apicil,321862500,,,unknown,Sources: acpr_pdf_2015.
+,,,ARCALIS,,,,TOUR NEPTUNE 20 PLACE DE SEINE,COURBEVOIE LA DEFENSE 1,92400,Hauts-de-Seine,Ile-de-France,,assurance_mixte,,347803884,,,unknown,Sources: acpr_pdf_2015.
+,,,AREAS DOMMAGES,,,,47 à 49 RUE DE MIROMESNIL,PARIS CEDEX O8,75380,Paris,Ile-de-France,,assurance_non_vie,,775670466,,,unknown,Sources: acpr_pdf_2015.
+,,,AREAS VIE,,,,49 RUE DE MIROMESNIL,PARIS CEDEX O8,75380,Paris,Ile-de-France,,assurance_vie,,353408644,,,unknown,Sources: acpr_pdf_2015.
+,,,AREVA INSURANCE & REINSURANCE,,,,TOUR AREVA 1 PLACE JEAN MILLIER,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,381484955,,,unknown,Sources: acpr_pdf_2015.
+,,,ARGOVIE,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,assurance_vie,,392796728,,,unknown,Sources: acpr_pdf_2015.
+,,,ARIAL ASSURANCE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_mixte,,410241657,,,unknown,Sources: acpr_pdf_2015.
+,,,ARPEGE-PREVOYANCE,,,,143 AVENUE ARISTIDE BRIAND BP 2439,MULHOUSE CEDEX,68067,Haut-Rhin,Grand Est,,institution_prevoyance,,315588376,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSISTANCE PROTECTION JURIDIQUE,,,,LE NEPTUNE 1 RUE GALILEE,NOISY-LE-GRAND CEDEX,93195,Seine-Saint-Denis,Ile-de-France,,assurance_non_vie,,334656386,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSOCIATION GENERALE DES MEDECINS DE FRANCE PREVOYANCE,,,,34 BOULEVARD DE COURCELLES,PARIS Cedex 17,75809,Paris,Ile-de-France,,mutuelle,,775666340,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSOCIATION GENERALE DES MUTUELLES,,,,35 BOULEVARD BRUNE,PARIS,75014,Paris,Ile-de-France,,mutuelle,,391292901,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCE CONSEIL DEFENSE ET RECOURS,,,,21 AVENUE LEON BLUM BP 40016,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_non_vie,,318084902,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCE MUTUELLE D OUTREMER,,,,CENTRE DELGRES MORNE DILLON ESCALIER C - 1er ETAGE BP 897,FORT DE FRANCE CEDEX - MARTINIQUE,97245,Martinique,Martinique,,assurance_non_vie,,399965524,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCE MUTUELLE D'ILLKIRCH GRAFFENSTADEN,,,,126 ROUTE DE LYON,ILLKIRCH- GRAFFENSTADEN,67400,Bas-Rhin,Grand Est,,assurance_non_vie,,302134077,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCE MUTUELLE DES FONCTIONNAIRES ET ASSIMILES DES COMPTABLES PUBLICS ET DES AGENTS COMPTABLES,,,,111 RUE DU CHATEAU DES RENTIERS,PARIS CEDEX 13,75214,Paris,Ile-de-France,,assurance_non_vie,,784394397,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCE MUTUELLE DES MOTARDS,,,,9 RUE CROIX VERTE PARC EUROMEDECINE,MONTPELLIER CEDEX 5,34294,Herault,Occitanie,,assurance_non_vie,,328538335,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCE MUTUELLE FEDERALE,,,,50 à 56 RUE DE LA PROCESION,PARIS,75015,Paris,Ile-de-France,,assurance_non_vie,,779838382,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCE MUTUELLE VAL DE SAONE BEAUJOLAIS,,,,PLACE DE LA MAIRIE CHALEINS,JASSANS-RIOTTIER,01480,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,779315472,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES BANQUE POPULAIRE IARD,,,,CHAURAY,NIORT CEDEX 9,79036,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,401380472,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES CREDIT MUTUEL NORD IARD,,,,4 PLACE RICHEBÉ BP 1009,LILLE CEDEX,59011,Nord,Hauts-de-France,,assurance_non_vie,,408824985,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES CREDIT MUTUEL NORD VIE,,,,9 BOULEVARD GOUVION SAINT CYR,PARIS,75017,Paris,Ile-de-France,,assurance_mixte,,412257420,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES DU CREDIT MUTUEL IARD S.A,,,,34 RUE DU WACKEN BP 373 R 10,STRASBOURG CEDEX,67010,Bas-Rhin,Grand Est,,assurance_non_vie,,352406748,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES DU CREDIT MUTUEL VIE,,,,34 RUE DU WACKEN BP 373/R10,STRASBOURG CEDEX,67010,Bas-Rhin,Grand Est,,assurance_vie,,303528442,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES MUTUELLES LE CONSERVATEUR,,,,59 RUE DE LA FAISANDERIE,PARIS,75116,Paris,Ile-de-France,,assurance_vie,,311852750,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES MUTUELLES DE FRANCE,,,,7 AVENUE MARCEL PROUST,CHARTRES CEDEX 09,28932,Eure-et-Loir,Centre-Val de Loire,,assurance_non_vie,,323562678,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES MUTUELLES DE PICARDIE,,,,4 RUE EDOUARD GAND,AMIENS CEDEX 1,80041,Somme,Hauts-de-France,,assurance_non_vie,,317142644,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURANCES MUTUELLES MEDITERRANEENNES,,,,44 AVENUE DES SOURCES,AVIGNON,84000,Vaucluse,Provence-Alpes-Cote d'Azur,,assurance_non_vie,,348962010,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURIMA,,,,118 AVENUE DE PARIS,NIORT,79000,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,481514149,,,unknown,Sources: acpr_pdf_2015.
+,,,AUDIENS PREVOYANCE,,,,74 RUE JEAN BLEUZEN,VANVES CEDEX,92177,Hauts-de-Seine,Ile-de-France,,institution_prevoyance,,384268413,,,unknown,Sources: acpr_pdf_2015.
+,,,AUXIA ASSISTANCE,,,,29 RUE CARDINET,PARIS CEDEX 17,75858,Paris,Ile-de-France,,assurance_non_vie,,351733761,,,unknown,Sources: acpr_pdf_2015.
+,,,AUXIA SA,,,,29 RUE CARDINET,PARIS CEDEX 17,75858,Paris,Ile-de-France,,assurance_mixte,,422088476,,,unknown,Sources: acpr_pdf_2015.
+,,,AVANSSUR,,,,LE VERDI 48 RUE CARNOT 33 RUE DE VERDUN,SURESNES,92150,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,378393946,,,unknown,Sources: acpr_pdf_2015.
+,,,AVENIR MUTUEL DES PROFESSIONS LIBERALES ET INDEPENDANTES,,,,27 BOULEVARD BERTHIER,PARIS,75017,Paris,Ile-de-France,,mutuelle,,349729350,,,unknown,Sources: acpr_pdf_2015.
+,,,AVENIR MUTUELLE,,,,14 RUE COQUILLIERE,PARIS,75001,Paris,Ile-de-France,,mutuelle,,302976592,,,unknown,Sources: acpr_pdf_2015.
+,,,AVENIR SANTE,,,,HERON BUILDING 4 PLACE RAOUL DAUTRY,PARIS Cedex 15,75716,Paris,Ile-de-France,,mutuelle,,433087806,,,unknown,Sources: acpr_pdf_2015.
+,,,AVENIR SANTE MUTUELLE,,,,12 AVENUE DU GENERAL MANGIN,VERSAILLES,78027,Yvelines,Ile-de-France,,mutuelle,,775671951,,,unknown,Sources: acpr_pdf_2015.
+,,,AVIP - ASSURANCE VIE ET PREVOYANCE,,,,TOUR NEPTUNE 20 PLACE DE SEINE,LA DEFENSE CEDEX,92086,Hauts-de-Seine,Ile-de-France,,assurance_vie,,331458315,,,unknown,Sources: acpr_pdf_2015.
+,,,AVIVA ASSURANCES,,,,13 RUE DU MOULIN BAILLY,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,306522665,,,unknown,Sources: acpr_pdf_2015.
+,,,AVIVA EPARGNE RETRAITE,,,,80 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,assurance_vie,,378741722,,,unknown,Sources: acpr_pdf_2015.
+,,,AVIVA VIE,,,,80 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,assurance_mixte,,732020805,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA ASSISTANCE FRANCE ASSURANCES,,,,LE CARAT 6 RUE ANDRE GIDE,CHATILLON,92320,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,451392724,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA ASSURANCES IARD MUTUELLE,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,AXA,775699309,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA ASSURCREDIT,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,380068593,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA CORPORATE SOLUTIONS ASSURANCE,,,,4 RUE JULES LEFEBVRE,PARIS CEDEX 09,75426,Paris,Ile-de-France,,assurance_non_vie,,399227354,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA FRANCE IARD,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,AXA,722057460,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA FRANCE VIE,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,assurance_mixte,AXA,310499959,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA GLOBAL LIFE,,,,40 RUE DU COLISEE,PARIS,75008,Paris,Ile-de-France,,reassurance,,410368757,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA GLOBAL P&C,,,,9 AVENUE DE MESSINE,PARIS,75008,Paris,Ile-de-France,,reassurance,,552091449,,,unknown,Sources: acpr_pdf_2015.
+,,,AXERIA IARD,,,,27 RUE MAURICE FLANDIN,LYON CEDEX 03,69444,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,352893200,,,unknown,Sources: acpr_pdf_2015.
+,,,AXERIA PREVOYANCE,,,,90 AVENUE FELIX FAURE,LYON CEDEX 03,69439,Rhone,Auvergne-Rhone-Alpes,,assurance_mixte,,350261129,,,unknown,Sources: acpr_pdf_2015.
+,,,B2V PREVOYANCE,,,,6 RUE EMILE REYNAUD,PARIS,75019,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,unknown,Sources: acpr_pdf_2015.
+,,,BANQUE POPULAIRE MUTUALITE,,,,32 BOULEVARD CARNOT,LIMOGES,87000,Haute-Vienne,Nouvelle-Aquitaine,,mutuelle,,429873706,,,unknown,Sources: acpr_pdf_2015.
+,,,BARCLAYS VIE,,,,183 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,assurance_vie,,384532172,,,unknown,Sources: acpr_pdf_2015.
+,,,BPCE ASSURANCES,,,,88 AVENUE DE FRANCE,PARIS,75013,Paris,Ile-de-France,,assurance_non_vie,,350663860,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE CENTRALE DE REASSURANCE,,,,157 BOULEVARD HAUSSMANN,PARIS,75008,Paris,Ile-de-France,,reassurance,,388202533,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE D ACTION SOCIALE DU PERSONNEL DES FINANCES DU HAUT RHIN,,,,6 RUE BRUAT,COLMAR,68000,Haut-Rhin,Grand Est,,mutuelle,,444369839,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE D ACTION SOCIALE DU PERSONNEL DES FINANCES PUBLIQUES,,,,25 AVENUE DES VOSGES,STRASBOURG,67000,Bas-Rhin,Grand Est,,mutuelle,,443411798,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE D'ASSURANCE MUTUELLE DU BATIMENT ET DES TRAVAUX PUBLICS,,,,ESPACE EUROPEEN DE L ENTREPRISE 14 AVENUE DE L EUROPE,SCHILTIGHEIM,67300,Bas-Rhin,Grand Est,,assurance_non_vie,,778847319,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE D'ASSURANCES MUTUELLES DU CREDIT AGRICOLE,,,,65 RUE LA BOÉTIE BP 336 08,PARIS CEDEX 08,75365,Paris,Ile-de-France,,assurance_non_vie,,784338527,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE GARANTIE IMMOBILIERE DU BATIMENT,,,,6 RUE LA PÉROUSE,PARIS CEDEX 16,75784,Paris,Ile-de-France,,assurance_non_vie,,432147049,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE PREVOYANCE DES AGENTS DE LA SECURITE SOCIALE ET ASSIMILES,,,,2 ter BOULEVARD SAINT MARTIN,PARIS,75010,Paris,Ile-de-France,,institution_prevoyance,,398595397,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE PREVOYANCE DU PORT DE BORDEAUX,,,,152 QUAI DE BACALAN BP 350,BORDEAUX Cedex,33042,Gironde,Nouvelle-Aquitaine,,mutuelle,,781847983,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE PREVOYANCE MULHOUSIENNE,,,,RUE SINNE BP 1189,MULHOUSE CEDEX 1,68053,Haut-Rhin,Grand Est,,mutuelle,,775642598,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE REASSURANCE MUTUELLE AGRICOLE DES PRODUCTEURS DE TABAC,,,,19 RUE BALLU,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,,784394512,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE SECOURS ETS STAUBLI,,,,PLACE ROBERT STAUBLI,FAVERGES,74210,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,432793024,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE SOLIDARITE DE L ATS,,,,13 CHEMIN DES POUDRIERES BP 911,TARBES CEDEX,65009,Hautes-Pyrenees,Occitanie,,mutuelle,,444270532,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE DE SOLIDARITE DES ETABLISSEMENTS D ARMEMENT DE BOURGES,,,,8 BOULEVARD LAHITOLLE,BOURGES,18000,Cher,Centre-Val de Loire,,mutuelle,,405052358,,,unknown,Sources: acpr_pdf_2015.
+,,,"CAISSE DU REGIME DE PREVOYANCE DE L IMPRIMERIE DU LIVRE, DES INDUSTRIES GRAPHIQUES ET DES METIERS DE LA COMMUNICATION",,,,108 RUE DE LOURMEL,PARIS CEDEX 15,75718,Paris,Ile-de-France,,institution_prevoyance,,533889960,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE FRATERNELLE D EPARGNE,,,,150 RUE D ATHÈNES,LILLE CEDEX 9,59882,Nord,Hauts-de-France,,assurance_vie,,335306445,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE FRATERNELLE VIE,,,,150 RUE D ATHÈNES,LILLE CEDEX 9,59882,Nord,Hauts-de-France,,assurance_vie,,457504702,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE GENERALE DE PREVOYANCE DES CAISSES D EPARGNE,,,,30 PLACE D ITALIE CS 71339,PARIS CEDEX 13,75627,Paris,Ile-de-France,,institution_prevoyance,,414696013,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE INTERCOMMUNALE D ASSURANCES DES DEPARTEMENTS DE L EST,,,,50 RUE DU PRUNIER,COLMAR CEDEX,68027,Haut-Rhin,Grand Est,,assurance_non_vie,,303626642,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE MEUSIENNE D ASSURANCES MUTUELLES,,,,20 à 22 RUE NÈVE BP 56,BAR LE DUC CEDEX,55001,Meuse,Grand Est,,assurance_non_vie,,311767305,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE MUTUELLE D ASSURANCES SUR LA VIE,,,,15 AVENUE DU CENTRE,SAINT QUENTIN EN YVELINES CEDEX,78281,Yvelines,Ile-de-France,,assurance_vie,,784647307,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE MUTUELLE DE PREVOYANCE DU PERSONNEL DES COLLECTIVITES TERRITORIALES DE LA HAUTE SAVOIE,,,,55 RUE DU VAL VERT BP 101,SEYNOD CEDEX,74604,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,776525610,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE MUTUELLE MARNAISE D ASSURANCE,,,,3 COURS D ORMESSON BP 216,CHALONS EN CHAMPAGNE CEDEX,51010,Marne,Grand Est,,assurance_non_vie,,311415327,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES ANTILLES GUYANE,,,,10 LOT BARDINET DILLON BP 559,FORT DE FRANCE (MARTINIQUE) CEDEX,97242,Martinique,Martinique,,assurance_non_vie,,313537359,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES CENTRE MANCHE,,,,10 RUE BLAISE PASCAL BP 20337,CHARTRES CEDEX,28006,Eure-et-Loir,Centre-Val de Loire,,assurance_non_vie,,383853801,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES CENTRE- ATLANTIQUE,,,,2 AVENUE DE LIMOGES BP 8527,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,381043686,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES D OC,,,,14 RUE VIDAILHAN,BALMA,31130,Haute-Garonne,Occitanie,,assurance_non_vie,,391851557,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES DE LOIRE- BRETAGNE,,,,23 BOULEVARD SOLFÉRINO CS 51209,RENNES CEDEX,35012,Ille-et-Vilaine,Bretagne,,assurance_non_vie,,383844693,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES DE RHONE- ALPES AUVERGNE,,,,50 RUE DE SAINT CYR,LYON CEDEX O9,69251,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,779838366,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES DU NORD- EST,,,,2 RUE LÉON-PATOUX BP 1028,REIMS CEDEX 2,51686,Marne,Grand Est,,assurance_non_vie,,383987625,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES MEDITERRANEE,,,,ZAC DE PICHAURY 24 PARC DU GOLF BP 10359,AIX EN PROVENCE CEDEX 03,13799,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,assurance_non_vie,,379834906,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE D ASS. MUTUELLES AGRICOLES PARIS VAL DE LOIRE,,,,161 AVENUE PAUL VAILLANT COUTURIER,GENTILLY,94250,Val-de-Marne,Ile-de-France,,assurance_non_vie,,382285260,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE DE PREVOYANCE DU BATIMENT ET DES TRAVAUX PUBLICS DES ANTILLES ET DE LA GUYANE FRANCAISES,,,,RUE AMÉDÉE ABARRE- ROUTE PROVIDENCE BP 603,ABYMES (GUADELOUPE) CEDEX,97176,Guadeloupe,Guadeloupe,,institution_prevoyance,,442754073,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REGIONALE DE REASSURANCES MUTUELLES AGRICOLES DU GRAND EST,,,,101 ROUTE DE HAUSBERGEN BP 30014 SCHILTIGHEIM,STRASBOURG CEDEX,67012,Bas-Rhin,Grand Est,,assurance_non_vie,,379906753,,,unknown,Sources: acpr_pdf_2015.
+,,,CAISSE REUNIONNAISE DE PREVOYANCE - C. R. P.,,,,2 BIS RUELLE PAVEE BP 1071,SAINT DENIS CEDEX,97482,La Reunion,La Reunion,,institution_prevoyance,,397895202,,,unknown,Sources: acpr_pdf_2015.
+,,,CALYPSO,,,,87 RUE DE RICHELIEU,PARIS,75002,Paris,Ile-de-France,,assurance_non_vie,,403205065,,,unknown,Sources: acpr_pdf_2015.
+,,,CAMEIC-CAISSE D'ASS. MUT. DES ENTREPRISES INDUSTRIELLES COMMERCIALES,,,,25 RUE DE MADRID,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,784338766,,,unknown,Sources: acpr_pdf_2015.
+,,,CAP SANTE,,,,94 BIS AVENUE DES MINIMES,TOULOUSE,31200,Haute-Garonne,Occitanie,,mutuelle,,399998392,,,unknown,Sources: acpr_pdf_2015.
+,,,CAPMA & CAPMI,,,,65 RUE DE MONCEAU,PARIS,75008,Paris,Ile-de-France,,assurance_vie,,775670482,,,unknown,Sources: acpr_pdf_2015.
+,,,CAPRA-PREVOYANCE,,,,74 RUE DE STALINGRAD,NANTERRE,92000,Hauts-de-Seine,Ile-de-France,,institution_prevoyance,,421106709,,,unknown,Sources: acpr_pdf_2015.
+,,,CAPREVAL,,,,15 AVENUE DU CENTRE GUYANCOURT,SAINT QUENTIN EN YVELINES,78281,Yvelines,Ile-de-France,,institution_prevoyance,,784669939,,,unknown,Sources: acpr_pdf_2015.
+,,,CARCEPT-PREVOYANCE,,,,4 à 22 RUE MARIE-GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,institution_prevoyance,,348855388,,,unknown,Sources: acpr_pdf_2015.
+,,,CARCO,,,,15 AVENUE DE L OPERA,PARIS,75001,Paris,Ile-de-France,,institution_prevoyance,,784394777,,,unknown,Sources: acpr_pdf_2015.
+,,,CARDIF - ASSURANCES RISQUES DIVERS,,,,1 BOULEVARD HAUSSMANN TSA 93000,PARIS CEDEX 09,75318,Paris,Ile-de-France,,assurance_non_vie,,308896547,,,unknown,Sources: acpr_pdf_2015.
+,,,CARDIF ASSURANCE VIE,,,,1 BOULEVARD HAUSSMANN TSA 93000,PARIS CEDEX 09,75318,Paris,Ile-de-France,,assurance_mixte,BNP Paribas Cardif,732028154,,,unknown,Sources: acpr_pdf_2015.
+,,,CARMA,,,,4 à 8 RUE DU MARQUIS-DE- RAIES,EVRY CEDEX,91008,Essonne,Ile-de-France,,assurance_non_vie,,330598616,,,unknown,Sources: acpr_pdf_2015.
+,,,CARMA VIE,,,,1 RUE JEAN MERMOZ,EVRY CEDEX,91002,Essonne,Ile-de-France,,assurance_vie,,428798136,,,unknown,Sources: acpr_pdf_2015.
+,,,CCMO MUTUELLE,,,,6 AVENUE DU BEAUVAISIS PAS DU HAUT-VILLE,BEAUVAIS,60000,Oise,Hauts-de-France,,mutuelle,,780508073,,,unknown,Sources: acpr_pdf_2015.
+,,,CCPMA PREVOYANCE,,,,21 RUE DE LA BIENFAISANCE,PARIS CEDEX 08,75382,Paris,Ile-de-France,,institution_prevoyance,,401679840,,,unknown,Sources: acpr_pdf_2015.
+,,,CENTRE MUTUALISTE INTERPROFESSIONNEL,,,,53 AVENUE DE SENLIS,CREPY EN VALOIS,60800,Oise,Hauts-de-France,,mutuelle,,339420226,,,unknown,Sources: acpr_pdf_2015.
+,,,CFDP ASSURANCES,,,,1 PLACE FRANCISQUE REGAUD,LYON,69002,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,958506156,,,unknown,Sources: acpr_pdf_2015.
+,,,CGPA,,,,46 RUE CARDINET,PARIS,75017,Paris,Ile-de-France,,assurance_non_vie,,784702367,,,unknown,Sources: acpr_pdf_2015.
+,,,CIOTAT NORD MEDITERRANEE,,,,10 RUE BOURONNE,LA CIOTAT,13600,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782723118,,,unknown,Sources: acpr_pdf_2015.
+,,,CIPREV,,,,9 AVENUE VICTOR HUGO,EPINAL,88000,Vosges,Grand Est,,institution_prevoyance,,783440951,,,unknown,Sources: acpr_pdf_2015.
+,,,CNM PREVOYANCE SANTE,,,,93A RUE OBERKAMPF,PARIS,75553,Paris,Ile-de-France,,mutuelle,,784492100,,,unknown,Sources: acpr_pdf_2015.
+,,,CNP ASSURANCES,,,,4 PLACE RAOUL DAUTRY,PARIS CEDEX 15,75716,Paris,Ile-de-France,,assurance_mixte,CNP Assurances,341737062,,,unknown,Sources: acpr_pdf_2015.
+,,,CNP CAUTION,,,,4 PLACE RAOUL DAUTRY,PARIS CEDEX 15,75716,Paris,Ile-de-France,,assurance_non_vie,,383024098,,,unknown,Sources: acpr_pdf_2015.
+,,,CNP IAM,,,,4 PLACE RAOUL DAUTRY,PARIS,75015,Paris,Ile-de-France,,assurance_non_vie,CNP Assurances,383024189,,,unknown,Sources: acpr_pdf_2015.
+,,,CNP INTERNATIONAL,,,,4 PLACE RAOUL DAUTRY,PARIS CEDEX 15,75716,Paris,Ile-de-France,,reassurance,,348768698,,,unknown,Sources: acpr_pdf_2015.
+,,,COMGEN SA,,,,3 SQUARE MAX HYMANS,PARIS CEDEX 15,75748,Paris,Ile-de-France,,assurance_non_vie,,792627960,,,unknown,Sources: acpr_pdf_2015.
+,,,COMMUNAUX VIENNE MUTUELLE,,,,5 RUE DES CARMES,POITIERS,86036,Vienne,Nouvelle-Aquitaine,,mutuelle,,781558572,,,unknown,Sources: acpr_pdf_2015.
+,,,COMPAGNIE EUROPEENNE D ASSURANCES,,,,41 RUE DES TROIS FONTANOT,NANTERRE CEDEX,92024,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,552104127,,,unknown,Sources: acpr_pdf_2015.
+,,,COMPAGNIE EUROPEENNE DE GARANTIES ET CAUTIONS,,,,128 RUE DE LA BOETIE,PARIS CEDEX 08,75378,Paris,Ile-de-France,,assurance_non_vie,,382506079,,,unknown,Sources: acpr_pdf_2015.
+,,,COMPAGNIE FRANCAISE D ASSURANCE POUR LE COMMERCE EXTERIEUR,,,,1 PLACE COSTES ET BELLONTE,BOIS-COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,552069791,,,unknown,Sources: acpr_pdf_2015.
+,,,COMPAGNIE NANTAISE D ASSURANCES MARITIMES ET TERRESTRES,,,,46 bis RUE DES HAUTS PAVÉS BP 80205,NANTES CEDEX,44002,Loire-Atlantique,Pays de la Loire,,assurance_non_vie,,854800521,,,unknown,Sources: acpr_pdf_2015.
+,,,COVEA CAUTION,,,,10 BOULEVARD MARIE ET ALEXANDRE OYON,LE MANS CEDEX 2,72013,Sarthe,Pays de la Loire,,assurance_non_vie,Covea,377581079,,,unknown,Sources: acpr_pdf_2015.
+,,,COVEA FLEET,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 1,72035,Sarthe,Pays de la Loire,,assurance_non_vie,Covea,342815339,,,unknown,Sources: acpr_pdf_2015.
+,,,COVEA RISKS,,,,19 à 21 ALLEE DE L EUROPE,CLICHY CEDEX,92616,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,Covea,378716419,,,unknown,Sources: acpr_pdf_2015.
+,,,CPCEA,,,,21 RUE DE LA BIENFAISANCE,PARIS CEDEX 08,75382,Paris,Ile-de-France,,institution_prevoyance,,784411134,,,unknown,Sources: acpr_pdf_2015.
+,,,CREDIT AGRICOLE INDOSUEZ RISK SOLUTIONS ASSURANCE,,,,9 QUAI DU PRÉSIDENT PAUL DOUMER,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,422549956,,,unknown,Sources: acpr_pdf_2015.
+,,,CREDIT LOGEMENT ASSURANCE,,,,50 BOULEVARD DE SÉBASTOPOL,PARIS CEDEX 03,75155,Paris,Ile-de-France,,assurance_non_vie,,384643342,,,unknown,Sources: acpr_pdf_2015.
+,,,CREPA,,,,80 RUE SAINT LAZARE,PARIS CEDEX 09,75455,Paris,Ile-de-France,,institution_prevoyance,,784411175,,,unknown,Sources: acpr_pdf_2015.
+,,,CRESP,,,,1 RUE DENIS POISSON,PARIS,75017,Paris,Ile-de-France,,institution_prevoyance,,785457268,,,unknown,Sources: acpr_pdf_2015.
+,,,DAS ASSURANCES MUTUELLES,,,,33 RUE DE SYDNEY,LE MANS,72100,Sarthe,Pays de la Loire,,assurance_non_vie,,775652142,,,unknown,Sources: acpr_pdf_2015.
+,,,DAS SA,,,,33 RUE DE SYDNEY,LE MANS CEDEX 2,72045,Sarthe,Pays de la Loire,,assurance_non_vie,,442935227,,,unknown,Sources: acpr_pdf_2015.
+,,,DASSAULT REASSURANCE,,,,78 QUAI MARCEL DASSAULT,SAINT CLOUD,92210,Hauts-de-Seine,Ile-de-France,,reassurance,,640801742,,,unknown,Sources: acpr_pdf_2015.
+,,,DIRECT MUTUELLE,,,,393 AVENUE DU PRADO,MARSEILLE,13008,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,420133902,,,unknown,Sources: acpr_pdf_2015.
+,,,DOMBES BRESSE ASSURANCES,,,,301 GRANDE RUE,NEUVILLE LES DAMES,01400,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,779352822,,,unknown,Sources: acpr_pdf_2015.
+,,,E-CIE VIE,,,,7 à 9 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,assurance_vie,,440315612,,,unknown,Sources: acpr_pdf_2015.
+,,,EOVI-MCD-MUTUELLE,,,,44 RUE COPERNIC,PARIS,75016,Paris,Ile-de-France,,mutuelle,,317442176,,,unknown,Sources: acpr_pdf_2015.
+,,,ESPACE MUTUALISTE GIVORDIN,,,,1 RUE ROBESPIERRE,GIVORS,69700,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,302655766,,,unknown,Sources: acpr_pdf_2015.
+,,,ETIKA,,,,7 RUE DE MAGDEBOURG,PARIS,75116,Paris,Ile-de-France,,assurance_mixte,,447883661,,,unknown,Sources: acpr_pdf_2015.
+,,,EUROMAF,,,,16 RUE HAMELIN,PARIS,75116,Paris,Ile-de-France,,assurance_non_vie,,429599509,,,unknown,Sources: acpr_pdf_2015.
+,,,EUROP ASSISTANCE,,,,1 PROMENADE DE LA BONNETTE,GENNEVILLIERS,92230,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,451366405,,,unknown,Sources: acpr_pdf_2015.
+,,,EUROP ASSISTANCE HOLDING,,,,7 BOULEVARD HAUSSMANN,PARIS CEDEX 09,75309,Paris,Ile-de-France,,assurance_non_vie,,632016382,,,unknown,Sources: acpr_pdf_2015.
+,,,FAMILY PROTECT,,,,21 RUE DE MATIGNON,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,528115926,,,unknown,Sources: acpr_pdf_2015.
+,,,FEDERATION MUTUALISTE INTERDEPARTEMENTALE DE LA REGION PARISIENNE,,,,19 CITE VOLTAIRE CS 71121,PARIS CEDEX 11,75134,Paris,Ile-de-France,,mutuelle,,775662869,,,unknown,Sources: acpr_pdf_2015.
+,,,FIDELIA ASSISTANCE,,,,27 QUAI CARNOT,SAINT CLOUD,92212,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,377768601,,,unknown,Sources: acpr_pdf_2015.
+,,,FIDES-SANTE-PREVOYANCE,,,,26 RUE DE L AIGLE NOIR BP 165,VESOUL CEDEX,70003,Haute-Saone,Bourgogne-Franche-Comte,,assurance_non_vie,,413874124,,,unknown,Sources: acpr_pdf_2015.
+,,,FILASSISTANCE INTERNATIONAL,,,,108 BUREAUX DE LA COLLINE,SAINT CLOUD CEDEX,92213,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,433012689,,,unknown,Sources: acpr_pdf_2015.
+,,,FILIA-MAIF,,,,200 AVENUE SALVADOR ALLENDE,NIORT CEDEX 09,79076,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,341672681,,,unknown,Sources: acpr_pdf_2015.
+,,,FINAREF RISQUES DIVERS,,,,40 ALLEE VAUBAN,LA MADELEINE,59110,Nord,Hauts-de-France,,assurance_non_vie,,329664247,,,unknown,Sources: acpr_pdf_2015.
+,,,FINAREF VIE,,,,40 ALLEE VAUBAN,LA MADELEINE,59110,Nord,Hauts-de-France,,assurance_vie,,325677771,,,unknown,Sources: acpr_pdf_2015.
+,,,FRAGONARD ASSURANCES,,,,2 RUE FRAGONARD,PARIS CEDEX 17,75807,Paris,Ile-de-France,,assurance_non_vie,,479065351,,,unknown,Sources: acpr_pdf_2015.
+,,,GALIAN ASSURANCES,,,,89 RUE LA BOÉTIE,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,423703032,,,unknown,Sources: acpr_pdf_2015.
+,,,GAN OUTRE MER IARD,,,,8 à 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,344877881,,,unknown,Sources: acpr_pdf_2015.
+,,,GARANTIE ASSISTANCE,,,,108 BUREAUX DE LA COLLINE,SAINT CLOUD,92210,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,312517493,,,unknown,Sources: acpr_pdf_2015.
+,,,GENERALI IARD,,,,7 BOULEVARD HAUSSMANN,PARIS CEDEX 09,75456,Paris,Ile-de-France,,assurance_non_vie,Generali,552062663,,,unknown,Sources: acpr_pdf_2015.
+,,,GENERALI FRANCE ASSURANCES,,,,7 à 9 BOULEVARD HAUSSMANN,PARIS CEDEX 09,75309,Paris,Ile-de-France,,reassurance,Generali,440315570,,,unknown,Sources: acpr_pdf_2015.
+,,,GENERALI VIE,,,,11 BOULEVARD HAUSSMANN,PARIS CEDEX 09,75311,Paris,Ile-de-France,,assurance_mixte,Generali,602062481,,,unknown,Sources: acpr_pdf_2015.
+,,,GENERATION VIE,,,,TOUR NEPTUNE 20 PLACE DE SEINE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_vie,,403267487,,,unknown,Sources: acpr_pdf_2015.
+,,,GFA CARAIBES,,,,46 à 48 RUE ERNEST DEPROGE,FORT DE FRANCE (MARTINIQUE) CEDEX,97206,Martinique,Martinique,,assurance_non_vie,,381324912,,,unknown,Sources: acpr_pdf_2015.
+,,,GMC SANTE,,,,8 RUE HENNER,PARIS,75009,Paris,Ile-de-France,,mutuelle,,784411142,,,unknown,Sources: acpr_pdf_2015.
+,,,GMF ASSURANCES,,,,76 RUE DE PRONY,PARIS CEDEX 17,75857,Paris,Ile-de-France,,assurance_non_vie,,398972901,,,unknown,Sources: acpr_pdf_2015.
+,,,GMF VIE,,,,76 RUE DE PRONY,PARIS CEDEX 17,75857,Paris,Ile-de-France,,assurance_vie,,315814806,,,unknown,Sources: acpr_pdf_2015.
+,,,GRAND EST MUTUELLE (dite Radiance Groupe Humanis Grand Est),,,,95-97 RUE VENDÔME,LYON CEDEX 06,69453,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,483747333,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPAMA ASSURANCE-CREDIT,,,,8 à 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,380810283,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPAMA GAN VIE,,,,8 à 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,Groupama,340427616,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPAMA OCEAN INDIEN,,,,7 RUE ANDRE LARDY BP 103,SAINTE MARIE (REUNION),97438,La Reunion,La Reunion,,assurance_non_vie,Groupama,314635319,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPAMA PROTECTION JURIDIQUE,,,,45 RUE DE LA BIENFAISANCE,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,321776775,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPAMA SA,,,,8 à 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,343115135,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPAMA SYLVICULTEURS DU SUD-OUEST,,,,32 ALLEES D ORLEANS,BORDEAUX,33000,Gironde,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,780078572,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPE DES ASSURANCES MUTUELLES DE L EST,,,,6 BOULEVARD DE L EUROPE BP 3169,MULHOUSE CEDEX,68063,Haut-Rhin,Grand Est,,assurance_non_vie,,419380936,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPE DES MUTUELLES INDEPENDANTES,,,,4 RUE HESS,VILLERUPT,54190,Meurthe-et-Moselle,Grand Est,,mutuelle,,783376270,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPE FRANCE MUTUELLE,,,,56 RUE DE MONCEAU,PARIS,75008,Paris,Ile-de-France,,mutuelle,,784492084,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPE OPERA MUTUALITE,,,,87 RUE LA BOETIE,PARIS,75008,Paris,Ile-de-France,,mutuelle,,442671632,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPE SMISO MUTUELLE DES CADRES,,,,8 BOULEVARD VAUBAN,LILLE,59000,Nord,Hauts-de-France,,mutuelle,,324310614,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPEMENT DES PROPRIETAIRES NAVIGANTS DU PORT D ETAPLES,,,,QUAI DE LA CANCHE,ETAPLES,62630,Pas-de-Calais,Hauts-de-France,,assurance_non_vie,,620007799,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPEMENT FRANCAIS DE CAUTION,,,,58 RUE DU GÉNÉRAL FERRIÉ,GRENOBLE,38100,Isere,Auvergne-Rhone-Alpes,,assurance_non_vie,,333384832,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPEMENTS DE PREVOYANCE SOCIALE,,,,MAISON DE L ARTISANAT 44 AVENUE ST LAZARE,MONTPELLIER,34000,Herault,Occitanie,,mutuelle,,444029060,,,unknown,Sources: acpr_pdf_2015.
+,,,HARMONIE FONCTION PUBLIQUE,,,,8 RUE DU HELDER,PARIS,75009,Paris,Ile-de-France,,mutuelle,,790314017,,,unknown,Sources: acpr_pdf_2015.
+,,,HARMONIE MUTUELLE,,,,143 RUE BLOMET,PARIS,75015,Paris,Ile-de-France,,mutuelle,VYV,538518473,,,unknown,Sources: acpr_pdf_2015.
+,,,HELVETIA ASSURANCES SA,,,,2 RUE SAINTE MARIE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,339489379,,,unknown,Sources: acpr_pdf_2015.
+,,,HELVETIA COMPAGNIE SUISSE D ASSURANCES,,,,2 RUE SAINTE-MARIE,COURBEVOIE CEDEX,92415,Hauts-de-Seine,Ile-de-France,,autre,,775753072,,,unknown,Sources: acpr_pdf_2015.
+,,,HSBC ASSURANCES VIE (France),,,,15 RUE VERNET,PARIS,75008,Paris,Ile-de-France,,assurance_vie,,338075062,,,unknown,Sources: acpr_pdf_2015.
+,,,HUMANIS PREVOYANCE,,,,7 RUE DE MAGDEBOURG,PARIS,75116,Paris,Ile-de-France,,institution_prevoyance,Malakoff Humanis,410005110,,,unknown,Sources: acpr_pdf_2015.
+,,,ICARE ASSURANCE,,,,160 bis RUE DE PARIS BP 248,BOULOGNE CEDEX,92108,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,327061339,,,unknown,Sources: acpr_pdf_2015.
+,,,IDENTITES MUTUELLE,,,,24 BOULEVARD DE COURCELLES,PARIS,75017,Paris,Ile-de-France,,mutuelle,,379655541,,,unknown,Sources: acpr_pdf_2015.
+,,,IENA PREVOYANCE,,,,39 AVENUE D IÉNA,PARIS,75016,Paris,Ile-de-France,,institution_prevoyance,,450274303,,,unknown,Sources: acpr_pdf_2015.
+,,,IMPERIO ASSURANCES ET CAPITALISATION,,,,18 à 20 RUE CLEMENT BAYARD,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_mixte,,351392543,,,unknown,Sources: acpr_pdf_2015.
+,,,INPR,,,,30 à 32 RUE HENRI BARBUSSE,CLICHY CEDEX,92581,Hauts-de-Seine,Ile-de-France,,institution_prevoyance,,352983118,,,unknown,Sources: acpr_pdf_2015.
+,,,INSTITUTION DE PREVOYANCE AUSTERLITZ,,,,30 AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,institution_prevoyance,,434958229,,,unknown,Sources: acpr_pdf_2015.
+,,,INSTITUTION DE PREVOYANCE BANQUE POPULAIRE,,,,64 RUE DE LA BOÉTIE,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,398698175,,,unknown,Sources: acpr_pdf_2015.
+,,,INSTITUTION DE PREVOYANCE DU BÂTIMENT ET DES TRAVAUX PUBLICS,,,,7 RUE DU REGARD,PARIS CEDEX 06,75294,Paris,Ile-de-France,,institution_prevoyance,,784621468,,,unknown,Sources: acpr_pdf_2015.
+,,,INSTITUTION DE PREVOYANCE VALMY,,,,54 PLACE DE L ELLIPSE ESPACE 21/3,PARIS CEDEX 18,75886,Paris,Ile-de-France,,institution_prevoyance,,403912835,,,unknown,Sources: acpr_pdf_2015.
+,,,INTER MUTUELLES ENTREPRISES,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,assurance_non_vie,,493147011,,,unknown,Sources: acpr_pdf_2015.
+,,,INTER-SOLIDARITE,,,,88 RUE MAISON DE LA MUTUALITE DE LA 32EME,MONTPELLIER CEDEX 2,34264,Herault,Occitanie,,mutuelle,,776060162,,,unknown,Sources: acpr_pdf_2015.
+,,,INTERIALE,,,,32 RUE BLANCHE,PARIS,75009,Paris,Ile-de-France,,mutuelle,,775685365,,,unknown,Sources: acpr_pdf_2015.
+,,,INTERIALE FILIA,,,,57 RUE DE PARIS,LILLE,59040,Nord,Hauts-de-France,,mutuelle,,444590160,,,unknown,Sources: acpr_pdf_2015.
+,,,INTERIALE PREVOYANCE,,,,57 RUE DE PARIS,LILLE,59000,Nord,Hauts-de-France,,mutuelle,,302901459,,,unknown,Sources: acpr_pdf_2015.
+,,,INVESTISSEMENT TRESOR VIE,,,,4 PLACE RAOUL DAUTRY,PARIS CEDEX 15,75716,Paris,Ile-de-France,,assurance_vie,,347932436,,,unknown,Sources: acpr_pdf_2015.
+,,,IP NESTLE,,,,7 BOULEVARD PIERRE CARLE BP 900 NOISIEL,MARNE LA VALLEE CEDEX 02,77446,Seine-et-Marne,Ile-de-France,,institution_prevoyance,,300574795,,,unknown,Sources: acpr_pdf_2015.
+,,,IPECA-PREVOYANCE,,,,5 RUE PAUL BARRUEL,PARIS CEDEX 15,75740,Paris,Ile-de-France,,institution_prevoyance,,384496493,,,unknown,Sources: acpr_pdf_2015.
+,,,IPRIAC,,,,4 à 22 RUE MARIE-GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,institution_prevoyance,,400013306,,,unknown,Sources: acpr_pdf_2015.
+,,,IPSA,,,,39 AVENUE D IÉNA,PARIS CEDEX 16,75783,Paris,Ile-de-France,,institution_prevoyance,,331980284,,,unknown,Sources: acpr_pdf_2015.
+,,,IPSEC,,,,16 à 18 PLACE DU GÉNÉRAL CATROUX,PARIS CEDEX 17,75848,Paris,Ile-de-France,,institution_prevoyance,,775666357,,,unknown,Sources: acpr_pdf_2015.
+,,,IRCEM MUTUELLE,,,,261 AVENUE DES NATIONS UNIES,ROUBAIX,59100,Nord,Hauts-de-France,,mutuelle,,438301186,,,unknown,Sources: acpr_pdf_2015.
+,,,IRCEM-PREVOYANCE,,,,261 AVENUE DES NATIONS UNIES BP 593,ROUBAIX CEDEX 1,59060,Nord,Hauts-de-France,,institution_prevoyance,,402175566,,,unknown,Sources: acpr_pdf_2015.
+,,,JURIDICA,,,,1 PLACE VICTORIEN SARDOU,MARLY LE ROI CEDEX,78166,Yvelines,Ile-de-France,,assurance_non_vie,,572079150,,,unknown,Sources: acpr_pdf_2015.
+,,,KLESIA MUTUELLE,,,,184 RUE BLAISE PASCAL BP 419,GUILHERAND- GRANGES,07504,Ardeche,Auvergne-Rhone-Alpes,,mutuelle,Klesia,344033360,,,unknown,Sources: acpr_pdf_2015.
+,,,KLESIA PREVOYANCE,,,,4 à 22 RUE MARIE-GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,institution_prevoyance,Klesia,397498783,,,unknown,Sources: acpr_pdf_2015.
+,,,KLESIA SA,,,,4 à 22 RUE MARIE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,assurance_mixte,Klesia,340483684,,,unknown,Sources: acpr_pdf_2015.
+,,,L ENTR AIDE MALADIE,,,,7 BOULEVARD LOUIS XIV,LILLE,59000,Nord,Hauts-de-France,,mutuelle,,783711963,,,unknown,Sources: acpr_pdf_2015.
+,,,L AUXILIAIRE,,,,50 COURS FRANKLIN ROOSEVELT BP 6402,LYON CEDEX O6,69413,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,775649056,,,unknown,Sources: acpr_pdf_2015.
+,,,L HUMANITE SOLIDAIRE,,,,5 RUE YVES GOUSSARD BP 1175,FORT DE FRANCE (MARTINIQUE),97249,Martinique,Martinique,,mutuelle,,313988271,,,unknown,Sources: acpr_pdf_2015.
+,,,L INTERPROFESSIONNELLE,,,,MAISON DE LA MUTUALITE 88 RUE DE LA 32EME,MONTPELLIER CEDEX 2,34264,Herault,Occitanie,,mutuelle,,776042327,,,unknown,Sources: acpr_pdf_2015.
+,,,L UNION DES FAMILLES,,,,207 CHEMIN DE SAUZE L AMOURIER,VILLEVEYRAC,34560,Herault,Occitanie,,mutuelle,,443821798,,,unknown,Sources: acpr_pdf_2015.
+,,,L&J RE,,,,4 à 6 RUE BERTRAND SINCHOLLE,CLICHY,92585,Hauts-de-Seine,Ile-de-France,,reassurance,,413178740,,,unknown,Sources: acpr_pdf_2015.
+,,,L'AUXILIAIRE VIE,,,,50 COURS FRANKLIN ROOSEVELT BP 6402,LYON CEDEX 06,69413,Rhone,Auvergne-Rhone-Alpes,,assurance_vie,,324774298,,,unknown,Sources: acpr_pdf_2015.
+,,,L'EQUITE,,,,7 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,,572084697,,,unknown,Sources: acpr_pdf_2015.
+,,,L'ETOILE,,,,16 AVENUE HOCHE 1er ETAGE,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,775687627,,,unknown,Sources: acpr_pdf_2015.
+,,,LA BANQUE POSTALE ASSURANCE SANTE,,,,115 RUE DE SEVRES,PARIS,75006,Paris,Ile-de-France,,assurance_non_vie,,440165041,,,unknown,Sources: acpr_pdf_2015.
+,,,LA BANQUE POSTALE ASSURANCES IARD,,,,34 RUE DE LA FEDERATION,PARIS,75015,Paris,Ile-de-France,,assurance_non_vie,,493253652,,,unknown,Sources: acpr_pdf_2015.
+,,,LA BANQUE POSTALE PREVOYANCE,,,,10 PLACE DE CATALOGNE,PARIS,75014,Paris,Ile-de-France,,assurance_mixte,,419901269,,,unknown,Sources: acpr_pdf_2015.
+,,,LA CHOLETAISE,,,,27 RUE DE MONDEMENT BP 65,CHOLET,49306,Maine-et-Loire,Pays de la Loire,,mutuelle,,315519231,,,unknown,Sources: acpr_pdf_2015.
+,,,LA COMTOISE,,,,24 RUE DE L AIGLE NOIR BP 165,VESOUL CEDEX,70003,Haute-Saone,Bourgogne-Franche-Comte,,assurance_non_vie,,778540609,,,unknown,Sources: acpr_pdf_2015.
+,,,LA FRANCE MUTUALISTE,,,,44 AVENUE DE VILLIERS,PARIS Cedex 17,75854,Paris,Ile-de-France,,mutuelle,,775691132,,,unknown,Sources: acpr_pdf_2015.
+,,,LA FRATERNELLE DE SAINT VINCENT DE PAUL,,,,MAIRIE,AMOU,40330,Landes,Nouvelle-Aquitaine,,mutuelle,,782053235,,,unknown,Sources: acpr_pdf_2015.
+,,,LA FRATERNELLE DU PERSONNEL DE LA SACEM,,,,225 AVENUE CHARLES DE GAULLE,NEUILLY SUR SEINE,92200,Hauts-de-Seine,Ile-de-France,,mutuelle,,302999115,,,unknown,Sources: acpr_pdf_2015.
+,,,LA GARANTIE MUTUELLE DES FONCTIONNAIRES,,,,76 RUE DE PRONY,PARIS CEDEX 17,75857,Paris,Ile-de-France,,assurance_non_vie,,775691140,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MEDICALE DE FRANCE,,,,50 à 56 RUE DE LA PROCESSION,PARIS,75015,Paris,Ile-de-France,,assurance_non_vie,,582068698,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MONDIALE DIRECT,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,381239912,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MONDIALE PARTENAIRE,,,,104 à 110 BOULEVARD HAUSSMANN,PARIS CEDEX 08,75379,Paris,Ile-de-France,,assurance_vie,AG2R La Mondiale,313689713,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE CATALANE,,,,20 AVENUE DE GRANDE BRETAGNE,PERPIGNAN,66029,Pyrenees-Orientales,Occitanie,,mutuelle,,302476536,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE DE BAGNEAUX,,,,19 RUE DE LA BALLASTIERE,BAGNEAUX SUR LOING,77167,Seine-et-Marne,Ile-de-France,,mutuelle,,444205769,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE DES EMPLOYES MUNICIPAUX DE LA VILLE DE MONTPELLIER,,,,HOTEL DE VILLE 1 PLACE FRANCIS PONGE,MONTPELLIER,34064,Herault,Occitanie,,mutuelle,,443912340,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE DES ETUDIANTS,,,,37 RUE MARCEAU,IVRY SUR SEINE,94200,Val-de-Marne,Ile-de-France,,mutuelle,,431791672,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE DU MIDI,,,,16 LA CANEBIERE B.P. 31866,MARSEILLE CEDEX 01,13221,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782814685,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE GENERALE,,,,6 RUE VANDREZANNE,PARIS Cedex 13,75634,Paris,Ile-de-France,,mutuelle,,775685340,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE PHOCEENNE ASSURANCE,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,assurance_vie,,302996160,,,unknown,Sources: acpr_pdf_2015.
+,,,LA MUTUELLE VERTE,,,,78 COURS LAFAYETTE BP 521,TOULON,83041,Var,Provence-Alpes-Cote d'Azur,,mutuelle,,309104099,,,unknown,Sources: acpr_pdf_2015.
+,,,LA PARISIENNE,,,,30 RUE DES EPINETTES,PARIS,75017,Paris,Ile-de-France,,assurance_non_vie,,562117085,,,unknown,Sources: acpr_pdf_2015.
+,,,LA PREVOYANCE,,,,83 AVENUE DE LA FORET NOIRE BP 77,STRASBOURG,67016,Bas-Rhin,Grand Est,,mutuelle,,778868513,,,unknown,Sources: acpr_pdf_2015.
+,,,LA PROBITE,,,,77 RUE BRESSIGNY,ANGERS,49000,Maine-et-Loire,Pays de la Loire,,mutuelle,,351948237,,,unknown,Sources: acpr_pdf_2015.
+,,,LA RURALE,,,,TOUR NEPTUNE 20 PLACE DE SEINE case courrier 81235,PARIS LA DEFENSE CEDEX,92086,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,572166437,,,unknown,Sources: acpr_pdf_2015.
+,,,LA SAUVEGARDE,,,,76 RUE DE PRONY,PARIS CEDEX 17,75857,Paris,Ile-de-France,,assurance_non_vie,,612007674,,,unknown,Sources: acpr_pdf_2015.
+,,,LA SECURITE FAMILIALE,,,,12 RUE LA FAYETTE,PARIS,75009,Paris,Ile-de-France,,assurance_vie,,784338501,,,unknown,Sources: acpr_pdf_2015.
+,,,LA VENDARGUOISE,,,,4 ANCIEN CHEMIN DE MEYRARGUES,VENDARGUES,34740,Herault,Occitanie,,mutuelle,,443821624,,,unknown,Sources: acpr_pdf_2015.
+,,,LANDES MUTUALITE MUTUELLE CHIRURGICALE DES LANDES,,,,5 ALLEE CAPERE BP 129,MONT DE MARSAN,40016,Landes,Nouvelle-Aquitaine,,mutuelle,,782099196,,,unknown,Sources: acpr_pdf_2015.
+,,,LE FINISTERE,,,,3 RUE DE KERVILOU,QUIMPER CEDEX 9,29556,Finistere,Bretagne,,assurance_non_vie,,777616863,,,unknown,Sources: acpr_pdf_2015.
+,,,LE RALLIEMENT MUTUELLE DES COMPAGNONS DU DEVOIR,,,,48 QUAI MALAKOFF,NANTES,44000,Loire-Atlantique,Pays de la Loire,,mutuelle,,302856240,,,unknown,Sources: acpr_pdf_2015.
+,,,LE REFUGE MUTUALISTE AVEYRONNAIS,,,,5 RUE CLAUSEL DE COUSSERGUES,MILLAU,12103,Aveyron,Occitanie,,mutuelle,,776720724,,,unknown,Sources: acpr_pdf_2015.
+,,,LE RENOM,,,,13 PLACE FERDINAND,VONNAS,01540,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,302725429,,,unknown,Sources: acpr_pdf_2015.
+,,,LE SECOURS MUTUELS,,,,MAISON DE LA MUTUALITE 190 AVENUE DE MONTPELLIER,LATTES,34970,Herault,Occitanie,,mutuelle,,443821400,,,unknown,Sources: acpr_pdf_2015.
+,,,LE SOU MEDICAL,,,,10 COURS DU TRIANGLE DE L ARCHE TSA 80500,LA DEFENSE CEDEX,92919,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,784394314,,,unknown,Sources: acpr_pdf_2015.
+,,,LEGAL & GENERAL (FRANCE),,,,58 RUE DE LA VICTOIRE,PARIS CEDEX O9,75440,Paris,Ile-de-France,,assurance_vie,,338746464,,,unknown,Sources: acpr_pdf_2015.
+,,,LEGAL & GENERAL RISQUES DIVERS (FRANCE),,,,58 RUE DE LA VICTOIRE,PARIS CEDEX 09,75440,Paris,Ile-de-France,,assurance_non_vie,,342954690,,,unknown,Sources: acpr_pdf_2015.
+,,,LES ASSOCIATIONS MUTUELLES LE CONSERVATEUR,,,,59 RUE DE LA FAISANDERIE,PARIS,75116,Paris,Ile-de-France,,assurance_vie,,775687619,,,unknown,Sources: acpr_pdf_2015.
+,,,LES MUTUELLES DE FRANCE,,,,59 BOULEVARD BLANQUI BP 3013,TROYES Cedex,10012,Aube,Grand Est,,mutuelle,,780349924,,,unknown,Sources: acpr_pdf_2015.
+,,,LES MUTUELLES DU SOLEIL,,,,36-36 BIS AVENUE DU MARECHAL FOCH,NICE,06000,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,,mutuelle,,782395511,,,unknown,Sources: acpr_pdf_2015.
+,,,LES MUTUELLES LIGERIENNES,,,,12 RUE BEAUSOLEIL,VIEILLEVIGNE,44116,Loire-Atlantique,Pays de la Loire,,mutuelle,,313309080,,,unknown,Sources: acpr_pdf_2015.
+,,,LES TRAVAILLEURS PERETOIS,,,,11 RUE MAURICE RAVEL,PERET,34800,Herault,Occitanie,,mutuelle,,443821053,,,unknown,Sources: acpr_pdf_2015.
+,,,LES VRAIS AMIS DU GROUPEMENT MERIDIONAL,,,,13 RUE TROIS PONTS,FABREGUES,34690,Herault,Occitanie,,mutuelle,,443826359,,,unknown,Sources: acpr_pdf_2015.
+,,,LIBEA,,,,10 COURS DU TRIANGLE DE L ARCHE,LA DEFENSE CEDEX,92919,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,440214310,,,unknown,Sources: acpr_pdf_2015.
+,,,LYBERNET ASSURANCES,,,,3 ESPLANADE DE LA GARE,ANGERS CEDEX 9,49912,Maine-et-Loire,Pays de la Loire,,assurance_non_vie,,420101727,,,unknown,Sources: acpr_pdf_2015.
+,,,M COMME MUTUELLE,,,,8 BOULEVARD VAUBAN,LILLE,59024,Nord,Hauts-de-France,,mutuelle,,783711997,,,unknown,Sources: acpr_pdf_2015.
+,,,M SANTE MUTUELLE FAMILIALE,,,,64 AVENUE DE LA LIBERTE,Saint PAUL Lès DAX,40990,Landes,Nouvelle-Aquitaine,,mutuelle,,349749325,,,unknown,Sources: acpr_pdf_2015.
+,,,MA NOUVELLE MUTUELLE,,,,60 RUE JEAN DAUSSET - CS 80041 -,AVIGNON CEDEX 9,84918,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,782620959,,,unknown,Sources: acpr_pdf_2015.
+,,,MAAF ASSURANCES,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Covea,781423280,,,unknown,Sources: acpr_pdf_2015.
+,,,MAAF SANTE,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,Covea,331542142,,,unknown,Sources: acpr_pdf_2015.
+,,,MAAF VIE,,,,CHAURAY,NIORT CEDEX 9,79036,Deux-Sevres,Nouvelle-Aquitaine,,assurance_vie,Covea,337804819,,,unknown,Sources: acpr_pdf_2015.
+,,,MACIF MUTUALITE,,,,22-28 RUE JOUBERT CARRE HAUSSMANN,PARIS,75435,Paris,Ile-de-France,,mutuelle,AESIO/AEMA,779558501,,,unknown,Sources: acpr_pdf_2015.
+,,,MACIFILIA,,,,2 ET 4 RUE DU PIED DE FOND,NIORT,79000,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,399795822,,,unknown,Sources: acpr_pdf_2015.
+,,,MACSF EPARGNE RETRAITE,,,,10 COURS DU TRIANGLE DE L ARCHE,LA DEFENSE CEDEX,92919,Hauts-de-Seine,Ile-de-France,,assurance_vie,MACSF,403071095,,,unknown,Sources: acpr_pdf_2015.
+,,,MACSF PREVOYANCE,,,,10 COURS DU TRIANGLE DE L ARCHE,LA DEFENSE CEDEX,92919,Hauts-de-Seine,Ile-de-France,,assurance_vie,MACSF,784702375,,,unknown,Sources: acpr_pdf_2015.
+,,,MAE,,,,62 RUE LOUIS BOUILHET,ROUEN,76044,Seine-Maritime,Normandie,,mutuelle,,510778442,,,unknown,Sources: acpr_pdf_2015.
+,,,MAE VIE,,,,62 RUE LOUIS-BOUILHET,ROUEN CEDEX,76044,Seine-Maritime,Normandie,,assurance_mixte,,348699679,,,unknown,Sources: acpr_pdf_2015.
+,,,MALAKOFF MEDERIC MUTUELLE,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,mutuelle,Malakoff Humanis,784718256,,,unknown,Sources: acpr_pdf_2015.
+,,,MALAKOFF MEDERIC PREVOYANCE,,,,21 RUE LAFFITTE,PARIS CEDEX 09,75317,Paris,Ile-de-France,,institution_prevoyance,Malakoff Humanis,775691181,,,unknown,Sources: acpr_pdf_2015.
+,,,MAPA - MUTUELLE D ASSURANCE,,,,RUE ANATOLE CONTRÉ,SAINT JEAN D ANGELY CEDEX,17411,Charente-Maritime,Nouvelle-Aquitaine,,assurance_non_vie,,775565088,,,unknown,Sources: acpr_pdf_2015.
+,,,MARTIN MAUREL VIE,,,,TOUR NEPTUNE 20 PLACE DE SEINE,LA DEFENSE CEDEX,92086,Hauts-de-Seine,Ile-de-France,,assurance_vie,,423851336,,,unknown,Sources: acpr_pdf_2015.
+,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,,,unknown,Sources: acpr_pdf_2015.
+,,,MATMUT PROTECTION JURIDIQUE,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,assurance_non_vie,Matmut,423499391,,,unknown,Sources: acpr_pdf_2015.
+,,,MATMUT SANTE PREVOYANCE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,799220447,,,unknown,Sources: acpr_pdf_2015.
+,,,MATMUT VIE,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 01,76030,Seine-Maritime,Normandie,,assurance_vie,Matmut,344898358,,,unknown,Sources: acpr_pdf_2015.
+,,,MBA RADIANCE Groupe Humanis,,,,5 BOULEVARD DE LATTRE DE TASSIGNY,RENNES,35029,Ille-et-Vilaine,Bretagne,,mutuelle,,777749409,,,unknown,Sources: acpr_pdf_2015.
+,,,MCLR,,,,37 BOULEVARD VIVIER MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,308708650,,,unknown,Sources: acpr_pdf_2015.
+,,,MFPREVOYANCE,,,,62 RUE JEANNE D ARC,PARIS CEDEX 13,75640,Paris,Ile-de-France,,assurance_mixte,,507648053,,,unknown,Sources: acpr_pdf_2015.
+,,,MG UNION,,,,6 RUE VANDREZANNE,PARIS Cedex 13,75634,Paris,Ile-de-France,,mutuelle,,442489084,,,unknown,Sources: acpr_pdf_2015.
+,,,MGARD,,,,36 RUE LA FAYETTE,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,,752934083,,,unknown,Sources: acpr_pdf_2015.
+,,,MGEN FILIA,,,,3 SQUARE MAX HYMANS,PARIS CEDEX 15,75748,Paris,Ile-de-France,,mutuelle,VYV,440363588,,,unknown,Sources: acpr_pdf_2015.
+,,,MGEN VIE,,,,3 SQUARE MAX HYMANS,PARIS CEDEX 15,75748,Paris,Ile-de-France,,mutuelle,VYV,441922002,,,unknown,Sources: acpr_pdf_2015.
+,,,MGP ACCUEIL DES MEMBRES IDENTIFIES EXTERIEURS SANTE,,,,8 RUE THOMAS EDISON,CRETEIL CEDEX,94027,Val-de-Marne,Ile-de-France,,mutuelle,,443267752,,,unknown,Sources: acpr_pdf_2015.
+,,,MICILS,,,,38 RUE FRANCOIS PEISSEL,CALUIRE ET CUIRE,69300,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,302927553,,,unknown,Sources: acpr_pdf_2015.
+,,,MILTIS,,,,25 COURS ALBERT THOMAS,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,417934817,,,unknown,Sources: acpr_pdf_2015.
+,,,MMA IARD,,,,14 BOULEVARD MARIE ET ALEXANDRE OYON,LE MANS CEDEX 9,72030,Sarthe,Pays de la Loire,,assurance_non_vie,,440048882,,,unknown,Sources: acpr_pdf_2015.
+,,,MMA IARD ASSURANCES MUTUELLES,,,,14 BOULEVARD MARIE ET ALEXANDRE OYON,LE MANS CEDEX 9,72030,Sarthe,Pays de la Loire,,assurance_non_vie,,775652126,,,unknown,Sources: acpr_pdf_2015.
+,,,MMA VIE,,,,14 BOULEVARD MARIE E T ALEXANDRE OYON,LE MANS CEDEX 9,72030,Sarthe,Pays de la Loire,,assurance_vie,,440042174,,,unknown,Sources: acpr_pdf_2015.
+,,,"MONCEAU ASSURANCES, MUTUELLES ASSOCIEES",,,,65 RUE DE MONCEAU,PARIS,75008,Paris,Ile-de-France,,reassurance,,441180957,,,unknown,Sources: acpr_pdf_2015.
+,,,MONCEAU GENERALE ASSURANCES,,,,1 AVENUE CITÉS UNIES D EUROPE BP 10217,VENDOME,41103,Loir-et-Cher,Centre-Val de Loire,,assurance_non_vie,,414086355,,,unknown,Sources: acpr_pdf_2015.
+,,,MONCEAU RETRAITE & EPARGNE,,,,65 RUE DE MONCEAU,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,443137500,,,unknown,Sources: acpr_pdf_2015.
+,,,MTRL UNE MUTUELLE POUR TOUS,,,,37 AVENUE JEAN JAURES,LYON,69007,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,777345067,,,unknown,Sources: acpr_pdf_2015.
+,,,MUDETAF(MUTUELLE CONFEDERALE D ASSURANCES DES DEBITANTS DE TABAC DE FRANCE),,,,75 RUE D AMSTERDAM,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,350403804,,,unknown,Sources: acpr_pdf_2015.
+,,,MUT EST,,,,11 BOULEVARD WILSON,STRASBOURG,67082,Bas-Rhin,Grand Est,,mutuelle,,775641681,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTACITE,,,,7 RUE BERGERE,PARIS,75009,Paris,Ile-de-France,,mutuelle,,444042303,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTAG SOCIETE MUTUALISTE D ENTREPRISE DU PERSONNEL TERGAL FIBRES GAUCHY ET DES ENVIRONS,,,,BP 1,GAUCHY,02430,Aisne,Hauts-de-France,,mutuelle,,382556900,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTAME TERRITOIRE DE BELFORT,,,,1 RUE STROLZ BP 389,BELFORT,90007,Territoire de Belfort,Bourgogne-Franche-Comte,,mutuelle,,344710991,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTAMI,,,,70 BOULEVARD MATABIAU BP 7051,TOULOUSE CEDEX 7,31069,Haute-Garonne,Occitanie,,mutuelle,,776950677,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTARIS CAUTION,,,,6 RUE VANDREZANNE,PARIS,75634,Paris,Ile-de-France,,mutuelle,,490909454,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTAVIE,,,,9 RUE DES IRIS,BESSINES,79000,Deux-Sevres,Nouvelle-Aquitaine,,assurance_mixte,,315652263,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTEX,,,,125 AVENUE DE PARIS,CHATILLON,92327,Hauts-de-Seine,Ile-de-France,,assurance_mixte,,529219040,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTEX COLLECTIVES,,,,255 RUE DE VAUGIRARD,PARIS CEDEX 15,75719,Paris,Ile-de-France,,mutuelle,,305275083,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTEX UNION,,,,125 AVENUE DE PARIS,CHATILLON CEDEX,92327,Hauts-de-Seine,Ile-de-France,,mutuelle,,442574166,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTLOG GARANTIES,,,,75 QUAI DE LA SEINE,PARIS,75019,Paris,Ile-de-France,,mutuelle,,384253605,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTLOR LES MUTUELLES DE LORRAINE,,,,11 RUE DU COLONEL MERLIN CS 21415,LONGWY,54414,Meurthe-et-Moselle,Grand Est,,mutuelle,,342211265,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTRALYON Mutuelle,,,,"32, BIS AVENUE FELIX FAURE",LYON,69007,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,779846856,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTRE,,,,255 RUE DE VAUGIRARD,PARIS,75015,Paris,Ile-de-France,,reassurance,,421024290,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUAIDE ASSISTANCE,,,,8 à 14 AVENUE DES FRÈRES- LUMIÈRE,BRY SUR MARNE CEDEX,94366,Val-de-Marne,Ile-de-France,,assurance_non_vie,,383974086,,,unknown,Sources: acpr_pdf_2015.
+,,,"MUTUALE, LA MUTUELLE FAMILIALE",,,,26 AVENUE DE VERDUN BP 1317,BLOIS,41013,Loir-et-Cher,Centre-Val de Loire,,mutuelle,,775369887,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA ALSACE GRAND EST,,,,9 RUE DE GUEBWILLER,COLMAR,68023,Haut-Rhin,Grand Est,,mutuelle,,401234240,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA AVENIR PREVOYANCE,,,,LES MERCURIALES 40 RUE JEAN JAURES,BAGNOLET,93547,Seine-Saint-Denis,Ile-de-France,,mutuelle,,443140934,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA GRAND OUEST,,,,6 RUE ANITA CONTI - PARC TERTAIRE DE LAROISEAU,VANNES,56000,Morbihan,Bretagne,,mutuelle,,401285309,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA NORD DE FRANCE,,,,1 RUE ANDRE GATOUX,ARRAS Cedex,62024,Pas-de-Calais,Hauts-de-France,,mutuelle,,390967511,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA SANTE ATLANTIQUE,,,,FIEF MONTLOUIS,SAINTES CEDEX,17100,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,403596265,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA SANTE MEDITERRANEE CEVENNES VELAY,,,,ROUTE DE CHOMERAC - QUARTIER DE LA PLAINE DU LAC,PRIVAS,07000,Ardeche,Auvergne-Rhone-Alpes,,mutuelle,,444518492,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA SANTE SUD EST,,,,30 RUE MALLIFAUD,GRENOBLE,38100,Isere,Auvergne-Rhone-Alpes,,mutuelle,,449571256,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIA SUD OUEST,,,,46 BOULEVARD DU DR DUROSELLE,ANGOULEME,16916,Charente,Nouvelle-Aquitaine,,mutuelle,,408975415,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALIS,,,,47 AVENUE MARIE- REYNOARD,GRENOBLE,38100,Isere,Auvergne-Rhone-Alpes,,mutuelle,,419011531,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALITE DES AGENTS TERRITORIAUX ET MEMBRES EXTERIEURS,,,,63 BOULEVARD DE STRASBOURG BP 61,PARIS,75010,Paris,Ile-de-France,,mutuelle,,784854499,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALITE FAMILIALE DU CORPS MEDICAL FRANCAIS DIT MUTUELLE DU MEDECIN,,,,31 AVENUE DE L OPERA,PARIS,75001,Paris,Ile-de-France,,mutuelle,,784180044,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALITE FRANCAISE DE LA REUNION,,,,14 BOULEVARD DORET BP 340,SAINT DENIS (REUNION),97467,La Reunion,La Reunion,,mutuelle,,321073470,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUALP,,,,LE GEMELLYON NORD 57 BOULEVARD VIVIER MERLE,LYON CEDEX 03,69429,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,950396911,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE SUD MARIGNANE VITROLLES,,,,PLACE DU 11 NOVEMBRE,MARIGNANE,13700,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782741649,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TERRITORIAUX ET HOSPITALIERS,,,,30 RUE SERVIENT,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,350873287,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE 403,,,,16 RUE RENE GOSCINNY,ANGOULEME,16013,Charente,Nouvelle-Aquitaine,,mutuelle,,781166210,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ACCIDENTS DE LA CONFEDERATION GENERALE DES OEUVRES LAIQUES,,,,3 RUE RECAMIER,PARIS,75007,Paris,Ile-de-France,,mutuelle,,331903757,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ACTIVE DES ORGANISMES SOCIAUX ET DIVERS,,,,3 AVENUE JULES CANTINI,MARSEILLE,13006,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782885826,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE AERO SPATIALE,,,,34 BOULEVARD RIQUET BP 84,TOULOUSE,31015,Haute-Garonne,Occitanie,,mutuelle,,776950610,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE AERONAUTIQUE BOUGUENAIS,,,,RUE DE L AVIATION BP 4307,BOUGUENAIS,44343,Loire-Atlantique,Pays de la Loire,,mutuelle,,342826575,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE AEROSPATIALE SOGERMA,,,,ZONE INDUSTRIELLE DE L ARSENAL,ROCHEFORT,17300,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,431733732,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE AIDE ET SOLIDARITE,,,,12 PLACE PAUL VAILLANT COUTURIER,ISSY LES MOULINEAUX,92130,Hauts-de-Seine,Ile-de-France,,mutuelle,,432674281,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ALSACE LORRAINE JURA,,,,6 BOULEVARD DE L EUROPE BP 3169,MULHOUSE CEDEX,68063,Haut-Rhin,Grand Est,,assurance_non_vie,,778945287,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ALSACIENNE POUR LA SANTE,,,,143 AVENUE ARISTIDE BRIAND BP 2439,MULHOUSE,68067,Haut-Rhin,Grand Est,,mutuelle,,394152474,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE APREVA,,,,20 BOULEVARD DENIS PAPIN,LILLE,59000,Nord,Hauts-de-France,,mutuelle,AESIO/AEMA,775627391,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ASCO JOUCOMATIC,,,,32 AVENUE ALBERT 1ER,RUEIL MALMAISON,92506,Hauts-de-Seine,Ile-de-France,,mutuelle,,432668820,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ASSURANCE DE L EDUCATION,,,,62 RUE LOUIS BOUILHET,ROUEN CEDEX,76044,Seine-Maritime,Normandie,,assurance_non_vie,,781109145,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ASSURANCE DES COMMERCANTS ET INDUSTRIELS DE FRANCE ET DES CADRES ET SALARIES DE L'INDUSTRIE ET DU COMMERCE,,,,2 à 4 RUE DE PIED DE FOND,NIORT CEDEX 9,79037,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,781452511,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ASSURANCE DES INSTITUTEURS DE FRANCE,,,,200 AVENUE SALVADOR ALLENDE,NIORT CEDEX 09,79038,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,775709702,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ASSURANCE DES TRAVAILLEURS MUTUALISTES,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,assurance_non_vie,,775701477,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ASSURANCE DU MIDI,,,,17 BOULEVARD DE LA GARE,TOULOUSE,31500,Haute-Garonne,Occitanie,,assurance_non_vie,,353454382,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ATLANTIQUE DE PREVOYANCE,,,,"1 RUE PIERRE CHAREAU ""Les Diversités""",BORDEAUX,33000,Gironde,Nouvelle-Aquitaine,,mutuelle,,388818908,,,unknown,Sources: acpr_pdf_2015.
+,,,"MUTUELLE AUDIENS DE LA PRESSE, DU SPECTACLE ET DE LA COMMUNICATION",,,,74 RUE JEAN BLEUZEN,VANVES,92170,Hauts-de-Seine,Ile-de-France,,mutuelle,,775659923,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE AUTONOME GENERALE EDUCATION,,,,43 RUE JABOULAY,LYON,69349,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,343030037,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE AXA DU PERSONNEL EXTERIEUR SALARIE,,,,CHEZ M. ALAIN PESCHE LA HAUTE ROUSSIERE,ATHEE,53400,Mayenne,Pays de la Loire,,mutuelle,,333574390,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE BATIMENTRAIDE,,,,114 AVENUE EMILE ZOLA,PARIS,75739,Paris,Ile-de-France,,mutuelle,,400478889,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE BLEUE,,,,68 RUE DU ROCHER,PARIS CEDEX 08,75396,Paris,Ile-de-France,,mutuelle,,775671993,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE BOISSIERE DU BTP,,,,38 RUE GUY DE MAUPASSANT,ROUEN,76000,Seine-Maritime,Normandie,,mutuelle,,781123245,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CARCEPT PREV,,,,4 à 22 RUE MARIE-GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,mutuelle,,431875210,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CENTRALE D ASSURANCES,,,,95 RUE D'AMSTERDAM,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,343070397,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CENTRALE DES FINANCES,,,,5-7 AVENUE DE PARIS CS- 40009,VINCENNES,94306,Val-de-Marne,Ile-de-France,,mutuelle,,302976568,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CHEMINOTS NORD,,,,52 BOULEVARD CARNOT,LILLE,59000,Nord,Hauts-de-France,,mutuelle,,319074779,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CHIRURGICALE MEDICALE CORSE,,,,IMMEUBLE LE ROND POINT 2 AVENUE DE LA GRANDE ARMEE,AJACCIO,20000,Corse-du-Sud,Corse,,mutuelle,,333173128,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CHORUM,,,,50-60 RUE NATIONALE,PARIS CEDEX 13,75649,Paris,Ile-de-France,,mutuelle,,784621419,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CITRAM,,,,9 AVENUE PUY PELAT BASSENS,CARBON BLANC CEDEX,33530,Gironde,Nouvelle-Aquitaine,,mutuelle,,781848239,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CIVILE DE LA DEFENSE,,,,45 RUE DE LA PROCESSION,PARIS CEDEX 15,75739,Paris,Ile-de-France,,mutuelle,,784621476,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE COMPLEMENTAIRE ASSURANCE MALADIE INTERDEPARTEMENTALE FAMILIALE,,,,44 RUE SAINT ANTOINE,PARIS,75004,Paris,Ile-de-France,,mutuelle,,784394363,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE COMPLEMENTAIRE D ALSACE,,,,6 ROUTE DE ROUFFACH,COLMAR,68027,Haut-Rhin,Grand Est,,mutuelle,,778900027,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE COMPLEMENTAIRE DE L ALBANAIS,,,,RUE DE CENESELLI,ALBENS,73410,Savoie,Auvergne-Rhone-Alpes,,mutuelle,,409721727,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE COMPLEMENTAIRE DE LA VILLE DE PARIS DE L ASSISTANCE PUBLIQUE ET DES ADMINISTRATIONS ANNEXES,,,,52 RUE DE SEVIGNE,PARIS,75003,Paris,Ile-de-France,,mutuelle,,784227894,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE COMPLEMENTAIRE ET DE PREVOYANCE DES ASSURES SOCIAUX,,,,96 RUE LEON GONTRAN DAMAS PLACE D ARMES,MARTINIQUE LE LAMENTIN,97232,Martinique,Martinique,,mutuelle,,399511906,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CONCELLOISE,,,,4 RUE DE BRETAGNE,SAINT JULIEN DE CONCELLES,44450,Loire-Atlantique,Pays de la Loire,,mutuelle,,313320897,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CREMATISTE FACIA,,,,1 RUE HOTEL DE VILLE,NICE,06300,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,,mutuelle,,444166573,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE CYBELE SOLIDARITE,,,,Résidence Vivaldi 48 COURS DU MARECHAL GALLIENI,TALENCE,33400,Gironde,Nouvelle-Aquitaine,,mutuelle,,443885355,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ARGENSON ET DES FONCTIONNAIRES DE L ENSEIGNEMENT PUBLIC,,,,7 à 9 VILLA DE LOURCINE,PARIS,75014,Paris,Ile-de-France,,mutuelle,,325697258,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCE DE L ARTISANAT DES TRANSPORTS,,,,34 RUE KLEBER,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,333672293,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCE DES PHARMACIENS,,,,13 RUE BALLU,PARIS CEDEX 09,75311,Paris,Ile-de-France,,assurance_non_vie,,784394371,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCE DES ENTREPRISES DE TRANSPORT,,,,4 à 22 RUE MARIE-GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,assurance_non_vie,,784394439,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCE DES PROFESSIONNELS DE L ETANCHEITE,,,,25 BOULEVARD DU PRÉSIDENT WILSON,STRASBOURG,67000,Bas-Rhin,Grand Est,,assurance_non_vie,,332737667,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCE SOLIDAIRE,,,,39 RUE DE JOURDIL,CRAN GEVRIER,74690,Haute-Savoie,Auvergne-Rhone-Alpes,,assurance_non_vie,,532631942,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCES CONTRE LES RISQUES SPORTIFS,,,,RUE BADEN POWELL CENTRE SPORTIF,STRASBOURG CEDEX,67082,Bas-Rhin,Grand Est,,assurance_non_vie,,778847277,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCES DE LA VILLE DE COLMAR,,,,HÔTEL DE VILLE,COLMAR,68000,Haut-Rhin,Grand Est,,assurance_non_vie,,303626691,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCES DE LA VILLE DE MULHOUSE,,,,3 PASSAGE DE L HÔTEL DE VILLE,MULHOUSE,68100,Haut-Rhin,Grand Est,,assurance_non_vie,,778945295,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCES DES NEGOCIANTS ET LOUEURS DE MATERIELS DE TRAVAUX PUBLICS MANUTENTION AGRICOLES ET DIVERS,,,,LE MICHEL ANGE 19 BOULEVARD DU MONT D'EST,NOISY LE GRAND,93160,Seine-Saint-Denis,Ile-de-France,,assurance_non_vie,,377715693,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCES DES TECHNICIENS DE L EDUCATION ROUTIERE,,,,BATIMENT F ALLEE DE LA MARQUE CENTRE D AFFAIRES LE MOLINEL,WASQUEHAL,59290,Nord,Hauts-de-France,,assurance_non_vie,,383852175,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ASSURANCES DU CORPS DE SANTE FRANCAIS,,,,10 COURS DU TRIANGLE DE L ARCHE,LA DEFENSE CEDEX,92919,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775665631,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTRAIDE DE LA MUTUALITE FRANCAISE,,,,255 RUE DE VAUGIRARD,PARIS,75719,Paris,Ile-de-France,,mutuelle,,438804312,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE 341,,,,2 RUE DE LA LIBERTE,GUEUGNON,71130,Saone-et-Loire,Bourgogne-Franche-Comte,,mutuelle,,778588111,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE DES ETABLISSEMENTS DE LA FONDATION DU BON SAUVEUR D ALBY,,,,1 RUE LAVAZIERE,ALBI,81025,Tarn,Occitanie,,mutuelle,,313389157,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE DES PERSONNELS DE LA SECURITE SOCIALE DES BOUCHES DU RHONE,,,,146 A AVENUE CHEMIN DE TOULON,MARSEILLE,13010,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,431282581,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE DU PERSONNEL DE LA PROVENCE,,,,248 AVENUE ROGER SALENGRO,MARSEILLE,13015,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,430181560,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE DU PERSONNEL DE LA SOCIETE DES EAUX DE MARSEILLE,,,,25 RUE E DELANGLADE,MARSEILLE,13006,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,775559651,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE DU TELEGRAMME,,,,11 RUE ANATOLE LE BRAZ,MORLAIX,29600,Finistere,Bretagne,,mutuelle,,323599696,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE LATECOERE,,,,135 RUE DE PERIOLE,TOULOUSE,31500,Haute-Garonne,Occitanie,,mutuelle,,776950628,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISE TANIN ET PANNEAUX DE LABRUGUIERE,,,,10 BOULEVARD PASTEUR,LABRUGUIERE,81290,Tarn,Occitanie,,mutuelle,,443611504,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D ENTREPRISES SCHNEIDER ELECTRIC,,,,MESE,GRENOBLE CEDEX 9,38050,Isere,Auvergne-Rhone-Alpes,,mutuelle,,390820058,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D EPARGNE DE RETRAITE ET DE PREVOYANCE CARAC,,,,2 ter RUE DU CHATEAU,NEUILLY SUR SEINE,92577,Hauts-de-Seine,Ile-de-France,,mutuelle,,775691165,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D IVRY LA FRATERNELLE,,,,23 RUE YVES TOUDIC,PARIS CEDEX,75481,Paris,Ile-de-France,,mutuelle,,310259221,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D OUEST FRANCE,,,,10 RUE DE BREIL,RENNES,35051,Ille-et-Vilaine,Bretagne,,mutuelle,,390730893,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D'AIGREFEUILLE,,,,28 AVENUE DE LA VENDEE,AIGREFEUILLE SUR MAINE,44140,Loire-Atlantique,Pays de la Loire,,mutuelle,,313320962,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE D'ASSURANCES LE VIEUX JONC,,,,14 RUE PASTEUR,BOURG EN BRESSE,01000,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,779313329,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DASSAULT AVIATION BIARRITZ,,,,8 AVENUE MARCEL DASSAULT,ANGLET,64600,Pyrenees-Atlantiques,Nouvelle-Aquitaine,,mutuelle,,391723731,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE CLUNY ASSURANCES,,,,22 PLACE DU COMMERCE,CLUNY,71250,Saone-et-Loire,Bourgogne-Franche-Comte,,assurance_non_vie,,778573113,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE,,,,14 RUE DE CASTIGLIONE,PARIS,75001,Paris,Ile-de-France,,mutuelle,,784410763,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE 04-05,,,,16 AVENUE DES ARCADES BP 2,SISTERON,04201,Alpes-de-Haute-Provence,Provence-Alpes-Cote d'Azur,,mutuelle,,782416127,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE BRETAGNE CENTRE OCEANS,,,,25 RUE LE CORBUSIER ZAC BELLE AIRE NORD,AYTRE,17440,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,781343249,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE DES HOSPITALIERS,,,,CHU GRENOBLE BP 217,GRENOBLE,38043,Isere,Auvergne-Rhone-Alpes,,mutuelle,,397742958,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE LOIRE FOREZ,,,,44 RUE DE LA CHAUX,BOEN SUR LIGNON,42130,Loire,Auvergne-Rhone-Alpes,,mutuelle,,405390238,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE LOIRE HAUTE-LOIRE,,,,6 RUE TOURNEFORT,SAINT ETIENNE,42000,Loire,Auvergne-Rhone-Alpes,,mutuelle,,442730040,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE PLUS,,,,146 A AVENUE DE TOULON,MARSEILLE,13010,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782814818,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE PREVOYANCE,,,,447 AVENUE DE JOUQUES BAT C1 BP 1401,AUBAGNE CEDEX,13785,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,383143617,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE SAMIR,,,,7 RUE PASTEUR,VALENCE,26000,Drome,Auvergne-Rhone-Alpes,,mutuelle,,779445436,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE FRANCE SUD DU LACYDON,,,,1 RUE FRANCOIS MOISSON MAISON DE LA MUTUALITE,MARSEILLE,13002,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782825343,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L ENSEIGNEMENT CATHOLIQUE DE L ANJOU,,,,5 RUE DU HAUT PRESSOIR BP 28,ANGERS,49010,Maine-et-Loire,Pays de la Loire,,mutuelle,,351956537,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L ENSEIGNEMENT CATHOLIQUE DES COTES D ARMOR,,,,5 RUE DES CAPUCINS BP 222,SAINT BRIEUC,22002,Cotes-d'Armor,Bretagne,,mutuelle,,442671830,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L ENSEIGNEMENT PRIVE CATHOLIQUE DE LA MAYENNE,,,,20 RUE DE LA HALLE AUX TOILES BP 53012,LAVAL,53012,Mayenne,Pays de la Loire,,mutuelle,,328932439,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L EST LA BRESSE,,,,8 AVENUE LOUIS JOURDAN BP 158,BOURG EN BRESSE,01004,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,779307271,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L ETANG DE L OR,,,,AGENCE LANGUEDOC MUTUALITE PLACE JULES FERRY CENTRE SOCIAL JULES FERRY,MAUGUIO,34130,Herault,Occitanie,,mutuelle,,443907217,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L HOTELLERIE RESTAURATION,,,,393 AVENUE DU PRADO,MARSEILLE,13008,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,398066654,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L ILE DE LA CITE,,,,5 BIS RUE DE ROCHECHOUART,PARIS,75009,Paris,Ile-de-France,,mutuelle,,784238982,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L INDUSTRIE DU PETROLE,,,,178 RUE MONTMARTRE,PARIS,75096,Paris,Ile-de-France,,mutuelle,,775671902,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L IRSID,,,,VOIE ROMAINE BP 332,MAIZIERES LES METZ,57283,Moselle,Grand Est,,mutuelle,,779984921,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L OISE DES AGENTS TERRITORIAUX,,,,4 RUE GUI PATIN BP 80403,BEAUVAIS Cedex,60004,Oise,Hauts-de-France,,mutuelle,,780508081,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L ORPHELINAT DES CHEMINS DE FER FRANCAIS,,,,139 RUE DU FAUBOURG ST DENIS,PARIS,75010,Paris,Ile-de-France,,mutuelle,,308374990,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L OUEST,,,,58 BOULEVARD HUBERT DE LISLE BP 388,SAINT PIERRE CEDEX (REUNION),97410,La Reunion,La Reunion,,mutuelle,,443510813,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE L UNION NATIONALE DES COMBATTANTS,,,,5 RUE DU HAVRE,PARIS,75008,Paris,Ile-de-France,,mutuelle,,784360661,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE LA MEDITERRANEE,,,,IMPASSE GAY LUSSAC,LA SEYNE SUR MER,83500,Var,Provence-Alpes-Cote d'Azur,,mutuelle,,775713175,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE LA PAPETERIE D ARCHES,,,,48 ROUTE DE REMIREMONT,ARCHES,88380,Vosges,Grand Est,,mutuelle,,443898879,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE LA POLICE NATIONALE,,,,1 RUE DE ROSHEIM,SCHILTIGHEIM,67300,Bas-Rhin,Grand Est,,mutuelle,,778869131,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE LA SADE,,,,17-19 RUE LA PÉROUSE,PARIS,75116,Paris,Ile-de-France,,mutuelle,,391073350,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE LA SANTE ET DU SOCIAL,,,,39 RUE HINCMAR,REIMS,51100,Marne,Grand Est,,mutuelle,,443172408,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE LA SOCIETE MARSEILLAISE DE CREDIT,,,,75 RUE PARADIS,MARSEILLE,13006,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,344756358,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE LA VERRERIE D ALBI,,,,RUE FRANCOIS ARAGO,ALBI,81011,Tarn,Occitanie,,mutuelle,,431643071,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE NATIXIS,,,,30 AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,mutuelle,,784312860,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE POITIERS ASSURANCES,,,,LIEU DIT BOIS DU FIEF CLAIRET,LIGUGE,86240,Vienne,Nouvelle-Aquitaine,,assurance_non_vie,,775715683,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE PONTOISE,,,,77 BIS RUE DE GISORS Résidence WIMBLEDON,PONTOISE,95300,Val-d'Oise,Ile-de-France,,mutuelle,,333212561,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE PREVOYANCE D ASSISTANCE ET CONVENTIONS OBSEQUES,,,,4 RUE DU PROFESSEUR EMILE FORGUE BP 95582,MONTPELLIER,34072,Herault,Occitanie,,mutuelle,,339198939,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE PREVOYANCE DES SALARIES,,,,13 RUE DE LA MAIRIE,CHATILLON,92324,Hauts-de-Seine,Ile-de-France,,mutuelle,,432683787,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE PREVOYANCE ET DE L HABITAT DE LA REUNION,,,,112 AVENUE PIERRE MENDES FRANCE,SAINTE SUZANNE (REUNION),97441,La Reunion,La Reunion,,mutuelle,,419320015,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE PREVOYANCE INTERPROFESSIONNELLE,,,,9 RUE BACHAUMONT,PARIS,75002,Paris,Ile-de-France,,mutuelle,,775659378,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE SAINT JUNIEN,,,,27 RUE LUCIEN DUMAS,SAINT JUNIEN,87200,Haute-Vienne,Nouvelle-Aquitaine,,mutuelle,,430270116,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE SAINT SIMON,,,,14 RUE RENE CASSIN,MELUN,77000,Seine-et-Marne,Ile-de-France,,mutuelle,,341689552,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DE SETE,,,,19 RUE PAUL VALERY,SETE,34200,Herault,Occitanie,,mutuelle,,776090854,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES AFFAIRES ETRANGERES ET EUROPEENNES,,,,37 QUAI D ORSAY,PARIS,75007,Paris,Ile-de-France,,mutuelle,,775666332,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES AGENTS DES SERVICES PUBLICS,,,,39 RUE DU JOURDIL BP 9029,CRAN GEVRIER,74991,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,430039081,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES AGENTS TERRITORIAUX ET MEMBRES EXTERIEURS,,,,1 RUE DU FAUBOURG BANNIER,ORLEANS,45057,Loiret,Centre-Val de Loire,,mutuelle,,775513765,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES AGENTS TERRITORIAUX ET MEMBRES EXTERIEURS DE NORMANDIE,,,,4 RUE EMILE ENAULT,SAINT LO CEDEX,50008,Manche,Normandie,,mutuelle,,780915898,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ANCIENS DES CHANTIERS LA ROCHELLE PALLICE,,,,11 RUE LEO LAGRANGE,DOMPIERRE SUR MER,17139,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,432162113,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ARCHITECTES FRANCAIS,,,,9 RUE HAMELIN,PARIS CEDEX 16,75783,Paris,Ile-de-France,,assurance_non_vie,,784647349,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ASSURES SOCIAUX,,,,393 AVENUE DU PRADO,MARSEILLE,13008,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,329678205,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ASSURES SOCIAUX DE FRANCE,,,,89 RUE HENRI BARBUSSE,AUBERVILLIERS,93300,Seine-Saint-Denis,Ile-de-France,,mutuelle,,785474123,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES AUTEURS ET COMPOSITEURS DRAMATIQUES,,,,9 RUE BALLU,PARIS,75442,Paris,Ile-de-France,,mutuelle,,784117525,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES CHAMBRES DE COMMERCE ET D INDUSTRIE,,,,26 RUE FORTUNY,PARIS,75017,Paris,Ile-de-France,,mutuelle,,784718355,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES CHEMINOTS DE CHAMPAGNE ARDENNE,,,,1 RUE DU DOCTEUR ROUSSEAU CS 10238 RESIDENCE NOTRE-DAME,EPERNAY,51207,Marne,Grand Est,,mutuelle,,328845896,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES CHEMINOTS DE LA REGION DE NANTES,,,,4 PLACE DES JACOBINS,NANTES,44000,Loire-Atlantique,Pays de la Loire,,mutuelle,,314765546,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES CHEMINOTS DE NORMANDIE,,,,33-37 RUE DU 11 NOVEMBRE,CAEN,14000,Calvados,Normandie,,mutuelle,,337643431,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES CHEMINOTS PICARDS,,,,159 RUE JULES BARNI,AMIENS,80000,Somme,Hauts-de-France,,mutuelle,,334400116,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES CLERCS ET EMPLOYES NOTAIRES,,,,22 RUE DE L ARCADE,PARIS,75397,Paris,Ile-de-France,,mutuelle,,784338618,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES CLINIQUES DE FRANCE,,,,28 RUE FORTUNY,PARIS,75017,Paris,Ile-de-France,,mutuelle,,332759554,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES COLLECTIVITES TERRITORIALES DE L ALBIGEOIS,,,,16 RUE DE L HOTEL DE VILLE,ALBI,81000,Tarn,Occitanie,,mutuelle,,431636703,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES COMMIS ET EMPLOYES,,,,88 RUE DE LA 32EME MAISON DE LA MUTUALITE,MONTPELLIER CEDEX 2,34264,Herault,Occitanie,,mutuelle,,776060295,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ELUS LOCAUX,,,,26 BOULEVARD DE SEBASTOPOL,PARIS,75004,Paris,Ile-de-France,,mutuelle,,388887259,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES EMPLOYES DE LA MUTUALITE,,,,22 AVENUE DE BRETAGNE,ROUEN CEDEX 1,76045,Seine-Maritime,Normandie,,mutuelle,,781123468,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES EMPLOYES TERRITORIAUX DE SAINT RAPHAEL,,,,HOTEL DE VILLE BP 80160,SAINT RAPHAEL CEDEX,83701,Var,Provence-Alpes-Cote d'Azur,,mutuelle,,430173336,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ENTREPRISES DES INDEPENDANTS DU COMMERCE ET DE L INDUSTRIE ET DES SERVICES,,,,18 RUE DE L AMIRAL HAMELIN,PARIS Cedex 16,75780,Paris,Ile-de-France,,mutuelle,,315062687,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ENTREPRISES DU SECTEUR SOCIAL DE MEURTHE ET MOSELLE,,,,51 RUE EMILE BERTIN BP422,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,442907127,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ETUDIANTS DE BRETAGNE ATLANTIQUE MAINE ANJOU VENDEE,,,,50BIS BOULEVARD DU ROI RENE BP 50705,ANGERS,49007,Maine-et-Loire,Pays de la Loire,,mutuelle,,305007171,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ETUDIANTS DE PROVENCE,,,,TOUR MEDITERRANNEE CS 20001,MARSEILLE CEDEX 20,13292,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782814826,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ETUDIANTS DES REGIONS BOURGOGNE ET FRANCHE COMTE,,,,22 RUE RONCHAUX,BESANCON,25000,Doubs,Bourgogne-Franche-Comte,,mutuelle,,778297531,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ETUDIANTS DES REGIONS RHONE ALPES ET AUVERGNE,,,,43 RUE JABOULAY,LYON CEDEX 07,69349,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,775648256,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ETUDIANTS DU CENTRE OUEST,,,,4 RUE CHAMOINEAU,TOURS,37000,Indre-et-Loire,Centre-Val de Loire,,mutuelle,,304709066,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ETUDIANTS DU NORD ET DU NORD OUEST,,,,45 BOULEVARD DE LA LIBERTE,LILLE,59046,Nord,Hauts-de-France,,mutuelle,,781123450,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES FORESTIERS DES VOSGES,,,,4 RUE A VITU,EPINAL,88000,Vosges,Grand Est,,mutuelle,,783437171,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES FRONTALIERS,,,,15 TARTRE MARIN BP 43121,MORTEAU,25503,Doubs,Bourgogne-Franche-Comte,,mutuelle,,421110305,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES HOPITAUX DE LA VIENNE,,,,RENE LE BLAYE SUD ENTREE 8 RUE DE LA MILETRIE BP 59,POITIERS Cedex,86002,Vienne,Nouvelle-Aquitaine,,mutuelle,,314685835,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES HOSPITALIERS ASSIMILES ET DE L ACTION SOCIALE,,,,310 AVENUE EUGENE AVINEE PARC EURASANTE,LOOS LEZ LILLE,59120,Nord,Hauts-de-France,,mutuelle,,301862769,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES HOSPITALIERS DE ST ETIENNE,,,,44 RUE POINTE CADET,SAINT ETIENNE,42055,Loire,Auvergne-Rhone-Alpes,,mutuelle,,776398794,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ILES SAINT-PIERRE ET MIQUELON,,,,52 RUE MARÉCHAL FOCH BP 1112,SAINT PIERRE ET MIQUELON,97500,,,,assurance_non_vie,,401375043,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES INDUSTRIES AERONAUTIQUES SPATIALES ET CONNEXES,,,,38 RUE LOUIS ROUQUIER,LEVALLOIS-PERRET,92300,Hauts-de-Seine,Ile-de-France,,mutuelle,,785280884,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES INDUSTRIES DU LIVRE PRESSE ET ACTIVITES CONNEXES DE CLERMONT FERRAND DU PUY DE DOME ET DE LA REGION AUVERGNE,,,,45 RUE CLOS FOUR,CLERMONT FERRAND,63100,Puy-de-Dome,Auvergne-Rhone-Alpes,,mutuelle,,382046456,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES INDUSTRIES ELECTRIQUES ET GAZIERES,,,,37 RUE DE CHATEAUDUN,PARIS,75009,Paris,Ile-de-France,,mutuelle,,419049499,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES INTERNES ET ANCIENS INTERNES DES HOPITAUX DE MARSEILLE,,,,249 BOULEVARD DE STE MARGUERITE PARC DE L HOPITAL SALVATOR,MARSEILLE,13274,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,329234991,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES METIERS ELECTRONIQUE ET INFORMATIQUE EX MUTUELLE BULL,,,,35 RUE SAINT SABIN,PARIS,75534,Paris,Ile-de-France,,mutuelle,,391399052,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES MUNICIPAUX DE MARSEILLE MUTAME PROVENCE,,,,4 RUE VENTURE BP 1822,MARSEILLE,13221,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782814727,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES ORGANISMES SOCIAUX,,,,42 RUE DU GENERAL FAUCONNET,DIJON,21000,Cote-d'Or,Bourgogne-Franche-Comte,,mutuelle,,778213678,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PAYS DE VAUCLUSE,,,,16 RUE ALEXANDRE BLANC,AVIGNON,84000,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,394535520,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PAYS DE VILAINE,,,,13 RUE DES DOUVES BP 90646,REDON CEDEX,35506,Ille-et-Vilaine,Bretagne,,mutuelle,,380155929,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PERES ET MERES DE FAMILLE DU MORNE PITAULT LAMENTIN,,,,CHEMIN LA MICHELE MORNE PITAULT,LE LAMENTIN (MARTINIQUE),97232,Martinique,Martinique,,mutuelle,,394117824,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PERSONNELS DU CENTRE HOSPITALIER D ALES,,,,811 AVENUE DU DOCTEUR JEAN GOUBERT BP 20139,ALES CEDEX,30103,Gard,Occitanie,,mutuelle,,443098603,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PERSONNELS DU CH MONTPERRIN,,,,109 AVENUE DU PETIT BARTHELEMY,AIX EN PROVENCE,13617,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,430169342,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PERSONNELS TERRITORIAUX DE LA VILLE DE ROUEN ET DES ETS PUBLICS DE SA REGION,,,,43-45 RUE DU CHAMP DES OISEAUX,ROUEN,76107,Seine-Maritime,Normandie,,mutuelle,,781123229,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PROFESSIONS AGRICOLES ET CONNEXES,,,,MAISON DE LA MUTUALITE 88 RUE DE LA 32EME,MONTPELLIER CEDEX 2,34264,Herault,Occitanie,,mutuelle,,443819917,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PROFESSIONS DE L AUTOMOBILE,,,,39 AVENUE D IENA,PARIS CEDEX 16,75202,Paris,Ile-de-France,,mutuelle,,784647299,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES PROFESSIONS JUDICIAIRES,,,,35 BOULEVARD BRUNE,PARIS,75014,Paris,Ile-de-France,,mutuelle,,302981923,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES RESIDENTS DE L OUEST,,,,15 PLACE DE L EGLISE,LES AVIRONS (REUNION),97425,La Reunion,La Reunion,,mutuelle,,351706569,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES RETRAITES AGF ET ALLIANZ,,,,87 RUE DE RICHELIEU C C B 107,PARIS,75113,Paris,Ile-de-France,,mutuelle,Allianz,442882411,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES RISQUES D ASSURANCES DES CAISSES D EPARGNE DE FRANCE - MURACEF,,,,5 RUE MASSERAN,PARIS,75007,Paris,Ile-de-France,,assurance_non_vie,,324154863,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES SAPEURS POMPIERS DE PARIS,,,,104 AVENUE DE FONTAINEBLEAU,LE KREMLIN BICETRE,94270,Val-de-Marne,Ile-de-France,,mutuelle,,391036183,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES SAPEURS POMPIERS DU CENTRE DE SECOURS PRINCIPAL DE NANCY,,,,22 BOULEVARD JOFFRE,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,443148820,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES SAPEURS POMPIERS DU GERS,,,,ROUTE DE PESSAN RESIDENCE STE BARBE,AUCH,32000,Gers,Occitanie,,mutuelle,,326313764,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES SERVICES PUBLICS,,,,1 RUE F MOISSON MAISON DE LA MUTUALITE,MARSEILLE,13002,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782825368,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES SERVICES PUBLICS,,,,39 RUE HINCMAR,REIMS,51100,Marne,Grand Est,,mutuelle,,443248943,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES SPORTIFS,,,,2 RUE LOUIS DAVID,PARIS,75016,Paris,Ile-de-France,,mutuelle,,422801910,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TRAMWAYS DE NANCY,,,,51 RUE EMILE BERTIN BP 422,NANCY,54001,Meurthe-et-Moselle,Grand Est,,mutuelle,,443586342,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TRANSPORTS ASSURANCES,,,,28 RUE CAMBACERES,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,324167139,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TRANSPORTS DU DOUAISIS,,,,314 BOULEVARD PASTEUR,GUESNAIN,59287,Nord,Hauts-de-France,,mutuelle,,420009680,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TRANSPORTS EN COMMUN DE L AGGLOMERATION TROYENNE,,,,20 RUE AUX MOINES,TROYES,10901,Aube,Grand Est,,mutuelle,,302766852,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TRANSPORTS RHONE ALPES,,,,13 AVENUE ARISTIDE BRIAND,FONTAINE,38600,Isere,Auvergne-Rhone-Alpes,,mutuelle,,305242463,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TRANSPORTS URBAINS,,,,RESIDENCE NICE EUROPE BATIMENT B 29 RUE PASTORELLI,NICE,06000,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,,mutuelle,,324042621,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES TRAVAILLEURS DES ENTREPRISES PRIVEES,,,,58 BOULEVARD HUBERT DE LISLE BP 388,SAINT PIERRE CEDEX (REUNION),97457,La Reunion,La Reunion,,mutuelle,,443413513,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DES USINES,,,,PLACE GAMBETTA,MONTBARD,21500,Cote-d'Or,Bourgogne-Franche-Comte,,mutuelle,,778235879,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DIJONNAISE,,,,14 RUE MILLOTET BP 41543,DIJON,21015,Cote-d'Or,Bourgogne-Franche-Comte,,mutuelle,,778213637,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU BATIMENT DES TRAVAUX PUBLICS DU NORD DES AUTRES REGIONS DE FRANCE ET D EUROPE,,,,BAT D ALLEE DE LA MARQUE CS 41001,WASQUEHAL,59447,Nord,Hauts-de-France,,mutuelle,,783737638,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU BATIMENT ET DES TRAVAUX PUBLICS DE BASSE NORMANDIE,,,,6 RUE SAINT NICOLAS BP 6185,CAEN,14062,Calvados,Normandie,,mutuelle,,780716197,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU BATIMENT ET DES TRAVAUX PUBLICS DE LA REUNION,,,,112 TER AVENUE PIERRE MENDES FRANCE,SAINTE SUZANNE (REUNION),97441,La Reunion,La Reunion,,mutuelle,,388213332,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU BATIMENT ET DES TRAVAUX PUBLICS DU SUD EST ET DES REGIONS DE FRANCE,,,,5 RUE JEAN MARIE CHAVANT,LYON,69369,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,390917953,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU CHAMPAGNE,,,,14 BOULEVARD DIEU LUMIERE,REIMS,51100,Marne,Grand Est,,mutuelle,,780429049,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU CHU ET HOPITAUX DU PUY DE DOME,,,,2 RUE TOUSSAINT LOUVERTURE,CLERMONT FERRAND,63100,Puy-de-Dome,Auvergne-Rhone-Alpes,,mutuelle,,347391948,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU FRANC DECES DE TROIS BASSINS,,,,RUE DU GAL DE GAULLE CO MAIRIE,LES TROIS BASSINS (REUNION),97426,La Reunion,La Reunion,,mutuelle,,443410808,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU GRAND DELTA - PRADO MUTUELLE,,,,485 AVENUE DU PRADO,MARSEILLE,13008,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,353208010,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU GRAND PORT MARITIME DU HAVRE,,,,TERRE PLEIN DE LA BARRE BP 1413,LE HAVRE,76067,Seine-Maritime,Normandie,,mutuelle,,781065412,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU GROUPE BNP PARIBAS,,,,16 BD DES ITALIENS,PARIS,75009,Paris,Ile-de-France,,mutuelle,,784410847,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU JOURNAL L UNION,,,,4 à 6 RUE GUTENBERG,REIMS,51100,Marne,Grand Est,,mutuelle,,780429106,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU LOGEMENT MUTLOG,,,,75 QUAI DE LA SEINE,PARIS,75019,Paris,Ile-de-France,,mutuelle,,325942969,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU MINISTERE DE LA JUSTICE,,,,53 RUE DE RIVOLI,PARIS,75038,Paris,Ile-de-France,,mutuelle,,775657521,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PAYS D AUGE,,,,LES CLOS TORDS,VIMOUTIERS,61120,Orne,Normandie,,mutuelle,,444356661,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PAYS MARTEGAL,,,,AVENUE CALMETTE ET GUERIN,MARTIGUES,13500,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782746887,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE BACCARAT SA,,,,95 COUR DES CRISTALLERIES,BACCARAT,54120,Meurthe-et-Moselle,Grand Est,,mutuelle,,444075832,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE L AGENCE FRANCE PRESSE - AFP,,,,13 PLACE DE LA BOURSE,PARIS,75002,Paris,Ile-de-France,,mutuelle,,438977282,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE L EST REPUBLICAIN,,,,RUE THEOPHRASTE RENAUDOT NANCY HOUDEMONT,HEILLECOURT,54185,Meurthe-et-Moselle,Grand Est,,mutuelle,,443438148,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE L USINE DES ETAINGS N 572,,,,118 ROUTE DES ETAINGS BP 368 CHATEAUNEUF,RIVE DE GIER,42803,Loire,Auvergne-Rhone-Alpes,,mutuelle,,332523117,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE LA BANQUE POPULAIRE DU SUD,,,,38 BOULEVARD GEORGES CLEMENCEAU,PERPIGNAN,66966,Pyrenees-Orientales,Occitanie,,mutuelle,,442634564,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE LA CAISSE DES DEPOTS ET CONSIGNATIONS,,,,12 AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,mutuelle,,784301434,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE LA CNAVTS,,,,110 AVENUE DE FLANDRE,PARIS,75019,Paris,Ile-de-France,,mutuelle,,784775199,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE LA COMPAGNIE FERMIERE DE VICHY,,,,1 ET 3 RUE EISENHOWER,VICHY,03200,Allier,Auvergne-Rhone-Alpes,,mutuelle,,443963749,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE LA MACIF,,,,2 ET 4 RUE DE PIED DE FOND,NIORT,79037,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,AESIO/AEMA,443172507,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE LA MUTUALITE FRANCILIENNE,,,,19 CITE VOLTAIRE CS 71121,PARIS CEDEX 11,75134,Paris,Ile-de-France,,mutuelle,,442763595,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DE SAINT GOBAIN PAM,,,,AVENUE C. CAVALLIER BP 129,PONT A MOUSSON CEDEX,54705,Meurthe-et-Moselle,Grand Est,,mutuelle,,390956100,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DES COLLECTIVITES TERRITORIALES,,,,1 RUE MARCEL PAUL BP 80615,NANTES CEDEX 1,44006,Loire-Atlantique,Pays de la Loire,,mutuelle,,313321333,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DES COLLECTIVITES TERRITORIALES DE LA REUNION,,,,112 TER AVENUE PIERRE MENDES FRANCE,SAINTE SUZANNE (REUNION),97441,La Reunion,La Reunion,,mutuelle,,391951357,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DES ORGANISMES SOCIAUX,,,,32 RUE DU 71EME RI,SAINT BRIEUC,22000,Cotes-d'Armor,Bretagne,,mutuelle,,325664506,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DES ORGANISMES SOCIAUX ET SIMILAIRES DE LA REGION MIDI PYRENEES,,,,10 RUE OZENNE,TOULOUSE,31000,Haute-Garonne,Occitanie,,mutuelle,,776950602,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DES TRANSPORTS URBAINS DE CANNES,,,,108 A 114 AVENUE DE LAROUBINE,CANNES LA BOCCA CEDEX,06156,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,,mutuelle,,430184507,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DU CENTRE HOSPITALIER DU ROUVRAY,,,,4 RUE PAUL ELUARD,SOTTEVILLE LES ROUEN,76300,Seine-Maritime,Normandie,,mutuelle,,303252951,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DU CHU,,,,4 RUE LARREY CHU,ANGERS CEDEX 9,49933,Maine-et-Loire,Pays de la Loire,,mutuelle,,443679360,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DU GROUPE BRED BANQUE POPULAIRE,,,,8128A 70 AVENUE DU GENERAL DE GAULLE,CRETEIL,94000,Val-de-Marne,Ile-de-France,,mutuelle,,391419363,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DU GROUPE MATRA HACHETTE,,,,22 RUE RENE CECHE,VANVES,92175,Hauts-de-Seine,Ile-de-France,,mutuelle,,784608754,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DU GROUPE RATP,,,,62 QUAI DE LA RAPEE,PARIS,75012,Paris,Ile-de-France,,mutuelle,,775671969,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DU GROUPE SOCIETE GENERALE,,,,29 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,mutuelle,,784410805,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL DU PORT DE CALAIS,,,,PORT DE CALAIS 54 RUE DU QUAI DE LA LOIRE,CALAIS CEDEX,62105,Pas-de-Calais,Hauts-de-France,,mutuelle,,432456788,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL ETERNIT,,,,8 RUE DENIS PAPIN,PARAY LE MONIAL,71600,Saone-et-Loire,Bourgogne-Franche-Comte,,mutuelle,,394060925,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL FLEURY MICHON,,,,BP 1,POUZAUGES,85700,Vendee,Pays de la Loire,,mutuelle,,352537369,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL HSBC France,,,,103 AVENUE DES CHAMPS ELYSEES,PARIS CEDEX 08,75419,Paris,Ile-de-France,,mutuelle,,391072246,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL IBM,,,,110 BOULEVARD DE LA SALLE Boigny sur Bionne,CHECY CEDEX,45432,Loiret,Centre-Val de Loire,,mutuelle,,391346236,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL NAVIGANT SNCM,,,,42 RUE DE RUFFY - bâtiment G - CS 50372,Marseille CEDEX 03,13331,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,430181123,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL RETRAITE DE L UNION DES ASSURANCES DE PARIS,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,mutuelle,,333575157,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL SALARIE OU RETRAITE DE COOP ATLANTIQUE,,,,3 RUE DU DR JEAN,SAINTES,17100,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,444281182,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PERSONNEL UNELEC ORLEANS,,,,1 RUE DE LA BURELLE,SAINT JEAN DE BRAYE,45800,Loiret,Centre-Val de Loire,,mutuelle,,444365712,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU PIC ST LOUP LA SCOLAIRE,,,,8 RUE BARRYS HAUT,SAINT MARTIN DE LONDRES,34380,Herault,Occitanie,,mutuelle,,443826144,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU REMPART,,,,4 à 6 BOULEVARD DE STRASBOURG,TOULOUSE,31000,Haute-Garonne,Occitanie,,mutuelle,,776950537,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU SALAGOU,,,,3 CHEMIN DE LA MADELEINE AGENCE DE LANGUEDOC MUTUALITE,CLERMONT L HERAULT,34800,Herault,Occitanie,,mutuelle,,443828058,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU SUD,,,,58 BOULEVARD HUBERT DELISLE BP 388,SAINT PIERRE CEDEX (REUNION),97457,La Reunion,La Reunion,,mutuelle,,443409800,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU VAL DE SEVRE,,,,6 RUE DU PUY PELE BP 7,TIFFAUGES,85130,Vendee,Pays de la Loire,,mutuelle,,352502546,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE DU VAR EMOA,,,,285 RUE DE LA CAUQUIERE BP 117,SIX FOURS LES PLAGES CEDEX,83184,Var,Provence-Alpes-Cote d'Azur,,mutuelle,,783169220,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ECCLESIASTIQUE DU DIOCESE DE NIMES,,,,2 RUE ROBERT,NIMES,30000,Gard,Occitanie,,mutuelle,,444643829,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ENTRAIDE PHOTO CINE,,,,19 CITE VOLTAIRE CS 71121,PARIS CEDEX 11,75134,Paris,Ile-de-France,,mutuelle,,391399326,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE ENTRAIN,,,,5 BOULEVARD CAMILLE FLAMMARION LE MASSILIA,MARSEILLE,13001,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,775558778,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE EPARGNE RETRAITE,,,,PALAIS DE LA MUTUALITE 17 RUE DE LA VICTOIRE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,431988021,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE EUROPE,,,,44 RUE D AMSTERDAM,PARIS,75311,Paris,Ile-de-France,,mutuelle,,784394488,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FACOM,,,,6 A 8 RUE GUSTAVE EIFFEL,MORANGIS,91420,Essonne,Ile-de-France,,mutuelle,,444060099,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE,,,,2 BOULEVARD JACQUES MONOD,AVIGNON,84000,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,313385882,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE,,,,52 RUE D HAUTEVILLE,PARIS,75487,Paris,Ile-de-France,,mutuelle,,784442915,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE ALSTOM RATEAU,,,,141 RUE RATEAU,LA COURNEUVE,93126,Seine-Saint-Denis,Ile-de-France,,mutuelle,,341020667,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE FRANCE,,,,72 RUE LAZARE CARNOT,LORIENT CEDEX,56325,Morbihan,Bretagne,,mutuelle,,319559985,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE HAUTE SAVOIE,,,,39 RUE DU JOURDIL BP 9029,CRAN GEVRIER,74991,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,776531642,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE L ILE DE FRANCE MFIF,,,,12 VILLA LAUGIER,PARIS,75017,Paris,Ile-de-France,,mutuelle,,784198988,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE L INDRE,,,,2 AVENUE ANDRE LE NOTRE BP 294,CHATEAUROUX CEDEX,36006,Indre,Centre-Val de Loire,,mutuelle,,314357047,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE LA CORSE,,,,AVENUE PAUL GIACOBBI RESIDENCE PLEIN SUD,BASTIA,20600,Haute-Corse,Corse,,mutuelle,,783005655,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE LA REGION DE FOURMIES,,,,2 RUE LOUIS BRAILLE,FOURMIES,59611,Nord,Hauts-de-France,,mutuelle,,783623655,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE LA REUNION,,,,112 TER AVENUE PIERRE MENDES FRANCE,SAINTE SUZANNE (REUNION),97441,La Reunion,La Reunion,,mutuelle,,388213712,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DE NORMANDIE,,,,1 AVENUE DU 6 JUIN,LISIEUX,14100,Calvados,Normandie,,mutuelle,,304580228,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DES ALPES,,,,IMMEUBLE OMEGA 27 ALLEE ALBERT SYLVESTRE,CHAMBERY,73000,Savoie,Auvergne-Rhone-Alpes,,mutuelle,,309244648,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DES CHEMINOTS DE FRANCE,,,,43 RUE DE CLICHY,PARIS,75009,Paris,Ile-de-France,,mutuelle,,784394413,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DES TRAVAILLEURS DE L ISERE,,,,34 AVENUE MARCELLIN BERTHELOT,GRENOBLE,38029,Isere,Auvergne-Rhone-Alpes,,mutuelle,,778115634,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DES TRAVAILLEURS DE LA SNECMA,,,,ROND POINT RENE RAVAUD BP 7018,MOISSY CRAMAYEL CEDEX,77550,Seine-et-Marne,Ile-de-France,,mutuelle,,330929845,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DES TRAVAILLEURS DU GROUPE SAFRAN,,,,ROUTE HENRY AUGUSTE DESBRUERES BP 151,EVRY CEDEX,91005,Essonne,Ile-de-France,,mutuelle,,785196155,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DU LOIRET,,,,21 AVENUE DE PARIS,ORLEANS,45000,Loiret,Centre-Val de Loire,,mutuelle,,431473958,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE DU PERSONNEL RHODIA BELLE ETOILE,,,,AVENUE RAMBOZ BP 3,SAINT FONS,69192,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,314246489,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE ET INTER ENTREPRISES,,,,17 AVENUE GAMBETTA,ROCHEFORT,17300,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,344008511,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FAMILIALE FRANCE ET OUTRE MER,,,,18 RUE LEON JOUHAUX,PARIS,75010,Paris,Ile-de-France,,mutuelle,,784647323,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FRANCAISE DES PROFESSIONS DE SANTE,,,,10 RUE VALMY COURS DU TRIANGLE,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,mutuelle,,315281097,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FRATERNELLE D ASSURANCES,,,,6 RUE FOURNIER BP 311,CLICHY CEDEX,92111,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,784702391,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE FRATERNELLE DES TERRITORIAUX,,,,18 RUE JOSEPH CHANRION,GRENOBLE,38000,Isere,Auvergne-Rhone-Alpes,,mutuelle,,779558428,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GANGEOISE,,,,14 RUE DU JEU DE BALLON AGENCE LANGUEDOC MUTUALITE,GANGES,34190,Herault,Occitanie,,mutuelle,,776001158,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE D AVIGNON,,,,355 RUE PIERRE SEGHERS IMM LE POLARIS CAP SUD,AVIGNON,84000,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,334489986,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE BELFORT,,,,24 RUE DE MULHOUSE BP 64,BELFORT,90002,Territoire de Belfort,Bourgogne-Franche-Comte,,mutuelle,,389011594,,,unknown,Sources: acpr_pdf_2015.
+,,,"MUTUELLE GENERALE DE L ECONOMIE, DES FINANCES ET DE L INDUSTRIE",,,,56 RUE DE LA GLACIERE,PARIS CEDEX 13,75705,Paris,Ile-de-France,,mutuelle,,499982098,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE L EDUCATION NATIONALE,,,,3 SQUARE MAX HYMANS,PARIS CEDEX 15,75748,Paris,Ile-de-France,,mutuelle,,775685399,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE L OISE,,,,71 RUE HENRI PAUQUET BP 5389,CREIL,60312,Oise,Hauts-de-France,,mutuelle,,302315072,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE LA CORSE,,,,8 A 10 AVENUE MARECHAL SEBASTIANI BP 277,BASTIA,20296,Haute-Corse,Corse,,mutuelle,,317255230,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE LA DISTRIBUTION,,,,13 RUE SAINTE CECILE,PARIS,75009,Paris,Ile-de-France,,mutuelle,,429211469,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE LA POLICE DITE MGP SANTE,,,,10 RUE DES SAUSSAIES,PARIS,75008,Paris,Ile-de-France,,mutuelle,,775671894,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE LA SANTE,,,,29 RUE DES OTAGES,AMIENS,80000,Somme,Hauts-de-France,,mutuelle,,303374508,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE PREVOYANCE,,,,39 RUE DU JOURDIL,CRAN GEVRIER,74960,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,337682660,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE PREVOYANCE DES ANTILLES,,,,ROCHES CARRES,LE LAMENTIN (MARTINIQUE),97232,Martinique,Martinique,,mutuelle,,384513073,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DE PREVOYANCE SOCIALE,,,,BATIMENT B 2EME ETAGE CENTRE COMMERCIAL HOUELBOURG JARRY,BAIE MAHAULT,97122,Guadeloupe,Guadeloupe,,mutuelle,,320377906,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DES AFFAIRES SOCIALES,,,,96 AVENUE DE SUFFREN,PARIS CEDEX 15,75730,Paris,Ile-de-France,,mutuelle,,784301475,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DES CHEMINOTS,,,,2 ET 4 PLACE ABBE GEORGES HENOCQUE,PARIS,75013,Paris,Ile-de-France,,mutuelle,,775678550,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DES ETUDIANTS DE L EST,,,,44 COURS LEOPOLD,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,783332448,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE DES PROFESSIONS PARAMEDICALES ET DES MASSEURS KINESITHERAPEUTES REEDUCATEURS,,,,MAISON DE LA MUTUALITE 88 RUE DE LA 32EME,MONTPELLIER CEDEX 2,34264,Herault,Occitanie,,mutuelle,,443826987,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE ENVIRONNEMENT ET TERRITOIRES,,,,76 A 78 AVENUE DE FONTAINEBLEAU,LE KREMLIN BICETRE,94274,Val-de-Marne,Ile-de-France,,mutuelle,,775671910,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE LOIRE SUD,,,,3 RUE ROBESPIERRE,SAINT ETIENNE,42100,Loire,Auvergne-Rhone-Alpes,,mutuelle,,419751565,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE SANTE,,,,22 RUE MALMAISON,BAGNOLET,93170,Seine-Saint-Denis,Ile-de-France,,mutuelle,,785476003,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE SOGERMA,,,,19 RUE MARCEL ISSARTIER CS 50008,MERIGNAC CEDEX,33693,Gironde,Nouvelle-Aquitaine,,mutuelle,,347607434,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GENERALE SOLIDARITE DE LA REUNION,,,,14 BOULEVARD DORET BP 340,SAINT DENIS (REUNION),97467,La Reunion,La Reunion,,mutuelle,,388213423,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GEODIS CALBERSON,,,,7-9 ALLE DE L EUROPE,CLICHY CEDEX,92615,Hauts-de-Seine,Ile-de-France,,mutuelle,,442930939,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GOODYEAR DUNLOP TIRES,,,,8 RUE LIONEL TERRAY BP 310,RUEIL MALMAISON CEDEX,92500,Hauts-de-Seine,Ile-de-France,,mutuelle,,391416591,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GRM,,,,15 RUE ROUGET DE L ISLE BP25,MONTCEAU Cedex,71304,Saone-et-Loire,Bourgogne-Franche-Comte,,mutuelle,,778607713,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE GROUPE LA DEPECHE DU MIDI COMPLEMENTAIRE SANTE,,,,AVENUE JEAN BAYLET,TOULOUSE,31095,Haute-Garonne,Occitanie,,mutuelle,,391322849,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE HUMANIS NATIONALE,,,,139/147 RUE PAUL VAILLANT COUTURIER,MALAKOFF,92240,Hauts-de-Seine,Ile-de-France,,mutuelle,,339358681,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTEGRANCE,,,,89 RUE DAMREMONT,PARIS CEDEX 18,75882,Paris,Ile-de-France,,mutuelle,,340359900,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTER ENTREPRISE DU PERSONNEL DE L AREPSHA,,,,32 RUE PIERRE COPEL ASTP,SAINT ETIENNE,42100,Loire,Auvergne-Rhone-Alpes,,mutuelle,,443765540,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTER REGION DES FONCTIONNAIRES TERRITORIAUX,,,,73 AVENUE DE LA REPUBLIQUE,MONTLUCON,03100,Allier,Auvergne-Rhone-Alpes,,mutuelle,,444039200,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTER- PROFESSIONNELLE DU PERSONNEL DES ORGANISMES SOCIAUX ET DE LA PROTECTION SOCIALE,,,,59 BOULEVARD VIVIER MERLE LE GEMELLYON SUD,LYON Cedex 03,69429,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,779827054,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERDIOCESAINE RHONE ET LOIRE,,,,137 CHEMIN DU PELET,VERNAISON,69390,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,775648660,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERENTREPRISES DES CAVES,,,,2 AVENUE F GALTIER,ROQUEFORT SUR SOULZON,12250,Aveyron,Occitanie,,mutuelle,,776744690,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERENTREPRISES DU GAN,,,,8 A 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,mutuelle,,442423661,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERENTREPRISES DU PERSONNEL DE LA SECURITE SOCIALE DE LA REGION AUVERGNE,,,,CITE ADMINISTRATIVE RUE PELISSIER,CLERMONT FERRAND,63036,Puy-de-Dome,Auvergne-Rhone-Alpes,,mutuelle,,779209469,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERENTREPRISES ERAM,,,,,SAINT PIERRE MONTLIMART,49111,Maine-et-Loire,Pays de la Loire,,mutuelle,,351963616,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERGROUPES D ENTRAIDE,,,,Immeuble Le Péricentre 16 AVENUE LOUISON BOBET CS60005,FONTENAY-SOUS- BOIS CEDEX,94132,Val-de-Marne,Ile-de-France,,mutuelle,,784275885,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERGROUPES POLIET ET CIMENTS FRANCAIS,,,,187 BOULEVARD ANATOLE FRANCE,SAINT DENIS,93200,Seine-Saint-Denis,Ile-de-France,,mutuelle,,784451569,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERPROFESSIONELLE SMI,,,,2 RUE DE LABORDE,PARIS,75374,Paris,Ile-de-France,,mutuelle,,784669954,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERPROFESSIONNELLE ANTILLES GUYANE,,,,RUE PAUL LACAVE BP 326,POINTE A PITRE (GUADELOUPE),97161,Guadeloupe,Guadeloupe,,mutuelle,,353171440,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERPROFESSIONNELLE DE PREVOYANCE,,,,18 RUE BAUDOT,BASSE TERRE (GUADELOUPE),97100,Guadeloupe,Guadeloupe,,mutuelle,,331901942,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERPROFESSIONNELLE ECONOMIQUE LIGERIENNE,,,,11 RUE DU GRIS DE LIN,SAINT ETIENNE,42021,Loire,Auvergne-Rhone-Alpes,,mutuelle,,776398786,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERPROFESSIONNELLE FAMILIALE ET INDIVIDUELLE,,,,8 CHEMIN DE L ANTENNE LES ESSARTS,GRAND COURONNE,76530,Seine-Maritime,Normandie,,mutuelle,,442438974,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERPROFESSIONNELLE LES MENAGES PREVOYANTS,,,,11 RUE ALBERT SARRAUT,VERSAILLES,78000,Yvelines,Ile-de-France,,mutuelle,,785151689,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERPROFESSIONNELLE LYONNAISE,,,,6 PLACE GAILLETON,LYON,69002,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,343676144,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERREGIONALE DES PERSONNELS DES ORGANISMES SOCIAUX ET SIMILAIRES POITOU CHARENTES,,,,1 RUE DE L ANGELIQUE ZA DE L EBEAUPIN BESSINES,NIORT Cedex 9,79041,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,,781459631,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE INTERTECHNIQUE,,,,BOULEVARD SAGNAT,ROCHE LA MOLIERE,42230,Loire,Auvergne-Rhone-Alpes,,mutuelle,,429936537,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE JURASSIENNE,,,,17 RUE JULES BURY,LONS LE SAUNIER CEDEX,39005,Jura,Bourgogne-Franche-Comte,,mutuelle,,778396507,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE JUST EN FAMILLE,,,,19 RUE DE LA POSTE BP 30259,VALENCIENNES,59306,Nord,Hauts-de-France,,mutuelle,,783864150,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE KEOLIS RENNES,,,,RUE JEAN MARIE HUCHET,RENNES Cedex,35040,Ille-et-Vilaine,Bretagne,,mutuelle,,444270730,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE L UNION,,,,LE CARDINAL 13 AVENUE DE VILLENEUVE LE CARDINAL,MIREVAL,34110,Herault,Occitanie,,mutuelle,,443912605,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LA FRANCE MARITIME,,,,42 RUE DE RUFFI CS 50372,MARSEILLE Cedex 03,13331,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,413423005,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LA FRATERNELLE,,,,M CHARLES PRADE 16 AVENUE MARIUS ALES,LANSARGUES,34130,Herault,Occitanie,,mutuelle,,443820691,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LA MARSILLARGUOISE,,,,7 BOULEVARD J.B. BENEZECH AGENCE LANGUEDOC MUTUALITE,MARSILLARGUES,34590,Herault,Occitanie,,mutuelle,,350177226,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LA PHILANTHROPIQUE,,,,19 ROUTE DE MONTFERRIER,GRABELS,34790,Herault,Occitanie,,mutuelle,,441213022,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LA SECURITE ASTURIENNE,,,,RUE J J ROUSSEAU UMICORE FRANCE,AUBY,59950,Nord,Hauts-de-France,,mutuelle,,390802619,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LA SOLIDARITE,,,,16 QUAI ANTONIN GROS CHEZ MADAME CLAUDIE CARBONNE,MARSEILLAN,34340,Herault,Occitanie,,mutuelle,,443820410,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LE LIBRE CHOIX GROUPE CHORALIS,,,,BD DE L EUROPE BP 143,MAUBEUGE,59602,Nord,Hauts-de-France,,mutuelle,,783747793,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LEROY SOMER,,,,16 RUE BRIGADE RAC ZI DE RABION,ANGOULEME,16000,Charente,Nouvelle-Aquitaine,,mutuelle,,390722452,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LES ARTS ET METIERS,,,,45 0 49 AVENUE JEAN MOULIN,LA ROCHELLE,17034,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,781337266,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE LOU CLAPAS L AVEYRONNAISE,,,,MAISON DE LA MUTUALITE 88 RUE DE LA 32EME,MONTPELLIER CEDEX 2,34264,Herault,Occitanie,,mutuelle,,443911342,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MARE GAILLARD,,,,SECTION BERNARD,LE GOSIER (GUADELOUPE),97190,Guadeloupe,Guadeloupe,,mutuelle,,314559451,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MATH,,,,01 BIS BOULEVARD DALGABIO,SAINT-ETIENNE (Loire),42000,Loire,Auvergne-Rhone-Alpes,,mutuelle,,340936087,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MEDICALE ET CHIRURGICALE CONNEX MMC ATLANTIQUE,,,,1 BOULEVARD GEORGES V,BORDEAUX,33000,Gironde,Nouvelle-Aquitaine,,mutuelle,,781847975,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MEDICO SOCIALE DE SANTE DE PASSY,,,,359 AVENUE DU DR JACQUES ARNAUD PLATEAU D ASSY,PASSY,74190,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,443996459,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MEDICO-CHIRURGICALE,,,,6 RUE PAUL MOREL B.P. 802083,VESOUL,70006,Haute-Saone,Bourgogne-Franche-Comte,,mutuelle,,778542852,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MEUSREC,,,,3BIS RUE DU STADE BP 24,BELLEVILLE SUR VIE,85170,Vendee,Pays de la Loire,,mutuelle,,352291561,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MIEUX ETRE,,,,171 AVENUE LEDRU ROLLIN,PARIS,75011,Paris,Ile-de-France,,mutuelle,,775659907,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MNH PREVOYANCE,,,,331 AVENUE D ANTIBES,MONTARGIS CEDEX,45213,Loiret,Centre-Val de Loire,,mutuelle,,484436811,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE MUNICIPALE DE BOULOGNE BILLANCOURT,,,,61 RUE DE LA SAUSSIERE,BOULOGNE BILLANCOURT,92100,Hauts-de-Seine,Ile-de-France,,mutuelle,,785304106,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DE RETRAITE DES ARTISANS,,,,51 RUE DE CHATEAUDUN,PARIS,75009,Paris,Ile-de-France,,mutuelle,,391399227,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DES CONSTRUCTEURS ET ACCEDANTS A LA PROPRIETE,,,,41 AVENUE DE VILLIERS,PARIS,75017,Paris,Ile-de-France,,mutuelle,,391398351,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DES CONSTRUCTEURS ET ACCEDANTS A LA PROPRIETE ASSURANCES CAUTION CHOMAGE,,,,41 AVENUE DE VILLIERS,PARIS,75017,Paris,Ile-de-France,,mutuelle,,442839452,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DES DIFFUSEURS DE PRESSE,,,,16 PLACE DE LA REPUBLIQUE,PARIS,75010,Paris,Ile-de-France,,mutuelle,,443965082,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DES FONCTIONNAIRES DES COLLECTIVITES TERRITORIALES,,,,22 RUE DES VIGNERONS,VINCENNES,94686,Val-de-Marne,Ile-de-France,,mutuelle,,784442899,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DES HOSPITALIERS ET DES PROFESSIONNELS DE LA SANTE ET DU SOCIAL,,,,331 AVENUE D ANTIBES,MONTARGIS,45213,Loiret,Centre-Val de Loire,,mutuelle,,775606361,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DES PERSONNELS AIR FRANCE,,,,3 PLACE DE LONDRES CS 11692 - TREMBLAY EN FRANCE - Bâtiment URANUS 3,ROISSY CHARLES DE GAULLE CEDEX,95725,Val-d'Oise,Ile-de-France,,mutuelle,,379718653,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DES SAPEURS POMPIERS DE FRANCE,,,,32 RUE BREGUET,PARIS,75011,Paris,Ile-de-France,,mutuelle,,776949760,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE DU PERSONNEL DES ETABLISSEMENTS MICHELIN,,,,2 RUE DE BIEN ASSIS,CLERMONT FERRAND CEDEX 9,63040,Puy-de-Dome,Auvergne-Rhone-Alpes,,mutuelle,,382046464,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NATIONALE TERRITORIALE,,,,7 RUE BERGERE,PARIS,75009,Paris,Ile-de-France,,mutuelle,,775678584,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NESTLE FRANCE,,,,7 BOULEVARD PIERRE CARLE BP 9 NOISIEL,MARNE LA VALLEE,77746,Seine-et-Marne,Ile-de-France,,mutuelle,,442962239,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE NOVAMUT,,,,57 RUE SAINT JEAN BP 80674,NANCY,54063,Meurthe-et-Moselle,Grand Est,,mutuelle,,331469908,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE OPALE,,,,89 BOULEVARD LA FAYETTE BP 168,CALAIS,62103,Pas-de-Calais,Hauts-de-France,,mutuelle,,783973266,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE POPULAIRE D ACTION SOCIALE,,,,RUE L HERMINIER BOULEVARD MARITIME,BASSE TERRE (GUADELOUPE),97100,Guadeloupe,Guadeloupe,,mutuelle,,380987826,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE PRECOCIA,,,,27 RUE MONTLOSIER,CLERMONT FERRAND,63058,Puy-de-Dome,Auvergne-Rhone-Alpes,,mutuelle,,779209436,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE PREMIRIS,,,,76 RUE W ROUSSEAU,REVIN,08500,Ardennes,Grand Est,,mutuelle,,780280970,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE PREVOYANCE ALSACE,,,,10 RUE DE LA DURANCE BP 50213,STRASBOURG CEDEX 1,67022,Bas-Rhin,Grand Est,,mutuelle,,444424931,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE PROVENCALE D AUBAGNE,,,,99 RUE DE LA REPUBLIQUE RES ALBANIA,AUBAGNE,13400,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782705826,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE PROVENCALE DE CASSIS ROQUEFORT LA BEDOULE,,,,14 RES DE LA RADE,CASSIS,13260,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782714299,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE PROVENCE ENTREPRISES,,,,2504 ROUTE DE SORGUES QUARTIER DE L OSERAIE,LE PONTET,84130,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,348099789,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE REGIONALE DES ORGANISMES SOCIAUX DU CENTRE,,,,26 BOULEVARD MARIE STUART,ORLEANS,45000,Loiret,Centre-Val de Loire,,mutuelle,,433938081,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE RENAULT,,,,9 RUE DE CLAMART,BOULOGNE BILLANCOURT,92772,Hauts-de-Seine,Ile-de-France,,mutuelle,,775722655,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SAINT GERMAIN,,,,78 BOULEVARD St GERMAIN,PARIS,75005,Paris,Ile-de-France,,mutuelle,,784262115,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SAINT GOBAIN ET ASSIMILES,,,,PLACE DU MARCHE,SAINT-ROMAIN LE PUY,42610,Loire,Auvergne-Rhone-Alpes,,mutuelle,,442292447,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SAINT-AUBANNAISE,,,,1 RUE EMILE BOUYOUD - BP 25,SAINT AUBAN,04600,Alpes-de-Haute-Provence,Provence-Alpes-Cote d'Azur,,mutuelle,,390998466,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SAINT-CHRISTOPHE ASSURANCES,,,,277 RUE SAINT JACQUES,PARIS CEDEX 05,75256,Paris,Ile-de-France,,assurance_non_vie,,775662497,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SAINTE VICTOIRE,,,,8 COURS FORBIN,GARDANNE,13120,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782730923,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SANTE,,,,3 PARC TERTIAIRE DE VALGORA - CENTRE HERMES BP60539,LAVALETTE DU VAR,83160,Var,Provence-Alpes-Cote d'Azur,,mutuelle,,783169238,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SANTE 08,,,,5 RUE DE VAUDIDON,CHARLEVILLE MEZIERES,08000,Ardennes,Grand Est,,mutuelle,,344634647,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SANTE DES INDEPENDANTS,,,,1 PLACE JEAN DE MAUROY BP 737,TROYES,10007,Aube,Grand Est,,mutuelle,,428990972,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SANTE EIFFAGE ENERGIE,,,,117 RUE DU LANDY BP 80008,LA PLAINE SANT DENIS CEDEX,93123,Seine-Saint-Denis,Ile-de-France,,mutuelle,,391526225,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SANTE ET OBSEQUES,,,,31 RUE SMOLETT BP 4133,NICE,06300,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,,mutuelle,,775589203,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SERVICE D'ASSAINISSEMENT MARSEILLE METROPOLE (SERAMM),,,,35 BOULEVARD CAPITAINE GEZE - PARC DES AYGALADES BT C,MARSEILLE,13014,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,408731354,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SERVIR,,,,CHEMIN DE L AUMONE VIEILLE PARC DE L ANGEVINIERE,AUBAGNE,13678,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,311426811,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE SOLIDARITE AERONAUTIQUE,,,,EUROCOPTER,MARIGNANE,13725,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,419542063,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE TERRITORIALE REGIONALE D ALSACE DES PREFECTURES ET DES COLLECTIVITES TERRITORIALES ET HOSPITALIERES,,,,PLACE DU QUARTIER BLANC HOTEL DU DEPARTEMENT,STRASBOURG,67964,Bas-Rhin,Grand Est,,mutuelle,,778868919,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE UMC,,,,35 RUE SAINT-SABIN,PARIS,75011,Paris,Ile-de-France,,mutuelle,,529168007,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE UNEO,,,,48 A 56 RUE BARBES,MONTROUGE,92120,Hauts-de-Seine,Ile-de-France,,mutuelle,,503380081,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE UNION DES TRAVAILLEURS,,,,38 BOULEVARD GENERAL DE GAULLE,DIEPPE,76200,Seine-Maritime,Normandie,,mutuelle,,781017108,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE UNION DU COMMERCE ET DES SCOP,,,,12 QUAI DE LA MEGISSERIE,PARIS,75001,Paris,Ile-de-France,,mutuelle,,788108546,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE VALEO,,,,78 BOULEVARD ST GERMAIN,PARIS,75005,Paris,Ile-de-France,,mutuelle,,784718397,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE VAROISE DES TRAVAILLEURS DE L ETAT,,,,203 CHEMIN DE FAVEYROLLES,OLLIOULES,83190,Var,Provence-Alpes-Cote d'Azur,,mutuelle,,442449278,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLE VICTOR HUGO,,,,9 AVENUE VICTOR HUGO,EPINAL,88000,Vosges,Grand Est,,mutuelle,,315191015,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLES DE FRANCE MUTUELLE GENERALE DES TRAVAILLEURS INDEPENDANT ET COMMERCANTS,,,,70 BOULEVARD MATABIAU BP 7051,TOULOUSE,31069,Haute-Garonne,Occitanie,,mutuelle,,423699990,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLES DE FRANCE ROANNE,,,,9 RUE JEAN JAURES,ROANNE,42300,Loire,Auvergne-Rhone-Alpes,,mutuelle,,776346462,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLES DU PAYS HAUT,,,,10 AVENUE DE SAINTIGNON CS 51418,LONGWY,54414,Meurthe-et-Moselle,Grand Est,,mutuelle,,783303209,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLES FAMILIALE CENTRE AUVERGNE,,,,30 BOULEVARD GAMBETTA,VICHY,03200,Allier,Auvergne-Rhone-Alpes,,mutuelle,,309705994,,,unknown,Sources: acpr_pdf_2015.
+,,,MUTUELLES NICOLAS,,,,2 RUE DU COURSON,THIAIS,94517,Val-de-Marne,Ile-de-France,,mutuelle,,443598404,,,unknown,Sources: acpr_pdf_2015.
+,,,NAGICO INSURANCE COMPANY LIMITED,,,,17 RUE DE LA REPUBLIQUE - MARIGOT BP 444,SAINT MARTIN CEDEX,97055,,,,autre,,521295766,,,unknown,Sources: acpr_pdf_2015.
+,,,NATIO ASSURANCE,,,,8 RUE DU PORT,NANTERRE CEDEX,92728,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,383664752,,,unknown,Sources: acpr_pdf_2015.
+,,,NEUFLIZE VIE,,,,3 AVENUE HOCHE,PARIS CEDEX 08,75410,Paris,Ile-de-France,,assurance_vie,,377678917,,,unknown,Sources: acpr_pdf_2015.
+,,,NEXX ASSURANCE,,,,CHAURAY,NIORT CEDEX 9,79036,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,403329519,,,unknown,Sources: acpr_pdf_2015.
+,,,NOVEA ASSURANCES,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,435053350,,,unknown,Sources: acpr_pdf_2015.
+,,,OCEANE SANTE SAINTE PHILOMENE,,,,92 A 94 AVENUE DES CHUTES LAVIE,MARSEILLE,13004,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782825301,,,unknown,Sources: acpr_pdf_2015.
+,,,OCIANE,,,,8 TERRASSE DU FRONT DU MEDOC HORIZON 1,BORDEAUX,33054,Gironde,Nouvelle-Aquitaine,,mutuelle,,434243085,,,unknown,Sources: acpr_pdf_2015.
+,,,OCIRP,,,,17 RUE DE MARIGNAN CS 50003,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,788334720,,,unknown,Sources: acpr_pdf_2015.
+,,,OCIRP VIE,,,,10 RUE CAMBACERES,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,339688608,,,unknown,Sources: acpr_pdf_2015.
+,,,OPTEVEN,,,,LE PATIO 35 et 37 RUE LOUIS GUERIN,VILLEURBANNE,69100,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,379954886,,,unknown,Sources: acpr_pdf_2015.
+,,,OPTIMUM VIE,,,,94 RUE DE COURCELLES,PARIS,75008,Paris,Ile-de-France,,assurance_vie,,722058567,,,unknown,Sources: acpr_pdf_2015.
+,,,ORADEA VIE,,,,50 AVENUE DU GÉNÉRAL DE GAULLE,PARIS LA DEFENSE CEDEX,92093,Hauts-de-Seine,Ile-de-France,,assurance_mixte,,430435669,,,unknown,Sources: acpr_pdf_2015.
+,,,OREADE - PREVIFRANCE,,,,15 QUAI DU DOCTEUR CALABET,AGEN CEDEX 9,47910,Lot-et-Garonne,Nouvelle-Aquitaine,,mutuelle,,776950669,,,unknown,Sources: acpr_pdf_2015.
+,,,ORPHELINAT MUTUALISTE DE LA POLICE NATIONALE PREVOYANCE,,,,44 RUE ROGER SALENGRO,FONTENAY-SOUS- BOIS,94120,Val-de-Marne,Ile-de-France,,mutuelle,,775662158,,,unknown,Sources: acpr_pdf_2015.
+,,,PACIFICA,,,,8 à 10 BOULEVARD DE VAUGIRARD,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_non_vie,Credit Agricole Assurances,352358865,,,unknown,Sources: acpr_pdf_2015.
+,,,PANACEA ASSURANCES,,,,34 BOULEVARD DE COURCELLES,PARIS,75017,Paris,Ile-de-France,,assurance_non_vie,,507648087,,,unknown,Sources: acpr_pdf_2015.
+,,,PARNASSE GARANTIES,,,,91 COURS DES ROCHES,NOISIEL,77186,Seine-et-Marne,Ile-de-France,,assurance_non_vie,,789910783,,,unknown,Sources: acpr_pdf_2015.
+,,,PARNASSE MAIF,,,,"IMMEUBLE ""LE PAVOIS"" 50 AVENUE SALVADOR ALLENDE",NIORT CEDEX 9,79029,Deux-Sevres,Nouvelle-Aquitaine,,assurance_vie,,330432782,,,unknown,Sources: acpr_pdf_2015.
+,,,PAVILLON PREVOYANCE,,,,90 AVENUE THIERS,BORDEAUX,33072,Gironde,Nouvelle-Aquitaine,,mutuelle,,442978086,,,unknown,Sources: acpr_pdf_2015.
+,,,POUEY RENSEIGNEMENT COMMERCIAL GARANTI SA,,,,11 RUE DE MADRID,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,414494419,,,unknown,Sources: acpr_pdf_2015.
+,,,PREDICA - PREVOYANCE DIALOGUE DU CREDIT AGRICOLE,,,,50 à 56 RUE DE LA PROCESSION,PARIS,75015,Paris,Ile-de-France,,assurance_mixte,Credit Agricole Assurances,334028123,,,unknown,Sources: acpr_pdf_2015.
+,,,PREMUT,,,,L ATRIUM 60 RUE ROBESPIERRE,SAINT ETIENNE,42030,Loire,Auvergne-Rhone-Alpes,,mutuelle,,443889076,,,unknown,Sources: acpr_pdf_2015.
+,,,PREPAR IARD,,,,TOUR FRANKLIN LA DÉFENSE 8,LA DEFENSE CEDEX,92042,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,343158036,,,unknown,Sources: acpr_pdf_2015.
+,,,PREPAR VIE,,,,TOUR FRANKLIN DÉFENSE 8,LA DEFENSE CEDEX,92042,Hauts-de-Seine,Ile-de-France,,assurance_vie,,323087379,,,unknown,Sources: acpr_pdf_2015.
+,,,PREVIPOSTE,,,,4 PLACE RAOUL DAUTRY,PARIS CEDEX 15,75716,Paris,Ile-de-France,,assurance_vie,,341736916,,,unknown,Sources: acpr_pdf_2015.
+,,,PREVOIR RISQUES DIVERS,,,,19 RUE D AUMALE,PARIS CEDEX 09,75306,Paris,Ile-de-France,,assurance_non_vie,,572084051,,,unknown,Sources: acpr_pdf_2015.
+,,,PREVOIR VIE,,,,19 RUE D AUMALE,PARIS CEDEX 09,75306,Paris,Ile-de-France,,assurance_vie,,343286183,,,unknown,Sources: acpr_pdf_2015.
+,,,PREVOYANCE ET SECOURS MUTUELS,,,,IMMEUBLE BOUSCARLE 125 CHEMIN DE LA COQUILLE BP 61,SORGUES,84700,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,343596482,,,unknown,Sources: acpr_pdf_2015.
+,,,PREVOYANCE MUTUALISTE D ILE DE FRANCE,,,,26 RUE DU GENERAL LECLERC,GROSLAY,95410,Val-d'Oise,Ile-de-France,,mutuelle,,785873852,,,unknown,Sources: acpr_pdf_2015.
+,,,PRIMA,,,,37 BOULEVARD BRUNE,PARIS CEDEX 14,75680,Paris,Ile-de-France,,assurance_non_vie,,333193795,,,unknown,Sources: acpr_pdf_2015.
+,,,PRO BTP EPARGNE-RETRAITE- PREVOYANCE,,,,7 RUE DU REGARD,PARIS,75006,Paris,Ile-de-France,,assurance_mixte,,482011269,,,unknown,Sources: acpr_pdf_2015.
+,,,PROTEC BTP,,,,56 RUE VIOLET,PARIS,75015,Paris,Ile-de-France,,assurance_non_vie,,411360472,,,unknown,Sources: acpr_pdf_2015.
+,,,PROTECTION MUTUELLE ET FAMILIALE,,,,30 RUE KAGENECK,STRASBOURG,67000,Bas-Rhin,Grand Est,,mutuelle,,339332967,,,unknown,Sources: acpr_pdf_2015.
+,,,PROTEXIA FRANCE,,,,TOUR NEPTUNE 20 PL DE SEINE LA DEFENSE 1,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,382276624,,,unknown,Sources: acpr_pdf_2015.
+,,,PRUDENCE CREOLE,,,,32 RUE ALEXIS DE VILLENEUVE BP 301,SAINT-DENIS (REUNION) CEDEX,97466,La Reunion,La Reunion,,assurance_non_vie,,310863139,,,unknown,Sources: acpr_pdf_2015.
+,,,QBE INSURANCE (INTERNATIONAL) LIMITED,,,,COEUR DEFENSE - TOUR A 110 ESPLANADE DU GENERAL DE GAULLE,LA DEFENSE CEDEX,92931,Hauts-de-Seine,Ile-de-France,,autre,,582051421,,,unknown,Sources: acpr_pdf_2015.
+,,,QUANTISSIMA VIE,,,,313 TERRASSES DE L ARCHE,NANTERRE CEDEX,92727,Hauts-de-Seine,Ile-de-France,,assurance_vie,,397685983,,,unknown,Sources: acpr_pdf_2015.
+,,,"QUATREM, ASSURANCES COLLECTIVES",,,,59 à 61 RUE LA FAYETTE BP 460 09,PARIS CEDEX 09,75423,Paris,Ile-de-France,,assurance_mixte,,412367724,,,unknown,Sources: acpr_pdf_2015.
+,,,R2E-RETRAITE EPARGNE EXPERTISE,,,,7 RUE MAGDEBOURG,PARIS,75116,Paris,Ile-de-France,,assurance_vie,,529688335,,,unknown,Sources: acpr_pdf_2015.
+,,,RADIANCE GROUPE HUMANIS,,,,139-147 RUE PAUL VAILLANT COUTURIER,MALAKOFF,94240,Val-de-Marne,Ile-de-France,,mutuelle,,352027213,,,unknown,Sources: acpr_pdf_2015.
+,,,REUNICA MUTUELLE,,,,154 RUE ANATOLE FRANCE,LEVALLOIS-PERRET,92599,Hauts-de-Seine,Ile-de-France,,mutuelle,,432836849,,,unknown,Sources: acpr_pdf_2015.
+,,,REUNICA PREVOYANCE,,,,154 RUE ANATOLE FRANCE,LEVALLOIS-PERRET CEDEX,92599,Hauts-de-Seine,Ile-de-France,,institution_prevoyance,,341334795,,,unknown,Sources: acpr_pdf_2015.
+,,,REUNION DES MUTUELLES D ASSURANCES REGIONALES,,,,137 RUE VICTOR HUGO,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775626377,,,unknown,Sources: acpr_pdf_2015.
+,,,REUNISOLIDARITE,,,,47 RUE LUC LORION BP 390,SAINT PIERRE (REUNION),97457,La Reunion,La Reunion,,mutuelle,,402203475,,,unknown,Sources: acpr_pdf_2015.
+,,,RISQUES CIVILS DE LA BOULANGERIE ET BOULANGERIE- PATISSERIE FRANCAISE,,,,27 AVENUE D EYLAU,PARIS CEDEX 16,75782,Paris,Ile-de-France,,assurance_non_vie,,784647273,,,unknown,Sources: acpr_pdf_2015.
+,,,S.3.R.,,,,BOULEVARD DE L EUROPE BP 177,EVRY COURCOURONNES,91006,Essonne,Ile-de-France,,reassurance,,329060925,,,unknown,Sources: acpr_pdf_2015.
+,,,SAINT-CHRISTOPHE PREVOYANCE,,,,277 RUE SAINT JACQUES,PARIS CEDEX 05,75256,Paris,Ile-de-France,,assurance_mixte,,399227404,,,unknown,Sources: acpr_pdf_2015.
+,,,SAINTE EUGENIE,,,,AGENCE LANGUEDOC MUTUALITE 1 QUAI ADOLPHE MERLE,SETE,34200,Herault,Occitanie,,mutuelle,,443822085,,,unknown,Sources: acpr_pdf_2015.
+,,,SAM OUTILLAGE ST ETIENNE NOIRETABLE 42517,,,,60 BOULEVARD THIERS BP 10528,SAINT ETIENNE,42007,Loire,Auvergne-Rhone-Alpes,,mutuelle,,443791306,,,unknown,Sources: acpr_pdf_2015.
+,,,SCOR GLOBAL LIFE SE,,,,5 AVENUE KLEBER,PARIS CEDEX 16,75795,Paris,Ile-de-France,,reassurance,,433935558,,,unknown,Sources: acpr_pdf_2015.
+,,,SCOR GLOBAL P&C SE,,,,5 AVENUE KLEBER,PARIS CEDEX 16,75795,Paris,Ile-de-France,,reassurance,,352980619,,,unknown,Sources: acpr_pdf_2015.
+,,,SCOR SE,,,,5 AVENUE KLEBER,PARIS CEDEX 16,75795,Paris,Ile-de-France,,reassurance,,562033357,,,unknown,Sources: acpr_pdf_2015.
+,,,SERENIS ASSURANCES,,,,25 RUE DU DOCTEUR HENRI ABEL,VALENCE,26000,Drome,Auvergne-Rhone-Alpes,,assurance_non_vie,,350838686,,,unknown,Sources: acpr_pdf_2015.
+,,,SERENIS VIE,,,,34 RUE DU WACKEN,STRASBOURG 9,67906,Bas-Rhin,Grand Est,,assurance_vie,,347569279,,,unknown,Sources: acpr_pdf_2015.
+,,,SERVICES MUTUALISTES DES INDIVIDUELS ET DES PROFESSIONNELS,,,,20 RUE DE LA BROCHE - CS 30 000,NIORT Cedex 9,79077,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,,775709710,,,unknown,Sources: acpr_pdf_2015.
+,,,SHAM Vie,,,,18 RUE EDOUARD ROCHET,LYON,69008,Rhone,Auvergne-Rhone-Alpes,,assurance_vie,,487632861,,,unknown,Sources: acpr_pdf_2015.
+,,,SMA SA,,,,56 RUE VIOLET,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_non_vie,,332789296,,,unknown,Sources: acpr_pdf_2015.
+,,,SMACL ASSURANCES,,,,141 AVENUE SALVADOR ALLENDE,NIORT CEDEX 9,79031,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,VYV,301309605,,,unknown,Sources: acpr_pdf_2015.
+,,,SMACL SANTE - MUTUELLE SANTE PREVOYANCE DES TERRITORIAUX,,,,141 AVENUE SALVADOR ALLENDE,NIORT,79000,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,VYV,483041307,,,unknown,Sources: acpr_pdf_2015.
+,,,SMT MUTUELLE SANTE MUTUALITE POUR TOUS,,,,1 RUE FRANCOIS MOISSON MAISON DE LA MUTUALITE,MARSEILLE,13002,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782834642,,,unknown,Sources: acpr_pdf_2015.
+,,,SO LYON MUTUELLE,,,,18 RUE G. PERI- CS 30094,VILLEURBANNE CEDEX,69623,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,779846849,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE ANONYME DE DEFENSE ET D ASSURANCES,,,,4 RUE SCATISSE,NIMES CEDEX 9,30934,Gard,Occitanie,,assurance_non_vie,,580201127,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE ANONYME GENERALE D'ASSURANCE SUR LA VIE,,,,56 RUE VIOLET,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_vie,,351109137,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE D ASS. MUTUELLES MARITIMES DU MORBIHAN ET DE LOIRE ATLANTIQUE,,,,ESPACE OCEANE 28 RUE DU DANEMARK BP 10405,AURAY CEDEX,56404,Morbihan,Bretagne,,assurance_non_vie,,326446119,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE D ASSURANCE MUTUELLE BRESSE BUGEY,,,,275 RUE PROSPER CONVERT,VIRIAT,01440,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,779389972,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE D ASSURANCE MUTUELLE DES ARMATEURS ET PROFESSIONNELS DE LA MER,,,,METEOR A1 6 PLACE PIERRE SEMARD,SAINT NAZAIRE,44600,Loire-Atlantique,Pays de la Loire,,assurance_non_vie,,775617095,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE D ASSURANCES DE CONSOLIDATION DES RETRAITES DE L ASSURANCE,,,,1 RUE JULES LEFEBVRE,PARIS CEDEX 09,75431,Paris,Ile-de-France,,assurance_vie,,409196755,,,unknown,Sources: acpr_pdf_2015.
+,,,"SOCIETE D ASSURANCES MARITIMES MUTUELLES ""LA MEDITERRANEE""",,,,10 QUAI D ALGER,SETE,34200,Herault,Occitanie,,assurance_non_vie,,332322833,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE D ASSURANCES MUTUELLES BRETAGNE OCEAN,,,,68 QUAI DE L ODET BP 98,QUIMPER CEDEX,29196,Finistere,Bretagne,,assurance_non_vie,,327136743,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE D'ASSURANCES FAMILIALES DES SALARIES ET ARTISANS IARD,,,,7 RUE DU REGARD,PARIS,75006,Paris,Ile-de-France,,assurance_non_vie,,332074384,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE DE PREVOYANCE MUTUALISTE DU PERSONNEL DE LA BANQUE DE FRANCE,,,,80-1655 39 RUE CROIX DES PETITS CHAMPS,PARIS,75001,Paris,Ile-de-France,,mutuelle,,391396397,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE DE SECOURS MUTUELS DES TRANSPORTS DU LANGUEDOC ROUSSILLON,,,,179 RUE N COPERNIC,MONTPELLIER,34070,Herault,Occitanie,,mutuelle,,443820329,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE DES ETUDIANTS MUTUALISTES,,,,28 RUE FORTUNY,PARIS,75017,Paris,Ile-de-France,,mutuelle,,443963988,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE FAMILIALE MUTUALISTE DES SAPEURS POMPIERS DE NICE,,,,2 BOULEVARD DE LA MADELEINE SAPEURS POMPIERS DE NICE BP 718,NICE,06000,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,,mutuelle,,782620579,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE HOSPITALIERE D ASSURANCES MUTUELLES,,,,18 RUE EDOUARD ROCHET,LYON CEDEX 08,69372,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,779860881,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE INTERPROFESSIONNELLE MUTUALISTE INDEPENDANTE DE LA REGION PARISIENNE,,,,107-109 RUE DU PRESIDENT WILSON,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,mutuelle,,784718249,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE CHIRURGICALE ET COMPLEMENTAIRE DU PERSONNEL DE LA BANQUE DE FRANCE,,,,2 AVENUE PIERRE MENDES FRANCE,NOISIEL,77186,Seine-et-Marne,Ile-de-France,,mutuelle,,775657125,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE D AIDE IMMEDIATE AU DECES DES POLICIERS,,,,HOTEL DE POLICE PLACE DU MARECHAL LECLERC BP 53,JUVISY SUR ORGE,91265,Essonne,Ile-de-France,,mutuelle,,443008354,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DE LA SOCIETE EUROPEENNE DES PRODUITS REFRACTAIRES,,,,RN 7,LE PONTET,84130,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,431280296,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DES AUTEURS COMPOSITEURS ET EDITEURS DE MUSIQUE,,,,225 AVENUE CHARLES DE GAULLE,NEUILLY SUR SEINE,92521,Hauts-de-Seine,Ile-de-France,,mutuelle,,784410771,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DES ETUDIANTS DE LA REGION ANTILLES GUYANE,,,,35 RUE SCHOELCHER,FORT DE FRANCE (MARTINIQUE),97200,Martinique,Martinique,,mutuelle,,402127146,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DES ETUDIANTS DE LA REGION PARISIENNE,,,,28 RUE FORTUNY,PARIS,75017,Paris,Ile-de-France,,mutuelle,,775684780,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DES TAXIS,,,,56 RUE ALBERT,PARIS,75013,Paris,Ile-de-France,,mutuelle,,443930995,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DU PERSONNEL ACTIF ET RETRAITE DE LA MARQUE,,,,7 ALLEE DES AJONCS ZAC EST DE LA MORTANE,EYREIN,19800,Correze,Nouvelle-Aquitaine,,mutuelle,,390550986,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DU PERSONNEL DE L UES SOLVAY DOMBASLE,,,,4 RUE GABRIEL PERI,DOMBASLE SUR MEURTHE,54110,Meurthe-et-Moselle,Grand Est,,mutuelle,,306460387,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DU PERSONNEL DE LA SNECMA,,,,CHEMIN DE VIERCY,LIMOGES FOURCHES,77550,Seine-et-Marne,Ile-de-France,,mutuelle,,784338600,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DU PERSONNEL DU GROUPE DES MMA ET SES FILIALES,,,,160 RUE HENRI CHAMPION TSA 50002,LE MANS,72030,Sarthe,Pays de la Loire,,mutuelle,,352003180,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE DU SALEVE,,,,33 CHEMIN AU PEROUZET,COLLONGES SOUS SALEVE,74160,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,437732191,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE GENERALE DE PREVOYANCE,,,,28 RUE FORTUNY,PARIS,75017,Paris,Ile-de-France,,mutuelle,,316710441,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE INTER ENTREPRISES DES ORGANISMES SOCIAUX DU MORBIHAN,,,,37 BOULEVARD DE LA PAIX,VANNES,56000,Morbihan,Bretagne,,mutuelle,,407879709,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE INTERDEPARTEMENTALE DE BANQUE,,,,137 RUE SAINT BIZIER,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,390953222,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE INTERENTREPRISES DU PERSONNEL DES ORGANISMES SOCIAUX DU LOT,,,,238 RUE HAUTESSERRE,CAHORS,46015,Lot,Occitanie,,mutuelle,,431535327,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE INTERPROFESSIONNELLE DE LA REGION SUD EST DE PARIS,,,,69 à 71 AVENUE DE CASANOVA BP 39,IVRY SUR SEINE,94200,Val-de-Marne,Ile-de-France,,mutuelle,,785721671,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE INTERPROFESSIONNELLE RHONE ALPES,,,,38 QUAI CHARLES ROISSARD,CHAMBERY,73000,Savoie,Auvergne-Rhone-Alpes,,mutuelle,,341980985,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE INTERPROFESSIONNELLE SANTE,,,,65 AVENUE JULES CANTINI TOUR MEDITERRANEE,MARSEILLE CEDEX 20,13298,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,438601932,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE LA FRATERNELLE,,,,2 RUE DE LA RENAISSANCE,LANDEMONT,49270,Maine-et-Loire,Pays de la Loire,,mutuelle,,327202487,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUALISTE PERNOD,,,,120 AVENUE DU MARECHAL FOCH,CRETEIL,94015,Val-de-Marne,Ile-de-France,,mutuelle,,444269187,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUELLE D ASSURANCE DES MUSICIENS ET DES METIERS DE LA MUSIQUE,,,,95 RUE D AMSTERDAM,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,394463400,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUELLE D ASSURANCES DE BOURGOGNE,,,,32 RUE DE LA PRÉFECTURE,DIJON,21000,Cote-d'Or,Bourgogne-Franche-Comte,,assurance_non_vie,,348455775,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUELLE D'ASSURANCE DU BATIMENT ET DES TRAVAUX PUBLICS,,,,114 AVENUE EMILE ZOLA,PARIS CEDEX 15,75739,Paris,Ile-de-France,,assurance_non_vie,,775684764,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUELLE ENTREPRISE GUILLERM,,,,5 RUE DU GUEVEN,PLOUVORN,29420,Finistere,Bretagne,,mutuelle,,444000749,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUELLE INTERENTREPRISES DU PERSONNEL DES SOCIETES DU GROUPE AVIVA FRANCE,,,,80 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,mutuelle,,391598661,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE MUTUELLE LES ORIGINAIRES D OUTRE MER,,,,29 BOULEVARD EDGAR QUINET,PARIS,75014,Paris,Ile-de-France,,mutuelle,,423573815,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE SUISSE D ASSURANCE CONTRE LA GRELE,,,,8 RUE JEANNE BARRET,DIJON,21000,Cote-d'Or,Bourgogne-Franche-Comte,,autre,,433799343,,,unknown,Sources: acpr_pdf_2015.
+,,,SOGESSUR,,,,2 RUE JACQUES DAGUERRE,RUEIL MALMAISON CEDEX,92565,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,379846637,,,unknown,Sources: acpr_pdf_2015.
+,,,SOLIDARITE D AQUITAINE,,,,90 AVENUE THIERS,BORDEAUX,33072,Gironde,Nouvelle-Aquitaine,,mutuelle,,781848221,,,unknown,Sources: acpr_pdf_2015.
+,,,SOLIDARITE MUTUALISTE,,,,108 BIS AVENUE DE FLANDRE,PARIS,75019,Paris,Ile-de-France,,mutuelle,,784442923,,,unknown,Sources: acpr_pdf_2015.
+,,,SOLIDARITE MUTUALISTE DE L ASSOCIATION DES TRAVAILLEURS INDEPENDANTS ET SALARIES DE FRANCE,,,,6 A 14 RUE DU PIAVE,ANGOULEME,16920,Charente,Nouvelle-Aquitaine,,mutuelle,,781166293,,,unknown,Sources: acpr_pdf_2015.
+,,,SOLIDARITE RURALE ET URBAINE D ALSACE,,,,7 PL DES HALLES,STRASBOURG,67000,Bas-Rhin,Grand Est,,mutuelle,,778847301,,,unknown,Sources: acpr_pdf_2015.
+,,,SOLUCIA PROTECTION JURIDIQUE,,,,83 BOULEVARD VIVIER MERLE,LYON 03,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,481997708,,,unknown,Sources: acpr_pdf_2015.
+,,,SPHERIA VIE,,,,10 RUE EMILE ZOLA BP 1423,ORLEANS CEDEX 1,45004,Loiret,Centre-Val de Loire,,assurance_mixte,,414494708,,,unknown,Sources: acpr_pdf_2015.
+,,,SPIRICA,,,,50 à 56 RUE DE LA PROCESSION,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_vie,Credit Agricole Assurances,487739963,,,unknown,Sources: acpr_pdf_2015.
+,,,STE MUTUALISTE D ENTREPRISE DES ETS KSB SMC NEUVY MOTORS ESPA,,,,ALLEE DE SAGAN,CHATEAUROUX,36004,Indre,Centre-Val de Loire,,mutuelle,,443801261,,,unknown,Sources: acpr_pdf_2015.
+,,,SUD OUEST MUTUALITE,,,,9 BOULEVARD DU MARTINET,TARBES,65020,Hautes-Pyrenees,Occitanie,,mutuelle,,777169079,,,unknown,Sources: acpr_pdf_2015.
+,,,SURAVENIR,,,,232 RUE GÉNÉRAL PAULET BP 103,BREST CEDEX 9,29802,Finistere,Bretagne,,assurance_mixte,,330033127,,,unknown,Sources: acpr_pdf_2015.
+,,,SURAVENIR ASSURANCES,,,,2 RUE VASCO DE GAMA,SAINT HERBLAIN,44800,Loire-Atlantique,Pays de la Loire,,assurance_non_vie,,343142659,,,unknown,Sources: acpr_pdf_2015.
+,,,SWISSLIFE ASSURANCE ET PATRIMOINE,,,,7 RUE BELGRAND,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_vie,,341785632,,,unknown,Sources: acpr_pdf_2015.
+,,,SWISSLIFE ASSURANCES DE BIENS,,,,7 RUE BELGRAND,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,391277878,,,unknown,Sources: acpr_pdf_2015.
+,,,SWISSLIFE PREVOYANCE ET SANTE,,,,7 RUE BELGRAND,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,322215021,,,unknown,Sources: acpr_pdf_2015.
+,,,TAI TRANSPORT ASSISTANCE SA,,,,34 COURS LAFAYETTE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_non_vie,,478582992,,,unknown,Sources: acpr_pdf_2015.
+,,,THELEM PREVOYANCE,,,,LE CROC,CHECY,45430,Loiret,Centre-Val de Loire,,assurance_mixte,,539477059,,,unknown,Sources: acpr_pdf_2015.
+,,,THEMIS,,,,2 et 4 RUE DE PIED DE FOND,NIORT,79000,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,,582067922,,,unknown,Sources: acpr_pdf_2015.
+,,,TUTELAIRE,,,,47 RUE EUGENE OUDINE,PARIS,75013,Paris,Ile-de-France,,mutuelle,,775682164,,,unknown,Sources: acpr_pdf_2015.
+,,,UNIMUTUELLES,,,,CENTRE ESPACE PERFORMANCE Bat I CITAD RENNES,SAINT GREGOIRE,35760,Ille-et-Vilaine,Bretagne,,mutuelle,,440293355,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION DE REASSURANCE ET DE SUBSTITUTION SOCIALE,,,,39 RUE DU JOURDIL,CRAN GEVRIER,74960,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,453112690,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION DES MUTUELLES D ASSURANCE MONCEAU,,,,65 RUE DE MONCEAU,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,784338717,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION HARMONIE MUTUALITE,,,,143 RUE BLOMET,PARIS,75015,Paris,Ile-de-France,,mutuelle,,350879078,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION INTER REGIONALE ET TECHNIQUE DES SOCIETES ETUDIANTES MUTUALISTES,,,,43 RUE JABOULAY,LYON CEDEX 07,69349,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,330176413,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTARETRAITE,,,,14 RUE MARCEL SEMBAT,LE CREUSOT,71200,Saone-et-Loire,Bourgogne-Franche-Comte,,mutuelle,,444454466,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALISTE FORCE ET SANTE,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,,443443825,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALISTE GENERALE DE PREVOYANCE,,,,28 RUE FORTUNY,PARIS,75017,Paris,Ile-de-France,,mutuelle,,316730662,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALISTE MFPRECAUTION,,,,62 RUE JEANNE D ARC,PARIS CEDEX 13,75640,Paris,Ile-de-France,,mutuelle,,508400629,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALISTE NATIONALE COMPLEMENTAIRE,,,,5 RUE MARCEAU,NOGENT SUR MARNE,94130,Val-de-Marne,Ile-de-France,,mutuelle,,784199036,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALISTE RETRAITE,,,,3 SQUARE MAX-HYMANS,PARIS CEDEX 15,75748,Paris,Ile-de-France,,mutuelle,,442294856,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALITE DES AGENTS TERRITORIAUX ET MEMBRES EXTERIEURS GARANTIES,,,,63 BD DE STRASBOURG BP 61,PARIS,75010,Paris,Ile-de-France,,mutuelle,,444354542,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALITE SOLIDARITE,,,,58 BOULEVARD HUBERT DELISLE BP 388,SAINT PIERRE CEDEX (REUNION),97457,La Reunion,La Reunion,,mutuelle,,382921575,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUELLE AGRICOLE,,,,10 PLACE DU COMMERCE,CAVAILLON,84300,Vaucluse,Provence-Alpes-Cote d'Azur,,mutuelle,,413889411,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUELLE DE REASSURANCE CONTRE L INCENDIE DE LA REGION DE BRESSE ET DOMBES,,,,251 GRANDE RUE,NEUVILLE LES DAMES,01400,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,779352814,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION NATIONALE DE GESTION INFORMATIQUE ET DE REASSURANCE COMPLEMENTAIRE MEDICO CHIRURGICO DENTAIRE,,,,44 RUE COPERNIC,PARIS,75016,Paris,Ile-de-France,,mutuelle,,444368138,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION NATIONALE DES MUTUELLES D ENTREPRISE GARANTIE,,,,255 RUE VAUGIRARD,PARIS Cedex 15,75719,Paris,Ile-de-France,,mutuelle,,442451928,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION NATIONALE DES MUTUELLES DE LA COMMUNICATION,,,,74 RUE BLEUZEN,VANVES,92170,Hauts-de-Seine,Ile-de-France,,mutuelle,,452395775,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION NATIONALE DES MUTUELLES DES ORGANISMES SOCIAUX ET SIMILAIRES,,,,304 RUE GARIBALDI,LYON,69007,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,304514789,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION NATIONALE MUTUALIA,,,,LES MERCURIALES 40 RUE JEAN JAURES,BAGNOLET,93457,Seine-Saint-Denis,Ile-de-France,,mutuelle,,434887386,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION NATIONALE MUTUALISTE INTERPROFESSIONNELLE,,,,3 RUE DE GRAMONT,PARIS,75002,Paris,Ile-de-France,,mutuelle,,784718207,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION PHILANTHROPIQUE ET FRATERNELLE,,,,RUE CORBIN,FLORENSAC,34510,Herault,Occitanie,,mutuelle,,411962822,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION SOLIDARISTE UNIVERSITAIRE,,,,7 RUE PORTALIS,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,780603163,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION TECHNIQUE RESSOURCES MUTUELLES ASSISTANCE,,,,46 RUE DU MOULIN BP 62127,VERTOU CEDEX,44121,Loire-Atlantique,Pays de la Loire,,mutuelle,,444269682,,,unknown,Sources: acpr_pdf_2015.
+,,,UNIPREVOYANCE,,,,10 RUE MASSUE,VINCENNES CEDEX,94307,Val-de-Marne,Ile-de-France,,institution_prevoyance,,318990736,,,unknown,Sources: acpr_pdf_2015.
+,,,UNITE FRATERNELLE DES REGIONS,,,,CITE LACROIX,LE ROBERT (MARTINIQUE),97231,Martinique,Martinique,,mutuelle,,324593979,,,unknown,Sources: acpr_pdf_2015.
+,,,UNITE LORRAINE MUTUALISTE,,,,5 PROMENADE DES CANAUX CS 80566,NANCY CEDEX,54009,Meurthe-et-Moselle,Grand Est,,mutuelle,,442907119,,,unknown,Sources: acpr_pdf_2015.
+,,,UNOFI-ASSURANCES,,,,7 - 7 bis RUE GALVANI,PARIS CEDEX 17,75809,Paris,Ile-de-France,,assurance_vie,,347502254,,,unknown,Sources: acpr_pdf_2015.
+,,,VEOLIA ENVIRONNEMENT SERVICES-RE,,,,36 à 38 AVENUE KLÉBER,PARIS CEDEX 16,75799,Paris,Ile-de-France,,reassurance,,434007274,,,unknown,Sources: acpr_pdf_2015.
+,,,VIASANTE,,,,42 RUE GABRIEL LAME,PARIS,75012,Paris,Ile-de-France,,mutuelle,,777927120,,,unknown,Sources: acpr_pdf_2015.
+,,,VITTAVI SOCIETE MUTUALISTE DES ETUDIANTS DU SUD OUEST,,,,104 AVENUE JEAN RIEUX BP 55876,TOULOUSE,31506,Haute-Garonne,Occitanie,,mutuelle,,775584980,,,unknown,Sources: acpr_pdf_2015.
+,,,WELCARE,,,,139 à 147 RUE PAUL VAILLANT COUTURIER,MALAKOFF,92240,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,344841309,,,unknown,Sources: acpr_pdf_2015.
+,,,UMG GROUPE INTERIALE,,,,57 RUE DES MATHURINS,PARIS 8,75008,Paris,Ile-de-France,,groupe,,522452309,,,unknown,Sources: acpr_pdf_2015.
+,,,UMG GROUPE ISTYA,,,,3 SQUARE MAX HYMANS,PARIS,75015,Paris,Ile-de-France,,groupe,,532661832,,,unknown,Sources: acpr_pdf_2015.
+,,,UMG GROUPE CAP MUTUALITE,,,,41 AVENUE DE VILLIERS,PARIS 17,75017,Paris,Ile-de-France,,groupe,,538780859,,,unknown,Sources: acpr_pdf_2015.
+,,,UNION MUTUALISTE DE GROUPE MUTUELLES DE FRANCE - UMG SOLIMUT,,,,47 RUE MAURICE FLANDIN,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,groupe,,539793885,,,unknown,Sources: acpr_pdf_2015.
+,,,UMG GROUPE HARMONIE,,,,143 RUE BLOMET,PARIS,75015,Paris,Ile-de-France,,groupe,,794528851,,,unknown,Sources: acpr_pdf_2015.
+,,,UMG TERRITOIRES SANTE,,,,BP 59 RUE DE LA MILETRIE,POITIERS CEDEX,86002,Vienne,Nouvelle-Aquitaine,,groupe,,798356739,,,unknown,Sources: acpr_pdf_2015.
+,,,UMG ENTIS MUTUELLES,,,,39 RUE DU JOURDIL,CRAN GEVRIER,74960,Haute-Savoie,Auvergne-Rhone-Alpes,,groupe,,803711647,,,unknown,Sources: acpr_pdf_2015.
+,,,COVEA,,,,7 PLACE MARTYRS DU LYCEE BUFFON,PARIS,75015,Paris,Ile-de-France,,mutuelle,Covea,450527916,,,unknown,Sources: acpr_pdf_2015.
+,,,MACSF SGAM,,,,10 RUE DE VALMY,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,mutuelle,MACSF,488324617,,,unknown,Sources: acpr_pdf_2015.
+,,,MACIF SGAM,,,,2 RUE PIED DE FOND,NIORT,79000,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,AESIO/AEMA,493754261,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE DE GROUPE D'ASSURANCE MUTUELLE DU BATIMENT ET DES TRAVAUX PUBLICS,,,,56 RUE VIOLET,PARIS,75015,Paris,Ile-de-France,,mutuelle,,494397714,,,unknown,Sources: acpr_pdf_2015.
+,,,SGAM AG2R LA MONDIALE,,,,104 à 110 BOULEVARD HAUSSMANN,PARIS,75008,Paris,Ile-de-France,,mutuelle,AG2R La Mondiale,502858418,,,unknown,Sources: acpr_pdf_2015.
+,,,SFEREN,,,,33 AVNUE DU MAINE,PARIS,75015,Paris,Ile-de-France,,mutuelle,,523017952,,,unknown,Sources: acpr_pdf_2015.
+,,,SMACL SGAM,,,,141 AVENUE SALVADOR ALLENDE,NIORT CEDEX 09,79031,Deux-Sevres,Nouvelle-Aquitaine,,mutuelle,VYV,530161918,,,unknown,Sources: acpr_pdf_2015.
+,,,SGAM VIANA,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,mutuelle,,513866723,,,unknown,Sources: acpr_pdf_2015.
+,,,GENERALI FRANCE,,,,7 BOULEVARD HAUSSMANN,PARIS CEDEX 09,75442,Paris,Ile-de-France,,groupe,Generali,572044949,,,unknown,Sources: acpr_pdf_2015.
+,,,INTER MUTUELLES ASSISTANCE,,,,118 AVENUE DE PARIS,NIORT CEDEX 9,79033,Deux-Sevres,Nouvelle-Aquitaine,,groupe,,320281025,,,unknown,Sources: acpr_pdf_2015.
+,,,ALLIANZ FRANCE,,,,87 RUE DE RICHELIEU C C B 107,PARIS,75002,Paris,Ile-de-France,,groupe,Allianz,303265128,,,unknown,Sources: acpr_pdf_2015.
+,,,AVIVA FRANCE,,,,87 RUE DE RICHELIEU,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,groupe,,384634234,,,unknown,Sources: acpr_pdf_2015.
+,,,AXA SA,,,,25 AVENUE MATIGNON,PARIS,75008,Paris,Ile-de-France,,groupe,,572093920,,,unknown,Sources: acpr_pdf_2015.
+,,,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,groupe,BNP Paribas Cardif,382983922,,,unknown,Sources: acpr_pdf_2015.
+,,,EULER HERMES,,,,1 PLACE DES SAISONS,PARIS LA DEFENSE CEDEX,92048,Hauts-de-Seine,Ile-de-France,,groupe,,552040594,,,unknown,Sources: acpr_pdf_2015.
+,,,GROUPE ASSURANCES DU CREDIT MUTUEL,,,,34 RUE DE WACKEN,STRASBOURG,67000,Bas-Rhin,Grand Est,,groupe,,352475529,,,unknown,Sources: acpr_pdf_2015.
+,,,LEGAL & GENERAL HOLDINGS (FRANCE),,,,58 RUE DE LA VICTOIRE,PARIS CEDEX 09,75440,Paris,Ile-de-France,,groupe,,338749781,,,unknown,Sources: acpr_pdf_2015.
+,,,NATIXIS ASSURANCES,,,,30 AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,groupe,,313243800,,,unknown,Sources: acpr_pdf_2015.
+,,,SAS UNOFI,,,,7 RUE GALVANI,PARIS CEDEX 17,75809,Paris,Ile-de-France,,groupe,,444786016,,,unknown,Sources: acpr_pdf_2015.
+,,,SOCIETE CENTRALE PREVOIR,,,,22 RUE DE LA ROCHEFOUCAULD,PARIS CEDEX 09,75306,Paris,Ile-de-France,,groupe,,572084028,,,unknown,Sources: acpr_pdf_2015.
+,,,SWISSLIFE FRANCE,,,,7 RUE BELGRAND,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,groupe,,424245884,,,unknown,Sources: acpr_pdf_2015.
+,,,NORD EUROPE ASSURANCES,,,,9 BOULEVARD GOUVION SAINT CYR,PARIS,75017,Paris,Ile-de-France,,groupe,,478486558,,,unknown,Sources: acpr_pdf_2015.
+,,,APRIL GROUP,,,,114 BOULEVARD MARIUS VIVIER MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,groupe,,377994553,,,unknown,Sources: acpr_pdf_2015.
+,,,ALLIANZ HOLDING FRANCE,,,,87 RUE DE RICHELIEU,PARIS,75002,Paris,Ile-de-France,,groupe,Allianz,494450455,,,unknown,Sources: acpr_pdf_2015.
+,,,CREDIT AGRICOLE ASSURANCES,,,,50 - 56 RUE DE LA PROCESSION,PARIS,75015,Paris,Ile-de-France,,groupe,Credit Agricole Assurances,451746077,,,unknown,Sources: acpr_pdf_2015.
+,,,ASSURISTANCE,,,,4 PLACE RAOUL DAUTRY,PARIS,75015,Paris,Ile-de-France,,groupe,,537619322,,,unknown,Sources: acpr_pdf_2015.
+,,,FINANCIERE MIRO,,,,109 RUE VICTOR HUGO,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,groupe,,950040097,,,unknown,Sources: acpr_pdf_2015.
+,,,ALLIANZ WORLDWIDE PARTNERS SAS,,,,37 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,groupe,Allianz,301763116,,,unknown,Sources: acpr_pdf_2015.
+,,,CONFLUENT,,,,38 FRANCOIS PEISSEL,CALUIRE ET CUIRE,69300,Rhone,Auvergne-Rhone-Alpes,,groupe,,789861143,,,unknown,Sources: acpr_pdf_2015.
+,,,MALAKOFF MEDERIC GROUPEMENT PARITAIRE DE PREVOYANCE,,,,21 RUE LAFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,507635225,,,unknown,Sources: acpr_pdf_2015.
+,,,GPP KLESIA ASSURANCES,,,,4 à 22 RUE MARIE-GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,groupe,Klesia,731096779,,,unknown,Sources: acpr_pdf_2015.
+,,,SYSTEME FEDERAL DE GARANTIE DE LA MUTUALITE FRANCAISE (SFG),,,,225 RUE DE VAUGIRARD,PARIS,75015,Paris,Ile-de-France,,groupe,,442572723,,,unknown,Sources: acpr_pdf_2015.

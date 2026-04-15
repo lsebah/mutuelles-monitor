@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.sfcr_cache/
+.claude/
+*.log
+.DS_Store

@@ -1,0 +1,12 @@
+{
+  "_doc": "Seed file for hand-curated key people. Loaded by people_enricher.py before web search. Use entity_name_normalized OR entity_id to target.",
+  "people": [
+    {
+      "entity_name_normalized": "predica",
+      "name": "Olivier Mariee",
+      "role": "Directeur General",
+      "linkedin": "",
+      "email": null
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "_doc": "Seed de porteurs de produits structures connus, applique par enrichment/apply_structured_seed.py. Match par denomination_normalized (sous-chaine: rule_str must be IN entity_norm). Confiance: high = position publique connue marche FR; medium = inferable. Les SFCR auto-parses ecraseront ces valeurs si nouvelle evidence trouvee.",
+  "_last_review": "2026-04-15",
+  "porteurs": [
+    {
+      "match": "predica",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Predica (CAA) - l'un des plus gros porteurs europeens de notes structurees. Book EMTN/autocall connu. Source: connaissance marche CMF + rapport annuel CAA."
+    },
+    {
+      "match": "cnp assurances",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "CNP Assurances - large allocation aux titres structures dans le fonds general."
+    },
+    {
+      "match": "pacifica",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Pacifica (CAA non-vie) - exposition limitee mais existante."
+    },
+    {
+      "match": "axa france vie",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "AXA France Vie - acheteur historique de structures (autocall, fonds a formule)."
+    },
+    {
+      "match": "allianz vie",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Allianz Vie - allocation produits structures dans general account."
+    },
+    {
+      "match": "generali vie",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Generali Vie - acheteur recurrent EMTN et structures."
+    },
+    {
+      "match": "cardif assurance vie",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "BNP Paribas Cardif Assurance Vie - acheteur structurel BNP + tiers."
+    },
+    {
+      "match": "ag2r prevoyance",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "AG2R La Mondiale - exposition produits structures dans le fonds general."
+    },
+    {
+      "match": "la mondiale partenaire",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "La Mondiale Partenaire - acheteur de structures pour les contrats UC haut de gamme."
+    },
+    {
+      "match": "swisslife assurance et patrimoine",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Swiss Life Assurance et Patrimoine - acheteur historique de structures."
+    },
+    {
+      "match": "swisslife prevoyance",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Swiss Life Prevoyance - exposition moderate."
+    },
+    {
+      "match": "aviva vie",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Aviva Vie (renomme Abeille Vie en 2023) - acheteur de structures."
+    },
+    {
+      "match": "aviva epargne retraite",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Aviva Epargne Retraite - exposition via UC."
+    },
+    {
+      "match": "suravenir",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Suravenir (Credit Mutuel Arkea) - actif sur structures pour ses contrats UC."
+    },
+    {
+      "match": "spirica",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Spirica (CAA) - allocation moderate, plate-forme UC."
+    },
+    {
+      "match": "groupama gan vie",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Groupama Gan Vie - exposition via fonds general."
+    },
+    {
+      "match": "gan patrimoine",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "Gan Patrimoine - canal CGP avec offres structures regulieres."
+    },
+    {
+      "match": "gan eurocourtage",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Gan Eurocourtage - distribution structures via courtiers."
+    },
+    {
+      "match": "maaf vie",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "MAAF Vie (Covea) - allocation limitee mais existante."
+    },
+    {
+      "match": "mma vie",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "MMA Vie (Covea) - similaire MAAF."
+    },
+    {
+      "match": "gmf vie",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "GMF Vie (Covea) - allocation moderee."
+    },
+    {
+      "match": "macifilia",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Macifilia (Macif) - exposition modeste."
+    },
+    {
+      "match": "apicil assurances",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Apicil Assurances - acheteur intermittent pour offre patrimoniale."
+    },
+    {
+      "match": "apicil prevoyance",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Apicil Prevoyance - allocation limitee."
+    },
+    {
+      "match": "klesia mut",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Klesia Mut - exposition via poche credit/actions."
+    },
+    {
+      "match": "klesia prevoyance",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Klesia Prevoyance - exposition limitee."
+    },
+    {
+      "match": "malakoff mederic prevoyance",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Malakoff Mederic Prevoyance (Humanis) - allocation modeste."
+    },
+    {
+      "match": "harmonie mutuelle",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Harmonie Mutuelle (VYV) - exposition limitee, croissance prevue."
+    },
+    {
+      "match": "mgen vie",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "MGEN Vie (VYV) - allocation prudente mais existante."
+    },
+    {
+      "match": "macsf epargne retraite",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "MACSF Epargne Retraite - acheteur cible pour clientele profession sante."
+    },
+    {
+      "match": "macsf prevoyance",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "MACSF Prevoyance - exposition limitee."
+    },
+    {
+      "match": "filia-maif",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Filia-MAIF - exposition moderee."
+    },
+    {
+      "match": "parnasse maif",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Parnasse-MAIF - exposition moderee."
+    },
+    {
+      "match": "matmut vie",
+      "status": "yes",
+      "confidence": "medium",
+      "evidence": "Matmut Vie - allocation moderee."
+    },
+    {
+      "match": "hsbc assurances vie",
+      "status": "yes",
+      "confidence": "high",
+      "evidence": "HSBC Assurances Vie - acheteur historique de structures."
+    },
+    {
+      "match": "axa assurances iard mutuelle",
+      "status": "no",
+      "confidence": "high",
+      "evidence": "AXA Assurances IARD Mutuelle - branche non-vie, pas d'allocation structures."
+    },
+    {
+      "match": "axa france iard",
+      "status": "no",
+      "confidence": "high",
+      "evidence": "AXA France IARD - branche non-vie, pas d'allocation structures."
+    }
+  ]
+}

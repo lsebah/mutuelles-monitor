@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T19:36:27.586455Z",
+  "last_updated": "2026-04-15T19:56:59.526101Z",
   "scrape_status": {
     "acpr_pdf_2015": {
       "status": "success",
@@ -87,9 +87,9 @@
       "CNP Assurances": 2
     },
     "structured_products": {
-      "yes": 0,
-      "no": 0,
-      "unknown": 929
+      "yes": 34,
+      "no": 2,
+      "unknown": 893
     },
     "enrichment": {
       "with_people": 0,
@@ -594,10 +594,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "AG2R La Mondiale - exposition produits structures dans le fonds general.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -898,10 +901,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Allianz Vie - allocation produits structures dans general account.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -1240,10 +1246,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Apicil Assurances - acheteur intermittent pour offre patrimoniale.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -1278,10 +1287,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Apicil Prevoyance - allocation limitee.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -2722,10 +2734,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Aviva Epargne Retraite - exposition via UC.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -2760,10 +2775,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Aviva Vie (renomme Abeille Vie en 2023) - acheteur de structures.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -2836,10 +2854,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "AXA Assurances IARD Mutuelle - branche non-vie, pas d'allocation structures.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -2950,10 +2971,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "AXA France IARD - branche non-vie, pas d'allocation structures.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -2988,10 +3012,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "AXA France Vie - acheteur historique de structures (autocall, fonds a formule).",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -4964,10 +4991,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "BNP Paribas Cardif Assurance Vie - acheteur structurel BNP + tiers.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -5382,10 +5412,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "CNP Assurances - large allocation aux titres structures dans le fonds general.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -6712,10 +6745,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Filia-MAIF - exposition moderee.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -7054,10 +7090,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Generali Vie - acheteur recurrent EMTN et structures.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -7244,10 +7283,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "GMF Vie (Covea) - allocation moderee.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -7358,10 +7400,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Groupama Gan Vie - exposition via fonds general.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -7890,10 +7935,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Harmonie Mutuelle (VYV) - exposition limitee, croissance prevue.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -8004,10 +8052,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "HSBC Assurances Vie - acheteur historique de structures.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -8954,10 +9005,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Klesia Mut - exposition via poche credit/actions.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -8992,10 +9046,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Klesia Prevoyance - exposition limitee.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -9866,10 +9923,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "La Mondiale Partenaire - acheteur de structures pour les contrats UC haut de gamme.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -11310,10 +11370,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "MAAF Vie (Covea) - allocation limitee mais existante.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -11386,10 +11449,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Macifilia (Macif) - exposition modeste.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -11424,10 +11490,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "MACSF Epargne Retraite - acheteur cible pour clientele profession sante.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -11462,10 +11531,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "MACSF Prevoyance - exposition limitee.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -11614,10 +11686,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Malakoff Mederic Prevoyance (Humanis) - allocation modeste.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -11842,10 +11917,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Matmut Vie - allocation moderee.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -12108,10 +12186,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "MGEN Vie (VYV) - allocation prudente mais existante.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -12336,10 +12417,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "MMA Vie (Covea) - similaire MAAF.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -28600,10 +28684,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Pacifica (CAA non-vie) - exposition limitee mais existante.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -28714,10 +28801,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Parnasse-MAIF - exposition moderee.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -28828,10 +28918,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Predica (CAA) - l'un des plus gros porteurs europeens de notes structurees. Book EMTN/autocall connu. Source: connaissance marche CMF + rapport annuel CAA.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -32286,10 +32379,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Spirica (CAA) - allocation moderate, plate-forme UC.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -32400,10 +32496,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Suravenir (Credit Mutuel Arkea) - actif sur structures pour ses contrats UC.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -32438,10 +32537,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Suravenir (Credit Mutuel Arkea) - actif sur structures pour ses contrats UC.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -32476,10 +32578,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Swiss Life Assurance et Patrimoine - acheteur historique de structures.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "high",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true
@@ -32552,10 +32657,13 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "yes",
+        "evidence": "Swiss Life Prevoyance - exposition moderate.",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "",
+        "confidence": "medium",
+        "source": "seed_manual",
+        "applied_at": "2026-04-15"
       },
       "sources": {
         "acpr_pdf_2015": true

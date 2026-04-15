@@ -7,10 +7,10 @@ on:
     inputs:
       people_limit:
         description: "Max entities for people enrichment"
-        default: "30"
+        default: "50"
       sfcr_limit:
         description: "Max entities for SFCR analysis"
-        default: "10"
+        default: "25"
 
 jobs:
   enrich:
@@ -27,11 +27,11 @@ jobs:
 
       - name: People enrichment (LinkedIn via DDG)
         working-directory: scraper
-        run: python enrichment/people_enricher.py --limit ${{ github.event.inputs.people_limit || 30 }}
+        run: python enrichment/people_enricher.py --limit ${{ github.event.inputs.people_limit || 50 }}
 
       - name: SFCR enrichment (structured products + financials)
         working-directory: scraper
-        run: python enrichment/sfcr_parser.py --limit ${{ github.event.inputs.sfcr_limit || 10 }}
+        run: python enrichment/sfcr_parser.py --limit ${{ github.event.inputs.sfcr_limit || 25 }}
 
       - name: Re-export Folk CSV
         working-directory: scraper

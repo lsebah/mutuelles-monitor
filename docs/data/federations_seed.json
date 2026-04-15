@@ -1,0 +1,228 @@
+{
+  "_doc": "Seed des federations professionnelles cibles pour CMF, applique par enrichment/apply_federations_seed.py. Tier 1 = federations financieres (cible CMF prioritaire). Tier 2 = patronat/branches. Les noms de dirigeants sont a la date du seed - a verifier periodiquement.",
+  "_last_review": "2026-04-15",
+  "federations": [
+    {
+      "tier": 1,
+      "denomination": "AMAFI - Association francaise des marches financiers",
+      "short_name": "AMAFI",
+      "category": "federation_financiere",
+      "website": "https://www.amafi.fr",
+      "address_street": "13 rue Auber",
+      "postal_code": "75009",
+      "city": "PARIS",
+      "siren": "388898212",
+      "people": [
+        {"name": "Stephane Giordano", "role": "President", "linkedin": "", "confidence": "medium"},
+        {"name": "Bertrand de Saint-Mars", "role": "Delegue General", "linkedin": "", "confidence": "high"}
+      ],
+      "notes": "Federation des intermediaires en marches financiers. Membre cle pour ecosysteme structures."
+    },
+    {
+      "tier": 1,
+      "denomination": "AFG - Association francaise de la gestion financiere",
+      "short_name": "AFG",
+      "category": "federation_financiere",
+      "website": "https://www.afg.asso.fr",
+      "address_street": "31 rue de Miromesnil",
+      "postal_code": "75008",
+      "city": "PARIS",
+      "siren": "302812230",
+      "people": [
+        {"name": "Philippe Setbon", "role": "President", "linkedin": "", "confidence": "medium"},
+        {"name": "Eric Pinon", "role": "President d'honneur", "linkedin": "", "confidence": "medium"}
+      ],
+      "notes": "Federation des SGP francaises. Tres proche des asset managers et fonds de fonds."
+    },
+    {
+      "tier": 1,
+      "denomination": "ASF - Association francaise des societes financieres",
+      "short_name": "ASF",
+      "category": "federation_financiere",
+      "website": "https://www.asf-france.com",
+      "address_street": "24 avenue de la Grande Armee",
+      "postal_code": "75017",
+      "city": "PARIS",
+      "siren": "775683987",
+      "people": [
+        {"name": "Francoise Palle-Guillabert", "role": "Delegue General", "linkedin": "", "confidence": "high"}
+      ],
+      "notes": "Federation des societes de financement (credit, leasing, factoring)."
+    },
+    {
+      "tier": 1,
+      "denomination": "FBF - Federation bancaire francaise",
+      "short_name": "FBF",
+      "category": "federation_financiere",
+      "website": "https://www.fbf.fr",
+      "address_street": "18 rue La Fayette",
+      "postal_code": "75009",
+      "city": "PARIS",
+      "siren": "433319550",
+      "people": [
+        {"name": "Maya Atig", "role": "Directrice Generale", "linkedin": "", "confidence": "high"}
+      ],
+      "notes": "Federation des banques francaises. Tres haute pertinence pour CMF."
+    },
+    {
+      "tier": 1,
+      "denomination": "FFA - France Assureurs",
+      "short_name": "FFA",
+      "category": "federation_financiere",
+      "website": "https://www.franceassureurs.fr",
+      "address_street": "1 rue Jules Lefebvre",
+      "postal_code": "75009",
+      "city": "PARIS",
+      "siren": "775666364",
+      "people": [
+        {"name": "Florence Lustman", "role": "Presidente", "linkedin": "", "confidence": "high"},
+        {"name": "Franck Le Vallois", "role": "Directeur General", "linkedin": "", "confidence": "high"}
+      ],
+      "notes": "Ex-FFSA. Federation de toutes les assurances francaises. CRITIQUE pour CMF prospection structures."
+    },
+    {
+      "tier": 1,
+      "denomination": "CTIP - Centre Technique des Institutions de Prevoyance",
+      "short_name": "CTIP",
+      "category": "federation_financiere",
+      "website": "https://www.ctip.asso.fr",
+      "address_street": "10 rue Cambaceres",
+      "postal_code": "75008",
+      "city": "PARIS",
+      "siren": "318404613",
+      "people": [
+        {"name": "Jean-Paul Lacam", "role": "Delegue General", "linkedin": "", "confidence": "medium"}
+      ],
+      "notes": "Federation des Institutions de Prevoyance. Cible directe pour les IP qui achetent des structures."
+    },
+    {
+      "tier": 1,
+      "denomination": "FNMF - Federation Nationale de la Mutualite Francaise",
+      "short_name": "FNMF / Mutualite Francaise",
+      "category": "federation_financiere",
+      "website": "https://www.mutualite.fr",
+      "address_street": "255 rue de Vaugirard",
+      "postal_code": "75015",
+      "city": "PARIS",
+      "siren": "775680140",
+      "people": [
+        {"name": "Eric Chenut", "role": "President", "linkedin": "", "confidence": "high"},
+        {"name": "Severine Salgado", "role": "Directrice Generale", "linkedin": "", "confidence": "medium"}
+      ],
+      "notes": "Federation principale des mutuelles francaises (~500 mutuelles). CRITIQUE."
+    },
+    {
+      "tier": 1,
+      "denomination": "AFER - Association francaise d'epargne et de retraite",
+      "short_name": "AFER",
+      "category": "federation_financiere",
+      "website": "https://www.afer.fr",
+      "address_street": "36 rue de Chateaudun",
+      "postal_code": "75009",
+      "city": "PARIS",
+      "siren": "317449204",
+      "people": [
+        {"name": "Gerard Bekerman", "role": "President", "linkedin": "", "confidence": "high"}
+      ],
+      "notes": "Plus grosse association d'epargnants individuels (~750 000 adherents). Acheteur de structures via son contrat AFER."
+    },
+    {
+      "tier": 2,
+      "denomination": "MEDEF - Mouvement des Entreprises de France",
+      "short_name": "MEDEF",
+      "category": "federation_patronale",
+      "website": "https://www.medef.com",
+      "address_street": "55 avenue Bosquet",
+      "postal_code": "75007",
+      "city": "PARIS",
+      "siren": "784669627",
+      "people": [
+        {"name": "Patrick Martin", "role": "President", "linkedin": "", "confidence": "high"}
+      ]
+    },
+    {
+      "tier": 2,
+      "denomination": "CPME - Confederation des Petites et Moyennes Entreprises",
+      "short_name": "CPME",
+      "category": "federation_patronale",
+      "website": "https://www.cpme.fr",
+      "address_street": "10 terrasse Bellini",
+      "postal_code": "92800",
+      "city": "PUTEAUX",
+      "siren": "775662140",
+      "people": [
+        {"name": "Amir Reza-Tofighi", "role": "President", "linkedin": "", "confidence": "high"}
+      ]
+    },
+    {
+      "tier": 2,
+      "denomination": "U2P - Union des entreprises de proximite",
+      "short_name": "U2P",
+      "category": "federation_patronale",
+      "website": "https://www.u2p-france.fr",
+      "address_street": "53 rue Ampere",
+      "postal_code": "75017",
+      "city": "PARIS",
+      "siren": "784338108",
+      "people": [
+        {"name": "Michel Picon", "role": "President", "linkedin": "", "confidence": "medium"}
+      ]
+    },
+    {
+      "tier": 2,
+      "denomination": "FFB - Federation Francaise du Batiment",
+      "short_name": "FFB",
+      "category": "federation_branche",
+      "website": "https://www.ffbatiment.fr",
+      "address_street": "33 avenue Kleber",
+      "postal_code": "75784",
+      "city": "PARIS CEDEX 16",
+      "siren": "784419023",
+      "people": [
+        {"name": "Olivier Salleron", "role": "President", "linkedin": "", "confidence": "high"}
+      ]
+    },
+    {
+      "tier": 2,
+      "denomination": "FNTP - Federation Nationale des Travaux Publics",
+      "short_name": "FNTP",
+      "category": "federation_branche",
+      "website": "https://www.fntp.fr",
+      "address_street": "3 rue de Berri",
+      "postal_code": "75008",
+      "city": "PARIS",
+      "siren": "784672571",
+      "people": [
+        {"name": "Alain Grizaud", "role": "President", "linkedin": "", "confidence": "medium"}
+      ]
+    },
+    {
+      "tier": 2,
+      "denomination": "FNSEA - Federation Nationale des Syndicats d'Exploitants Agricoles",
+      "short_name": "FNSEA",
+      "category": "federation_branche",
+      "website": "https://www.fnsea.fr",
+      "address_street": "11 rue de la Baume",
+      "postal_code": "75008",
+      "city": "PARIS",
+      "siren": "775682298",
+      "people": [
+        {"name": "Arnaud Rousseau", "role": "President", "linkedin": "", "confidence": "high"}
+      ]
+    },
+    {
+      "tier": 2,
+      "denomination": "AFEP - Association Francaise des Entreprises Privees",
+      "short_name": "AFEP",
+      "category": "federation_patronale",
+      "website": "https://www.afep.com",
+      "address_street": "11 avenue Delcasse",
+      "postal_code": "75008",
+      "city": "PARIS",
+      "siren": "303320071",
+      "people": [
+        {"name": "Patricia Barbizet", "role": "Presidente", "linkedin": "", "confidence": "medium"}
+      ]
+    }
+  ]
+}

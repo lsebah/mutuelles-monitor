@@ -59,18 +59,16 @@ ROLE_QUERIES = [
 
 
 def _search_ddg(query: str) -> list:
-    """Search DuckDuckGo HTML and return LinkedIn results."""
+    """Search DuckDuckGo HTML and return LinkedIn results. Uses Playwright browser."""
+    from sources.base import fetch_browser
     url = DDG_URL + quote_plus(query)
     try:
-        r = requests.get(url, headers=HEADERS, timeout=15)
-        if r.status_code != 200:
-            logger.debug(f"  DDG {r.status_code}")
-            return []
+        html = fetch_browser(url, wait_ms=2500)
     except Exception as e:
         logger.debug(f"  DDG error: {e}")
         return []
 
-    soup = BeautifulSoup(r.text, "lxml")
+    soup = BeautifulSoup(html, "lxml")
     results = []
     for a in soup.select("a.result__a"):
         href = a.get("href", "")

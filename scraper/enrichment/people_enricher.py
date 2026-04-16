@@ -45,15 +45,16 @@ DDG_URL = "https://html.duckduckgo.com/html/?q="
 
 
 def search_linkedin(query: str) -> list:
-    """Search LinkedIn profiles via DuckDuckGo HTML interface."""
+    """Search LinkedIn profiles via DuckDuckGo with Playwright browser."""
+    from sources.base import fetch_browser
     full = f'site:linkedin.com/in {query}'
     url = DDG_URL + quote_plus(full)
     try:
-        resp = fetch(url, delay=2.5)
+        html = fetch_browser(url, wait_ms=2500)
     except Exception as e:
         logger.warning(f"DDG search failed: {e}")
         return []
-    soup = BeautifulSoup(resp.text, "lxml")
+    soup = BeautifulSoup(html, "lxml")
     results = []
     for a in soup.select("a.result__a"):
         href = a.get("href", "")

@@ -43,14 +43,15 @@ DDG_URL = "https://html.duckduckgo.com/html/?q="
 
 
 def find_sfcr_url(entity_name: str) -> str:
-    """Search DuckDuckGo for the SFCR PDF URL."""
+    """Search DuckDuckGo for the SFCR PDF URL using Playwright browser."""
+    from sources.base import fetch_browser
     q = f'"{entity_name}" SFCR 2024 filetype:pdf'
     try:
-        resp = fetch(DDG_URL + quote_plus(q), delay=2.5)
+        html = fetch_browser(DDG_URL + quote_plus(q), wait_ms=2500)
     except Exception as e:
         logger.warning(f"DDG search failed: {e}")
         return ""
-    soup = BeautifulSoup(resp.text, "lxml")
+    soup = BeautifulSoup(html, "lxml")
     for a in soup.select("a.result__a"):
         href = a.get("href", "")
         m = re.search(r"https?://[^&\s\"']+\.pdf", href)

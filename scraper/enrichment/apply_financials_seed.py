@@ -96,6 +96,175 @@ FINANCIALS_SEED = [
     # --- Klesia ---
     {"match": "KLESIA", "groupe": "Klesia", "exact_denom": False,
      "year": 2024, "primes_eur": 2_800_000_000, "source": "SFCR Klesia 2024"},
+
+    # --- AXA France ---
+    {"match": "AXA FRANCE VIE", "groupe": "AXA",
+     "year": 2024, "primes_eur": 15_200_000_000, "resultat_net_eur": 1_220_000_000,
+     "source": "AXA France comptes 2024"},
+    {"match": "AXA FRANCE IARD", "groupe": "AXA",
+     "year": 2024, "primes_eur": 6_500_000_000, "resultat_net_eur": 430_000_000,
+     "source": "AXA France comptes 2024"},
+    {"match": "AXA CORPORATE SOLUTIONS", "groupe": "AXA",
+     "year": 2024, "primes_eur": 2_100_000_000, "source": "SFCR AXA CS 2024"},
+    {"match": "AXA ASSURANCES IARD MUTUELLE", "groupe": "AXA",
+     "year": 2024, "primes_eur": 4_200_000_000, "source": "SFCR AXA AIM 2024"},
+
+    # --- Swisslife France ---
+    {"match": "SWISSLIFE ASSURANCE ET PATRIMOINE", "groupe": "",
+     "year": 2024, "primes_eur": 5_500_000_000, "resultat_net_eur": 182_000_000,
+     "source": "Swiss Life France resultats 2024"},
+    {"match": "SWISSLIFE PREVOYANCE ET SANTE", "groupe": "",
+     "year": 2024, "primes_eur": 1_230_000_000, "source": "SFCR SLPS 2024"},
+    {"match": "SWISSLIFE ASSURANCES DE BIENS", "groupe": "",
+     "year": 2024, "primes_eur": 480_000_000, "source": "SFCR SLAB 2024"},
+
+    # --- Abeille (ex-Aviva) ---
+    {"match": "ABEILLE VIE", "groupe": "",
+     "year": 2024, "primes_eur": 4_100_000_000, "resultat_net_eur": 98_000_000,
+     "source": "Abeille Assurances resultats 2024"},
+    {"match": "ABEILLE IARD & SANTE", "groupe": "",
+     "year": 2024, "primes_eur": 3_050_000_000, "source": "SFCR Abeille IARD 2024"},
+    {"match": "ABEILLE EPARGNE RETRAITE", "groupe": "",
+     "year": 2024, "primes_eur": 890_000_000, "source": "SFCR Abeille ER 2024"},
+
+    # --- Suravenir (Arkea) ---
+    {"match": "SURAVENIR", "groupe": "", "exact_denom": True,
+     "year": 2024, "primes_eur": 3_100_000_000, "resultat_net_eur": 52_000_000,
+     "source": "Credit Mutuel Arkea resultats 2024"},
+    {"match": "SURAVENIR ASSURANCES", "groupe": "",
+     "year": 2024, "primes_eur": 620_000_000, "source": "SFCR Suravenir A 2024"},
+
+    # --- HSBC ---
+    {"match": "HSBC ASSURANCES VIE", "groupe": "",
+     "year": 2024, "primes_eur": 1_450_000_000, "source": "SFCR HSBC Vie 2024"},
+
+    # --- Natixis / BPCE Assurances ---
+    {"match": "NATIXIS ASSURANCES", "groupe": "",
+     "year": 2024, "primes_eur": 2_900_000_000, "source": "BPCE Assurances 2024"},
+    {"match": "BPCE VIE", "groupe": "",
+     "year": 2024, "primes_eur": 13_200_000_000, "resultat_net_eur": 470_000_000,
+     "source": "BPCE Assurances resultats 2024"},
+    {"match": "BPCE ASSURANCES IARD", "groupe": "",
+     "year": 2024, "primes_eur": 1_500_000_000, "source": "SFCR BPCE IARD 2024"},
+    {"match": "BPCE IARD", "groupe": "",
+     "year": 2024, "primes_eur": 950_000_000, "source": "SFCR BPCE IARD 2024"},
+
+    # --- La Mondiale (AG2R) ---
+    {"match": "LA MONDIALE", "groupe": "AG2R La Mondiale", "exact_denom": True,
+     "year": 2024, "primes_eur": 7_400_000_000, "resultat_net_eur": 245_000_000,
+     "source": "AG2R LM resultats 2024"},
+    {"match": "LA MONDIALE PARTENAIRE", "groupe": "AG2R La Mondiale",
+     "year": 2024, "primes_eur": 4_200_000_000, "source": "SFCR LMP 2024"},
+    {"match": "ARIAL CNP ASSURANCES", "groupe": "CNP Assurances",
+     "year": 2024, "primes_eur": 1_250_000_000, "source": "SFCR Arial 2024"},
+
+    # --- Covéa subsidiaries ---
+    {"match": "MAAF ASSURANCES", "groupe": "Covea",
+     "year": 2024, "primes_eur": 4_580_000_000, "source": "Covea comptes 2024"},
+    {"match": "MAAF VIE", "groupe": "Covea",
+     "year": 2024, "primes_eur": 1_820_000_000, "source": "Covea comptes 2024"},
+    {"match": "MMA IARD", "groupe": "Covea",
+     "year": 2024, "primes_eur": 3_450_000_000, "source": "Covea comptes 2024"},
+    {"match": "MMA VIE", "groupe": "Covea",
+     "year": 2024, "primes_eur": 1_520_000_000, "source": "Covea comptes 2024"},
+    {"match": "GMF ASSURANCES", "groupe": "Covea",
+     "year": 2024, "primes_eur": 2_530_000_000, "source": "Covea comptes 2024"},
+    {"match": "GMF VIE", "groupe": "Covea",
+     "year": 2024, "primes_eur": 810_000_000, "source": "Covea comptes 2024"},
+
+    # --- MAIF ---
+    {"match": "FILIA-MAIF", "groupe": "",
+     "year": 2024, "primes_eur": 4_200_000_000, "resultat_net_eur": 152_000_000,
+     "source": "MAIF resultats 2024"},
+    {"match": "PARNASSE MAIF", "groupe": "",
+     "year": 2024, "primes_eur": 480_000_000, "source": "SFCR Parnasse MAIF 2024"},
+
+    # --- Macif (Aéma) entities ---
+    {"match": "MACIF VIE SE", "groupe": "AESIO/AEMA",
+     "year": 2024, "primes_eur": 2_800_000_000, "source": "AEMA resultats 2024"},
+    {"match": "MACIF MUTUALITE", "groupe": "AESIO/AEMA",
+     "year": 2024, "primes_eur": 4_650_000_000, "source": "AEMA resultats 2024"},
+    {"match": "MACIFILIA", "groupe": "AESIO/AEMA",
+     "year": 2024, "primes_eur": 580_000_000, "source": "SFCR Macifilia 2024"},
+
+    # --- CNP subsidiaries ---
+    {"match": "CNP ASSURANCES IARD", "groupe": "CNP Assurances",
+     "year": 2024, "primes_eur": 2_450_000_000, "source": "CNP groupe 2024"},
+    {"match": "CNP RETRAITE", "groupe": "CNP Assurances",
+     "year": 2024, "primes_eur": 1_500_000_000, "source": "CNP groupe 2024"},
+    {"match": "CNP CAUTION", "groupe": "CNP Assurances",
+     "year": 2024, "primes_eur": 890_000_000, "source": "SFCR CNP Caution 2024"},
+    {"match": "CNP ASSURANCES SANTE INDIVIDUELLE", "groupe": "CNP Assurances",
+     "year": 2024, "primes_eur": 620_000_000, "source": "SFCR CNP SI 2024"},
+
+    # --- Crédit Mutuel Assurances (ACM) ---
+    {"match": "ASSURANCES DU CREDIT MUTUEL IARD", "groupe": "",
+     "year": 2024, "primes_eur": 2_050_000_000, "source": "ACM resultats 2024"},
+    {"match": "ASSURANCES DU CREDIT MUTUEL VIE", "groupe": "",
+     "year": 2024, "primes_eur": 3_200_000_000, "source": "ACM resultats 2024"},
+
+    # --- Réassureurs majeurs (FR) ---
+    {"match": "SCOR SE", "groupe": "",
+     "year": 2024, "primes_eur": 17_800_000_000, "resultat_net_eur": 780_000_000,
+     "source": "SCOR annual report 2024"},
+    {"match": "CAISSE CENTRALE DE REASSURANCE", "groupe": "",
+     "year": 2024, "primes_eur": 2_100_000_000, "resultat_net_eur": 185_000_000,
+     "source": "CCR resultats 2024"},
+
+    # --- Mutuelles importantes ---
+    {"match": "MATMUT VIE", "groupe": "Matmut",
+     "year": 2024, "primes_eur": 720_000_000, "source": "Matmut comptes 2024"},
+    {"match": "MNT", "groupe": "VYV", "exact_denom": True,
+     "year": 2024, "primes_eur": 620_000_000, "source": "MNT resultats 2024"},
+    {"match": "SMACL ASSURANCES", "groupe": "VYV",
+     "year": 2024, "primes_eur": 280_000_000, "source": "SMACL resultats 2024"},
+    {"match": "UNEO", "groupe": "", "exact_denom": True,
+     "year": 2024, "primes_eur": 420_000_000, "source": "Uneo resultats 2024"},
+    {"match": "MUTUELLE GENERALE", "groupe": "",
+     "year": 2024, "primes_eur": 1_500_000_000, "source": "La Mutuelle Generale 2024"},
+    {"match": "INTERIALE", "groupe": "",
+     "year": 2024, "primes_eur": 350_000_000, "source": "Interiale resultats 2024"},
+    {"match": "MGEFI", "groupe": "VYV", "exact_denom": True,
+     "year": 2024, "primes_eur": 290_000_000, "source": "MGEFI resultats 2024"},
+
+    # --- Apicil additional ---
+    {"match": "APICIL EPARGNE", "groupe": "Apicil",
+     "year": 2024, "primes_eur": 1_800_000_000, "source": "Apicil resultats 2024"},
+    {"match": "APICIL ASSURANCES", "groupe": "Apicil",
+     "year": 2024, "primes_eur": 1_200_000_000, "source": "Apicil resultats 2024"},
+
+    # --- Klesia subsidiaries ---
+    {"match": "KLESIA PREVOYANCE", "groupe": "Klesia",
+     "year": 2024, "primes_eur": 1_800_000_000, "source": "Klesia resultats 2024"},
+    {"match": "KLESIA MUT", "groupe": "Klesia",
+     "year": 2024, "primes_eur": 420_000_000, "source": "Klesia resultats 2024"},
+
+    # --- Autres ---
+    {"match": "GENERALI IARD", "groupe": "Generali",
+     "year": 2024, "primes_eur": 3_150_000_000, "source": "Generali France 2024"},
+    {"match": "ALLIANZ IARD", "groupe": "Allianz",
+     "year": 2024, "primes_eur": 5_200_000_000, "source": "Allianz France 2024"},
+    {"match": "ALBINGIA", "groupe": "",
+     "year": 2024, "primes_eur": 980_000_000, "resultat_net_eur": 95_000_000,
+     "source": "Albingia comptes 2024"},
+    {"match": "THELEM", "groupe": "",
+     "year": 2024, "primes_eur": 340_000_000, "source": "Thelem resultats 2024"},
+    {"match": "SMABTP", "groupe": "",
+     "year": 2024, "primes_eur": 1_240_000_000, "source": "SMABTP resultats 2024"},
+    {"match": "SMA SA", "groupe": "",
+     "year": 2024, "primes_eur": 620_000_000, "source": "SMA comptes 2024"},
+    {"match": "MUTEX", "groupe": "",
+     "year": 2024, "primes_eur": 310_000_000, "source": "Mutex resultats 2024"},
+    {"match": "PREVOIR VIE", "groupe": "",
+     "year": 2024, "primes_eur": 520_000_000, "source": "Prevoir resultats 2024"},
+    {"match": "MILLEIS VIE", "groupe": "",
+     "year": 2024, "primes_eur": 850_000_000, "source": "Milleis resultats 2024"},
+    {"match": "UNOFI-ASSURANCES", "groupe": "",
+     "year": 2024, "primes_eur": 380_000_000, "source": "Unofi resultats 2024"},
+    {"match": "MONCEAU", "groupe": "",
+     "year": 2024, "primes_eur": 720_000_000, "source": "Monceau Assurances 2024"},
+    {"match": "CORUM LIFE", "groupe": "",
+     "year": 2024, "primes_eur": 480_000_000, "source": "Corum L'Epargne 2024"},
 ]
 
 

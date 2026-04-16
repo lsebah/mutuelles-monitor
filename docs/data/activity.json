@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T07:25:22Z",
+  "last_updated": "2026-04-16T20:17:35Z",
   "events": [
     {
       "id": "evt_20260416_fin_ent_2b8c44ba20_021f936c",
@@ -319,6 +319,870 @@
         "sp_ratio": null,
         "rendement_actifs_pct": null,
         "source": "SFCR Klesia 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_2524d762fd_6ab569c4",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_2524d762fd",
+      "entity_name": "AXA FRANCE VIE",
+      "summary": "Primes 2024: 15.20 Md€ | R. net: 1.22 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 15200000000,
+        "resultat_net_eur": 1220000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AXA France comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_dea49a2470_f6020f05",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_dea49a2470",
+      "entity_name": "AXA FRANCE IARD",
+      "summary": "Primes 2024: 6.50 Md€ | R. net: 430.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 6500000000,
+        "resultat_net_eur": 430000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AXA France comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_fab2e24d9e_64abb39b",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_fab2e24d9e",
+      "entity_name": "AXA ASSURANCES IARD MUTUELLE",
+      "summary": "Primes 2024: 4.20 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 4200000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR AXA AIM 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_4ab863a556_74c428a1",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_4ab863a556",
+      "entity_name": "SWISSLIFE ASSURANCE ET PATRIMOINE",
+      "summary": "Primes 2024: 5.50 Md€ | R. net: 182.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 5500000000,
+        "resultat_net_eur": 182000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Swiss Life France resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_6e68a4fd54_e822f63a",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_6e68a4fd54",
+      "entity_name": "SWISSLIFE PREVOYANCE ET SANTE",
+      "summary": "Primes 2024: 1.23 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1230000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR SLPS 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_f49712fa1a_cc7cad88",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_f49712fa1a",
+      "entity_name": "SWISSLIFE ASSURANCES DE BIENS",
+      "summary": "Primes 2024: 480.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 480000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR SLAB 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_2408676870_98c09cd7",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_2408676870",
+      "entity_name": "ABEILLE VIE",
+      "summary": "Primes 2024: 4.10 Md€ | R. net: 98.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 4100000000,
+        "resultat_net_eur": 98000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Abeille Assurances resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_6aa6bc6142_75f32628",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_6aa6bc6142",
+      "entity_name": "ABEILLE IARD & SANTE",
+      "summary": "Primes 2024: 3.05 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3050000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Abeille IARD 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_5692e696ff_93440fc7",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_5692e696ff",
+      "entity_name": "ABEILLE EPARGNE RETRAITE",
+      "summary": "Primes 2024: 890.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 890000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Abeille ER 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_a1823d0531_97befbe8",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_a1823d0531",
+      "entity_name": "SURAVENIR",
+      "summary": "Primes 2024: 3.10 Md€ | R. net: 52.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3100000000,
+        "resultat_net_eur": 52000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Credit Mutuel Arkea resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_86321449c3_c3890a10",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_86321449c3",
+      "entity_name": "SURAVENIR ASSURANCES",
+      "summary": "Primes 2024: 620.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 620000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Suravenir A 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_57c9d3f5d0_93d4a015",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_57c9d3f5d0",
+      "entity_name": "NATIXIS ASSURANCES",
+      "summary": "Primes 2024: 2.90 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2900000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "BPCE Assurances 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_0e6a51c966_809f1e4b",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_0e6a51c966",
+      "entity_name": "BPCE VIE",
+      "summary": "Primes 2024: 13.20 Md€ | R. net: 470.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 13200000000,
+        "resultat_net_eur": 470000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "BPCE Assurances resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_17a628224a_836a6144",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_17a628224a",
+      "entity_name": "BPCE ASSURANCES IARD",
+      "summary": "Primes 2024: 1.50 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1500000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR BPCE IARD 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_9e03ed7bba_509a168a",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_9e03ed7bba",
+      "entity_name": "BPCE IARD",
+      "summary": "Primes 2024: 950.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 950000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR BPCE IARD 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_7200c3cbfb_2dd2785a",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_7200c3cbfb",
+      "entity_name": "LA MONDIALE",
+      "summary": "Primes 2024: 7.40 Md€ | R. net: 245.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 7400000000,
+        "resultat_net_eur": 245000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AG2R LM resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_8a993edc7a_bac2ee26",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_8a993edc7a",
+      "entity_name": "LA MONDIALE PARTENAIRE",
+      "summary": "Primes 2024: 4.20 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 4200000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR LMP 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ab4d28833c_5e1c7592",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ab4d28833c",
+      "entity_name": "ARIAL CNP ASSURANCES",
+      "summary": "Primes 2024: 1.25 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1250000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Arial 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_6be4bd8e63_030da8c7",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Primes 2024: 4.58 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 4580000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_8cc32630f1_5b9e0799",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_8cc32630f1",
+      "entity_name": "MAAF VIE",
+      "summary": "Primes 2024: 1.82 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1820000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_a5f5524ab7_f7d8b4af",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_a5f5524ab7",
+      "entity_name": "MMA IARD ASSURANCES MUTUELLES",
+      "summary": "Primes 2024: 3.45 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3450000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_50d6474948_5fb1af25",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_50d6474948",
+      "entity_name": "MMA VIE",
+      "summary": "Primes 2024: 1.52 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1520000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_2700fa4f44_96820f6a",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_2700fa4f44",
+      "entity_name": "GMF ASSURANCES",
+      "summary": "Primes 2024: 2.53 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2530000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_906e6df2bd_feca4dad",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_906e6df2bd",
+      "entity_name": "GMF VIE",
+      "summary": "Primes 2024: 810.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 810000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_3bf0b16d5a_4e01d315",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_3bf0b16d5a",
+      "entity_name": "MACIF VIE SE",
+      "summary": "Primes 2024: 2.80 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2800000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AEMA resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_37385559c4_49266d16",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_37385559c4",
+      "entity_name": "MACIFILIA",
+      "summary": "Primes 2024: 580.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 580000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Macifilia 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_4252e52a42_797e29a4",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_4252e52a42",
+      "entity_name": "CNP ASSURANCES IARD",
+      "summary": "Primes 2024: 2.45 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2450000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "CNP groupe 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_44c84aefe4_e2a43e04",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_44c84aefe4",
+      "entity_name": "CNP RETRAITE",
+      "summary": "Primes 2024: 1.50 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1500000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "CNP groupe 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_7d0b2fe1ec_cb00feeb",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_7d0b2fe1ec",
+      "entity_name": "CNP CAUTION",
+      "summary": "Primes 2024: 890.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 890000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR CNP Caution 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_62f029e362_206dc25b",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_62f029e362",
+      "entity_name": "CNP ASSURANCES SANTE INDIVIDUELLE",
+      "summary": "Primes 2024: 620.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 620000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR CNP SI 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_554d952294_6950a952",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_554d952294",
+      "entity_name": "ASSURANCES DU CREDIT MUTUEL IARD - Incendie - Accidents - Risques Divers - S.A.",
+      "summary": "Primes 2024: 2.05 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2050000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "ACM resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_1002b4a8b5_5c2ebf9a",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_1002b4a8b5",
+      "entity_name": "ASSURANCES DU CREDIT MUTUEL VIE",
+      "summary": "Primes 2024: 3.20 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3200000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "ACM resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_4d3bc31119_ac7b2d03",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_4d3bc31119",
+      "entity_name": "SCOR SE",
+      "summary": "Primes 2024: 17.80 Md€ | R. net: 780.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 17800000000,
+        "resultat_net_eur": 780000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SCOR annual report 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_d7093224ea_1730aa00",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_d7093224ea",
+      "entity_name": "CAISSE CENTRALE DE REASSURANCE",
+      "summary": "Primes 2024: 2.10 Md€ | R. net: 185.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2100000000,
+        "resultat_net_eur": 185000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "CCR resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_d73b64247b_c48de977",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_d73b64247b",
+      "entity_name": "MATMUT VIE",
+      "summary": "Primes 2024: 720.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 720000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Matmut comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_cb09c621f2_33a2da1b",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_cb09c621f2",
+      "entity_name": "SMACL ASSURANCES",
+      "summary": "Primes 2024: 280.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 280000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SMACL resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ebe429df0f_7d422fc1",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ebe429df0f",
+      "entity_name": "UNEO",
+      "summary": "Primes 2024: 420.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 420000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Uneo resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_d9825ce168_3f08af06",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_d9825ce168",
+      "entity_name": "MUTUELLE GENERALE INTERPROFESSIONNELLE",
+      "summary": "Primes 2024: 1.50 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1500000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "La Mutuelle Generale 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_0178ba7374_d0b5a447",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_0178ba7374",
+      "entity_name": "INTERIALE",
+      "summary": "Primes 2024: 350.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 350000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Interiale resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_d8b181b7f4_0dab2249",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_d8b181b7f4",
+      "entity_name": "APICIL EPARGNE",
+      "summary": "Primes 2024: 1.80 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1800000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Apicil resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ca14b52372_aac7830d",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ca14b52372",
+      "entity_name": "KLESIA PREVOYANCE",
+      "summary": "Primes 2024: 1.80 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1800000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Klesia resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ebd2c6fcaa_cb7cf03e",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ebd2c6fcaa",
+      "entity_name": "KLESIA MUT",
+      "summary": "Primes 2024: 420.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 420000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Klesia resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_1af8e657f9_bc047c00",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_1af8e657f9",
+      "entity_name": "GENERALI IARD",
+      "summary": "Primes 2024: 3.15 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3150000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Generali France 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_8e6394879e_dee192ba",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Primes 2024: 5.20 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 5200000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Allianz France 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_51d573882c_e903f29c",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_51d573882c",
+      "entity_name": "ALBINGIA",
+      "summary": "Primes 2024: 980.0 M€ | R. net: 95.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 980000000,
+        "resultat_net_eur": 95000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Albingia comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_f48c189e07_8f9d7c3e",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_f48c189e07",
+      "entity_name": "THELEM ASSURANCES",
+      "summary": "Primes 2024: 340.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 340000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Thelem resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ba44858dba_4f835757",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ba44858dba",
+      "entity_name": "GALIAN-SMABTP",
+      "summary": "Primes 2024: 1.24 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1240000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SMABTP resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_531bf7909a_4272a1a5",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_531bf7909a",
+      "entity_name": "SMA SA",
+      "summary": "Primes 2024: 620.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 620000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SMA comptes 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_32bb805507_dea65be3",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_32bb805507",
+      "entity_name": "MUTEX",
+      "summary": "Primes 2024: 310.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 310000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Mutex resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_1d86e3c203_33a05b0b",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_1d86e3c203",
+      "entity_name": "PREVOIR VIE",
+      "summary": "Primes 2024: 520.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 520000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Prevoir resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_f5faed88f9_fdc67062",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_f5faed88f9",
+      "entity_name": "MILLEIS VIE",
+      "summary": "Primes 2024: 850.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 850000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Milleis resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_2612d95d02_b5cebf78",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_2612d95d02",
+      "entity_name": "UNOFI-ASSURANCES",
+      "summary": "Primes 2024: 380.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 380000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Unofi resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_77cb5e86c1_9350d8bb",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_77cb5e86c1",
+      "entity_name": "MONCEAU RETRAITE & EPARGNE",
+      "summary": "Primes 2024: 720.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 720000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Monceau Assurances 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_89d29669c6_134e45b9",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_89d29669c6",
+      "entity_name": "CORUM LIFE SA",
+      "summary": "Primes 2024: 480.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 480000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Corum L'Epargne 2024"
       }
     }
   ]

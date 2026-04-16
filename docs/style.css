@@ -389,4 +389,21 @@ body {
     .entity-card { grid-template-columns: 1fr; }
     .entity-actions { flex-direction: row; width: 100%; justify-content: flex-start; }
     .type-grid { grid-template-columns: repeat(2, 1fr); }
+
+    .activity-event {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        column-gap: 10px;
+        row-gap: 2px;
+        align-items: start;
+        padding: 10px 8px;
+    }
+    .activity-dot { margin-top: 6px; }
+    .activity-type-label { min-width: 0; grid-column: 2; }
+    .activity-entity {
+        grid-column: 2; white-space: normal;
+        overflow-wrap: anywhere; word-break: break-word;
+        line-height: 1.3;
+    }
+    .activity-text { grid-column: 2; }
 }

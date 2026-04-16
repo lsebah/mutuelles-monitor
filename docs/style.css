@@ -65,6 +65,8 @@ body {
 .export-btn:hover { background: var(--accent-orange); color: #000; }
 .gold-btn { border-color: var(--accent-gold); color: var(--accent-gold); }
 .gold-btn:hover { background: var(--accent-gold); color: #000; }
+.sync-btn { border-color: var(--accent-green); color: var(--accent-green); }
+.sync-btn:hover { background: var(--accent-green); color: #000; }
 
 /* Stats */
 .stats-bar {

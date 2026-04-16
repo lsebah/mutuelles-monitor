@@ -8,24 +8,127 @@ let allEntities = [];
 let typesLabels = {};
 let displayOffset = 0;
 
-// ---------- Folk tracker (localStorage) ----------
+// ---------- Folk tracker (localStorage + GitHub Gist sync) ----------
+const GIST_TOKEN_KEY = 'mutuelles-gist-token';
+const GIST_ID_KEY = 'mutuelles-gist-id';
+const GIST_FILENAME = 'mutuelles-folk-sync.json';
+let _folkCache = null;
+let _gistSyncing = false;
+
 function getFolk() {
-    try { return JSON.parse(localStorage.getItem(FOLK_KEY)) || {}; }
-    catch { return {}; }
+    if (_folkCache) return _folkCache;
+    try { _folkCache = JSON.parse(localStorage.getItem(FOLK_KEY)) || {}; }
+    catch { _folkCache = {}; }
+    return _folkCache;
+}
+function _saveFolkLocal(f) {
+    _folkCache = f;
+    localStorage.setItem(FOLK_KEY, JSON.stringify(f));
 }
 function isInFolk(id) { return !!getFolk()[id]; }
 function toggleFolk(id) {
     const f = getFolk();
     if (f[id]) delete f[id];
     else f[id] = new Date().toISOString().slice(0, 10);
-    localStorage.setItem(FOLK_KEY, JSON.stringify(f));
+    _saveFolkLocal(f);
     updateFolkStat();
     renderCurrentTab();
+    _gistPush(); // async sync to Gist
 }
 function getFolkCount() { return Object.keys(getFolk()).length; }
 function updateFolkStat() {
     const el = document.getElementById('statFolk');
     if (el) el.textContent = getFolkCount();
+    // Update sync indicator
+    const ind = document.getElementById('syncStatus');
+    if (ind) ind.textContent = _getGistToken() ? 'Sync' : 'Local';
+}
+
+// --- Gist sync helpers ---
+function _getGistToken() { return localStorage.getItem(GIST_TOKEN_KEY) || ''; }
+function _getGistId() { return localStorage.getItem(GIST_ID_KEY) || ''; }
+
+async function _gistPush() {
+    const token = _getGistToken();
+    if (!token || _gistSyncing) return;
+    _gistSyncing = true;
+    try {
+        const gistId = _getGistId();
+        const body = { files: { [GIST_FILENAME]: { content: JSON.stringify(getFolk()) } } };
+        if (gistId) {
+            await fetch(`https://api.github.com/gists/${gistId}`, {
+                method: 'PATCH', headers: { Authorization: `token ${token}`, 'Content-Type': 'application/json' },
+                body: JSON.stringify(body),
+            });
+        } else {
+            // Create new private gist
+            const resp = await fetch('https://api.github.com/gists', {
+                method: 'POST', headers: { Authorization: `token ${token}`, 'Content-Type': 'application/json' },
+                body: JSON.stringify({ description: 'Mutuelles Monitor - Folk sync', public: false, files: body.files }),
+            });
+            if (resp.ok) {
+                const data = await resp.json();
+                localStorage.setItem(GIST_ID_KEY, data.id);
+            }
+        }
+    } catch (e) { console.warn('Gist push failed:', e); }
+    _gistSyncing = false;
+}
+
+async function _gistPull() {
+    const token = _getGistToken();
+    const gistId = _getGistId();
+    if (!token || !gistId) return;
+    try {
+        const resp = await fetch(`https://api.github.com/gists/${gistId}`, {
+            headers: { Authorization: `token ${token}` },
+        });
+        if (!resp.ok) return;
+        const data = await resp.json();
+        const file = data.files && data.files[GIST_FILENAME];
+        if (!file) return;
+        const remote = JSON.parse(file.content);
+        // Merge: remote wins for entries not in local, local wins for newer dates
+        const local = getFolk();
+        let changed = false;
+        for (const [id, date] of Object.entries(remote)) {
+            if (!local[id] || local[id] < date) { local[id] = date; changed = true; }
+        }
+        // Also push local-only entries to remote
+        let remoteNeedsUpdate = false;
+        for (const [id, date] of Object.entries(local)) {
+            if (!remote[id] || remote[id] < date) { remoteNeedsUpdate = true; }
+        }
+        if (changed) {
+            _saveFolkLocal(local);
+            updateFolkStat();
+            renderCurrentTab();
+        }
+        if (remoteNeedsUpdate) _gistPush();
+    } catch (e) { console.warn('Gist pull failed:', e); }
+}
+
+function setupGistSync() {
+    const token = prompt('GitHub token (scope: gist) pour synchroniser Folk entre appareils.\nLaissez vide pour rester en mode local.');
+    if (!token) return;
+    localStorage.setItem(GIST_TOKEN_KEY, token.trim());
+    // Check if we already have a gist
+    const gistId = _getGistId();
+    if (!gistId) {
+        const existing = prompt('ID du Gist existant (si vous synchronisez depuis un autre appareil).\nLaissez vide pour creer un nouveau Gist.');
+        if (existing) localStorage.setItem(GIST_ID_KEY, existing.trim());
+    }
+    _gistPull().then(() => {
+        if (!_getGistId()) _gistPush();
+        updateFolkStat();
+        alert('Sync active ! Gist ID: ' + _getGistId());
+    });
+}
+
+function disconnectGistSync() {
+    localStorage.removeItem(GIST_TOKEN_KEY);
+    localStorage.removeItem(GIST_ID_KEY);
+    updateFolkStat();
 }
 
 // ---------- Data loading ----------
@@ -86,6 +189,7 @@ async function loadData() {
         renderStructured();
         renderFederations();
         updateFolkStat();
+        _gistPull(); // sync Folk from Gist on load
         loadActivity();
     } catch (e) {
         console.warn('Error loading data:', e);

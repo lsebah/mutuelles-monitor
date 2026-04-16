@@ -28,12 +28,12 @@
     </header>
 
     <section class="stats-bar">
-        <div class="stat-card"><div class="stat-number" id="statTotal">-</div><div class="stat-label">Entites</div></div>
-        <div class="stat-card"><div class="stat-number" id="statMutuelles">-</div><div class="stat-label">Mutuelles</div></div>
-        <div class="stat-card"><div class="stat-number" id="statAssurances">-</div><div class="stat-label">Assurances</div></div>
-        <div class="stat-card"><div class="stat-number" id="statIP">-</div><div class="stat-label">Inst. prevoyance</div></div>
-        <div class="stat-card highlight"><div class="stat-number" id="statStructured">-</div><div class="stat-label">Porteurs structures</div></div>
-        <div class="stat-card"><div class="stat-number" id="statFolk">0</div><div class="stat-label">Dans Folk</div></div>
+        <div class="stat-card clickable" onclick="statFilter('all')"><div class="stat-number" id="statTotal">-</div><div class="stat-label">Entites</div></div>
+        <div class="stat-card clickable" onclick="statFilter('mutuelle')"><div class="stat-number" id="statMutuelles">-</div><div class="stat-label">Mutuelles</div></div>
+        <div class="stat-card clickable" onclick="statFilter('assurance')"><div class="stat-number" id="statAssurances">-</div><div class="stat-label">Assurances</div></div>
+        <div class="stat-card clickable" onclick="statFilter('institution_prevoyance')"><div class="stat-number" id="statIP">-</div><div class="stat-label">Inst. prevoyance</div></div>
+        <div class="stat-card highlight clickable" onclick="statFilter('structured')"><div class="stat-number" id="statStructured">-</div><div class="stat-label">Porteurs structures</div></div>
+        <div class="stat-card clickable" onclick="statFilter('folk')"><div class="stat-number" id="statFolk">0</div><div class="stat-label">Dans Folk</div></div>
     </section>
 
     <nav class="tabs">

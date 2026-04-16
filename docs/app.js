@@ -130,6 +130,57 @@ function filterByGroupe(g) {
     renderDirectory();
 }
 
+// ---------- Stat card clicks ----------
+function statFilter(key) {
+    // Reset all filters first
+    document.getElementById('searchInput').value = '';
+    document.getElementById('filterType').value = '';
+    document.getElementById('filterGroupe').value = '';
+    document.getElementById('filterDepartment').value = '';
+    document.getElementById('filterStructured').value = '';
+    document.getElementById('filterHideFolk').checked = false;
+
+    // Switch to directory tab
+    document.querySelector('[data-tab="directory"]').click();
+
+    switch (key) {
+        case 'all':
+            break; // no filter — show all
+        case 'mutuelle':
+            document.getElementById('filterType').value = 'mutuelle';
+            break;
+        case 'assurance':
+            // Show all assurance types (vie + non-vie + mixte)
+            document.getElementById('searchInput').value = '';
+            // We'll use a custom approach: set a temp filter
+            document.getElementById('filterType').value = 'assurance_vie';
+            // Actually, better: just leave type empty and use search
+            document.getElementById('filterType').value = '';
+            break;
+        case 'institution_prevoyance':
+            document.getElementById('filterType').value = 'institution_prevoyance';
+            break;
+        case 'structured':
+            document.getElementById('filterStructured').value = 'yes';
+            break;
+        case 'folk':
+            // Show only folk-marked
+            document.getElementById('filterHideFolk').checked = false;
+            break;
+    }
+
+    // For 'assurance' we need a special filter since it spans 3 types
+    if (key === 'assurance') {
+        _statFilterOverride = 'assurance';
+    } else if (key === 'folk') {
+        _statFilterOverride = 'folk';
+    } else {
+        _statFilterOverride = null;
+    }
+    renderDirectory();
+}
+var _statFilterOverride = null;
+
 // ---------- Directory ----------
 function getFilteredEntities() {
     const search = (document.getElementById('searchInput')?.value || '').toLowerCase();
@@ -140,6 +191,13 @@ function getFilteredEntities() {
     const hideFolk = document.getElementById('filterHideFolk')?.checked || false;
 
     return allEntities.filter(e => {
+        // Stat card overrides
+        if (_statFilterOverride === 'assurance') {
+            if (!['assurance_vie','assurance_non_vie','assurance_mixte'].includes(e.type_organisme)) return false;
+        }
+        if (_statFilterOverride === 'folk') {
+            if (!isInFolk(e.id)) return false;
+        }
         if (hideFolk && isInFolk(e.id)) return false;
         if (type && e.type_organisme !== type) return false;
         if (groupe && e.groupe !== groupe) return false;
@@ -363,7 +421,10 @@ document.querySelectorAll('.tab').forEach(tab => {
 
 ['searchInput','filterType','filterGroupe','filterDepartment','filterStructured'].forEach(id => {
     const el = document.getElementById(id);
-    if (el) el.addEventListener(el.tagName === 'INPUT' && el.type === 'text' ? 'input' : 'change', renderDirectory);
+    if (el) el.addEventListener(el.tagName === 'INPUT' && el.type === 'text' ? 'input' : 'change', () => {
+        _statFilterOverride = null; // clear stat card override on manual filter
+        renderDirectory();
+    });
 });
 document.getElementById('filterHideFolk')?.addEventListener('change', renderDirectory);
 

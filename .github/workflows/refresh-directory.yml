@@ -31,10 +31,22 @@ jobs:
         working-directory: scraper
         run: python folk_export.py
 
-      - name: Commit & push
+      - name: Commit & push (with retry on conflict)
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add docs/data/
-          git diff --staged --quiet || git commit -m "Refresh directory $(date -u +%Y-%m-%d)"
-          git push
+          git diff --staged --quiet && echo "no changes, skipping" && exit 0
+          git commit -m "Refresh directory $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+            if git push origin main; then
+              echo "push succeeded on attempt $i"
+              exit 0
+            fi
+            echo "push rejected, attempt $i/5, retrying..."
+            sleep 5
+          done
+          echo "ERROR: push failed after 5 attempts"
+          exit 1

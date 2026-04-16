@@ -28,7 +28,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: People enrichment (LinkedIn via DDG)
+      - name: DAF + CIO enrichment (LinkedIn via DDG)
+        working-directory: scraper
+        run: python enrichment/daf_cio_enricher.py --priority --delay 2.5
+
+      - name: People enrichment - DG/President (LinkedIn via DDG)
         working-directory: scraper
         run: python enrichment/people_enricher.py --limit ${{ github.event.inputs.people_limit || 50 }}
 

@@ -86,6 +86,7 @@ async function loadData() {
         renderStructured();
         renderFederations();
         updateFolkStat();
+        loadActivity();
     } catch (e) {
         console.warn('Error loading data:', e);
         document.getElementById('lastUpdate').textContent = 'Aucune donnee. Lance: python scraper/main.py --bootstrap';
@@ -293,12 +294,24 @@ function renderEntityCard(e) {
     const addr = e.address || {};
     const location = [addr.city, addr.department ? `(${addr.department})` : ''].filter(Boolean).join(' ');
 
-    // Financial summary line (primes + resultat net) - prominent when available
+    // Financial summary line - 4 KPIs: Primes, Résultat net, S/P, Rendement actifs
     let finSummary = '';
     if (e.financials) {
+        const f = e.financials;
         const parts = [];
-        if (e.financials.primes_eur) parts.push(`<span class="fin-item"><span class="fin-label">Primes ${e.financials.year || ''}:</span> <span class="fin-value">${formatEur(e.financials.primes_eur)}</span></span>`);
-        if (e.financials.resultat_net_eur) parts.push(`<span class="fin-item"><span class="fin-label">R. net:</span> <span class="fin-value">${formatEur(e.financials.resultat_net_eur)}</span></span>`);
+        if (f.primes_eur) parts.push(`<span class="fin-item"><span class="fin-label">Primes ${f.year || ''}:</span> <span class="fin-value">${formatEur(f.primes_eur)}</span></span>`);
+        if (f.resultat_net_eur != null) {
+            const cls = f.resultat_net_eur >= 0 ? 'fin-positive' : 'fin-negative';
+            parts.push(`<span class="fin-item"><span class="fin-label">R. net:</span> <span class="fin-value ${cls}">${formatEur(f.resultat_net_eur)}</span></span>`);
+        }
+        if (f.sp_ratio != null) {
+            const cls = f.sp_ratio > 100 ? 'fin-negative' : f.sp_ratio > 90 ? 'fin-warning' : 'fin-positive';
+            parts.push(`<span class="fin-item"><span class="fin-label">S/P:</span> <span class="fin-value ${cls}">${f.sp_ratio.toFixed(1)}%</span></span>`);
+        }
+        if (f.rendement_actifs_pct != null) {
+            const cls = f.rendement_actifs_pct >= 0 ? 'fin-positive' : 'fin-negative';
+            parts.push(`<span class="fin-item"><span class="fin-label">Rdt actifs:</span> <span class="fin-value ${cls}">${f.rendement_actifs_pct >= 0 ? '+' : ''}${f.rendement_actifs_pct.toFixed(2)}%</span></span>`);
+        }
         if (parts.length) finSummary = `<div class="entity-financials-bar">${parts.join('')}</div>`;
     }
 
@@ -308,9 +321,10 @@ function renderEntityCard(e) {
             e.people.map(p => {
                 const name = escHtml(p.name || '');
                 const role = escHtml(p.role || '');
-                const linkedin = p.linkedin
+                const hasLinkedin = p.linkedin && p.linkedin.trim().startsWith('http');
+                const linkedin = hasLinkedin
                     ? `<a class="name" href="${p.linkedin}" target="_blank" rel="noopener">${name} <span class="li-icon">in</span></a>`
-                    : `<span class="name">${name}</span>`;
+                    : `<a class="name" href="https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(p.name + ' ' + (e.denomination || ''))}" target="_blank" rel="noopener" title="Rechercher sur LinkedIn">${name} <span class="li-icon">in</span></a>`;
                 const email = p.email ? ` <a href="mailto:${p.email}" style="color:var(--accent-light-blue);font-size:11px">${p.email}</a>` : '';
                 return `<div class="entity-people-row"><span class="role">${role}</span>${linkedin}${email}</div>`;
             }).join('') + '</div></div>';
@@ -370,7 +384,7 @@ function escHtml(t) {
 // ---------- CSV export ----------
 function exportFilteredCsv() {
     const rows = getFilteredEntities();
-    const header = ['Denomination','Type','Groupe','SIREN','Matricule','Adresse','CP','Ville','Departement','Region','Website','Email','Phone','Structures','Primes 2024','Resultat net','Personnes','Sources'];
+    const header = ['Denomination','Type','Groupe','SIREN','Matricule','Adresse','CP','Ville','Departement','Region','Website','Email','Phone','Structures','Primes 2024','Resultat net','S/P %','Rdt actifs %','Personnes','Sources'];
     const csv = [header.join(';')];
     for (const e of rows) {
         const a = e.address || {};
@@ -384,6 +398,7 @@ function exportFilteredCsv() {
             e.website || '', e.email || '', e.phone || '',
             sp.status || '',
             f.primes_eur || '', f.resultat_net_eur || '',
+            f.sp_ratio != null ? f.sp_ratio : '', f.rendement_actifs_pct != null ? f.rendement_actifs_pct : '',
             people,
             Object.keys(e.sources || {}).join(',')
         ].map(csvEscape);
@@ -406,11 +421,113 @@ function csvEscape(v) {
     return s;
 }
 
+// ---------- Activity Feed ----------
+let activityEvents = [];
+let activityShowAll = false;
+const ACTIVITY_DAYS = 6;
+
+async function loadActivity() {
+    try {
+        const resp = await fetch('data/activity.json');
+        if (!resp.ok) return;
+        const data = await resp.json();
+        activityEvents = (data.events || []).sort((a, b) => b.date.localeCompare(a.date));
+        renderActivityFeed();
+    } catch (e) {
+        console.warn('Activity feed not available:', e);
+    }
+}
+
+function renderActivityFeed() {
+    const feed = document.getElementById('activityFeed');
+    const loadBtn = document.getElementById('activityLoadMore');
+    if (!feed) return;
+    if (!activityEvents.length) {
+        feed.innerHTML = '<div class="empty-state"><p>Aucune activite enregistree pour le moment.</p><p>Les evenements apparaitront au fil des enrichissements.</p></div>';
+        loadBtn.style.display = 'none';
+        return;
+    }
+
+    // Group by date
+    const byDate = new Map();
+    for (const evt of activityEvents) {
+        const d = evt.date;
+        if (!byDate.has(d)) byDate.set(d, []);
+        byDate.get(d).push(evt);
+    }
+
+    const dates = Array.from(byDate.keys()).sort().reverse();
+    const visibleDates = activityShowAll ? dates : dates.slice(0, ACTIVITY_DAYS);
+    const today = new Date().toISOString().slice(0, 10);
+    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+
+    let html = '';
+    for (const date of visibleDates) {
+        const events = byDate.get(date);
+        let label = date;
+        if (date === today) label = "Aujourd'hui";
+        else if (date === yesterday) label = 'Hier';
+        else {
+            const d = new Date(date + 'T12:00:00');
+            label = d.toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+        }
+
+        html += `<div class="activity-day">`;
+        html += `<div class="activity-day-header">${label} <span class="activity-day-count">${events.length} evenement${events.length > 1 ? 's' : ''}</span></div>`;
+        for (const evt of events) {
+            const dotClass = {
+                financial_update: 'dot-financial',
+                person_joined: 'dot-person-joined',
+                person_left: 'dot-person-left',
+                new_entity: 'dot-new-entity',
+                structured_update: 'dot-structured',
+                entity_removed: 'dot-person-left',
+            }[evt.type] || 'dot-financial';
+
+            const typeLabel = {
+                financial_update: 'Financier',
+                person_joined: 'Arrivee',
+                person_left: 'Depart',
+                new_entity: 'Nouvelle entite',
+                structured_update: 'Produits structures',
+                entity_removed: 'Suppression',
+            }[evt.type] || evt.type;
+
+            html += `<div class="activity-event">
+                <span class="activity-dot ${dotClass}"></span>
+                <span class="activity-type-label">${typeLabel}</span>
+                <span class="activity-entity" onclick="goToEntity('${evt.entity_id}')">${escHtml(evt.entity_name)}</span>
+                <span class="activity-text">${escHtml(evt.summary)}</span>
+            </div>`;
+        }
+        html += `</div>`;
+    }
+
+    feed.innerHTML = html;
+    loadBtn.style.display = dates.length > ACTIVITY_DAYS && !activityShowAll ? 'block' : 'none';
+}
+
+function showFullHistory() {
+    activityShowAll = true;
+    renderActivityFeed();
+}
+
+function goToEntity(entityId) {
+    document.querySelector('[data-tab="directory"]').click();
+    const entity = allEntities.find(e => e.id === entityId);
+    if (entity) {
+        document.getElementById('searchInput').value = entity.denomination;
+        _statFilterOverride = null;
+        renderDirectory();
+    }
+}
+
 // ---------- Tabs ----------
 function renderCurrentTab() {
     const active = document.querySelector('.tab.active');
     if (!active) return;
     switch (active.dataset.tab) {
+        case 'activity': renderActivityFeed(); break;
         case 'directory': renderDirectory(); break;
         case 'structured': renderStructured(); break;
         case 'federations': renderFederations(); break;

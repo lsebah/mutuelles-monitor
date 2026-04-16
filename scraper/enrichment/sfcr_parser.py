@@ -27,8 +27,10 @@ from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from sources.base import fetch  # noqa
 from config import KEYWORDS_STRUCTURED  # noqa
+from activity_logger import log_event, format_eur  # noqa
 
 logger = logging.getLogger(__name__)
 
@@ -106,41 +108,85 @@ def detect_structured(text: str) -> dict:
     }
 
 
+def _detect_unit_multiplier(text: str, match_start: int, match_end: int) -> int:
+    """Detect if surrounding text indicates milliers or millions d'euros."""
+    context = text[max(0, match_start - 300): match_end + 300].lower()
+    if "millier" in context or "k€" in context or "en k" in context:
+        return 1_000
+    if "million" in context or "m€" in context or "en m" in context:
+        return 1_000_000
+    if "milliard" in context or "md€" in context or "md " in context:
+        return 1_000_000_000
+    return 1
+
+
 def extract_financials(text: str) -> dict:
-    """Try to extract primes brutes emises and resultat net from SFCR text."""
-    fin = {"year": 2024, "primes_eur": None, "resultat_net_eur": None, "source": "SFCR"}
+    """Extract financial KPIs from SFCR text: primes, resultat net, S/P ratio, rendement des actifs."""
+    fin = {
+        "year": 2024,
+        "primes_eur": None,
+        "resultat_net_eur": None,
+        "sp_ratio": None,
+        "rendement_actifs_pct": None,
+        "source": "SFCR",
+    }
     if not text:
         return fin
-    # Look for "primes brutes" patterns
-    # Format examples: "Primes brutes acquises : 1 234 567 (en milliers d'euros)"
+
+    # --- 1. Primes brutes emises ---
     primes_pat = re.search(
-        r"primes\s+(?:brutes\s+)?(?:acquises|emises)[^\d]{0,80}([\d\s\u00a0,.]{4,20})",
+        r"primes\s+(?:brutes\s+)?(?:acquises|emises|ecrites)[^\d]{0,80}([\d\s\u00a0,.]{4,20})",
         text, re.IGNORECASE)
     if primes_pat:
         n = _parse_number(primes_pat.group(1))
         if n is not None:
-            # SFCR usually in milliers d'euros
-            in_thousands = "millier" in text[max(0, primes_pat.start() - 200): primes_pat.end() + 200].lower()
-            in_millions = "million" in text[max(0, primes_pat.start() - 200): primes_pat.end() + 200].lower()
-            if in_thousands:
-                n *= 1000
-            elif in_millions:
-                n *= 1_000_000
-            fin["primes_eur"] = int(n)
+            mult = _detect_unit_multiplier(text, primes_pat.start(), primes_pat.end())
+            fin["primes_eur"] = int(n * mult)
 
+    # --- 2. Resultat net ---
     rn_pat = re.search(
-        r"r[ée]sultat\s+net[^\d]{0,80}([\d\s\u00a0,.\-]{3,20})",
+        r"r[ée]sultat\s+net[^\d]{0,80}([-\u2212]?\s*[\d\s\u00a0,.]{3,20})",
         text, re.IGNORECASE)
     if rn_pat:
         n = _parse_number(rn_pat.group(1))
         if n is not None:
-            in_thousands = "millier" in text[max(0, rn_pat.start() - 200): rn_pat.end() + 200].lower()
-            in_millions = "million" in text[max(0, rn_pat.start() - 200): rn_pat.end() + 200].lower()
-            if in_thousands:
-                n *= 1000
-            elif in_millions:
-                n *= 1_000_000
-            fin["resultat_net_eur"] = int(n)
+            mult = _detect_unit_multiplier(text, rn_pat.start(), rn_pat.end())
+            fin["resultat_net_eur"] = int(n * mult)
+
+    # --- 3. Ratio S/P (sinistres sur primes, aka combined/loss ratio) ---
+    # SFCR patterns: "ratio S/P : 85,3%", "ratio sinistres/primes", "ratio combiné",
+    # "taux de sinistralité : 72%", "loss ratio"
+    sp_patterns = [
+        r"ratio\s+(?:s\s*/\s*p|sinistres?\s*/\s*primes?|combin[ée])[^\d]{0,60}([\d\s\u00a0,.]{2,8})\s*%",
+        r"taux\s+de\s+sinistralit[ée][^\d]{0,60}([\d\s\u00a0,.]{2,8})\s*%",
+        r"(?:loss|combined)\s+ratio[^\d]{0,60}([\d\s\u00a0,.]{2,8})\s*%",
+        r"s\s*/\s*p[^\d]{0,40}([\d\s\u00a0,.]{2,8})\s*%",
+    ]
+    for pat in sp_patterns:
+        m = re.search(pat, text, re.IGNORECASE)
+        if m:
+            n = _parse_number(m.group(1))
+            if n is not None and 10 < n < 300:  # sanity check: ratio should be 10%-300%
+                fin["sp_ratio"] = round(n, 1)
+                break
+
+    # --- 4. Rendement des actifs (investment return / yield on assets) ---
+    # SFCR patterns: "rendement des actifs : 3,2%", "rendement financier",
+    # "taux de rendement des placements", "rendement des investissements"
+    rdt_patterns = [
+        r"rendement\s+(?:des\s+)?(?:actifs|placements|investissements|portefeuille)[^\d]{0,60}([-\u2212]?\s*[\d\s\u00a0,.]{1,8})\s*%",
+        r"taux\s+de\s+rendement\s+(?:des\s+)?(?:actifs|placements|investissements)[^\d]{0,60}([-\u2212]?\s*[\d\s\u00a0,.]{1,8})\s*%",
+        r"rendement\s+financier[^\d]{0,60}([-\u2212]?\s*[\d\s\u00a0,.]{1,8})\s*%",
+        r"performance\s+(?:des\s+)?(?:actifs|placements)[^\d]{0,60}([-\u2212]?\s*[\d\s\u00a0,.]{1,8})\s*%",
+    ]
+    for pat in rdt_patterns:
+        m = re.search(pat, text, re.IGNORECASE)
+        if m:
+            n = _parse_number(m.group(1))
+            if n is not None and -20 < n < 30:  # sanity check: yield between -20% and +30%
+                fin["rendement_actifs_pct"] = round(n, 2)
+                break
+
     return fin
 
 
@@ -182,6 +228,22 @@ def process_entity(entity: dict) -> bool:
         entity["financials"] = fin
     entity["last_enriched"] = datetime.utcnow().strftime("%Y-%m-%d")
     logger.info(f"  -> structures={sp['status']} primes={fin.get('primes_eur')} rn={fin.get('resultat_net_eur')}")
+
+    # Log activity events
+    if sp["status"] in ("yes", "no"):
+        log_event("structured_update", entity["id"], name,
+                  f"Produits structures: {sp['status']}",
+                  {"status": sp["status"], "keywords_found": sp.get("keywords_found", [])})
+    if fin.get("primes_eur") or fin.get("resultat_net_eur"):
+        parts = []
+        if fin.get("primes_eur"):
+            parts.append(f"Primes: {format_eur(fin['primes_eur'])}")
+        if fin.get("resultat_net_eur"):
+            parts.append(f"R. net: {format_eur(fin['resultat_net_eur'])}")
+        log_event("financial_update", entity["id"], name,
+                  " | ".join(parts),
+                  {"year": fin.get("year"), "primes_eur": fin.get("primes_eur"),
+                   "resultat_net_eur": fin.get("resultat_net_eur"), "source": "SFCR"})
     return True
 
 

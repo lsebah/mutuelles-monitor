@@ -23,7 +23,9 @@ from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from sources.base import fetch  # noqa
+from activity_logger import log_event  # noqa
 
 logger = logging.getLogger(__name__)
 
@@ -148,10 +150,20 @@ def main():
         logger.info(f"Enriching {len(targets)} entities...")
         for i, e in enumerate(targets, 1):
             try:
+                old_people = {(p["name"].lower(), p.get("role", "").lower()) for p in (e.get("people") or [])}
                 n = enrich_entity(e)
                 from datetime import datetime
                 e["last_enriched"] = datetime.utcnow().strftime("%Y-%m-%d")
                 logger.info(f"[{i}/{len(targets)}] {e['denomination']}: +{n} people")
+                # Log activity for new people
+                new_people = {(p["name"].lower(), p.get("role", "").lower()) for p in (e.get("people") or [])}
+                for name_lower, role_lower in new_people - old_people:
+                    p = next((p for p in e["people"] if p["name"].lower() == name_lower), None)
+                    if p:
+                        log_event("person_joined", e["id"], e["denomination"],
+                                  f"{p['name']} - {p.get('role', '')}",
+                                  {"name": p["name"], "role": p.get("role", ""),
+                                   "linkedin": p.get("linkedin", ""), "source": p.get("source", "")})
             except Exception as ex:
                 logger.warning(f"Failed for {e['denomination']}: {ex}")
 

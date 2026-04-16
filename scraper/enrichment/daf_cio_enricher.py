@@ -26,6 +26,8 @@ import requests
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from activity_logger import log_event  # noqa
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
@@ -144,6 +146,9 @@ def enrich_entity(entity: dict, delay: float = 2.5) -> int:
                 existing_names.add(n.lower())
                 added += 1
                 found = True
+                log_event("person_joined", entity["id"], entity.get("denomination", ""),
+                          f"{n} - {role}",
+                          {"name": n, "role": role, "linkedin": r["linkedin"], "source": "ddg_linkedin"})
                 break
             if found:
                 break

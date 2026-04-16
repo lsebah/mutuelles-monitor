@@ -1,0 +1,47 @@
+name: Financial refresh (monthly)
+
+on:
+  schedule:
+    - cron: "0 7 1 * *"  # 1st of each month, 07:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  financials:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Apply financial seed (verified public data)
+        working-directory: scraper
+        run: python enrichment/apply_financials_seed.py
+
+      - name: SFCR financial extraction (top 50 entities)
+        working-directory: scraper
+        run: python enrichment/sfcr_parser.py --limit 50
+        continue-on-error: true
+
+      - name: Prune old activity events (90 days)
+        working-directory: scraper
+        run: python -c "import sys; sys.path.insert(0, 'enrichment'); from activity_logger import prune_old_events; prune_old_events(90)"
+
+      - name: Re-export Folk CSV
+        working-directory: scraper
+        run: python folk_export.py
+
+      - name: Commit & push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add docs/data/
+          git diff --staged --quiet || git commit -m "Monthly financial refresh $(date -u +%Y-%m-%d)"
+          git push

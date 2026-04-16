@@ -130,18 +130,34 @@ def write_outputs(entities: list, scrape_status: dict):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     today = datetime.utcnow().strftime("%Y-%m-%d")
 
-    # Stamp first_seen on new ones
+    # Stamp first_seen on new ones + detect new entities
     existing_path = DATA_DIR / "entities.json"
     existing_first_seen = {}
+    existing_ids = set()
     if existing_path.exists():
         try:
             with open(existing_path, encoding="utf-8") as f:
                 old = json.load(f)
             for e in old.get("entities", []):
+                existing_ids.add(e["id"])
                 if e.get("first_seen"):
                     existing_first_seen[e["id"]] = e["first_seen"]
         except Exception as ex:
             logger.warning(f"Could not read existing entities.json: {ex}")
+
+    # Log new entities to activity feed
+    try:
+        sys.path.insert(0, str(Path(__file__).parent / "enrichment"))
+        from activity_logger import log_event
+        for e in entities:
+            if e["id"] not in existing_ids and existing_ids:
+                log_event("new_entity", e["id"], e.get("denomination", ""),
+                          f"Nouvelle entite ({e.get('type_organisme', '')})",
+                          {"type_organisme": e.get("type_organisme", ""),
+                           "city": e.get("address", {}).get("city", ""),
+                           "source": list(e.get("sources", {}).keys())[:1]})
+    except Exception as ex:
+        logger.debug(f"Activity logging skipped: {ex}")
 
     for e in entities:
         if not e.get("first_seen"):

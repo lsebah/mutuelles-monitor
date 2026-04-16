@@ -37,15 +37,23 @@
     </section>
 
     <nav class="tabs">
-        <button class="tab active" data-tab="dashboard">Dashboard</button>
+        <button class="tab active" data-tab="activity">Activite</button>
+        <button class="tab" data-tab="dashboard">Vue d'ensemble</button>
         <button class="tab" data-tab="directory">Annuaire <span class="tab-badge" id="badgeTotal"></span></button>
         <button class="tab" data-tab="structured">Porteurs structures <span class="tab-badge" id="badgeStructured"></span></button>
         <button class="tab" data-tab="federations">Federations <span class="tab-badge" id="badgeFederations"></span></button>
     </nav>
 
     <main class="main-content">
+        <!-- Activity Feed -->
+        <div id="tab-activity" class="tab-content active">
+            <h3 class="section-title">Fil d'activite - Veille mutuelles & assurances</h3>
+            <div id="activityFeed" class="activity-feed"></div>
+            <button class="load-more-btn" id="activityLoadMore" onclick="showFullHistory()" style="display:none">Voir l'historique complet...</button>
+        </div>
+
         <!-- Dashboard -->
-        <div id="tab-dashboard" class="tab-content active">
+        <div id="tab-dashboard" class="tab-content">
             <h3 class="section-title">Repartition par type d'organisme</h3>
             <div class="type-grid" id="typeGrid"></div>
             <h3 class="section-title">Top groupes</h3>

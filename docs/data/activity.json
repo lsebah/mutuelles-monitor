@@ -1,0 +1,325 @@
+{
+  "last_updated": "2026-04-16T07:25:22Z",
+  "events": [
+    {
+      "id": "evt_20260416_fin_ent_2b8c44ba20_021f936c",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_2b8c44ba20",
+      "entity_name": "CNP ASSURANCES",
+      "summary": "Primes 2024: 37.40 Md€ | R. net: 1.58 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 37400000000,
+        "resultat_net_eur": 1582000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Rapport annuel 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_81a420f7ec_06859992",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_81a420f7ec",
+      "entity_name": "PREDICA - PREVOYANCE DIALOGUE DU CREDIT AGRICOLE",
+      "summary": "Primes 2024: 43.60 Md€ | R. net: 1.96 Md€ | S/P: 70.2%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600000000,
+        "resultat_net_eur": 1959000000,
+        "sp_ratio": 70.2,
+        "rendement_actifs_pct": null,
+        "source": "CA Assurances resultats 12M 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_169685cca7_a1043bc6",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_169685cca7",
+      "entity_name": "SPIRICA",
+      "summary": "Primes 2024: 3.02 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3015000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Spirica 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_f9f6e15f1b_0623c2ad",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "Primes 2024: 5.90 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 5900000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Pacifica 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_18786ccb58_f8cd6ab6",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_18786ccb58",
+      "entity_name": "CARDIF ASSURANCE VIE",
+      "summary": "Primes 2024: 36.40 Md€ | R. net: 1.60 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 36400000000,
+        "resultat_net_eur": 1600000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "BNP Paribas Cardif resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_6c63dacf38_8371a7df",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_6c63dacf38",
+      "entity_name": "ALLIANZ VIE",
+      "summary": "Primes 2024: 13.10 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 13100000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Allianz France chiffres cles 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ba97baebc6_5f636fbb",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ba97baebc6",
+      "entity_name": "GENERALI VIE",
+      "summary": "Primes 2024: 12.89 Md€ | R. net: 421.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 12892000000,
+        "resultat_net_eur": 421000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "RSSF Generali Vie 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_4b40a0ab3b_35d27480",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Primes 2024: 27.70 Md€ | R. net: 1.20 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 27700000000,
+        "resultat_net_eur": 1200000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Rapport annuel Covea 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_babc1993a0_235dc5e5",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_babc1993a0",
+      "entity_name": "GROUPAMA GAN VIE",
+      "summary": "Primes 2024: 18.50 Md€ | R. net: 961.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 18500000000,
+        "resultat_net_eur": 961000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Groupama resultats annuels 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_f2e88c8f72_59d28be5",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_f2e88c8f72",
+      "entity_name": "AG2R PREVOYANCE",
+      "summary": "Primes 2024: 12.80 Md€ | R. net: 183.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 12800000000,
+        "resultat_net_eur": 183000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AG2R La Mondiale resultats annuels 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_1a235aec2e_64a6b6ad",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_1a235aec2e",
+      "entity_name": "HARMONIE MUTUELLE",
+      "summary": "Primes 2024: 4.30 Md€ | R. net: 99.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 4300000000,
+        "resultat_net_eur": 99000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Harmonie Mutuelle resultats consolides 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_1296391c0b_c5879d9e",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_1296391c0b",
+      "entity_name": "MUTUELLE MALAKOFF HUMANIS",
+      "summary": "Primes 2024: 7.52 Md€ | R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 7520000000,
+        "resultat_net_eur": 211000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Malakoff Humanis resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_e6ddd147c2_490f1458",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_e6ddd147c2",
+      "entity_name": "AESIO MUTUELLE",
+      "summary": "Primes 2024: 16.10 Md€ | R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 16100000000,
+        "resultat_net_eur": 211000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AEMA Groupe resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ba0e3fa9af_65ef1677",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Primes 2024: 3.04 Md€ | R. net: 300.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3040000000,
+        "resultat_net_eur": 300000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "MACSF resultats annuels 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_7f50b00f39_ebaadb9f",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_7f50b00f39",
+      "entity_name": "MACSF PREVOYANCE",
+      "summary": "Primes 2024: 3.04 Md€ | R. net: 300.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3040000000,
+        "resultat_net_eur": 300000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "MACSF resultats annuels 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_c8ecbfa124_eb147e66",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Primes 2024: 3.18 Md€ | R. net: 104.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3176000000,
+        "resultat_net_eur": 104000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Matmut resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_b76b1b8952_d1248bef",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes 2024: 3.18 Md€ | R. net: 104.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3176000000,
+        "resultat_net_eur": 104000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Matmut resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_40903497ee_7166f014",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_40903497ee",
+      "entity_name": "APICIL PREVOYANCE",
+      "summary": "Primes 2024: 3.90 Md€ | R. net: 58.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3900000000,
+        "resultat_net_eur": 58000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Apicil resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_607fe754c0_68adfc54",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_607fe754c0",
+      "entity_name": "SOGECAP",
+      "summary": "Primes 2024: 20.30 Md€ | R. net: 393.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 20300000000,
+        "resultat_net_eur": 393000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SG Assurances resultats 2024"
+      }
+    },
+    {
+      "id": "evt_20260416_fin_ent_ebd2c6fcaa_f0113ea0",
+      "date": "2026-04-16",
+      "type": "financial_update",
+      "entity_id": "ent_ebd2c6fcaa",
+      "entity_name": "KLESIA MUT",
+      "summary": "Primes 2024: 2.80 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2800000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Klesia 2024"
+      }
+    }
+  ]
+}

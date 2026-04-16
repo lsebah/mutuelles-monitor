@@ -324,7 +324,7 @@ function renderEntityCard(e) {
                 const hasLinkedin = p.linkedin && p.linkedin.trim().startsWith('http');
                 const linkedin = hasLinkedin
                     ? `<a class="name" href="${p.linkedin}" target="_blank" rel="noopener">${name} <span class="li-icon">in</span></a>`
-                    : `<a class="name" href="https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(p.name + ' ' + (e.denomination || ''))}" target="_blank" rel="noopener" title="Rechercher sur LinkedIn">${name} <span class="li-icon">in</span></a>`;
+                    : `<a class="name" href="https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(p.name)}" target="_blank" rel="noopener" title="Rechercher sur LinkedIn">${name} <span class="li-icon">in</span></a>`;
                 const email = p.email ? ` <a href="mailto:${p.email}" style="color:var(--accent-light-blue);font-size:11px">${p.email}</a>` : '';
                 return `<div class="entity-people-row"><span class="role">${role}</span>${linkedin}${email}</div>`;
             }).join('') + '</div></div>';

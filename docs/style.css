@@ -162,7 +162,10 @@ body {
 }
 .entity-card:hover { background: var(--bg-hover); border-color: var(--accent-gold); }
 .entity-card.is-folk { border-left: 3px solid var(--accent-green); }
-.entity-card.has-structured { border-left: 3px solid var(--accent-purple); }
+.entity-card.has-structured {
+    border-left: 4px solid #e040fb;
+    box-shadow: inset 0 0 0 1px rgba(224, 64, 251, 0.08);
+}
 .entity-info { min-width: 0; }
 .entity-header {
     display: flex; align-items: center; gap: 10px;
@@ -170,14 +173,35 @@ body {
 }
 .entity-name { font-size: 16px; font-weight: 600; color: var(--text-primary); }
 .badge {
-    font-size: 11px; padding: 2px 8px; border-radius: 4px;
-    font-weight: 500; white-space: nowrap;
+    font-size: 11px; padding: 3px 10px; border-radius: 12px;
+    font-weight: 600; white-space: nowrap; letter-spacing: 0.2px;
 }
-.badge-type { color: var(--accent-light-blue); background: rgba(74, 158, 255, 0.1); }
-.badge-groupe { color: var(--accent-gold); background: rgba(212, 168, 67, 0.12); }
-.badge-structured-yes { color: var(--accent-purple); background: rgba(168, 85, 247, 0.15); font-weight: 700; }
-.badge-structured-no { color: var(--text-muted); background: rgba(90, 107, 124, 0.15); }
-.badge-structured-unknown { color: var(--text-muted); background: rgba(90, 107, 124, 0.08); }
+/* Type badges - each type gets a distinct color */
+.badge-type { color: #7cb3ff; background: rgba(74, 158, 255, 0.12); }
+.badge-type-mutuelle { color: #4cd9a0; background: rgba(52, 199, 120, 0.12); }
+.badge-type-assurance_vie { color: #6ea8ff; background: rgba(74, 130, 255, 0.15); }
+.badge-type-assurance_non_vie { color: #4dc9d9; background: rgba(60, 190, 210, 0.12); }
+.badge-type-assurance_mixte { color: #8b8fff; background: rgba(100, 100, 255, 0.12); }
+.badge-type-institution_prevoyance { color: #f0a050; background: rgba(240, 160, 80, 0.15); }
+.badge-type-reassurance { color: #9a9eb5; background: rgba(150, 155, 180, 0.12); }
+.badge-type-groupe { color: var(--accent-gold); background: rgba(212, 168, 67, 0.12); }
+.badge-type-federation { color: #50d9b0; background: rgba(60, 210, 160, 0.12); }
+/* Groupe badge */
+.badge-groupe { color: var(--accent-gold); background: rgba(212, 168, 67, 0.15); border: 1px solid rgba(212, 168, 67, 0.25); }
+/* Structured products badges — PROMINENT with border */
+.badge-structured-yes {
+    color: #e040fb; background: rgba(224, 64, 251, 0.12);
+    border: 1.5px solid rgba(224, 64, 251, 0.5);
+    font-weight: 700; font-size: 11px; padding: 3px 12px;
+    text-transform: uppercase; letter-spacing: 0.5px;
+    animation: pulse-structured 3s ease-in-out infinite;
+}
+@keyframes pulse-structured {
+    0%, 100% { border-color: rgba(224, 64, 251, 0.5); }
+    50% { border-color: rgba(224, 64, 251, 0.9); box-shadow: 0 0 8px rgba(224, 64, 251, 0.2); }
+}
+.badge-structured-no { color: #7a8599; background: rgba(90, 107, 124, 0.1); border: 1px solid rgba(90, 107, 124, 0.15); }
+.badge-structured-unknown { color: #5a6b7c; background: rgba(90, 107, 124, 0.06); font-weight: 400; font-size: 10px; }
 .entity-meta {
     display: flex; gap: 16px; font-size: 13px;
     color: var(--text-secondary); flex-wrap: wrap; margin-bottom: 6px;
@@ -196,12 +220,17 @@ body {
 }
 .entity-people-row .name:hover { text-decoration: underline; }
 .entity-people-row .li-icon { font-size: 10px; color: var(--accent-blue); }
-.entity-financials {
-    margin-top: 8px; font-size: 12px; color: var(--text-secondary);
-    display: flex; gap: 16px; flex-wrap: wrap;
+/* Financial summary bar - prominent gold accent */
+.entity-financials-bar {
+    margin: 6px 0; padding: 6px 12px;
+    background: rgba(212, 168, 67, 0.08); border: 1px solid rgba(212, 168, 67, 0.15);
+    border-radius: 6px;
+    display: flex; gap: 24px; flex-wrap: wrap;
+    font-size: 13px;
 }
-.entity-financials .label { color: var(--text-muted); }
-.entity-financials .value { color: var(--accent-gold); font-weight: 600; }
+.entity-financials-bar .fin-item { display: flex; gap: 6px; align-items: center; }
+.entity-financials-bar .fin-label { color: var(--text-muted); font-size: 11px; }
+.entity-financials-bar .fin-value { color: var(--accent-gold); font-weight: 700; font-size: 14px; }
 .entity-contact {
     font-size: 12px; color: var(--text-secondary); margin-top: 6px;
     display: flex; gap: 16px; flex-wrap: wrap;

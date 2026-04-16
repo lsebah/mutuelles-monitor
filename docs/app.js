@@ -215,8 +215,9 @@ function renderEntityCard(e) {
     const spStatus = sp.status || 'unknown';
     const typeLabel = typesLabels[e.type_organisme] || e.type_organisme || '';
 
+    const typeClass = 'badge-type-' + (e.type_organisme || '');
     const badges = [
-        `<span class="badge badge-type">${typeLabel}</span>`,
+        `<span class="badge ${typeClass}">${typeLabel}</span>`,
     ];
     if (e.groupe) badges.push(`<span class="badge badge-groupe">${escHtml(e.groupe)}</span>`);
     if (spStatus === 'yes') badges.push('<span class="badge badge-structured-yes">PORTEUR STRUCTURES</span>');
@@ -225,6 +226,15 @@ function renderEntityCard(e) {
 
     const addr = e.address || {};
     const location = [addr.city, addr.department ? `(${addr.department})` : ''].filter(Boolean).join(' ');
+
+    // Financial summary line (primes + resultat net) - prominent when available
+    let finSummary = '';
+    if (e.financials) {
+        const parts = [];
+        if (e.financials.primes_eur) parts.push(`<span class="fin-item"><span class="fin-label">Primes ${e.financials.year || ''}:</span> <span class="fin-value">${formatEur(e.financials.primes_eur)}</span></span>`);
+        if (e.financials.resultat_net_eur) parts.push(`<span class="fin-item"><span class="fin-label">R. net:</span> <span class="fin-value">${formatEur(e.financials.resultat_net_eur)}</span></span>`);
+        if (parts.length) finSummary = `<div class="entity-financials-bar">${parts.join('')}</div>`;
+    }
 
     let peopleHtml = '';
     if (e.people && e.people.length) {
@@ -240,16 +250,7 @@ function renderEntityCard(e) {
             }).join('') + '</div></div>';
     }
 
-    let finHtml = '';
-    if (e.financials) {
-        const primes = e.financials.primes_eur ? formatEur(e.financials.primes_eur) : '';
-        const rn = e.financials.resultat_net_eur ? formatEur(e.financials.resultat_net_eur) : '';
-        const yr = e.financials.year || '';
-        finHtml = `<div class="entity-financials">
-            ${primes ? `<span><span class="label">Primes ${yr}:</span> <span class="value">${primes}</span></span>` : ''}
-            ${rn ? `<span><span class="label">Resultat net:</span> <span class="value">${rn}</span></span>` : ''}
-        </div>`;
-    }
+    // (financials now rendered as finSummary above)
 
     const contact = [];
     if (e.phone) contact.push(`<a href="tel:${e.phone}">${e.phone}</a>`);
@@ -269,12 +270,10 @@ function renderEntityCard(e) {
                 <div class="entity-meta">
                     ${location ? `<span>${location}</span>` : ''}
                     ${addr.street ? `<span>${escHtml(addr.street)}</span>` : ''}
-                    ${e.siren ? `<span>SIREN: ${e.siren}</span>` : ''}
-                    ${e.matricule && e.matricule !== e.siren ? `<span>Mat: ${e.matricule}</span>` : ''}
                 </div>
+                ${finSummary}
                 ${contact.length ? `<div class="entity-contact">${contact.join('')}</div>` : ''}
                 ${peopleHtml}
-                ${finHtml}
             </div>
             <div class="entity-actions">
                 <label class="contact-toggle" title="Marquer comme dans Folk">

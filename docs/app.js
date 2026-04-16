@@ -97,17 +97,25 @@ function renderDashboard(stats) {
     const tg = document.getElementById('typeGrid');
     const byType = stats.by_type || {};
     const labels = typesLabels;
-    tg.innerHTML = Object.keys(byType).sort((a,b) => byType[b]-byType[a]).map(t => `
+    const total = Object.values(byType).reduce((a,b) => a+b, 0);
+    const spYes = (stats.structured_products || {}).yes || 0;
+    const typeCards = Object.keys(byType).sort((a,b) => byType[b]-byType[a]).map(t => `
         <div class="type-card" onclick="filterByType('${t}')">
-            <div class="type-name">${labels[t] || t}</div>
             <div class="type-count">${byType[t].toLocaleString('fr-FR')}</div>
-            <div class="type-label">entites</div>
+            <div class="type-name">${labels[t] || t}</div>
         </div>
     `).join('');
+    tg.innerHTML = `<div class="type-card type-card-total" onclick="statFilter('all')">
+        <div class="type-count">${total.toLocaleString('fr-FR')}</div>
+        <div class="type-name">Total entites</div>
+    </div>` + typeCards + `<div class="type-card type-card-structured" onclick="statFilter('structured')">
+        <div class="type-count">${spYes}</div>
+        <div class="type-name">Porteurs structures</div>
+    </div>`;
 
     const gg = document.getElementById('groupeGrid');
     const byGroupe = stats.by_groupe || {};
-    const grpEntries = Object.entries(byGroupe).sort((a,b) => b[1]-a[1]).slice(0, 12);
+    const grpEntries = Object.entries(byGroupe).sort((a,b) => b[1]-a[1]).slice(0, 14);
     gg.innerHTML = grpEntries.length
         ? grpEntries.map(([g, c]) => `
             <div class="type-card" onclick="filterByGroupe('${g.replace(/'/g, "\\'")}')">

@@ -139,18 +139,35 @@ body {
 
 /* Type Grid */
 .type-grid {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 12px; margin-bottom: 32px;
+    display: grid; grid-template-columns: repeat(5, 1fr);
+    gap: 10px; margin-bottom: 32px;
 }
+#groupeGrid {
+    grid-template-columns: repeat(7, 1fr);
+}
+.type-card-total {
+    border-color: var(--accent-gold);
+    background: linear-gradient(135deg, var(--bg-card) 0%, #2a2418 100%);
+}
+.type-card-total .type-count { color: var(--accent-gold); }
+.type-card-total .type-name { color: var(--accent-gold); }
+.type-card-structured {
+    border-color: rgba(224, 64, 251, 0.4);
+    background: linear-gradient(135deg, var(--bg-card) 0%, #251830 100%);
+}
+.type-card-structured .type-count { color: #e040fb; }
+.type-card-structured .type-name { color: #e040fb; }
 .type-card {
     background: var(--bg-card); border: 1px solid var(--border);
     border-radius: var(--radius); padding: 16px;
-    transition: border-color 0.2s; cursor: pointer;
+    transition: all 0.2s; cursor: pointer;
+    display: flex; flex-direction: column; justify-content: center;
+    min-height: 100px;
 }
-.type-card:hover { border-color: var(--accent-gold); }
-.type-name { font-size: 14px; font-weight: 600; color: var(--accent-light-blue); margin-bottom: 4px; }
-.type-count { font-size: 26px; font-weight: 700; color: var(--text-primary); }
-.type-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; }
+.type-card:hover { border-color: var(--accent-gold); background: var(--bg-hover); }
+.type-count { font-size: 30px; font-weight: 700; color: var(--text-primary); line-height: 1.1; }
+.type-name { font-size: 12px; font-weight: 500; color: var(--accent-light-blue); margin-top: 6px; line-height: 1.3; }
+.type-label { display: none; }
 
 /* Members count + list */
 .members-count { font-size: 13px; color: var(--text-muted); margin-bottom: 12px; }

@@ -54,12 +54,12 @@ def search_linkedin(query: str) -> list:
     except Exception as e:
         logger.warning(f"DDG search failed: {e}")
         return []
+    from urllib.parse import unquote
     soup = BeautifulSoup(html, "lxml")
     results = []
     for a in soup.select("a.result__a"):
-        href = a.get("href", "")
-        # DDG sometimes wraps: /l/?kh=-1&uddg=https%3A%2F%2Flinkedin.com%2Fin%2F...
-        m = re.search(r"linkedin\.com/in/[^&\s\"']+", href)
+        href = unquote(a.get("href", ""))
+        m = re.search(r"(?:[\w-]+\.)?linkedin\.com/in/[^&\s\"']+", href)
         if not m:
             continue
         link = "https://" + m.group(0)

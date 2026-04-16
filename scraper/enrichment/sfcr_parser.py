@@ -51,9 +51,10 @@ def find_sfcr_url(entity_name: str) -> str:
     except Exception as e:
         logger.warning(f"DDG search failed: {e}")
         return ""
+    from urllib.parse import unquote
     soup = BeautifulSoup(html, "lxml")
     for a in soup.select("a.result__a"):
-        href = a.get("href", "")
+        href = unquote(a.get("href", ""))
         m = re.search(r"https?://[^&\s\"']+\.pdf", href)
         if m:
             return m.group(0)

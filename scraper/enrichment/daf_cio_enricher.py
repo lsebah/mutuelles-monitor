@@ -96,6 +96,51 @@ def _has_role(entity: dict, role_keyword: str) -> bool:
     return False
 
 
+ROLE_KEYWORDS = {
+    "Directeur Financier": [
+        "directeur financier", "directrice financière", "directrice financiere",
+        "daf ", " daf", "cfo", "chief financial", "finance director",
+        "head of finance", "directeur administratif et financier",
+    ],
+    "Directeur des Investissements": [
+        "directeur des investissements", "directrice des investissements",
+        "directeur investissement", "directrice investissement",
+        "cio ", " cio", "chief investment", "investment director",
+        "head of investment",
+    ],
+}
+
+
+def _title_matches_company(title: str, entity_name: str, aliases: list) -> bool:
+    """Check if the LinkedIn title/snippet actually refers to the target entity.
+
+    Why: DDG returns LinkedIn hits for any company sharing the name (e.g. a US
+    hotel chain named "Pacifica"). Without this check we imported bogus people.
+    """
+    if not title:
+        return False
+    t = title.lower()
+    candidates = [entity_name.lower()] + [a.lower() for a in aliases if a]
+    for c in candidates:
+        # Require at least one meaningful token (>=4 chars) from the entity name
+        for token in re.split(r"[\s\-/&,()]+", c):
+            if len(token) >= 4 and token in t:
+                return True
+    return False
+
+
+def _title_matches_role(title: str, role: str) -> bool:
+    """Check if the LinkedIn title actually mentions the role we searched for.
+
+    Why: DDG returned Data Analysts / Sales people when searching 'directeur
+    financier', and we were blindly stamping them with the searched role.
+    """
+    if not title:
+        return False
+    t = title.lower()
+    return any(kw in t for kw in ROLE_KEYWORDS.get(role, []))
+
+
 def enrich_entity(entity: dict, delay: float = 2.5) -> int:
     """Search for DAF + CIO on LinkedIn. Returns number of people added."""
     name = entity.get("denomination", "")
@@ -108,6 +153,11 @@ def enrich_entity(entity: dict, delay: float = 2.5) -> int:
     search_name = re.sub(r'\s+(SA|SAS|SGAM|UMG|SE)\s*$', '', search_name, flags=re.IGNORECASE).strip()
     if len(search_name) > 50:
         search_name = search_name[:50]
+
+    # Aliases used to validate that a LinkedIn hit belongs to THIS entity
+    aliases = [search_name, entity.get("short_name") or "", name]
+    if entity.get("groupe"):
+        aliases.append(entity["groupe"])
 
     added = 0
     existing_names = {p.get("name", "").lower() for p in entity.get("people", [])}
@@ -124,12 +174,19 @@ def enrich_entity(entity: dict, delay: float = 2.5) -> int:
             results = _search_ddg(query)
             time.sleep(delay)
 
-            for r in results[:3]:
+            for r in results[:5]:
                 n = r["name"]
+                title = r.get("title", "") or ""
                 if not n or n.lower() in existing_names:
                     continue
                 # Basic validation: name should look like a person (not a company)
                 if any(kw in n.lower() for kw in ["mutuelle", "assurance", "linkedin", "france", "groupe"]):
+                    continue
+                # Company must actually match (avoid homonym companies abroad)
+                if not _title_matches_company(title, search_name, aliases):
+                    continue
+                # Role must actually appear in the LinkedIn title/snippet
+                if not _title_matches_role(title, role):
                     continue
 
                 entity.setdefault("people", []).append({
@@ -140,7 +197,7 @@ def enrich_entity(entity: dict, delay: float = 2.5) -> int:
                     "phone": None,
                     "source": "ddg_linkedin",
                     "confidence": "low",
-                    "search_title": r.get("title", "")[:150],
+                    "search_title": title[:150],
                 })
                 existing_names.add(n.lower())
                 added += 1

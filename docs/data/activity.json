@@ -1,6 +1,348 @@
 {
-  "last_updated": "2026-04-16T20:17:35Z",
+  "last_updated": "2026-04-17T07:29:07Z",
   "events": [
+    {
+      "id": "evt_20260417_per_ent_f9f6e15f1b_bf26bdea",
+      "date": "2026-04-17",
+      "type": "person_joined",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "Matt Marquis - Directeur Financier",
+      "details": {
+        "name": "Matt Marquis",
+        "role": "Directeur Financier",
+        "linkedin": "https://www.linkedin.com/in/mattmarquis",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260417_per_ent_f9f6e15f1b_077fd9af",
+      "date": "2026-04-17",
+      "type": "person_joined",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "Monday Peter - Directeur des Investissements",
+      "details": {
+        "name": "Monday Peter",
+        "role": "Directeur des Investissements",
+        "linkedin": "https://www.linkedin.com/in/monday-peter-32b591387",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260417_per_ent_169685cca7_774d9e0f",
+      "date": "2026-04-17",
+      "type": "person_joined",
+      "entity_id": "ent_169685cca7",
+      "entity_name": "SPIRICA",
+      "summary": "Valentin Amorim - Directeur Financier",
+      "details": {
+        "name": "Valentin Amorim",
+        "role": "Directeur Financier",
+        "linkedin": "https://fr.linkedin.com/in/valentin-amorim/en",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_817cd8fdd1_2de8bdc4",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_817cd8fdd1",
+      "entity_name": "CREDIT AGRICOLE ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_ab0835245f_f5280a17",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_ab0835245f",
+      "entity_name": "BNP PARIBAS CARDIF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_ab0835245f_25068f13",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_ab0835245f",
+      "entity_name": "BNP PARIBAS CARDIF",
+      "summary": "R. net: 463.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 463000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_1296391c0b_f9c2181d",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_1296391c0b",
+      "entity_name": "MUTUELLE MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_1296391c0b_65b6a528",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_1296391c0b",
+      "entity_name": "MUTUELLE MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_7200c3cbfb_3ffc6f1b",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_7200c3cbfb",
+      "entity_name": "LA MONDIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_7200c3cbfb_ba6df54a",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_7200c3cbfb",
+      "entity_name": "LA MONDIALE",
+      "summary": "Primes: 21013.98 Md€ | R. net: 4.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21013984874752,
+        "resultat_net_eur": 4000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_61d86456b1_1a5c4ab3",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_61d86456b1",
+      "entity_name": "SGAPS AG2R LA MONDIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_61d86456b1_6bdeaea2",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_61d86456b1",
+      "entity_name": "SGAPS AG2R LA MONDIALE",
+      "summary": "Primes: 54.0 M€ | R. net: 221.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 54000000,
+        "resultat_net_eur": 221000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_d500a368a1_410126a8",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_d500a368a1",
+      "entity_name": "SGAM MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_d500a368a1_689affc4",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_d500a368a1",
+      "entity_name": "SGAM MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_8d13294f89_e7e5b877",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_8d13294f89",
+      "entity_name": "HOLDING MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_8d13294f89_1fe31702",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_8d13294f89",
+      "entity_name": "HOLDING MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_f243550078_cc47e9c6",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_f243550078",
+      "entity_name": "SGAM MACIF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_62da18241a_9e3c7047",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_62da18241a",
+      "entity_name": "GROUPAMA CENTRE-ATLANTIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_62da18241a_19ee9536",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_62da18241a",
+      "entity_name": "GROUPAMA CENTRE-ATLANTIQUE",
+      "summary": "Primes: 3 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_f5b2efeaf7_17e88345",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_f5b2efeaf7",
+      "entity_name": "GAN ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_f5b2efeaf7_811812d2",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_f5b2efeaf7",
+      "entity_name": "GAN ASSURANCES",
+      "summary": "Primes: 1.61 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1606300000,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_1af8e657f9_5f0eccd1",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_1af8e657f9",
+      "entity_name": "GENERALI IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_1af8e657f9_1d6a160f",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_1af8e657f9",
+      "entity_name": "GENERALI IARD",
+      "summary": "Primes: 21220.54 Md€ | R. net: 120.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21220539520112,
+        "resultat_net_eur": 120000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_98fd28164b_26f4d942",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_98fd28164b",
+      "entity_name": "GENERALI RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260417_fin_ent_98fd28164b_83f2daec",
+      "date": "2026-04-17",
+      "type": "financial_update",
+      "entity_id": "ent_98fd28164b",
+      "entity_name": "GENERALI RETRAITE",
+      "summary": "Primes: 23147137241.01 Md€ | R. net: 112.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 23147137241014001664,
+        "resultat_net_eur": 112000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260417_str_ent_8d3a577ac1_ad90365b",
+      "date": "2026-04-17",
+      "type": "structured_update",
+      "entity_id": "ent_8d3a577ac1",
+      "entity_name": "GENERALI FRANCE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
     {
       "id": "evt_20260416_fin_ent_2b8c44ba20_021f936c",
       "date": "2026-04-16",

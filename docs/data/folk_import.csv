@@ -2,7 +2,7 @@
 ,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,unknown,Sources: acpr_xlsx_2026.
 ,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,1500000000,,unknown,Sources: acpr_xlsx_2026.
-PAULINE,LECLERC-GLORIEUX,Directeur General,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,reassurance,BNP Paribas Cardif,382983922,,,unknown,Sources: acpr_xlsx_2026.
+PAULINE,LECLERC-GLORIEUX,Directeur General,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,reassurance,BNP Paribas Cardif,382983922,,463000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,AUBEANE MUTUELLE DE FRANCE,,,,59 BOULEVARD BLANQUI  BP 3013,TROYES CEDEX,10012,Aube,Grand Est,,mutuelle,,780349924,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE D ENTREPRISES SCHNEIDER ELECTRIC,,,,"4 RUE DE L'OCTANT PARC SUD GALAXIE, BATIMENT ALPHA, 2 EME ETAGE",ECHIROLLES,38130,Isere,Auvergne-Rhone-Alpes,,mutuelle,,390820058,,,unknown,Sources: acpr_xlsx_2026.
 LAURENCE,ONEN,Directeur General,CAISSE MUTUELLE D ASSURANCES SUR LA VIE,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,assurance_mixte,,784647307,,,unknown,Sources: acpr_xlsx_2026.
@@ -70,7 +70,10 @@ CHRISTOPHE,WEHRUNG,Directeur General Delegue,SERENIS ASSURANCES,,,,25 RUE DU DOC
 RODOLPHE,BERNARD MICHEL ALAIN PLOUVIER,Directeur General,L EQUITE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,,572084697,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE INTERGROUPES D ENTRAIDE,,,,16 AVENUE LOUISON BOBET Immeuble Le Péricentre CS60005,FONTENAY-SOUS-BOIS CEDEX,94132,Val-de-Marne,Ile-de-France,,mutuelle,,784275885,,,unknown,Sources: acpr_xlsx_2026.
 GUILLAUME,MICHEL ORECKIN,Directeur General,PACIFICA,,,,8 A 10 BOULEVARD DE VAUGIRARD,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_non_vie,Credit Agricole Assurances,352358865,5900000000,,yes,Sources: acpr_xlsx_2026. Pacifica (CAA non-vie) - exposition limitee mais existante.
+Matt,Marquis,Directeur Financier,PACIFICA,,,https://www.linkedin.com/in/mattmarquis,8 A 10 BOULEVARD DE VAUGIRARD,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_non_vie,Credit Agricole Assurances,352358865,5900000000,,yes,Sources: acpr_xlsx_2026. Pacifica (CAA non-vie) - exposition limitee mais existante.
+Monday,Peter,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in/monday-peter-32b591387,8 A 10 BOULEVARD DE VAUGIRARD,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_non_vie,Credit Agricole Assurances,352358865,5900000000,,yes,Sources: acpr_xlsx_2026. Pacifica (CAA non-vie) - exposition limitee mais existante.
 JANE,ANAID CHAHINIAN,Directeur General,SPIRICA,,,,16/18 boulevard de Vaugirard,PARIS CEDEX 15,75015,Paris,Ile-de-France,,assurance_vie,Credit Agricole Assurances,487739963,3015000000,,yes,"Sources: acpr_xlsx_2026. Spirica (CAA) - allocation moderate, plate-forme UC."
+Valentin,Amorim,Directeur Financier,SPIRICA,,,https://fr.linkedin.com/in/valentin-amorim/en,16/18 boulevard de Vaugirard,PARIS CEDEX 15,75015,Paris,Ile-de-France,,assurance_vie,Credit Agricole Assurances,487739963,3015000000,,yes,"Sources: acpr_xlsx_2026. Spirica (CAA) - allocation moderate, plate-forme UC."
 ,,,MUTUELLE D ASSURANCES DU CORPS DE SANTE FRANCAIS,,,,10 RUE DE VALMY COURS DU TRIANGLE,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775665631,,,unknown,Sources: acpr_xlsx_2026.
 VINCENT,FAVREL,Directeur General,GENERATION VIE,,,,20 PLACE DE SEINE TOUR NEPTUNE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_vie,,403267487,,,unknown,Sources: acpr_xlsx_2026.
 ALEXANDRE,OSORIO DE ABREU VASCONSELOS,Directeur General Delegue,GENERATION VIE,,,,20 PLACE DE SEINE TOUR NEPTUNE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_vie,,403267487,,,unknown,Sources: acpr_xlsx_2026.
@@ -350,17 +353,17 @@ CHRISTIAN,BAUDON,President,MMA IARD,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 9,72
 OLIVIER,RENE FRANCOIS LE BORGNE,Directeur General Delegue,MMA IARD,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 9,72030,Sarthe,Pays de la Loire,,assurance_non_vie,,440048882,,,unknown,Sources: acpr_xlsx_2026.
 FRANCK,ROGER MARC LE VALLOIS,Directeur General,MMA IARD,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 9,72030,Sarthe,Pays de la Loire,,assurance_non_vie,,440048882,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE FAMILIALE DES TRAVAILLEURS DE LA SNECMA,,,,ROND POINT  RENE RAVAUD  BP 7018,MOISSY CRAMAYEL CEDEX,77550,Seine-et-Marne,Ile-de-France,,mutuelle,,330929845,,,unknown,Sources: acpr_xlsx_2026.
-XAVIER,BESSE,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-PASCAL,COMBECAU,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-DIDIER,DESTRAIT,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-FLORENCE,MASSIAS,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-LOIC,JOUANNEAU,Directeur General Delegue,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-CORINNE,LAPORTE,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-FABRICE,LEPIGEON,Directeur General,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-VALERIE,LIVOLSI,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-KARINE,TOURAINE,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-NOEL,RAMBAUD,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
-RICHARD,SALLES,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,,,unknown,Sources: acpr_xlsx_2026.
+XAVIER,BESSE,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+PASCAL,COMBECAU,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+DIDIER,DESTRAIT,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+FLORENCE,MASSIAS,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+LOIC,JOUANNEAU,Directeur General Delegue,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+CORINNE,LAPORTE,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+FABRICE,LEPIGEON,Directeur General,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+VALERIE,LIVOLSI,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+KARINE,TOURAINE,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+NOEL,RAMBAUD,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+RICHARD,SALLES,President,GROUPAMA CENTRE-ATLANTIQUE,,,,1 AVENUE DE LIMOGES,NIORT CEDEX 9,79044,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Groupama,381043686,3,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,AGPM ASSURANCES,,,,RUE NICOLAS APPERT  QUARTIER SAINTE MUSSE,TOULON CEDEX 9,83086,Var,Provence-Alpes-Cote d'Azur,,assurance_non_vie,,312786163,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SO LYON MUTUELLE,,,,28 RUE NARCISSE BERTHOLEY,OULLINS,69600,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,779846849,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DES PAYS DE VILAINE,,,,13 RUE DES DOUVES   BP 90646,REDON CEDEX,35606,Ille-et-Vilaine,Bretagne,,mutuelle,,380155929,,,unknown,Sources: acpr_xlsx_2026.
@@ -376,7 +379,7 @@ TOMAS,KUNZMANN,Directeur General,AWP P&C,,,,7 RUE DORA MAAR,SAINT OUEN,93400,Sei
 ,,,SOCIETE MUTUALISTE DES ETUDIANTS DE LA REGION PARISIENNE,,,,28 RUE FORTUNY,PARIS,75017,Paris,Ile-de-France,,mutuelle,,775684780,,,unknown,Sources: acpr_xlsx_2026.
 ,,,ALLIANCE DES MUTUALISTES DU TRANSPORT ET DU SECTEUR SOCIAL,,,,5 PROMENADE DES CANAUX,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,442907127,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE NATIONALE DES HOSPITALIERS ET DES PROFESSIONNELS DE LA SANTE ET DU SOCIAL,,,,331 AVENUE D ANTIBES,AMILLY,45200,Loiret,Centre-Val de Loire,,mutuelle,,775606361,,,unknown,Sources: acpr_xlsx_2026.
-,,,MUTUELLE MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,mutuelle,Malakoff Humanis,784718256,7520000000,211000000,unknown,Sources: acpr_xlsx_2026.
+,,,MUTUELLE MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,mutuelle,Malakoff Humanis,784718256,,211000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE LOIRE FOREZ,,,,16 BOULEVARD CHAVASSIEU,MONTBRISON,42600,Loire,Auvergne-Rhone-Alpes,,mutuelle,,405390238,,,unknown,Sources: acpr_xlsx_2026.
 HERVÉ,NAERHUYSEN,President,SOCIETE D'ASSURANCES FAMILIALES DES SALARIES ET ARTISANS DU BATIMENT ET DES TRAVAUX PUBLICS IARD,,,,7 RUE DU REGARD,PARIS,75006,Paris,Ile-de-France,,assurance_non_vie,,332074384,,,unknown,Sources: acpr_xlsx_2026.
 ,,,"LA PREVOYANCE ARTISANALE, COMMERCIALE ET SALARIALE",,,,83 AVENUE DE LA FORET NOIRE  BP 77,STRASBOURG,67016,Bas-Rhin,Grand Est,,mutuelle,,778868513,,,unknown,Sources: acpr_xlsx_2026.
@@ -419,7 +422,7 @@ HERVE,LEBLANC,President,SMA SA,,,,8 RUE LOUIS ARMAND,PARIS,75015,Paris,Ile-de-Fr
 ,,,UNION NATIONALE MUTUALISTE INTERPROFESSIONNELLE,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,assurance_mixte,,784718207,,,unknown,Sources: acpr_xlsx_2026.
 PASCAL,LOISEAU,Directeur General,CAISSE DE REASSURANCE MUTUELLE AGRICOLE DU CENTRE MANCHE,,,,10 RUE BLAISE PASCAL  BP 20337,CHARTRES CEDEX,28006,Eure-et-Loir,Centre-Val de Loire,,assurance_non_vie,,383853801,,,unknown,Sources: acpr_xlsx_2026.
 ,,,LA BRESSANE,,,,94  GRANDE RUE,BAGE LE CHATEL,01380,Ain,Auvergne-Rhone-Alpes,,assurance_non_vie,,775543523,,,unknown,Sources: acpr_xlsx_2026.
-LAURENT,PATRICE BOUSCHON,Directeur General,GAN ASSURANCES,,,,8 A 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,542063797,,,unknown,Sources: acpr_xlsx_2026.
+LAURENT,PATRICE BOUSCHON,Directeur General,GAN ASSURANCES,,,,8 A 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,542063797,1606300000,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE GENERALE DE LA DISTRIBUTION,,,,3 RUE DES MATHURINS,PARIS,75009,Paris,Ile-de-France,,mutuelle,,429211469,,,unknown,Sources: acpr_xlsx_2026.
 DOMINIQUE,DAVIER,Directeur General,MONCEAU RETRAITE & EPARGNE,,,,36 A 38  RUE  DE SAINT PETERSBOURG,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,443137500,720000000,,unknown,Sources: acpr_xlsx_2026.
 CHRISTOPHE,DUMONT,Directeur General Delegue,MONCEAU RETRAITE & EPARGNE,,,,36 A 38  RUE  DE SAINT PETERSBOURG,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,443137500,720000000,,unknown,Sources: acpr_xlsx_2026.
@@ -476,8 +479,8 @@ BÉATRICE,MARIE ROSELYNE SAVOURE,Directeur General,GMF ASSURANCES,,,,148 RUE ANA
 ,,,MUTUELLE AUTONOME GENERALE EDUCATION,,,,43 RUE JABOULAY,LYON CEDEX 07,69349,Rhone,Auvergne-Rhone-Alpes,,mutuelle,,343030037,,,unknown,Sources: acpr_xlsx_2026.
 STEPHEN,LEGUILLON,Directeur General,SEYNA,,,,20 BIS RUE LOUIS PHILIPPE,NEUILLY SUR SEINE,92200,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,843974635,,,unknown,Sources: acpr_xlsx_2026.
 JEAN,NICOLINI,Directeur General Delegue,SEYNA,,,,20 BIS RUE LOUIS PHILIPPE,NEUILLY SUR SEINE,92200,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,843974635,,,unknown,Sources: acpr_xlsx_2026.
-JEAN-LAURENT,GRANIER,Directeur General,GENERALI IARD,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,Generali,552062663,3150000000,,unknown,Sources: acpr_xlsx_2026.
-RÉGIS,LEMARCHAND,Directeur General Delegue,GENERALI IARD,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,Generali,552062663,3150000000,,unknown,Sources: acpr_xlsx_2026.
+JEAN-LAURENT,GRANIER,Directeur General,GENERALI IARD,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,Generali,552062663,21220539520112,120000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+RÉGIS,LEMARCHAND,Directeur General Delegue,GENERALI IARD,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,Generali,552062663,21220539520112,120000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,CAPREVAL,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,institution_prevoyance,,784669939,,,unknown,Sources: acpr_xlsx_2026.
 DENIS,BOURGEOIS,Directeur General,ABEILLE RETRAITE PROFESSIONNELLE,,,,70 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,assurance_vie,,833105067,,,unknown,Sources: acpr_xlsx_2026.
 RENAUD,CELIE,Directeur General Delegue,ABEILLE RETRAITE PROFESSIONNELLE,,,,70 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,assurance_vie,,833105067,,,unknown,Sources: acpr_xlsx_2026.
@@ -707,10 +710,10 @@ KATRIEN,KAROLIEN HILDE VANDEN BULCKE,Directeur General Delegue,MONCEAU GENERALE 
 ,,,MUTUELLE FRANC AU DECES DE TROIS BASSINS,,,,58 BOULEVARD HUBERT DELISLE  BP 388,SAINT PIERRE CEDEX (REUNION),97457,La Reunion,La Reunion,,mutuelle,,443410808,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE ASSURANCE DU MIDI,,,,1 place Occitane Immeuble le Sully,TOULOUSE,31000,Haute-Garonne,Occitanie,,assurance_non_vie,,353454382,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLES DU SOLEIL LIVRE II,,,,36 A 36 BIS AVENUE DU MARECHAL FOCH,NICE,06000,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,,mutuelle,,782395511,,,unknown,Sources: acpr_xlsx_2026.
-OLIVIER,ARLES,Directeur General Delegue,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,7400000000,245000000,unknown,Sources: acpr_xlsx_2026.
-PHILIPPE,DABAT,Directeur General Delegue,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,7400000000,245000000,unknown,Sources: acpr_xlsx_2026.
-FABRICE,HEYRIES,Directeur General,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,7400000000,245000000,unknown,Sources: acpr_xlsx_2026.
-PHILIPPE,FRANCOIS MICHEL MARIE LAMBLIN,President,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,7400000000,245000000,unknown,Sources: acpr_xlsx_2026.
+OLIVIER,ARLES,Directeur General Delegue,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,21013984874752,4000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+PHILIPPE,DABAT,Directeur General Delegue,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,21013984874752,4000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+FABRICE,HEYRIES,Directeur General,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,21013984874752,4000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+PHILIPPE,FRANCOIS MICHEL MARIE LAMBLIN,President,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,21013984874752,4000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE DU PAYS MARTEGAL,,,,AVENUE CALMETTE ET GUERIN,MARTIGUES,13500,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782746887,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SOCIETE MUTUALISTE DU PERSONNEL ACTIF ET RETRAITE DE LA MARQUE,,,,9 ROUTE DES BRUYERES,SAINT PRIEST DE GIMEL,19800,Correze,Nouvelle-Aquitaine,,assurance_non_vie,,390550986,,,unknown,Sources: acpr_xlsx_2026.
 PHILIPPE,OLIVIER BARRET,President,APICIL EPARGNE RETRAITE,,,,51 BOULEVARD MARIUS VIVIER MERLE,CALUIRE ET CUIRE,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_vie,Apicil,338746464,,,unknown,Sources: acpr_xlsx_2026.
@@ -750,7 +753,7 @@ STÉPHANIE,HELLEC,Directeur General,CNP RETRAITE,,,,4 PROMENADE COEUR DE VILLE,I
 ALEXANDRE,ROHIC,Directeur General Delegue,CNP RETRAITE,,,,4 PROMENADE COEUR DE VILLE,ISSY LES MOULINEAUX,92130,Hauts-de-Seine,Ile-de-France,,assurance_vie,,892347501,1500000000,,unknown,Sources: acpr_xlsx_2026.
 RACHEL,GUIBERT,Directeur General Delegue,PUBLICIS RE,,,,133 AVENUE DES CHAMPS ELYSEES,PARIS,75008,Paris,Ile-de-France,,reassurance,,914281357,,,unknown,Sources: acpr_xlsx_2026.
 CHARLOTTE,DORIAN SÉRAPHINE CHEVALIER,Directeur General,CARDIF RETRAITE,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,assurance_vie,,903364321,,,unknown,Sources: acpr_xlsx_2026.
-SOPHIE,VANNIER,Directeur General,GENERALI RETRAITE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_vie,Generali,880265418,,,unknown,Sources: acpr_xlsx_2026.
+SOPHIE,VANNIER,Directeur General,GENERALI RETRAITE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_vie,Generali,880265418,23147137241014001664,112000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 FLORENT,PIERRE ALBERT COMBES,Directeur General,GARANCE RETRAITE,,,,"51, rue de Châteaudun",PARIS,75009,Paris,Ile-de-France,,assurance_vie,,907943989,,,unknown,Sources: acpr_xlsx_2026.
 BERTRAND,HAU,Directeur General,SELENCIA RETRAITE,,,,7 ALLEE DE L'ARCHE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_vie,,908314677,,,unknown,Sources: acpr_xlsx_2026.
 SONIA,CHUNXIA LUO,Directeur General Delegue,SELENCIA RETRAITE,,,,7 ALLEE DE L'ARCHE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_vie,,908314677,,,unknown,Sources: acpr_xlsx_2026.
@@ -840,7 +843,7 @@ JEAN-LOUIS,LUC MARIE GROSSE,President,SGAM AEMA,,,,127/129 QUAI DU PRESIDENT ROO
 NATHALIE,BROUTELE,Directeur General Delegue,NATIXIS ASSURANCES,,,,30  AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,groupe,,313243800,2900000000,,unknown,Sources: acpr_xlsx_2026.
 CORINNE,CIPIERE,Directeur General,NATIXIS ASSURANCES,,,,30  AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,groupe,,313243800,2900000000,,unknown,Sources: acpr_xlsx_2026.
 MARION,GENEVIÈVE SUZANNE DEWAGENAERE,Directeur General Delegue,NATIXIS ASSURANCES,,,,30  AVENUE PIERRE MENDES FRANCE,PARIS,75013,Paris,Ile-de-France,,groupe,,313243800,2900000000,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAPS AG2R LA MONDIALE,,,,14-16 BOULEVARD MALESHERBES,PARIS,75008,Paris,Ile-de-France,,groupe,AG2R La Mondiale,833002983,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAPS AG2R LA MONDIALE,,,,14-16 BOULEVARD MALESHERBES,PARIS,75008,Paris,Ile-de-France,,groupe,AG2R La Mondiale,833002983,54000000,221000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,ODYSSEY RE EUROPE HOLDINGS,,,,15 RUE DU 4 SEPTEMBRE,PARIS,75002,Paris,Ile-de-France,,groupe,,829589696,,,unknown,Sources: acpr_xlsx_2026.
 CATHERINE,LEFLAIVE,President,BIG WAKAM,,,,120 A 122 RUE REAUMUR,PARIS,75002,Paris,Ile-de-France,,groupe,,422755983,,,unknown,Sources: acpr_xlsx_2026.
 MARK,CHRISTER,Directeur General Delegue,BIG WAKAM,,,,120 A 122 RUE REAUMUR,PARIS,75002,Paris,Ile-de-France,,groupe,,422755983,,,unknown,Sources: acpr_xlsx_2026.
@@ -849,8 +852,8 @@ VINCENT,LOIZEIL,Directeur General,MAPA-MAB SGAM,,,,1 RUE ANATOLE CONTRE,SAINT JE
 FREDERIC,JEAN MOLINIE,Directeur General Delegue,MAPA-MAB SGAM,,,,1 RUE ANATOLE CONTRE,SAINT JEAN D ANGELY,17400,Charente-Maritime,Nouvelle-Aquitaine,,groupe,,810881995,,,unknown,Sources: acpr_xlsx_2026.
 ,,,AGPM GROUPE,,,,RUE NICOLAS APPERT  QUARTIER SAINTE MUSSE,TOULON,83100,Var,Provence-Alpes-Cote d'Azur,,groupe,,834846099,,,unknown,Sources: acpr_xlsx_2026.
 ,,,GROUPE VYV,,,,33 AVENUE DU MAINE TOUR MONTPARNASSE BP 25,PARIS CEDEX 15,75755,Paris,Ile-de-France,,groupe,,532661832,,,unknown,Sources: acpr_xlsx_2026.
-NICOLAS,DENIS,Directeur General,CREDIT AGRICOLE ASSURANCES,,,,16 - 18 BOULEVARD DE VAUGIRARD,PARIS,75015,Paris,Ile-de-France,,groupe,Credit Agricole Assurances,451746077,,,unknown,Sources: acpr_xlsx_2026.
-GUILLAUME,ORECKIN,Directeur General Delegue,CREDIT AGRICOLE ASSURANCES,,,,16 - 18 BOULEVARD DE VAUGIRARD,PARIS,75015,Paris,Ile-de-France,,groupe,Credit Agricole Assurances,451746077,,,unknown,Sources: acpr_xlsx_2026.
+NICOLAS,DENIS,Directeur General,CREDIT AGRICOLE ASSURANCES,,,,16 - 18 BOULEVARD DE VAUGIRARD,PARIS,75015,Paris,Ile-de-France,,groupe,Credit Agricole Assurances,451746077,,,yes,"Sources: acpr_xlsx_2026. ed R0120 20 Bonds R0130 181,686 Government Bonds R0140 77,479 Corporate Bonds R0150 102,284 Structured notes R0160 1,881 Collateralised securities R0170 42 Collective Investments Undertakings R0180 63,506 Derivatives R0190 633 Deposits other than cash equivalents R0200 23 Other inv"
+GUILLAUME,ORECKIN,Directeur General Delegue,CREDIT AGRICOLE ASSURANCES,,,,16 - 18 BOULEVARD DE VAUGIRARD,PARIS,75015,Paris,Ile-de-France,,groupe,Credit Agricole Assurances,451746077,,,yes,"Sources: acpr_xlsx_2026. ed R0120 20 Bonds R0130 181,686 Government Bonds R0140 77,479 Corporate Bonds R0150 102,284 Structured notes R0160 1,881 Collateralised securities R0170 42 Collective Investments Undertakings R0180 63,506 Derivatives R0190 633 Deposits other than cash equivalents R0200 23 Other inv"
 DENIS,BOURGEOIS,Directeur General Delegue,ABEILLE ASSURANCES HOLDING,,,,80 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,groupe,,331309120,,,unknown,Sources: acpr_xlsx_2026.
 RENAUD,CÉLIÉ,Directeur General Delegue,ABEILLE ASSURANCES HOLDING,,,,80 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,groupe,,331309120,,,unknown,Sources: acpr_xlsx_2026.
 PHILIPPE-MICHEL,LABROSSE,Directeur General,ABEILLE ASSURANCES HOLDING,,,,80 AVENUE DE L EUROPE,BOIS COLOMBES,92270,Hauts-de-Seine,Ile-de-France,,groupe,,331309120,,,unknown,Sources: acpr_xlsx_2026.
@@ -858,8 +861,8 @@ PIERRE,YVES LE MOINE,Directeur General Delegue,ABEILLE ASSURANCES HOLDING,,,,80 
 PIERRE,FRANCOIS,Directeur General Delegue,SWISSLIFE FRANCE,,,,1 rue Bellini,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,groupe,,424245884,,,unknown,Sources: acpr_xlsx_2026.
 ERIC,LE BARON,Directeur General Delegue,SWISSLIFE FRANCE,,,,1 rue Bellini,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,groupe,,424245884,,,unknown,Sources: acpr_xlsx_2026.
 TANGUY,POLET,Directeur General,SWISSLIFE FRANCE,,,,1 rue Bellini,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,groupe,,424245884,,,unknown,Sources: acpr_xlsx_2026.
-JEAN-LAURENT,GRANIER,Directeur General,GENERALI FRANCE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,groupe,Generali,572044949,,,unknown,Sources: acpr_xlsx_2026.
-LAETITIA,LEONARD-REUTER,Directeur General Delegue,GENERALI FRANCE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,groupe,Generali,572044949,,,unknown,Sources: acpr_xlsx_2026.
+JEAN-LAURENT,GRANIER,Directeur General,GENERALI FRANCE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,groupe,Generali,572044949,,,yes,"Sources: acpr_xlsx_2026. ,078 -936 16,143 Government bonds 139,053 -17,824 121,229 -4,211 117,018 Corporate bonds, structured notes and collateralized securities 105,205 -6,132 99,073 -1,175 97,898 68 It should be noted that leased assets are allocated to specific balance sheet items based on the nature o"
+LAETITIA,LEONARD-REUTER,Directeur General Delegue,GENERALI FRANCE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,groupe,Generali,572044949,,,yes,"Sources: acpr_xlsx_2026. ,078 -936 16,143 Government bonds 139,053 -17,824 121,229 -4,211 117,018 Corporate bonds, structured notes and collateralized securities 105,205 -6,132 99,073 -1,175 97,898 68 It should be noted that leased assets are allocated to specific balance sheet items based on the nature o"
 ,,,SGAM MAE,,,,62 RUE LOUIS BOUILHET  CS 91833,ROUEN CEDEX,76044,Seine-Maritime,Normandie,,groupe,,831087929,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SGAPS IRCEM,,,,261 AVENUE  DES NATIONS UNIES,ROUBAIX,59100,Nord,Hauts-de-France,,groupe,,823214200,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SGAPS APICIL,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,groupe,Apicil,789861143,,,unknown,Sources: acpr_xlsx_2026.
@@ -868,12 +871,12 @@ JULIEN,JACQUES FRANCOIS TERRAMORSI,Directeur General Delegue,SAS UNOFI,,,,7 A 7 
 THIERRY,DEREZ,Directeur General,COVEA,,,,86 A 90 RUE SAINT-LAZARE,PARIS,75009,Paris,Ile-de-France,,groupe,Covea,450527916,,,unknown,Sources: acpr_xlsx_2026.
 THIERRY,PIERRE FRANCQ,Directeur General Delegue,COVEA,,,,86 A 90 RUE SAINT-LAZARE,PARIS,75009,Paris,Ile-de-France,,groupe,Covea,450527916,,,unknown,Sources: acpr_xlsx_2026.
 MAUD,PETIT,Directeur General Delegue,COVEA,,,,86 A 90 RUE SAINT-LAZARE,PARIS,75009,Paris,Ile-de-France,,groupe,Covea,450527916,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAM MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,844914887,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAM MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,844914887,,211000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SGAPS IRP AUTO ASSURANCES,,,,39  AVENUE  D IENA,PARIS,75016,Paris,Ile-de-France,,groupe,,848233979,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SGAPS GROUPE VICTOR HUGO,,,,9 AVENUE VICTOR HUGO,EPINAL,88000,Vosges,Grand Est,,groupe,,829426600,,,unknown,Sources: acpr_xlsx_2026.
 MARIE-PIERRE,BAZETOUX,President,ASSURISTANCE,,,,4 PLACE RAOUL DAUTRY ASSURISTANCE,PARIS,75015,Paris,Ile-de-France,,groupe,,537619322,,,unknown,Sources: acpr_xlsx_2026.
-CATHERINE,GILLET,President,HOLDING MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,401678180,,,unknown,Sources: acpr_xlsx_2026.
-THOMAS,JOSEPH MICHEL SAUNIER,Directeur General,HOLDING MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,401678180,,,unknown,Sources: acpr_xlsx_2026.
+CATHERINE,GILLET,President,HOLDING MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,401678180,,211000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+THOMAS,JOSEPH MICHEL SAUNIER,Directeur General,HOLDING MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,401678180,,211000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 NICOLAS,EYT,Directeur General Delegue,SOCIETE CENTRALE PREVOIR,,,,22 RUE DE LA ROCHEFOUCAULD,PARIS CEDEX 09,75306,Paris,Ile-de-France,,groupe,,572084028,,,unknown,Sources: acpr_xlsx_2026.
 PATRICIA,LACOSTE,Directeur General,SOCIETE CENTRALE PREVOIR,,,,22 RUE DE LA ROCHEFOUCAULD,PARIS CEDEX 09,75306,Paris,Ile-de-France,,groupe,,572084028,,,unknown,Sources: acpr_xlsx_2026.
 ,,,UMG MUTUALIA,,,,19  RUE  DE PARIS LUMINEM,BOBIGNY,93000,Seine-Saint-Denis,Ile-de-France,,groupe,,823416359,,,unknown,Sources: acpr_xlsx_2026.
@@ -907,9 +910,9 @@ SEBASTIEN,VIDAL,Directeur General,Groupe Limagrain Holding,,,,RUE HENRI MONDOR B
 ,,,AVRIL SCA,,,,11-13 rue Monceau,PARIS,75008,Paris,Ile-de-France,,groupe,,799403050,,,unknown,Sources: acpr_xlsx_2026.
 JEAN-CHRISTIAN,BERGERON,Directeur General,RUBIS ENERGIE,,,,Tour Landscape 6 Place des Degrés,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,groupe,,552048811,,,unknown,Sources: acpr_xlsx_2026.
 JACQUES,RIOU,President,RUBIS ENERGIE,,,,Tour Landscape 6 Place des Degrés,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,groupe,,552048811,,,unknown,Sources: acpr_xlsx_2026.
-NICOLAS,JEAN LUC BOUFFARD,Directeur General Delegue,SGAM MACIF,,,,1 Rue Jacques Vandier,NIORT CEDEX 9,79037,Deux-Sevres,Nouvelle-Aquitaine,,groupe,AESIO/AEMA,983261181,,,unknown,Sources: acpr_xlsx_2026.
-JEAN-PHILIPPE,DOGNETON,Directeur General,SGAM MACIF,,,,1 Rue Jacques Vandier,NIORT CEDEX 9,79037,Deux-Sevres,Nouvelle-Aquitaine,,groupe,AESIO/AEMA,983261181,,,unknown,Sources: acpr_xlsx_2026.
-NATHALIE,DANIÈLE MAYANCE,President,SGAM MACIF,,,,1 Rue Jacques Vandier,NIORT CEDEX 9,79037,Deux-Sevres,Nouvelle-Aquitaine,,groupe,AESIO/AEMA,983261181,,,unknown,Sources: acpr_xlsx_2026.
+NICOLAS,JEAN LUC BOUFFARD,Directeur General Delegue,SGAM MACIF,,,,1 Rue Jacques Vandier,NIORT CEDEX 9,79037,Deux-Sevres,Nouvelle-Aquitaine,,groupe,AESIO/AEMA,983261181,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+JEAN-PHILIPPE,DOGNETON,Directeur General,SGAM MACIF,,,,1 Rue Jacques Vandier,NIORT CEDEX 9,79037,Deux-Sevres,Nouvelle-Aquitaine,,groupe,AESIO/AEMA,983261181,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+NATHALIE,DANIÈLE MAYANCE,President,SGAM MACIF,,,,1 Rue Jacques Vandier,NIORT CEDEX 9,79037,Deux-Sevres,Nouvelle-Aquitaine,,groupe,AESIO/AEMA,983261181,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,La Poste,,,,9 rue du Colonel Pierre Avia,PARIS,75015,Paris,Ile-de-France,,groupe,,356000000,,,unknown,Sources: acpr_xlsx_2026.
 CHRISTEL,HEYDEMANN,Directeur General,Orange SA,,,,111 Quai du President Roosevelt,ISSY-LES-MOULINEAUX,92130,Hauts-de-Seine,Ile-de-France,,groupe,,380129866,,,unknown,Sources: acpr_xlsx_2026.
 OLIVIER,ANDRIÈS,Directeur General,Safran SA,,,,2 boulevard du Général Martial Valin,PARIS,75015,Paris,Ile-de-France,,groupe,,562082909,,,unknown,Sources: acpr_xlsx_2026.

@@ -1,6 +1,110 @@
 {
-  "last_updated": "2026-04-17T07:29:07Z",
+  "last_updated": "2026-04-18T08:39:48Z",
   "events": [
+    {
+      "id": "evt_20260418_str_ent_c618166f27_e2bee0ef",
+      "date": "2026-04-18",
+      "type": "structured_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260418_fin_ent_c618166f27_e6e073e9",
+      "date": "2026-04-18",
+      "type": "financial_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Primes: 38.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 38043956,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260418_str_ent_51bfc34a8b_8532f086",
+      "date": "2026-04-18",
+      "type": "structured_update",
+      "entity_id": "ent_51bfc34a8b",
+      "entity_name": "ALLIANZ FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260418_str_ent_3a89b6c158_4ef80e29",
+      "date": "2026-04-18",
+      "type": "structured_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260418_str_ent_21f88fc860_e2dbd43e",
+      "date": "2026-04-18",
+      "type": "structured_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260418_fin_ent_21f88fc860_81abca1e",
+      "date": "2026-04-18",
+      "type": "financial_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Primes: 400 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260418_str_ent_b76b1b8952_3f181f42",
+      "date": "2026-04-18",
+      "type": "structured_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260418_fin_ent_b76b1b8952_088adf3e",
+      "date": "2026-04-18",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes: 44 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260417_per_ent_f9f6e15f1b_bf26bdea",
       "date": "2026-04-17",

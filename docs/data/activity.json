@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-04-18T08:39:48Z",
+  "last_updated": "2026-04-19T07:22:49Z",
   "events": [
+    {
+      "id": "evt_20260419_str_ent_c8ecbfa124_8d978405",
+      "date": "2026-04-19",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260419_str_ent_5122c9d415_88f93673",
+      "date": "2026-04-19",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260418_str_ent_c618166f27_e2bee0ef",
       "date": "2026-04-18",

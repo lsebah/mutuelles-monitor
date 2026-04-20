@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-04-19T07:22:49Z",
+  "last_updated": "2026-04-20T07:46:23Z",
   "events": [
+    {
+      "id": "evt_20260420_new_ent_53df1dfd8e_924badd9",
+      "date": "2026-04-20",
+      "type": "new_entity",
+      "entity_id": "ent_53df1dfd8e",
+      "entity_name": "mutuelle de santé de France",
+      "summary": "Nouvelle entite (mutuelle)",
+      "details": {
+        "type_organisme": "mutuelle",
+        "city": "",
+        "source": [
+          "wikipedia"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260420_new_ent_7c088b0484_92987fb4",
+      "date": "2026-04-20",
+      "type": "new_entity",
+      "entity_id": "ent_7c088b0484",
+      "entity_name": "Les mutuelles adhérentes",
+      "summary": "Nouvelle entite (mutuelle)",
+      "details": {
+        "type_organisme": "mutuelle",
+        "city": "",
+        "source": [
+          "wikipedia"
+        ]
+      }
+    },
     {
       "id": "evt_20260419_str_ent_c8ecbfa124_8d978405",
       "date": "2026-04-19",

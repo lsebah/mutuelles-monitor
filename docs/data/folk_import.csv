@@ -133,7 +133,7 @@ Adam,Bandel,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,MUTUELLE MEDICO-CHIRURGICALE,,,,6 RUE PAUL MOREL,VESOUL,70000,Haute-Saone,Bourgogne-Franche-Comte,,mutuelle,,778542852,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE OCIANE,,,,35 RUE CLAUDE BONNIER,BORDEAUX,33000,Gironde,Nouvelle-Aquitaine,,mutuelle,,434243085,,,unknown,Sources: acpr_xlsx_2026.
 ,,,OCIRP VIE,,,,17 RUE DE MARIGNAN  CS 50003,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,339688608,,,unknown,Sources: acpr_xlsx_2026.
-,,,KLESIA SA,,,,4 RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,reassurance,Klesia,340483684,,,unknown,Sources: acpr_xlsx_2026.
+,,,KLESIA SA,,,,4 RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,reassurance,Klesia,340483684,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE D ENTRAIDE DE LA MUTUALITE FRANCAISE,,,,255 RUE DE VAUGIRARD,PARIS CEDEX 15,75719,Paris,Ile-de-France,,mutuelle,,438804312,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MMA VIE,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 9,72030,Sarthe,Pays de la Loire,,assurance_vie,,440042174,,,yes,Sources: acpr_xlsx_2026. MMA Vie (Covea) - similaire MAAF.
 ,,,Mutuelle 341,,,,2 RUE  DE LA LIBERTE,GUEUGNON,71130,Saone-et-Loire,Bourgogne-Franche-Comte,,mutuelle,,778588111,,,unknown,Sources: acpr_xlsx_2026.
@@ -150,14 +150,14 @@ Adam,Bandel,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,MUTUELLE DE FRANCE UNIE,,,,39 RUE  DU JOURDIL - CRAN GEVRIER  BP 9029,ANNECY CEDEX 9,74991,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,776531642,,,unknown,Sources: acpr_xlsx_2026.
 ,,,LA MUTUELLE CATALANE,,,,20 AVENUE  DE GRANDE BRETAGNE,PERPIGNAN,66029,Pyrenees-Orientales,Occitanie,,mutuelle,,302476536,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE CENTRALE DE REASSURANCE,,,,36 A 38  RUE DE SAINT PETERSBOURG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,775364383,,,unknown,Sources: acpr_xlsx_2026.
-,,,MATMUT PROTECTION JURIDIQUE,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,assurance_non_vie,Matmut,423499391,,,unknown,Sources: acpr_xlsx_2026.
+,,,MATMUT PROTECTION JURIDIQUE,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,assurance_non_vie,Matmut,423499391,400000,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE D ASSURANCE DE L ARTISANAT DES TRANSPORTS,,,,34 RUE KLEBER,LEVALLOIS PERRET,92300,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,333672293,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DES CLERCS ET EMPLOYES NOTAIRES,,,,22 RUE DE L ARCADE,PARIS CEDEX 8,75397,Paris,Ile-de-France,,mutuelle,,784338618,,,unknown,Sources: acpr_xlsx_2026.
 ,,,APICIL PREVOYANCE,,,,51 boulevard Marius Vivier-Merle,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,institution_prevoyance,Apicil,321862500,,,yes,Sources: acpr_xlsx_2026. Apicil Prevoyance - allocation limitee.
 ,,,REUNION DES MUTUELLES D ASSURANCES  REGIONALES,,,,2 RUE JEAN JAURES,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775626377,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BANQUE POPULAIRE MUTUALITE,,,,10 QUAI DES QUEYRIES,BORDEAUX,33100,Gironde,Nouvelle-Aquitaine,,mutuelle,,429873706,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CARMA VIE,,,,ZAE Saint Guénault 1 Rue Jean Mermoz,EVRY-COURCOURONNES,91000,Essonne,Ile-de-France,,assurance_vie,,428798136,,,unknown,Sources: acpr_xlsx_2026.
-,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,,,unknown,Sources: acpr_xlsx_2026.
+,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,43600,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SANTE MUT ROANNE,,,,14 RUE ROGER SALENGRO,ROANNE,42300,Loire,Auvergne-Rhone-Alpes,,mutuelle,,776346462,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTAME & PLUS,,,,4 RUE EMILE ENAULT  CS 72208,SAINT LO CEDEX,50008,Manche,Normandie,,mutuelle,,780915898,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUAIDE ASSISTANCE,,,,126 RUE DE LA PIAZZA,NOISY-LE-GRAND,93160,Seine-Saint-Denis,Ile-de-France,,assurance_non_vie,,383974086,,,unknown,Sources: acpr_xlsx_2026.
@@ -653,7 +653,7 @@ Adam,Bandel,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,HOLDING MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,401678180,,211000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SOCIETE CENTRALE PREVOIR,,,,22 RUE DE LA ROCHEFOUCAULD,PARIS CEDEX 09,75306,Paris,Ile-de-France,,groupe,,572084028,,,unknown,Sources: acpr_xlsx_2026.
 ,,,UMG MUTUALIA,,,,19  RUE  DE PARIS LUMINEM,BOBIGNY,93000,Seine-Saint-Denis,Ile-de-France,,groupe,,823416359,,,unknown,Sources: acpr_xlsx_2026.
-,,,ALLIANZ PARTNERS SAS,,,,7 RUE DORA MAAR,SAINT OUEN,93400,Seine-Saint-Denis,Ile-de-France,,groupe,Allianz,301763116,,,unknown,Sources: acpr_xlsx_2026.
+,,,ALLIANZ PARTNERS SAS,,,,7 RUE DORA MAAR,SAINT OUEN,93400,Seine-Saint-Denis,Ile-de-France,,groupe,Allianz,301763116,38043956,,yes,Sources: acpr_xlsx_2026. R0120 R0130 ௗௗ  Government Bonds R0140 ௗௗ  Corporate Bonds R0150 ௗௗ Structured notes R0160 Collateralised securities R0170 R0180 R0190 R0200 R0210 R0220 R0230 ௗ ௗ  R0240 R0250 R0260 ௗ ௗ  R0270 ௗௗ  R0280 ௗௗ  Non-life excluding health
 ,,,GROUPE DES ASSURANCES DU CREDIT MUTUEL,,,,4 RUE FREDERIC-GUILLAUME RAIFFEISEN,STRASBOURG,67000,Bas-Rhin,Grand Est,,groupe,,352475529,,,unknown,Sources: acpr_xlsx_2026.
 ,,,EULER HERMES GROUP,,,,1 PLACE DES SAISONS TOUR FIRST,PARIS LA DEFENSE CEDEX,92048,Hauts-de-Seine,Ile-de-France,,groupe,,552040594,,,unknown,Sources: acpr_xlsx_2026.
 ,,,ALLIANZ FRANCE,,,,1 COURS  MICHELET  CS 30051,PARIS LA DEFENSE CEDEX,92076,Hauts-de-Seine,Ile-de-France,,groupe,Allianz,303265128,,,unknown,Sources: acpr_xlsx_2026.

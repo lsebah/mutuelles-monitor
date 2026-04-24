@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-04-23T07:56:11Z",
+  "last_updated": "2026-04-24T07:58:38Z",
   "events": [
+    {
+      "id": "evt_20260424_str_ent_4b40a0ab3b_057ad5e9",
+      "date": "2026-04-24",
+      "type": "structured_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260424_fin_ent_4b40a0ab3b_33e9066e",
+      "date": "2026-04-24",
+      "type": "financial_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Primes: 1.50 Md€ | R. net: 44.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1499000000,
+        "resultat_net_eur": 44000000,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260423_str_ent_51bfc34a8b_630adc8e",
       "date": "2026-04-23",

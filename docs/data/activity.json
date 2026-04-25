@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-04-24T07:58:38Z",
+  "last_updated": "2026-04-25T07:14:41Z",
   "events": [
+    {
+      "id": "evt_20260425_str_ent_6be4bd8e63_c47b33e3",
+      "date": "2026-04-25",
+      "type": "structured_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260425_fin_ent_6be4bd8e63_c4f42bf2",
+      "date": "2026-04-25",
+      "type": "financial_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Primes: 24.2 M€ | R. net: 17.8 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 24200000,
+        "resultat_net_eur": 17800000,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260424_str_ent_4b40a0ab3b_057ad5e9",
       "date": "2026-04-24",

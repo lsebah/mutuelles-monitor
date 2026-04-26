@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-04-25T07:14:41Z",
+  "last_updated": "2026-04-26T07:53:42Z",
   "events": [
+    {
+      "id": "evt_20260426_str_ent_8d1293f4ad_e1f00f54",
+      "date": "2026-04-26",
+      "type": "structured_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260426_fin_ent_8d1293f4ad_4087a815",
+      "date": "2026-04-26",
+      "type": "financial_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Primes: 1 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260426_str_ent_e16fc85b33_1be5a852",
+      "date": "2026-04-26",
+      "type": "structured_update",
+      "entity_id": "ent_e16fc85b33",
+      "entity_name": "MATMUT & CO",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260426_fin_ent_e16fc85b33_4a0f65a1",
+      "date": "2026-04-26",
+      "type": "financial_update",
+      "entity_id": "ent_e16fc85b33",
+      "entity_name": "MATMUT & CO",
+      "summary": "Primes: 102 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 102000,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260425_str_ent_6be4bd8e63_c47b33e3",
       "date": "2026-04-25",

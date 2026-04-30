@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-29T08:15:21Z",
+  "last_updated": "2026-04-30T08:24:18Z",
   "events": [
+    {
+      "id": "evt_20260430_str_ent_8d1293f4ad_ba01ea58",
+      "date": "2026-04-30",
+      "type": "structured_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260430_fin_ent_8d1293f4ad_9cc8e532",
+      "date": "2026-04-30",
+      "type": "financial_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Primes: 1 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260430_str_ent_51bfc34a8b_a01cba61",
+      "date": "2026-04-30",
+      "type": "structured_update",
+      "entity_id": "ent_51bfc34a8b",
+      "entity_name": "ALLIANZ FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260430_str_ent_c8ecbfa124_6592e59b",
+      "date": "2026-04-30",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260430_str_ent_5122c9d415_0f1532a3",
+      "date": "2026-04-30",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260430_str_ent_4b40a0ab3b_f6ee082a",
+      "date": "2026-04-30",
+      "type": "structured_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260430_fin_ent_4b40a0ab3b_8d0ac286",
+      "date": "2026-04-30",
+      "type": "financial_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Primes: 1.50 Md€ | R. net: 44.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1499000000,
+        "resultat_net_eur": 44000000,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260429_str_ent_1ccd01e49e_79da46c4",
       "date": "2026-04-29",

@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-05-01T09:02:16Z",
+  "last_updated": "2026-05-03T07:46:50Z",
   "events": [
+    {
+      "id": "evt_20260503_per_ent_ab0835245f_e276e117",
+      "date": "2026-05-03",
+      "type": "person_joined",
+      "entity_id": "ent_ab0835245f",
+      "entity_name": "BNP PARIBAS CARDIF",
+      "summary": "Anton Alaraj - Directeur Financier",
+      "details": {
+        "name": "Anton Alaraj",
+        "role": "Directeur Financier",
+        "linkedin": "https://se.linkedin.com/in/anton-alaraj-b51a9453",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260503_per_ent_ab0835245f_60102bae",
+      "date": "2026-05-03",
+      "type": "person_joined",
+      "entity_id": "ent_ab0835245f",
+      "entity_name": "BNP PARIBAS CARDIF",
+      "summary": "CIO BNP Paribas Cardif Belgium & Netherlands - Directeur des Investissements",
+      "details": {
+        "name": "CIO BNP Paribas Cardif Belgium & Netherlands",
+        "role": "Directeur des Investissements",
+        "linkedin": "https://fr.linkedin.com/in/fran%C3%A7ois-burnouf-6a69354",
+        "source": "ddg_linkedin"
+      }
+    },
     {
       "id": "evt_20260501_fin_ent_2b8c44ba20_aff94b75",
       "date": "2026-05-01",

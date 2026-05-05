@@ -1,6 +1,6 @@
 // Mutuelles Monitor - Service Worker
 // Bump CACHE_NAME whenever app.js/index.html/style.css change substantially.
-const CACHE_NAME = 'mutuelles-monitor-v1';
+const CACHE_NAME = 'mutuelles-monitor-v2';
 
 self.addEventListener('install', e => {
     self.skipWaiting();

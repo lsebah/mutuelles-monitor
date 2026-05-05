@@ -128,11 +128,29 @@
 
     <script src="app.js"></script>
     <script>
-        // Register Service Worker for PWA
+        // Register Service Worker for PWA, with auto-update on new deploy.
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('./sw.js')
-                .then(reg => console.log('SW registered:', reg.scope))
-                .catch(err => console.warn('SW registration failed:', err));
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js').then(reg => {
+                    reg.update();
+                    reg.addEventListener('updatefound', () => {
+                        const newWorker = reg.installing;
+                        newWorker?.addEventListener('statechange', () => {
+                            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                                console.info('[SW] New version available, activating...');
+                                newWorker.postMessage({ type: 'SKIP_WAITING' });
+                            }
+                        });
+                    });
+                }).catch(err => console.warn('[SW] registration failed', err));
+
+                let refreshing = false;
+                navigator.serviceWorker.addEventListener('controllerchange', () => {
+                    if (refreshing) return;
+                    refreshing = true;
+                    window.location.reload();
+                });
+            });
         }
     </script>
 </body>

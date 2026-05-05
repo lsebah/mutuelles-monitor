@@ -1,6 +1,348 @@
 {
-  "last_updated": "2026-05-03T07:46:50Z",
+  "last_updated": "2026-05-05T08:11:44Z",
   "events": [
+    {
+      "id": "evt_20260505_per_ent_f9f6e15f1b_f48dfc63",
+      "date": "2026-05-05",
+      "type": "person_joined",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "Vince Carver - Directeur Financier",
+      "details": {
+        "name": "Vince Carver",
+        "role": "Directeur Financier",
+        "linkedin": "https://www.linkedin.com/in/vince-carver-2330a886",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_817cd8fdd1_bda9995b",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_817cd8fdd1",
+      "entity_name": "CREDIT AGRICOLE ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_ab0835245f_3b038e2d",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_ab0835245f",
+      "entity_name": "BNP PARIBAS CARDIF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_1296391c0b_ae422dd4",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_1296391c0b",
+      "entity_name": "MUTUELLE MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_1296391c0b_ed3bc490",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_1296391c0b",
+      "entity_name": "MUTUELLE MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_7200c3cbfb_ea4f3ca5",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_7200c3cbfb",
+      "entity_name": "LA MONDIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_7200c3cbfb_a2c2e383",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_7200c3cbfb",
+      "entity_name": "LA MONDIALE",
+      "summary": "Primes: 21013.98 Md€ | R. net: 4.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21013984874752,
+        "resultat_net_eur": 4000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_61d86456b1_56b4686b",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_61d86456b1",
+      "entity_name": "SGAPS AG2R LA MONDIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_61d86456b1_2fb76826",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_61d86456b1",
+      "entity_name": "SGAPS AG2R LA MONDIALE",
+      "summary": "Primes: 54.0 M€ | R. net: 221.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 54000000,
+        "resultat_net_eur": 221000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_d500a368a1_477f8dea",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_d500a368a1",
+      "entity_name": "SGAM MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_d500a368a1_b8af8223",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_d500a368a1",
+      "entity_name": "SGAM MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_8d13294f89_04442368",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_8d13294f89",
+      "entity_name": "HOLDING MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_8d13294f89_6e40d2b9",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_8d13294f89",
+      "entity_name": "HOLDING MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_f243550078_e52c147e",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_f243550078",
+      "entity_name": "SGAM MACIF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_f243550078_725dc5f8",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_f243550078",
+      "entity_name": "SGAM MACIF",
+      "summary": "R. net: 51.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 51000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_62da18241a_2b2e0296",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_62da18241a",
+      "entity_name": "GROUPAMA CENTRE-ATLANTIQUE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "phoenix"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_62da18241a_563a3087",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_62da18241a",
+      "entity_name": "GROUPAMA CENTRE-ATLANTIQUE",
+      "summary": "Primes: 8 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": 8,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_8d1293f4ad_7921f911",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_8d1293f4ad_af79a3c6",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Primes: 1 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_f5b2efeaf7_e463c3d3",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_f5b2efeaf7",
+      "entity_name": "GAN ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_f5b2efeaf7_3f23b135",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_f5b2efeaf7",
+      "entity_name": "GAN ASSURANCES",
+      "summary": "Primes: 1.61 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1606300000,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_1af8e657f9_6e938f4d",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_1af8e657f9",
+      "entity_name": "GENERALI IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_1af8e657f9_6183c8ff",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_1af8e657f9",
+      "entity_name": "GENERALI IARD",
+      "summary": "Primes: 21220.54 Md€ | R. net: 120.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21220539520112,
+        "resultat_net_eur": 120000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_98fd28164b_66d1e291",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_98fd28164b",
+      "entity_name": "GENERALI RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260505_fin_ent_98fd28164b_ccbd1bea",
+      "date": "2026-05-05",
+      "type": "financial_update",
+      "entity_id": "ent_98fd28164b",
+      "entity_name": "GENERALI RETRAITE",
+      "summary": "Primes: 23147137241.01 Md€ | R. net: 112.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 23147137241014001664,
+        "resultat_net_eur": 112000000,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260505_str_ent_8d3a577ac1_0e584c33",
+      "date": "2026-05-05",
+      "type": "structured_update",
+      "entity_id": "ent_8d3a577ac1",
+      "entity_name": "GENERALI FRANCE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
     {
       "id": "evt_20260503_per_ent_ab0835245f_e276e117",
       "date": "2026-05-03",

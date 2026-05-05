@@ -46,6 +46,27 @@ jobs:
         working-directory: scraper
         run: python folk_export.py
 
+      - name: Bump last_updated on enriched files
+        # Daily enrichment mutates entities.json/stats.json (adds people,
+        # financials, structured-product flags) but the per-script writers
+        # don't refresh the last_updated field — only the weekly Refresh
+        # directory job does. Without this step the dashboard shows a date
+        # that's days stale even though fresh enrichment data is present.
+        run: |
+          python - <<'PY'
+          import json, datetime, pathlib
+          stamp = datetime.datetime.utcnow().isoformat(timespec="seconds") + "Z"
+          for p in [pathlib.Path("docs/data/entities.json"),
+                    pathlib.Path("docs/data/stats.json")]:
+              if not p.exists():
+                  continue
+              data = json.loads(p.read_text(encoding="utf-8"))
+              if isinstance(data, dict):
+                  data["last_updated"] = stamp
+                  p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+                  print(f"bumped {p}")
+          PY
+
       - name: Commit & push (with retry on conflict)
         run: |
           git config --local user.email "actions@github.com"

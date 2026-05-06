@@ -128,6 +128,8 @@ def extract_financials(text: str) -> dict:
         "year": 2024,
         "primes_eur": None,
         "resultat_net_eur": None,
+        "fonds_propres_eur": None,
+        "scr_ratio_pct": None,
         "sp_ratio": None,
         "rendement_actifs_pct": None,
         "source": "SFCR",
@@ -170,6 +172,41 @@ def extract_financials(text: str) -> dict:
             n = _parse_number(m.group(1))
             if n is not None and 10 < n < 300:  # sanity check: ratio should be 10%-300%
                 fin["sp_ratio"] = round(n, 1)
+                break
+
+    # --- 3b. Fonds propres (Solvency II "own funds", proxy for "réserves") ---
+    # SFCR patterns: "fonds propres éligibles : 1 234 M€", "fonds propres totaux",
+    # "eligible own funds", "fonds propres de base"
+    fp_patterns = [
+        r"fonds\s+propres\s+(?:[ée]ligibles|totaux|de\s+base)[^\d]{0,80}([\d\s ,.]{4,20})",
+        r"fonds\s+propres\s+couvrant\s+(?:le\s+)?scr[^\d]{0,80}([\d\s ,.]{4,20})",
+        r"eligible\s+own\s+funds[^\d]{0,80}([\d\s ,.]{4,20})",
+        r"total\s+(?:eligible\s+)?own\s+funds[^\d]{0,80}([\d\s ,.]{4,20})",
+    ]
+    for pat in fp_patterns:
+        m = re.search(pat, text, re.IGNORECASE)
+        if m:
+            n = _parse_number(m.group(1))
+            if n is not None and n > 0:
+                mult = _detect_unit_multiplier(text, m.start(), m.end())
+                fin["fonds_propres_eur"] = int(n * mult)
+                break
+
+    # --- 3c. Ratio de couverture du SCR (Solvency II coverage ratio) ---
+    # SFCR patterns: "ratio de couverture du SCR : 215%", "SCR coverage ratio",
+    # "ratio de solvabilité"
+    scr_patterns = [
+        r"ratio\s+de\s+couverture\s+(?:du\s+)?scr[^\d]{0,60}([\d\s ,.]{2,8})\s*%",
+        r"ratio\s+de\s+solvabilit[ée][^\d]{0,60}([\d\s ,.]{2,8})\s*%",
+        r"scr\s+coverage\s+ratio[^\d]{0,60}([\d\s ,.]{2,8})\s*%",
+        r"taux\s+de\s+couverture\s+(?:du\s+)?scr[^\d]{0,60}([\d\s ,.]{2,8})\s*%",
+    ]
+    for pat in scr_patterns:
+        m = re.search(pat, text, re.IGNORECASE)
+        if m:
+            n = _parse_number(m.group(1))
+            if n is not None and 50 < n < 1000:  # SCR ratio plausible band
+                fin["scr_ratio_pct"] = round(n, 0)
                 break
 
     # --- 4. Rendement des actifs (investment return / yield on assets) ---
@@ -225,27 +262,40 @@ def process_entity(entity: dict) -> bool:
     sp["source_url"] = url
     entity["structured_products"] = sp
     fin = extract_financials(text)
-    if fin.get("primes_eur") or fin.get("resultat_net_eur"):
+    if any(fin.get(k) for k in ("primes_eur", "resultat_net_eur",
+                                 "fonds_propres_eur", "scr_ratio_pct")):
         fin["source_url"] = url
         entity["financials"] = fin
     entity["last_enriched"] = datetime.utcnow().strftime("%Y-%m-%d")
-    logger.info(f"  -> structures={sp['status']} primes={fin.get('primes_eur')} rn={fin.get('resultat_net_eur')}")
+    logger.info(
+        f"  -> structures={sp['status']} primes={fin.get('primes_eur')} "
+        f"rn={fin.get('resultat_net_eur')} fp={fin.get('fonds_propres_eur')} "
+        f"scr={fin.get('scr_ratio_pct')}%"
+    )
 
     # Log activity events
     if sp["status"] in ("yes", "no"):
         log_event("structured_update", entity["id"], name,
                   f"Produits structures: {sp['status']}",
                   {"status": sp["status"], "keywords_found": sp.get("keywords_found", [])})
-    if fin.get("primes_eur") or fin.get("resultat_net_eur"):
+    if any(fin.get(k) for k in ("primes_eur", "resultat_net_eur",
+                                 "fonds_propres_eur", "scr_ratio_pct")):
         parts = []
         if fin.get("primes_eur"):
             parts.append(f"Primes: {format_eur(fin['primes_eur'])}")
         if fin.get("resultat_net_eur"):
             parts.append(f"R. net: {format_eur(fin['resultat_net_eur'])}")
+        if fin.get("fonds_propres_eur"):
+            parts.append(f"FP: {format_eur(fin['fonds_propres_eur'])}")
+        if fin.get("scr_ratio_pct"):
+            parts.append(f"SCR: {fin['scr_ratio_pct']}%")
         log_event("financial_update", entity["id"], name,
                   " | ".join(parts),
                   {"year": fin.get("year"), "primes_eur": fin.get("primes_eur"),
-                   "resultat_net_eur": fin.get("resultat_net_eur"), "source": "SFCR"})
+                   "resultat_net_eur": fin.get("resultat_net_eur"),
+                   "fonds_propres_eur": fin.get("fonds_propres_eur"),
+                   "scr_ratio_pct": fin.get("scr_ratio_pct"),
+                   "source": "SFCR"})
     return True
 
 

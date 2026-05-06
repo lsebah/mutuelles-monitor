@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-05-05T08:11:44Z",
+  "last_updated": "2026-05-06T08:29:17Z",
   "events": [
+    {
+      "id": "evt_20260506_str_ent_0e6d6bc6e3_d57e65bc",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0e6d6bc6e3",
+      "entity_name": "MALAKOFF HUMANIS RETRAITE SUPPLEMENTAIRE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0e6d6bc6e3_c70ea097",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0e6d6bc6e3",
+      "entity_name": "MALAKOFF HUMANIS RETRAITE SUPPLEMENTAIRE",
+      "summary": "Primes: 1510.25 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1510253222000,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c618166f27_83945c11",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c618166f27_b76c880f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Primes: 38.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 38043956,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3a89b6c158_6b27aa8d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_21f88fc860_d74ea9ab",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_21f88fc860_bad0b37b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Primes: 400 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c8ecbfa124_14f5acb0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
     {
       "id": "evt_20260505_per_ent_f9f6e15f1b_f48dfc63",
       "date": "2026-05-05",

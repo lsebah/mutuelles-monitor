@@ -1,6 +1,210 @@
 {
-  "last_updated": "2026-05-06T23:05:14Z",
+  "last_updated": "2026-05-07T06:27:14Z",
   "events": [
+    {
+      "id": "evt_20260507_str_ent_8e6394879e_7f5302d9",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_8e6394879e_80b7ad76",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Primes: 210 € | FP: 2.79 Md€ | SCR: 159.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2789364000,
+        "scr_ratio_pct": 159.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_0d79b63d5a_2b5691e4",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_0d79b63d5a",
+      "entity_name": "UNIPREVOYANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_0d79b63d5a_8badcaa9",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_0d79b63d5a",
+      "entity_name": "UNIPREVOYANCE",
+      "summary": "R. net: 3.9 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 3900000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_b1187a9f73_f586db3e",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_b1187a9f73",
+      "entity_name": "EUROP ASSISTANCE SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_cf88625e23_d86d6fab",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_cf88625e23",
+      "entity_name": "MUTUELLE INTERPROFESSIONNELLE DE PREVOYANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_cf88625e23_22a6416f",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_cf88625e23",
+      "entity_name": "MUTUELLE INTERPROFESSIONNELLE DE PREVOYANCE",
+      "summary": "Primes: 2.10 Md€ | FP: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2103623213,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2021000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_b7c0705882_54ce0b39",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_b7c0705882",
+      "entity_name": "CARMA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_b7c0705882_5e29355a",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_b7c0705882",
+      "entity_name": "CARMA",
+      "summary": "FP: 498.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 498000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_9b9c51bfd7_73fd0f2a",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_9b9c51bfd7",
+      "entity_name": "CARDIF RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_214d1fdd27_7aadf995",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_214d1fdd27",
+      "entity_name": "RUBIS ENERGIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_93f96ad079_8b54a864",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_93f96ad079",
+      "entity_name": "GROUPE INDUSTRIEL MARCEL DASSAULT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_93f96ad079_8d527f6e",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_93f96ad079",
+      "entity_name": "GROUPE INDUSTRIEL MARCEL DASSAULT",
+      "summary": "R. net: 830.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 830000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_0191737c04_5f30538f",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_0191737c04",
+      "entity_name": "Fédération nationale de la mutualité française",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_0191737c04_7c5b803d",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_0191737c04",
+      "entity_name": "Fédération nationale de la mutualité française",
+      "summary": "FP: 5 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 5,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260506_str_ent_0e6d6bc6e3_d57e65bc",
       "date": "2026-05-06",

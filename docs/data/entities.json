@@ -1173,12 +1173,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 3900000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.uniprevoyance.fr/storage/2025/07/RAPPORT-ANNUEL-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.uniprevoyance.fr/storage/2025/07/RAPPORT-ANNUEL-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -3266,10 +3276,10 @@
       ],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://assets.ctfassets.net/5nwga2ey7ftv/6hS9lbWSrETcPc9YPfR7Qy/1ae8cd854f4cb2a4cc938f6f4438c1ca/SFCR_A390S_20241231.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -3279,7 +3289,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-05-04",
-      "last_enriched": "2026-05-06",
+      "last_enriched": "2026-05-07",
       "lei": "9695008E6296RUK5A776",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Non-vie",
@@ -3985,12 +3995,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 2103623213,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2021000,
+        "scr_ratio_pct": null,
+        "sp_ratio": 42.0,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://mutuelle-mip.com/wp-content/uploads/2024/07/62d8bb6a5ba814457e979579_SFCR-2021-PDF-.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://mutuelle-mip.com/wp-content/uploads/2024/07/62d8bb6a5ba814457e979579_SFCR-2021-PDF-.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -24549,12 +24569,22 @@
           "date_naissance": "1970-10"
         }
       ],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 498000000,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.groupe-carma.com/content/download/34797/file/S2_SFCR_Groupe_%20Carma_2021.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.groupe-carma.com/content/download/34797/file/S2_SFCR_Groupe_%20Carma_2021.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -24564,7 +24594,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-05-04",
-      "last_enriched": "2026-05-06",
+      "last_enriched": "2026-05-07",
       "lei": "969500J8D3DM3MGW6S20",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Non-vie",
@@ -25057,12 +25087,22 @@
           "date_naissance": "1983-07"
         }
       ],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2789364000,
+        "scr_ratio_pct": 159.0,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/investor-relations/en/results-reports/sfcr/2023/Allianz-IARD-SFCR-2022.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/investor-relations/en/results-reports/sfcr/2023/Allianz-IARD-SFCR-2022.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -25072,7 +25112,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-05-04",
-      "last_enriched": "2026-05-06",
+      "last_enriched": "2026-05-07",
       "lei": "969500I7XUD776A1HP65",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Non-vie",
@@ -31360,10 +31400,10 @@
       ],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.bnpparibascardif.com/wp-content/uploads/sites/28/2025/04/Bilan-annuel-Loi-Eckert-2024_Cardif-Retraite-VF_70dea2.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -31373,7 +31413,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-05-04",
-      "last_enriched": "2026-05-06",
+      "last_enriched": "2026-05-07",
       "lei": "96950028N6W91I6HTT82",
       "forme_juridique": "FRPS",
       "activite_acpr": "Vie",
@@ -37167,10 +37207,10 @@
       ],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.ifp-school.com/sites/ifp-school.com/files/telechargements/documents/Offre_Apprentissage_RUBIS%20Energie_Biocarburants_2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -37180,7 +37220,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-05-04",
-      "last_enriched": "2026-05-06",
+      "last_enriched": "2026-05-07",
       "lei": "969500IKZVNVMKPAY661",
       "forme_juridique": "SGMA",
       "sous_categorie": "Code des assurances"
@@ -37863,12 +37903,22 @@
           "date_naissance": "1960-06"
         }
       ],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 830000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://dassault-aviation.publispeak.com/rapport-annuel-2022/assets/files/Dassault-Aviation_RFA_2022_FR_01.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://dassault-aviation.publispeak.com/rapport-annuel-2022/assets/files/Dassault-Aviation_RFA_2022_FR_01.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -37878,7 +37928,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-05-04",
-      "last_enriched": "2026-05-06",
+      "last_enriched": "2026-05-07",
       "lei": "9695004A07O308YSRV47",
       "forme_juridique": "SGMA",
       "sous_categorie": "Code des assurances"
@@ -41331,12 +41381,22 @@
       "email": "",
       "website": "https://fr.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_nationale_de_la_mutualit%C3%A9_fran%C3%A7aise",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 5,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://pavillon-prevoyance.fr/sites/pavillon_prevoyance/files/2025-04/Rapport%20SFCR%202024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://pavillon-prevoyance.fr/sites/pavillon_prevoyance/files/2025-04/Rapport%20SFCR%202024.pdf"
       },
       "sources": {
         "wikipedia_orgs": true

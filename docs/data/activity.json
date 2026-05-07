@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T08:29:17Z",
+  "last_updated": "2026-05-06T23:05:14Z",
   "events": [
     {
       "id": "evt_20260506_str_ent_0e6d6bc6e3_d57e65bc",
@@ -107,6 +107,5935 @@
         "keywords_found": [
           "structured notes"
         ]
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1ccd01e49e_a1dff1fb",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1ccd01e49e",
+      "entity_name": "CREDIT AGRICOLE ASSURANCES RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_1ccd01e49e_c83fcd54",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_1ccd01e49e",
+      "entity_name": "CREDIT AGRICOLE ASSURANCES RETRAITE",
+      "summary": "Primes: 1510.15 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1510149282491,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0e6d6bc6e3_e8ae68f3",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0e6d6bc6e3",
+      "entity_name": "MALAKOFF HUMANIS RETRAITE SUPPLEMENTAIRE",
+      "summary": "Primes: 1510.25 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1510253222000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c618166f27_e450425f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Primes: 38.0 M€ | FP: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 38043956,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2024000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_51bfc34a8b_5af492d4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_51bfc34a8b",
+      "entity_name": "ALLIANZ FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3a89b6c158_e6af8b65",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_3a89b6c158_28a17001",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "FP: 385.1 M€ | SCR: 135.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 385100000,
+        "scr_ratio_pct": 135.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_21f88fc860_74258313",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Primes: 400 k€ | FP: 20 k€ | SCR: 180.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 20000,
+        "scr_ratio_pct": 180.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c8ecbfa124_08410def",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c8ecbfa124_ed37c9bf",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "R. net: 104.4 M€ | FP: 2.73 Md€ | SCR: 201.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 104400000,
+        "fonds_propres_eur": 2728180000,
+        "scr_ratio_pct": 201.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5122c9d415_12999679",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_5122c9d415_9a0e257d",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4b40a0ab3b_266f03b6",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_4b40a0ab3b_3dde8b14",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Primes: 1.50 Md€ | R. net: 44.0 M€ | FP: 1.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1499000000,
+        "resultat_net_eur": 44000000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_6be4bd8e63_d5b9f09a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_6be4bd8e63_622b3c54",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Primes: 3.03 Md€ | R. net: 318.7 M€ | FP: 1.0 M€ | SCR: 443.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3032900000,
+        "resultat_net_eur": 318700000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 443.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_27a6449b06_ad515bc8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_27a6449b06",
+      "entity_name": "COVEA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ba0e3fa9af_f91c0e6d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0ec2f5dbed_5f14e2ef",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0ec2f5dbed",
+      "entity_name": "UNMI'MUT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1ce0fee567_5aeca6f6",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1ce0fee567",
+      "entity_name": "A2VIP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_1ce0fee567_d34f4286",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_1ce0fee567",
+      "entity_name": "A2VIP",
+      "summary": "FP: 77 k€ | SCR: 290.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 77000,
+        "scr_ratio_pct": 290.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c591bcaa5c_82bec186",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c591bcaa5c_b263b2ac",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "R. net: 2 k€ | FP: 402.0 M€ | SCR: 415.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2023,
+        "fonds_propres_eur": 402000000,
+        "scr_ratio_pct": 415.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_92b5ab4acf_2620bc83",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_92b5ab4acf",
+      "entity_name": "MUTUELLE FRATERNELLE D ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_92b5ab4acf_1e035297",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_92b5ab4acf",
+      "entity_name": "MUTUELLE FRATERNELLE D ASSURANCES",
+      "summary": "FP: 898.7 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 898710100,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_607fe754c0_5d01ec95",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_607fe754c0",
+      "entity_name": "SOGECAP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_607fe754c0_5c8f6ca7",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_607fe754c0",
+      "entity_name": "SOGECAP",
+      "summary": "FP: 228 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 228,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_13af3e7eec_8227d3bf",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_13af3e7eec",
+      "entity_name": "AXERIA IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_13af3e7eec_bf601dcf",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_13af3e7eec",
+      "entity_name": "AXERIA IARD",
+      "summary": "Primes: 45.9 M€ | FP: 13.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 45900000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 13000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_99d4902aba_4de90783",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_99d4902aba",
+      "entity_name": "MLC MUTUELLE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_99d4902aba_cd2ab5bd",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_99d4902aba",
+      "entity_name": "MLC MUTUELLE",
+      "summary": "FP: 54.02 Md€ | SCR: 256.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 54021699930,
+        "scr_ratio_pct": 256.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f2ce56bddc_bb77791b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f2ce56bddc",
+      "entity_name": "OPTEVEN",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_f2ce56bddc_1922edb5",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_f2ce56bddc",
+      "entity_name": "OPTEVEN",
+      "summary": "Primes: 114.5 M€ | R. net: 20 k€ | FP: 5.3 M€ | SCR: 223.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 114500000,
+        "resultat_net_eur": 20248,
+        "fonds_propres_eur": 5335715,
+        "scr_ratio_pct": 223.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e2b54a950b_c627715e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e2b54a950b",
+      "entity_name": "CHUBB LIFE EUROPE SE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e2b54a950b_db1a69a8",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e2b54a950b",
+      "entity_name": "CHUBB LIFE EUROPE SE",
+      "summary": "FP: 540 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 540,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0e6a51c966_d3a13895",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0e6a51c966",
+      "entity_name": "BPCE VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0e6a51c966_f392d189",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0e6a51c966",
+      "entity_name": "BPCE VIE",
+      "summary": "FP: 1 € | SCR: 293.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1,
+        "scr_ratio_pct": 293.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_de984fe490_bab219eb",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_de984fe490",
+      "entity_name": "KOREGE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_de984fe490_64772dbd",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_de984fe490",
+      "entity_name": "KOREGE",
+      "summary": "Primes: 30.7 M€ | R. net: 83.0 M€ | FP: 544.0 M€ | SCR: 286.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 30700000,
+        "resultat_net_eur": 83000000,
+        "fonds_propres_eur": 544000000,
+        "scr_ratio_pct": 286.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_71594e44fe_241d676a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_71594e44fe",
+      "entity_name": "ARUNDO RE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_71594e44fe_2367bbb1",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_71594e44fe",
+      "entity_name": "ARUNDO RE",
+      "summary": "Primes: 101.7 M€ | R. net: 64.0 M€ | FP: 698 € | SCR: 180.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 101700000,
+        "resultat_net_eur": 64000000,
+        "fonds_propres_eur": 698,
+        "scr_ratio_pct": 180.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0bab358183_c8054b28",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0bab358183",
+      "entity_name": "LES ASSOCIATIONS MUTUELLES LE CONSERVATEUR",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0bab358183_2e32ae7c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0bab358183",
+      "entity_name": "LES ASSOCIATIONS MUTUELLES LE CONSERVATEUR",
+      "summary": "R. net: 2.02 Md€ | FP: 31704872.91 Md€ | SCR: 227.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2025000000,
+        "fonds_propres_eur": 31704872915000000,
+        "scr_ratio_pct": 227.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e5f0272f5a_6e2bc610",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e5f0272f5a",
+      "entity_name": "MUTUELLE ENTRENOUS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e5f0272f5a_3cc62906",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e5f0272f5a",
+      "entity_name": "MUTUELLE ENTRENOUS",
+      "summary": "Primes: 2 k€ | SCR: 193.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2023,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 193.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e3c1554aa2_aff1f52f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e3c1554aa2",
+      "entity_name": "AREAS DOMMAGES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e3c1554aa2_b86cdbe9",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e3c1554aa2",
+      "entity_name": "AREAS DOMMAGES",
+      "summary": "Primes: 8.9 M€ | FP: 860 € | SCR: 206.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 8900000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 860,
+        "scr_ratio_pct": 206.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_dcc053e4f8_aa917966",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_dcc053e4f8",
+      "entity_name": "CHUBB EUROPEAN GROUP SE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_dcc053e4f8_7fd59008",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_dcc053e4f8",
+      "entity_name": "CHUBB EUROPEAN GROUP SE",
+      "summary": "FP: 3.2 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 3223000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9ca4f60dbd_8800373c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9ca4f60dbd",
+      "entity_name": "MAIF VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_9ca4f60dbd_8d4228be",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_9ca4f60dbd",
+      "entity_name": "MAIF VIE",
+      "summary": "Primes: 674 k€ | R. net: 52.1 M€ | SCR: 169.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 674425,
+        "resultat_net_eur": 52060000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 169.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5436461c79_d1787620",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5436461c79",
+      "entity_name": "MUTUELLE KEOLIS RENNES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_503306dd04_d88959bf",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_503306dd04",
+      "entity_name": "MUTUELLE NATIONALE TERRITORIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_503306dd04_378e5c54",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_503306dd04",
+      "entity_name": "MUTUELLE NATIONALE TERRITORIALE",
+      "summary": "Primes: 210.6 M€ | R. net: 24.6 M€ | FP: 130 € | SCR: 210.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210570789,
+        "resultat_net_eur": 24600000,
+        "fonds_propres_eur": 130,
+        "scr_ratio_pct": 210.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a5f5524ab7_c3875d3e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a5f5524ab7",
+      "entity_name": "MMA IARD ASSURANCES MUTUELLES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_a5f5524ab7_ed8a5018",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_a5f5524ab7",
+      "entity_name": "MMA IARD ASSURANCES MUTUELLES",
+      "summary": "Primes: 65.0 M€ | R. net: 16.0 M€ | FP: 1.0 M€ | SCR: 482.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 65000000,
+        "resultat_net_eur": 16000000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 482.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_26f077c89f_50da7302",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_26f077c89f",
+      "entity_name": "ASSURIMA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_26f077c89f_694940a4",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_26f077c89f",
+      "entity_name": "ASSURIMA",
+      "summary": "Primes: 2986.53 Md€ | R. net: 1 k€ | FP: 308 € | SCR: 153.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2986534497000,
+        "resultat_net_eur": 1482,
+        "fonds_propres_eur": 308,
+        "scr_ratio_pct": 153.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0d4f032c97_e561af11",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0d4f032c97",
+      "entity_name": "MUTAERO",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0d4f032c97_d1922d72",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0d4f032c97",
+      "entity_name": "MUTAERO",
+      "summary": "FP: 5401.43 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 5401427614276,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_dc094ad7d0_5681cfa6",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_dc094ad7d0",
+      "entity_name": "MUTUELLE DES SCOP ET DES SCIC",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_dc094ad7d0_ad26211c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_dc094ad7d0",
+      "entity_name": "MUTUELLE DES SCOP ET DES SCIC",
+      "summary": "Primes: 21.01 Md€ | FP: 40.2 M€ | SCR: 423.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21010223000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 40229000,
+        "scr_ratio_pct": 423.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5e9c5c997b_638bfb8b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5e9c5c997b",
+      "entity_name": "MAE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_5e9c5c997b_6429dadc",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_5e9c5c997b",
+      "entity_name": "MAE",
+      "summary": "FP: 2 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 0,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_86a8b36410_221a55a1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_86a8b36410",
+      "entity_name": "RESSOURCES MUTUELLES ASSISTANCE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_86a8b36410_fb5f96bf",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_86a8b36410",
+      "entity_name": "RESSOURCES MUTUELLES ASSISTANCE",
+      "summary": "R. net: 10.0 M€ | FP: 54.0 M€ | SCR: 147.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 9992847,
+        "fonds_propres_eur": 54025700,
+        "scr_ratio_pct": 147.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_51d573882c_1e1bd2e0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_51d573882c",
+      "entity_name": "ALBINGIA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_51d573882c_abecfda8",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_51d573882c",
+      "entity_name": "ALBINGIA",
+      "summary": "Primes: 19.17 Md€ | R. net: 8 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": 19167188606,
+        "resultat_net_eur": 8,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e0e20e7889_aba7d2c1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e0e20e7889",
+      "entity_name": "MUTUELLE DES SAPEURS POMPIERS DE PARIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d5525fa61f_20845fa0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d5525fa61f",
+      "entity_name": "MUTAC",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_d5525fa61f_feac2aec",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_d5525fa61f",
+      "entity_name": "MUTAC",
+      "summary": "FP: 38 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 38,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_6aad92e9c5_6f4b7d9f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_6aad92e9c5",
+      "entity_name": "WAKAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_6aad92e9c5_3bebdafd",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_6aad92e9c5",
+      "entity_name": "WAKAM",
+      "summary": "FP: 1 € | SCR: 154.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1,
+        "scr_ratio_pct": 154.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c61d480a1a_a2d7d53c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c61d480a1a",
+      "entity_name": "ACTE IARD",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn",
+          "euro medium term note"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c61d480a1a_6ab774dc",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c61d480a1a",
+      "entity_name": "ACTE IARD",
+      "summary": "Primes: 20.2 M€ | R. net: 4 k€ | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 20242023,
+        "resultat_net_eur": 3980,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1a59989f3a_b3673aa8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1a59989f3a",
+      "entity_name": "LA MUTUELLE VERTE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_1a59989f3a_87ec0064",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_1a59989f3a",
+      "entity_name": "LA MUTUELLE VERTE",
+      "summary": "FP: 39.8 M€ | SCR: 552.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 39847000,
+        "scr_ratio_pct": 552.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d33c1c698c_4e7b2d88",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d33c1c698c",
+      "entity_name": "MUTUALIA TERRITOIRES SOLIDAIRES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_d33c1c698c_ed4b4527",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_d33c1c698c",
+      "entity_name": "MUTUALIA TERRITOIRES SOLIDAIRES",
+      "summary": "R. net: 85.11 Md€ | FP: 223.3 M€ | SCR: 818.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 85105256000,
+        "fonds_propres_eur": 223300000,
+        "scr_ratio_pct": 818.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_17a628224a_27a410b3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_17a628224a",
+      "entity_name": "BPCE ASSURANCES IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_17a628224a_d5e6975b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_17a628224a",
+      "entity_name": "BPCE ASSURANCES IARD",
+      "summary": "Primes: 9.7 M€ | FP: 515.0 M€ | SCR: 121.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 9700000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 515000000,
+        "scr_ratio_pct": 121.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ddac454c61_52a9af5a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ddac454c61",
+      "entity_name": "MUTUELLE DES HOPITAUX DE LA VIENNE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_ddac454c61_ee23389b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_ddac454c61",
+      "entity_name": "MUTUELLE DES HOPITAUX DE LA VIENNE",
+      "summary": "Primes: 210 € | SCR: 191.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 191.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f96c311e56_c7c416c3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f96c311e56",
+      "entity_name": "FIDELIA ASSISTANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_f96c311e56_b9c5c52c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_f96c311e56",
+      "entity_name": "FIDELIA ASSISTANCE",
+      "summary": "Primes: 566.2 M€ | R. net: 19.9 M€ | FP: 1.0 M€ | SCR: 148.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 566200000,
+        "resultat_net_eur": 19900000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 148.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_02aecae5c7_2503ae4b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_02aecae5c7",
+      "entity_name": "ASSU-VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7407929e36_cddb530a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7407929e36",
+      "entity_name": "MADP ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_7407929e36_cea408bb",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_7407929e36",
+      "entity_name": "MADP ASSURANCES",
+      "summary": "Primes: 2.0 M€ | FP: 54.07 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2024000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 54072290990,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3cfbc24779_029a4c2e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3cfbc24779",
+      "entity_name": "MUTUELLE OCIANE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_3cfbc24779_8f571a2f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_3cfbc24779",
+      "entity_name": "MUTUELLE OCIANE",
+      "summary": "R. net: 2.02 Md€ | FP: 2.5 M€ | SCR: 254.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2023000000,
+        "fonds_propres_eur": 2500000,
+        "scr_ratio_pct": 254.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_91f0e561a9_f000b280",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_91f0e561a9",
+      "entity_name": "OCIRP VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_91f0e561a9_a056fe3a",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_91f0e561a9",
+      "entity_name": "OCIRP VIE",
+      "summary": "Primes: 210 € | R. net: 2.02 Md€ | FP: 860 € | SCR: 263.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": 2024000000,
+        "fonds_propres_eur": 860,
+        "scr_ratio_pct": 263.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_cde140c13c_3785aa5c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_cde140c13c",
+      "entity_name": "ALTIMA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_cde140c13c_4903b7c8",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_cde140c13c",
+      "entity_name": "ALTIMA ASSURANCES",
+      "summary": "Primes: 3685325.68 Md€ | R. net: 3 k€ | SCR: 153.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3685325684111000,
+        "resultat_net_eur": 3296,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 153.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e3674287d9_bdb84066",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e3674287d9",
+      "entity_name": "CAPMA & CAPMI",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e3674287d9_e3d31a5a",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e3674287d9",
+      "entity_name": "CAPMA & CAPMI",
+      "summary": "Primes: 2177272.15 Md€ | FP: 639.50 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2177272153091120,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 639498624132,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_32bb805507_261b48fe",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_32bb805507",
+      "entity_name": "MUTEX",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_32bb805507_3992d94e",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_32bb805507",
+      "entity_name": "MUTEX",
+      "summary": "Primes: 222 € | R. net: 55.6 M€ | FP: 121.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 222,
+        "resultat_net_eur": 55600000,
+        "fonds_propres_eur": 121000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_fd89c230a1_3808d73d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_fd89c230a1",
+      "entity_name": "LA MUTUELLE CATALANE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_fd89c230a1_2e19a978",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_fd89c230a1",
+      "entity_name": "LA MUTUELLE CATALANE",
+      "summary": "Primes: 53 € | R. net: 122 k€ | FP: 23.9 M€ | SCR: 169.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 53,
+        "resultat_net_eur": 122412,
+        "fonds_propres_eur": 23885552,
+        "scr_ratio_pct": 169.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_428f71fcdb_61415f8f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_428f71fcdb",
+      "entity_name": "MUTAME & PLUS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn",
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_428f71fcdb_758280dd",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_428f71fcdb",
+      "entity_name": "MUTAME & PLUS",
+      "summary": "FP: 38 € | SCR: 338.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 38,
+        "scr_ratio_pct": 338.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d75285fb72_ed17f530",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d75285fb72",
+      "entity_name": "MUTUAIDE ASSISTANCE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "phoenix"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_d75285fb72_23a9f942",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_d75285fb72",
+      "entity_name": "MUTUAIDE ASSISTANCE",
+      "summary": "Primes: 490136.49 Md€ | FP: 61 € | SCR: 133.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 490136490136457,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 61,
+        "scr_ratio_pct": 133.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_36a8c0bae8_c02b8c6e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_36a8c0bae8",
+      "entity_name": "MUTUELLE ENTRAIN",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_36a8c0bae8_7f1c6928",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_36a8c0bae8",
+      "entity_name": "MUTUELLE ENTRAIN",
+      "summary": "Primes: 209 € | R. net: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 209,
+        "resultat_net_eur": 2024000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ebe429df0f_6caf48fc",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ebe429df0f",
+      "entity_name": "UNEO",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_35a2de5120_a0f240d5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_35a2de5120",
+      "entity_name": "FILASSISTANCE INTERNATIONAL",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_35a2de5120_4744604f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_35a2de5120",
+      "entity_name": "FILASSISTANCE INTERNATIONAL",
+      "summary": "FP: 460385.06 Md€ | SCR: 186.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 460385061610000,
+        "scr_ratio_pct": 186.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a5745728ae_f78c1da9",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a5745728ae",
+      "entity_name": "AWP HEALTH & LIFE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_a5745728ae_64e7792d",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_a5745728ae",
+      "entity_name": "AWP HEALTH & LIFE",
+      "summary": "Primes: 52.0 M€ | FP: 534.53 Md€ | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 52000000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 534531000000,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_58e4f8964c_4ca07643",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_58e4f8964c",
+      "entity_name": "RELYENS MUTUAL INSURANCE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_58e4f8964c_76768c7d",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_58e4f8964c",
+      "entity_name": "RELYENS MUTUAL INSURANCE",
+      "summary": "Primes: 99.0 M€ | R. net: 3.7 M€ | FP: 367.0 M€ | SCR: 173.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 99000000,
+        "resultat_net_eur": 3700000,
+        "fonds_propres_eur": 367000000,
+        "scr_ratio_pct": 173.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9506866e0e_0380786f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9506866e0e",
+      "entity_name": "MUTUELLE VICTOR HUGO",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_9506866e0e_72cde9d1",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_9506866e0e",
+      "entity_name": "MUTUELLE VICTOR HUGO",
+      "summary": "FP: 44 € | SCR: 528.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 44,
+        "scr_ratio_pct": 528.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ba44858dba_47842701",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ba44858dba",
+      "entity_name": "GALIAN-SMABTP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_ba44858dba_63ae44a3",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_ba44858dba",
+      "entity_name": "GALIAN-SMABTP",
+      "summary": "Primes: 62.0 M€ | SCR: 262.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 62000000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 262.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b577c9f19f_590a3f0c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b577c9f19f",
+      "entity_name": "CCMO MUTUELLE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_b577c9f19f_bed08af3",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_b577c9f19f",
+      "entity_name": "CCMO MUTUELLE",
+      "summary": "Primes: 198.64 Md€ | R. net: 2.0 M€ | FP: 50 € | SCR: 189.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 198638834000,
+        "resultat_net_eur": 2024000,
+        "fonds_propres_eur": 50,
+        "scr_ratio_pct": 189.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7a6436aa40_b05f77c0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7a6436aa40",
+      "entity_name": "AUXIA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a583fc0681_e499981e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a583fc0681",
+      "entity_name": "MCLR",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_a583fc0681_590fb9af",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_a583fc0681",
+      "entity_name": "MCLR",
+      "summary": "SCR: 462.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 462.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_20416b2080_e633c3a0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_20416b2080",
+      "entity_name": "JURIDICA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_20416b2080_c77f3767",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_20416b2080",
+      "entity_name": "JURIDICA",
+      "summary": "FP: 1.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3ca9987ee4_1e28cf35",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3ca9987ee4",
+      "entity_name": "MFPRECAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_3ca9987ee4_4589867b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_3ca9987ee4",
+      "entity_name": "MFPRECAUTION",
+      "summary": "Primes: 12 € | FP: 68 € | SCR: 349.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 12,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 68,
+        "scr_ratio_pct": 349.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7a9127a21d_e128ec48",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7a9127a21d",
+      "entity_name": "AFI ESCA IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_7a9127a21d_2022ec63",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_7a9127a21d",
+      "entity_name": "AFI ESCA IARD",
+      "summary": "Primes: 3 k€ | FP: 5.4 M€ | SCR: 213.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 5449000,
+        "scr_ratio_pct": 213.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_beca489e38_489aad6d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_beca489e38",
+      "entity_name": "FRAGONARD ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_beca489e38_77edad52",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_beca489e38",
+      "entity_name": "FRAGONARD ASSURANCES",
+      "summary": "Primes: 38.0 M€ | FP: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 38043956,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2024000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c3e5a16c7f_a27f80fa",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c3e5a16c7f",
+      "entity_name": "ARPEGE PREVOYANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a7ffb79af9_a6034b2a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a7ffb79af9",
+      "entity_name": "MUTUELLE BOISSIERE DU BTP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_a7ffb79af9_157f9257",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_a7ffb79af9",
+      "entity_name": "MUTUELLE BOISSIERE DU BTP",
+      "summary": "FP: 10.8 M€ | SCR: 237.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 10840000,
+        "scr_ratio_pct": 237.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f1f03a72d8_05e01a88",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f1f03a72d8",
+      "entity_name": "AXA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_f1f03a72d8_0d2003c0",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_f1f03a72d8",
+      "entity_name": "AXA SA",
+      "summary": "FP: 1.1 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1111000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9e5030dee2_b1666514",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9e5030dee2",
+      "entity_name": "SOCIETE MUTUALISTE CHIRURGICALE ET COMPLEMENTAIRE DU PERSONNEL DE LA BANQUE DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7ddaae1fac_6fa29df2",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7ddaae1fac",
+      "entity_name": "IRCEM MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_6460b515ea_aa9b9b42",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_6460b515ea",
+      "entity_name": "MUTUELLE SAINT-CHRISTOPHE ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_6460b515ea_80060291",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_6460b515ea",
+      "entity_name": "MUTUELLE SAINT-CHRISTOPHE ASSURANCES",
+      "summary": "Primes: 122 k€ | R. net: 11.0 M€ | FP: 4011.00 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 122322,
+        "resultat_net_eur": 11000000,
+        "fonds_propres_eur": 4011000110000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7caecdd52c_a58ab430",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7caecdd52c",
+      "entity_name": "ACTE VIE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn",
+          "euro medium term note"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_7caecdd52c_f88e245b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_7caecdd52c",
+      "entity_name": "ACTE VIE",
+      "summary": "Primes: 10.9 M€ | R. net: 725.73 Md€ | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 10880000,
+        "resultat_net_eur": 725725725309,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0dcafbd500_4d1a3ecb",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0dcafbd500",
+      "entity_name": "MUTUELLE GROUPE  LA DEPECHE DU MIDI COMPLEMENTAIRE SANTE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3a70d7f376_1d5bfe24",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3a70d7f376",
+      "entity_name": "VIASANTE MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_aa10be384b_9d6e3ffb",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_aa10be384b",
+      "entity_name": "MUTUELLE CHEMINOTS NORD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3c571cacad_fb9e4cf4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3c571cacad",
+      "entity_name": "MUTUELLE RENAULT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_3c571cacad_54be1bba",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_3c571cacad",
+      "entity_name": "MUTUELLE RENAULT",
+      "summary": "R. net: 2.02 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2019000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_90cf79040b_75fc9fc3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_90cf79040b",
+      "entity_name": "MUTLOG GARANTIES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_90cf79040b_332dbd82",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_90cf79040b",
+      "entity_name": "MUTLOG GARANTIES",
+      "summary": "R. net: 16071.61 Md€ | FP: 520385.20 Md€ | SCR: 390.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 16071611446000,
+        "fonds_propres_eur": 520385203851959,
+        "scr_ratio_pct": 390.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e93c677f47_ec9a02f4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e93c677f47",
+      "entity_name": "PRODIGEO ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e93c677f47_c4ac7505",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e93c677f47",
+      "entity_name": "PRODIGEO ASSURANCES",
+      "summary": "FP: 860 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 860000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4d0cce6037_9de870e1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4d0cce6037",
+      "entity_name": "GPM ASSURANCES SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_4d0cce6037_893618ce",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_4d0cce6037",
+      "entity_name": "GPM ASSURANCES SA",
+      "summary": "Primes: 2.0 M€ | R. net: 20 k€ | FP: 93394916.55 Md€ | SCR: 238.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2024000,
+        "resultat_net_eur": 20000,
+        "fonds_propres_eur": 93394916551739008,
+        "scr_ratio_pct": 238.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0b9993f21a_978a1185",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0b9993f21a",
+      "entity_name": "SEREINA MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0b9993f21a_6bad78bb",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0b9993f21a",
+      "entity_name": "SEREINA MUTUELLE",
+      "summary": "Primes: 2.11 Md€ | FP: 8.6 M€ | SCR: 229.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2106995000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 8600000,
+        "scr_ratio_pct": 229.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0b47623ba7_6f28072b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0b47623ba7",
+      "entity_name": "CDC MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0b47623ba7_535eaf51",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0b47623ba7",
+      "entity_name": "CDC MUTUELLE",
+      "summary": "Primes: 50 k€ | SCR: 505.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 50201,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 505.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_2408676870_8ed03c93",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_2408676870",
+      "entity_name": "ABEILLE VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_2408676870_b046b204",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_2408676870",
+      "entity_name": "ABEILLE VIE",
+      "summary": "Primes: 25.04 Md€ | R. net: 211.0 M€ | FP: 153.0 M€ | SCR: 249.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 25043201000,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 153000000,
+        "scr_ratio_pct": 249.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_edd9eba662_b57adce2",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_edd9eba662",
+      "entity_name": "ASSURANCE MUTUELLE DES MOTARDS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_edd9eba662_0581450c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_edd9eba662",
+      "entity_name": "ASSURANCE MUTUELLE DES MOTARDS",
+      "summary": "Primes: 243 k€ | R. net: 1.18 Md€ | FP: 2 € | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 243000,
+        "resultat_net_eur": 1183150127,
+        "fonds_propres_eur": 2,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9bc2322aba_52fe05d8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9bc2322aba",
+      "entity_name": "CGPA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_9bc2322aba_8cd04814",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_9bc2322aba",
+      "entity_name": "CGPA",
+      "summary": "Primes: 2239.03 Md€ | FP: 2472.82 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2239025840000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2472824728000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_2e4e551362_f73d2761",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_2e4e551362",
+      "entity_name": "MMA IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_2e4e551362_e98c35bc",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_2e4e551362",
+      "entity_name": "MMA IARD",
+      "summary": "Primes: 65.0 M€ | R. net: 16.0 M€ | FP: 1.0 M€ | SCR: 482.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 65000000,
+        "resultat_net_eur": 16000000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 482.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e34a509d49_e1a4625d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e34a509d49",
+      "entity_name": "MUTUELLE DES PAYS DE VILAINE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e34a509d49_223377c3",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e34a509d49",
+      "entity_name": "MUTUELLE DES PAYS DE VILAINE",
+      "summary": "R. net: 113 k€ | FP: 2 k€ | SCR: 202.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 113000,
+        "fonds_propres_eur": 2000,
+        "scr_ratio_pct": 202.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_80f4805fac_537a20d3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_80f4805fac",
+      "entity_name": "MUTUELLE VALEO",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_80f4805fac_bdecc58c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_80f4805fac",
+      "entity_name": "MUTUELLE VALEO",
+      "summary": "Primes: 23.36 Md€ | FP: 9 k€ | SCR: 246.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 23356116000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 8600,
+        "scr_ratio_pct": 246.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d3c194231f_6bbdf12c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d3c194231f",
+      "entity_name": "MUTUELLE CENTRALE DES FINANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_d3c194231f_1dc7bf29",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_d3c194231f",
+      "entity_name": "MUTUELLE CENTRALE DES FINANCES",
+      "summary": "Primes: 1 k€ | R. net: 12 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1000,
+        "resultat_net_eur": 12110,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4fb29b305f_324c1436",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4fb29b305f",
+      "entity_name": "EMOA MUTUELLE DU VAR",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_4fb29b305f_4d3d7f9a",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_4fb29b305f",
+      "entity_name": "EMOA MUTUELLE DU VAR",
+      "summary": "Primes: 120 k€ | FP: 49 € | SCR: 247.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 120102,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 49,
+        "scr_ratio_pct": 247.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e581c3ba52_df9ecf25",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e581c3ba52",
+      "entity_name": "SOLIMUT MUTUELLE DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e581c3ba52_7d64cc2a",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e581c3ba52",
+      "entity_name": "SOLIMUT MUTUELLE DE FRANCE",
+      "summary": "Primes: 210.25 Md€ | FP: 102.4 M€ | SCR: 165.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210246778000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 102390000,
+        "scr_ratio_pct": 165.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c5b9207ba7_d31a87f8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c5b9207ba7",
+      "entity_name": "MUTUELLE FAMILIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c5b9207ba7_3a85370f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c5b9207ba7",
+      "entity_name": "MUTUELLE FAMILIALE",
+      "summary": "Primes: 210114.76 Md€ | SCR: 314.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210114758630114,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 314.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_42a1648dbc_dd4ba666",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_42a1648dbc",
+      "entity_name": "MUTUELLE DU MONDE COMBATTANT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ff203a9315_13d965f5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ff203a9315",
+      "entity_name": "AFI ESCA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_ff203a9315_c94cb751",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_ff203a9315",
+      "entity_name": "AFI ESCA",
+      "summary": "FP: 371.4 M€ | SCR: 184.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 371400000,
+        "scr_ratio_pct": 184.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_531bf7909a_08e5a661",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_531bf7909a",
+      "entity_name": "SMA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_531bf7909a_c5059505",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_531bf7909a",
+      "entity_name": "SMA SA",
+      "summary": "Primes: 2.02 Md€ | R. net: 82.0 M€ | FP: 2.02 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2024000000,
+        "resultat_net_eur": 82000000,
+        "fonds_propres_eur": 2024000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b35e8c315b_f025d9cf",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b35e8c315b",
+      "entity_name": "UNION NATIONALE MUTUALISTE INTERPROFESSIONNELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_b35e8c315b_f6f023e0",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_b35e8c315b",
+      "entity_name": "UNION NATIONALE MUTUALISTE INTERPROFESSIONNELLE",
+      "summary": "SCR: 206.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 206.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_492eb4ee88_fad89778",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_492eb4ee88",
+      "entity_name": "CAISSE DE REASSURANCE MUTUELLE AGRICOLE DU CENTRE MANCHE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_492eb4ee88_43cd7f80",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_492eb4ee88",
+      "entity_name": "CAISSE DE REASSURANCE MUTUELLE AGRICOLE DU CENTRE MANCHE",
+      "summary": "R. net: 813 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 813,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_77cb5e86c1_243715ea",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_77cb5e86c1",
+      "entity_name": "MONCEAU RETRAITE & EPARGNE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_77cb5e86c1_af4d8682",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_77cb5e86c1",
+      "entity_name": "MONCEAU RETRAITE & EPARGNE",
+      "summary": "Primes: 186501.67 Md€ | FP: 8.58 Md€ | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 186501668011810,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 8582182398,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_2612d95d02_82622558",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_2612d95d02",
+      "entity_name": "UNOFI-ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_2612d95d02_9e2b7f9f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_2612d95d02",
+      "entity_name": "UNOFI-ASSURANCES",
+      "summary": "R. net: 35.5 M€ | FP: 540876.82 Md€ | SCR: 260.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 35500000,
+        "fonds_propres_eur": 540876821772876,
+        "scr_ratio_pct": 260.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0b354e0893_9ce6ff3b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0b354e0893",
+      "entity_name": "APGIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0b354e0893_abf0645b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0b354e0893",
+      "entity_name": "APGIS",
+      "summary": "Primes: 40.43 Md€ | R. net: 2.02 Md€ | FP: 137.5 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 40432088720,
+        "resultat_net_eur": 2023000000,
+        "fonds_propres_eur": 137500000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_6acda275b3_6bfe60c3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_6acda275b3",
+      "entity_name": "MUTUELLE NATIONALE DES SAPEURS-POMPIERS DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_738aab6b57_45784589",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_738aab6b57",
+      "entity_name": "M COMME MUTUELLE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_738aab6b57_8f137a55",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_738aab6b57",
+      "entity_name": "M COMME MUTUELLE",
+      "summary": "Primes: 12 € | FP: 54.08 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 12,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 54083961316,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_699982fcd2_027a63fa",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_699982fcd2",
+      "entity_name": "CARPILIG/P",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5a81990bb3_8282cdd4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5a81990bb3",
+      "entity_name": "MAE VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_5a81990bb3_455fe327",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_5a81990bb3",
+      "entity_name": "MAE VIE",
+      "summary": "Primes: 2.0 M€ | FP: 2 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2023000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0b4da7ba96_7319a292",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0b4da7ba96",
+      "entity_name": "LA SAUVEGARDE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0b4da7ba96_ed9fea16",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0b4da7ba96",
+      "entity_name": "LA SAUVEGARDE",
+      "summary": "Primes: 169.2 M€ | R. net: 4.3 M€ | FP: 1.0 M€ | SCR: 484.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 169200000,
+        "resultat_net_eur": 4300000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 484.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_76bc1e427c_b3cafbe5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_76bc1e427c",
+      "entity_name": "CAISSE MUTUELLE MARNAISE D'ASSURANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_76bc1e427c_9633f13e",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_76bc1e427c",
+      "entity_name": "CAISSE MUTUELLE MARNAISE D'ASSURANCE",
+      "summary": "Primes: 31 k€ | FP: 269832677.33 Md€ | SCR: 225.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 31000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 269832677326780000,
+        "scr_ratio_pct": 225.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_6065ec0848_d2d007cc",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_6065ec0848",
+      "entity_name": "MUTUELLE DU PERSONNEL DE LA BANQUE POPULAIRE DU SUD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_bfa1ac2946_b1bddc20",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_bfa1ac2946",
+      "entity_name": "RELYENS LIFE INSURANCE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_bfa1ac2946_a5f12fb0",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_bfa1ac2946",
+      "entity_name": "RELYENS LIFE INSURANCE",
+      "summary": "Primes: 99.0 M€ | R. net: 3.7 M€ | FP: 367.0 M€ | SCR: 173.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 99000000,
+        "resultat_net_eur": 3700000,
+        "fonds_propres_eur": 367000000,
+        "scr_ratio_pct": 173.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e70628dbed_22bf96be",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e70628dbed",
+      "entity_name": "MAPA-MAB VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_e70628dbed_931519c1",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_e70628dbed",
+      "entity_name": "MAPA-MAB VIE",
+      "summary": "R. net: 273 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 273000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_6a928cd36c_73612792",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_6a928cd36c",
+      "entity_name": "MUTUELLE FAMILIALE DES CHEMINOTS DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_fa6b05e1f3_3857bdfe",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_fa6b05e1f3",
+      "entity_name": "COREIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_fa6b05e1f3_15c50b03",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_fa6b05e1f3",
+      "entity_name": "COREIS",
+      "summary": "Primes: 2.0 M€ | R. net: 2.4 M€ | SCR: 229.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2024000,
+        "resultat_net_eur": 2385000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 229.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4d3bc31119_f24eda85",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4d3bc31119",
+      "entity_name": "SCOR SE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_2700fa4f44_37e51857",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_2700fa4f44",
+      "entity_name": "GMF ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_2700fa4f44_e489c07e",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_2700fa4f44",
+      "entity_name": "GMF ASSURANCES",
+      "summary": "Primes: 2.07 Md€ | R. net: 116.0 M€ | FP: 1.0 M€ | SCR: 392.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2066000000,
+        "resultat_net_eur": 116000000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 392.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1d1123090e_5bc1ff3b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1d1123090e",
+      "entity_name": "IRP AUTO MPA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9322e8dffd_1a6c59f3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9322e8dffd",
+      "entity_name": "SEYNA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_9322e8dffd_4df1c86f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_9322e8dffd",
+      "entity_name": "SEYNA",
+      "summary": "Primes: 67.5 M€ | SCR: 204.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 67522200,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 204.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b28c54319c_98d22b62",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b28c54319c",
+      "entity_name": "ABEILLE RETRAITE PROFESSIONNELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_b28c54319c_5b013696",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_b28c54319c",
+      "entity_name": "ABEILLE RETRAITE PROFESSIONNELLE",
+      "summary": "Primes: 25.04 Md€ | R. net: 211.0 M€ | FP: 153.0 M€ | SCR: 249.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 25043201000,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 153000000,
+        "scr_ratio_pct": 249.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_6e86c4eb34_ee234107",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_6e86c4eb34",
+      "entity_name": "AUXIA ASSISTANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_6e86c4eb34_67999558",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_6e86c4eb34",
+      "entity_name": "AUXIA ASSISTANCE",
+      "summary": "Primes: 2.1 M€ | FP: 8.6 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2100000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 8600000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ce4261ee3a_a3ec38ad",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ce4261ee3a",
+      "entity_name": "AREAS VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_ce4261ee3a_d3e4d526",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_ce4261ee3a",
+      "entity_name": "AREAS VIE",
+      "summary": "R. net: 63.44 Md€ | FP: 860 € | SCR: 115.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 63438631000,
+        "fonds_propres_eur": 860,
+        "scr_ratio_pct": 115.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_89e3e3d440_7c1ea6d7",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_89e3e3d440",
+      "entity_name": "MUTUELLE D'ASSURANCE CARCEPT PREV",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_89e3e3d440_6a811c84",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_89e3e3d440",
+      "entity_name": "MUTUELLE D'ASSURANCE CARCEPT PREV",
+      "summary": "FP: 11.8 M€ | SCR: 110.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 11800000,
+        "scr_ratio_pct": 110.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d0c04e2b62_fd2b78ae",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d0c04e2b62",
+      "entity_name": "OCIRP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_d0c04e2b62_f5d0e4b2",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_d0c04e2b62",
+      "entity_name": "OCIRP",
+      "summary": "Primes: 210 € | R. net: 2.02 Md€ | FP: 860 € | SCR: 263.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": 2024000000,
+        "fonds_propres_eur": 860,
+        "scr_ratio_pct": 263.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f0423b5541_6c6a9405",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f0423b5541",
+      "entity_name": "MUTUELLE DE FRANCE ALPES DU SUD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_f0423b5541_752c7cf1",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_f0423b5541",
+      "entity_name": "MUTUELLE DE FRANCE ALPES DU SUD",
+      "summary": "Primes: 2.11 Md€ | R. net: 286 € | FP: 8.6 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2109803938,
+        "resultat_net_eur": 286,
+        "fonds_propres_eur": 8600000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_2dc7cf3541_aa89a2cb",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_2dc7cf3541",
+      "entity_name": "MUTUALIA GRAND OUEST",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_2dc7cf3541_0adb7421",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_2dc7cf3541",
+      "entity_name": "MUTUALIA GRAND OUEST",
+      "summary": "R. net: 85.11 Md€ | FP: 223.3 M€ | SCR: 818.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 85105256000,
+        "fonds_propres_eur": 223300000,
+        "scr_ratio_pct": 818.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_2be68948d6_3a7fd8cc",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_2be68948d6",
+      "entity_name": "MUTAMI",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_2be68948d6_142ce21d",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_2be68948d6",
+      "entity_name": "MUTAMI",
+      "summary": "FP: 28 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 0,
+        "fonds_propres_eur": 27800,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_8ed2e40f6e_a9865441",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_8ed2e40f6e",
+      "entity_name": "RADIANCE MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_8ed2e40f6e_9fe88771",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_8ed2e40f6e",
+      "entity_name": "RADIANCE MUTUELLE",
+      "summary": "R. net: 183.0 M€ | FP: 285.4 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 183000000,
+        "fonds_propres_eur": 285400000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_95d30ce0e2_3d3071c3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_95d30ce0e2",
+      "entity_name": "INTER MUTUELLES ENTREPRISES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_95d30ce0e2_4077d5a7",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_95d30ce0e2",
+      "entity_name": "INTER MUTUELLES ENTREPRISES",
+      "summary": "Primes: 1.2 M€ | FP: 73308.69 Md€ | SCR: 141.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1200000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 73308686794628,
+        "scr_ratio_pct": 141.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_fdc41137c8_e7dd25e0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_fdc41137c8",
+      "entity_name": "ESPACE MUTUALISTE GIVORDIN",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c74b1d5753_02670402",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c74b1d5753",
+      "entity_name": "MUTUELLE DES AUTEURS ET COMPOSITEURS DRAMATIQUES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9f4ab43903_1cea8027",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9f4ab43903",
+      "entity_name": "SELENCIA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_9f4ab43903_a8c32a58",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_9f4ab43903",
+      "entity_name": "SELENCIA",
+      "summary": "Primes: 440 k€ | R. net: 2 k€ | FP: 174 k€ | SCR: 146.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 440017,
+        "resultat_net_eur": 2024,
+        "fonds_propres_eur": 173882,
+        "scr_ratio_pct": 146.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5aa5f532c0_0186ec73",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5aa5f532c0",
+      "entity_name": "IPRIAC",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_5aa5f532c0_b72da452",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_5aa5f532c0",
+      "entity_name": "IPRIAC",
+      "summary": "FP: 76.0 M€ | SCR: 358.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 76000000,
+        "scr_ratio_pct": 358.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_bed35b1dcd_aedf85b9",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_bed35b1dcd",
+      "entity_name": "SOLUCIA PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_bed35b1dcd_751e70d8",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_bed35b1dcd",
+      "entity_name": "SOLUCIA PROTECTION JURIDIQUE",
+      "summary": "Primes: 2.02 Md€ | R. net: 2.02 Md€ | SCR: 179.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2020000000,
+        "resultat_net_eur": 2023000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 179.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c57cd10ef6_5047766a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c57cd10ef6",
+      "entity_name": "MUTUELLE MARE GAILLARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c57cd10ef6_316e8d02",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c57cd10ef6",
+      "entity_name": "MUTUELLE MARE GAILLARD",
+      "summary": "FP: 860 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 860,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c96e04bdf3_10494341",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c96e04bdf3",
+      "entity_name": "MUTUELLE NATIONALE DES PERSONNELS AIR FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_309d5779fb_635ca616",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_309d5779fb",
+      "entity_name": "MUTUELLE DES PAYS DE VAUCLUSE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_638b1b597d_61111d2b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_638b1b597d",
+      "entity_name": "EUROMAF",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_638b1b597d_c5798de0",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_638b1b597d",
+      "entity_name": "EUROMAF",
+      "summary": "Primes: 378.4 M€ | R. net: 3.7 M€ | FP: 31122.02 Md€ | SCR: 148.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 378400000,
+        "resultat_net_eur": 3700000,
+        "fonds_propres_eur": 31122023000000,
+        "scr_ratio_pct": 148.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f574b78b96_0b044a53",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f574b78b96",
+      "entity_name": "PLEYEL SANTE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_f574b78b96_757caf4e",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_f574b78b96",
+      "entity_name": "PLEYEL SANTE",
+      "summary": "FP: 54.01 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 54011610547,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_cee494ca86_54f57cd6",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_cee494ca86",
+      "entity_name": "LA MUTUELLE DE BAGNEAUX",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7b308b822e_a26e249f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7b308b822e",
+      "entity_name": "AMELLIS MUTUELLES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_7b308b822e_36440ce7",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_7b308b822e",
+      "entity_name": "AMELLIS MUTUELLES",
+      "summary": "Primes: 21.03 Md€ | R. net: 32.8 M€ | FP: 4.6 M€ | SCR: 181.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21032758000,
+        "resultat_net_eur": 32758000,
+        "fonds_propres_eur": 4565583,
+        "scr_ratio_pct": 181.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7b32eeaccc_37f2cbbd",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7b32eeaccc",
+      "entity_name": "MUTUELLE PREVIFRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_7b32eeaccc_94a2a2a8",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_7b32eeaccc",
+      "entity_name": "MUTUELLE PREVIFRANCE",
+      "summary": "FP: 336.5 M€ | SCR: 266.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 336469000,
+        "scr_ratio_pct": 266.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_cefe70ea81_a011290d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_cefe70ea81",
+      "entity_name": "NUOMA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_cefe70ea81_5183fb4c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_cefe70ea81",
+      "entity_name": "NUOMA",
+      "summary": "Primes: 25.04 Md€ | R. net: 211.0 M€ | FP: 153.0 M€ | SCR: 249.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 25043201000,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 153000000,
+        "scr_ratio_pct": 249.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b39408f87e_d4101d92",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b39408f87e",
+      "entity_name": "MUTUELLE DE POITIERS ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_b39408f87e_880d2330",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_b39408f87e",
+      "entity_name": "MUTUELLE DE POITIERS ASSURANCES",
+      "summary": "Primes: 310352.16 Md€ | FP: 3 € | SCR: 281.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 310352156628153,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 3,
+        "scr_ratio_pct": 281.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_247f1fc0b6_cd52846b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_247f1fc0b6",
+      "entity_name": "MUTUELLE DES ETUDIANTS DE PROVENCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_247f1fc0b6_8b530ef8",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_247f1fc0b6",
+      "entity_name": "MUTUELLE DES ETUDIANTS DE PROVENCE",
+      "summary": "Primes: 21033.83 Md€ | FP: 1 € | SCR: 274.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21033833208119,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1,
+        "scr_ratio_pct": 274.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9e03ed7bba_d0555964",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9e03ed7bba",
+      "entity_name": "BPCE IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_9e03ed7bba_b0ed87b4",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_9e03ed7bba",
+      "entity_name": "BPCE IARD",
+      "summary": "Primes: 478.6 M€ | R. net: 28.0 M€ | FP: 1.0 M€ | SCR: 150.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 478600000,
+        "resultat_net_eur": 28000000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 150.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_54a6015e2b_1b116961",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_54a6015e2b",
+      "entity_name": "MUTUELLE DES ORGANISMES SOCIAUX",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_93dbe4da16_c8084f0a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_93dbe4da16",
+      "entity_name": "JUST",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_93dbe4da16_8864f075",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_93dbe4da16",
+      "entity_name": "JUST",
+      "summary": "R. net: 1.9 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 1915215,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_21e69b3703_52ef77e1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_21e69b3703",
+      "entity_name": "AM-GMF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_21e69b3703_516bfc32",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_21e69b3703",
+      "entity_name": "AM-GMF",
+      "summary": "Primes: 161.0 M€ | R. net: 34.0 M€ | FP: 1.0 M€ | SCR: 495.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 161000000,
+        "resultat_net_eur": 34000000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 495.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_60f3fd8652_3aa8a9a8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_60f3fd8652",
+      "entity_name": "LA SECURITE FAMILIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c05548aa2e_a0894c29",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c05548aa2e",
+      "entity_name": "MUTUELLE FAMILIALE DES TRAVAILLEURS DU GROUPE SAFRAN",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b8546b7d9f_cb71e112",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b8546b7d9f",
+      "entity_name": "MUTUELLE DU PERSONNEL DU GROUPE RATP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_b8546b7d9f_762b6f19",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_b8546b7d9f",
+      "entity_name": "MUTUELLE DU PERSONNEL DU GROUPE RATP",
+      "summary": "Primes: 21.09 Md€ | R. net: 39.4 M€ | SCR: 110.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21090833881,
+        "resultat_net_eur": 39391844,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 110.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_50e5122b5f_5aa22742",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_50e5122b5f",
+      "entity_name": "PANACEA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_50e5122b5f_4b288c30",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_50e5122b5f",
+      "entity_name": "PANACEA ASSURANCES",
+      "summary": "Primes: 2.0 M€ | R. net: 3.1 M€ | FP: 4294.65 Md€ | SCR: 337.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2024000,
+        "resultat_net_eur": 3054000,
+        "fonds_propres_eur": 4294650000000,
+        "scr_ratio_pct": 337.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5338f3dbb4_c6f87096",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5338f3dbb4",
+      "entity_name": "OPTIMUM VIE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_5338f3dbb4_a40ebe63",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_5338f3dbb4",
+      "entity_name": "OPTIMUM VIE",
+      "summary": "FP: 1.0 M€ | SCR: 220.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 220.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1d4f7066ca_3b1ed2cb",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1d4f7066ca",
+      "entity_name": "MUTARIS CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_1d4f7066ca_ac573a2f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_1d4f7066ca",
+      "entity_name": "MUTARIS CAUTION",
+      "summary": "R. net: 2.0 M€ | FP: 105 € | SCR: 105.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2024000,
+        "fonds_propres_eur": 105,
+        "scr_ratio_pct": 105.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_8aad1253eb_c7719526",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_8aad1253eb",
+      "entity_name": "MUTUELLE UNION DES TRAVAILLEURS DE DIEPPE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c53d86703a_1cccd14c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c53d86703a",
+      "entity_name": "BPCE MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c53d86703a_8d33da9d",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c53d86703a",
+      "entity_name": "BPCE MUTUELLE",
+      "summary": "Primes: 110245781.10 Md€ | R. net: 10 € | FP: 2 k€ | SCR: 416.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 110245781103231008,
+        "resultat_net_eur": 10,
+        "fonds_propres_eur": 2023,
+        "scr_ratio_pct": 416.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_de85c75d0b_dbfa5d5c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_de85c75d0b",
+      "entity_name": "CARCO",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_de85c75d0b_868ca99f",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_de85c75d0b",
+      "entity_name": "CARCO",
+      "summary": "Primes: 151021.16 Md€ | R. net: 2.2 M€ | SCR: 137.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 151021162225612,
+        "resultat_net_eur": 2219000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 137.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_fcebd53c8c_33c53756",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_fcebd53c8c",
+      "entity_name": "PARNASSE GARANTIES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_eb81b80820_fe0fc315",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_eb81b80820",
+      "entity_name": "PROTEC BTP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_eb81b80820_48aafe74",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_eb81b80820",
+      "entity_name": "PROTEC BTP",
+      "summary": "Primes: 62.8 M€ | R. net: 4.7 M€ | FP: 1.0 M€ | SCR: 398.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 62800000,
+        "resultat_net_eur": 4700000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 398.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_682b65621e_9dce3381",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_682b65621e",
+      "entity_name": "MUTUELLE DES ETUDIANTS DU NORD ET DU NORD OUEST",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_87f4f1e707_142da132",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_87f4f1e707",
+      "entity_name": "MUTUALE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn",
+          "euro medium term note"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_87f4f1e707_c10190f9",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_87f4f1e707",
+      "entity_name": "MUTUALE",
+      "summary": "Primes: 12 € | SCR: 202.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 12,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 202.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_8ee3f75024_690a0fe5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_8ee3f75024",
+      "entity_name": "HELVETIA ASSURANCES SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_8ee3f75024_c1a0b59b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_8ee3f75024",
+      "entity_name": "HELVETIA ASSURANCES SA",
+      "summary": "Primes: 2.02 Md€ | R. net: 20 k€ | FP: 24.8 M€ | SCR: 133.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2023000000,
+        "resultat_net_eur": 20248,
+        "fonds_propres_eur": 24800000,
+        "scr_ratio_pct": 133.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_db1c90fe7b_e77554d2",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_db1c90fe7b",
+      "entity_name": "LOURMEL SOLUTIONS ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_db1c90fe7b_fc07cefa",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_db1c90fe7b",
+      "entity_name": "LOURMEL SOLUTIONS ASSURANCES",
+      "summary": "R. net: 3 k€ | FP: 14.8 M€ | SCR: 281.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2550,
+        "fonds_propres_eur": 14820000,
+        "scr_ratio_pct": 281.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0b0a6e9bed_673dddc3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0b0a6e9bed",
+      "entity_name": "MUTUELLE DE LA CORSE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0b0a6e9bed_ff750145",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0b0a6e9bed",
+      "entity_name": "MUTUELLE DE LA CORSE",
+      "summary": "Primes: 21.07 Md€ | FP: 29.4 M€ | SCR: 176.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21067869000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 29398000,
+        "scr_ratio_pct": 176.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4579e05360_25083859",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4579e05360",
+      "entity_name": "NAGICO INSURANCE COMPANY LIMITED",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_4579e05360_252c11b7",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_4579e05360",
+      "entity_name": "NAGICO INSURANCE COMPANY LIMITED",
+      "summary": "Primes: 187 k€ | R. net: 36.0 M€ | SCR: 130.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 187000,
+        "resultat_net_eur": 36000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 130.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_254ca09256_4deabe55",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_254ca09256",
+      "entity_name": "MUTUELLES DU SOLEIL LIVRE II",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_254ca09256_0b54f63c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_254ca09256",
+      "entity_name": "MUTUELLES DU SOLEIL LIVRE II",
+      "summary": "Primes: 5.0 M€ | FP: 1.7 M€ | SCR: 189.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 5010202,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1714674,
+        "scr_ratio_pct": 189.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c243776e6c_7dc130fe",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c243776e6c",
+      "entity_name": "MUTUELLE DU GROUPE BNP PARIBAS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "phoenix"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_c243776e6c_ad6599f5",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_c243776e6c",
+      "entity_name": "MUTUELLE DU GROUPE BNP PARIBAS",
+      "summary": "R. net: 7 € | FP: 200 € | SCR: 415.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 7,
+        "fonds_propres_eur": 200,
+        "scr_ratio_pct": 415.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_438cbfedb8_e29c99e5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_438cbfedb8",
+      "entity_name": "INIZYS MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_438cbfedb8_207ef002",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_438cbfedb8",
+      "entity_name": "INIZYS MUTUELLE",
+      "summary": "Primes: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 2022000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_cb6474517f_0faf52c6",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_cb6474517f",
+      "entity_name": "SOGESSUR",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_cb6474517f_7278bc6b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_cb6474517f",
+      "entity_name": "SOGESSUR",
+      "summary": "Primes: 32311189.92 Md€ | R. net: 31.0 M€ | FP: 388.0 M€ | SCR: 125.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 32311189924000000,
+        "resultat_net_eur": 31000000,
+        "fonds_propres_eur": 388000000,
+        "scr_ratio_pct": 125.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f5eccb8b5a_1c0f2589",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f5eccb8b5a",
+      "entity_name": "MIC INSURANCE COMPANY",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_44c84aefe4_b2168d02",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_44c84aefe4",
+      "entity_name": "CNP RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_44c84aefe4_1cde57c2",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_44c84aefe4",
+      "entity_name": "CNP RETRAITE",
+      "summary": "Primes: 4033.81 Md€ | SCR: 397.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 4033806707702,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 397.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_321b7b6f6f_157cc064",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_321b7b6f6f",
+      "entity_name": "SELENCIA RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_321b7b6f6f_ed24cfa7",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_321b7b6f6f",
+      "entity_name": "SELENCIA RETRAITE",
+      "summary": "Primes: 15.10 Md€ | R. net: 2.0 M€ | FP: 111 k€ | SCR: 278.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 15101536976,
+        "resultat_net_eur": 2024000,
+        "fonds_propres_eur": 111181,
+        "scr_ratio_pct": 278.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_29d7f649f9_3cbc44ac",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_29d7f649f9",
+      "entity_name": "SWISSLIFE ASSURANCE RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_fafafd4d2f_0d622648",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_fafafd4d2f",
+      "entity_name": "UMR",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_fafafd4d2f_cdd26de0",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_fafafd4d2f",
+      "entity_name": "UMR",
+      "summary": "R. net: 201.0 M€ | FP: 459.5 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 0,
+        "resultat_net_eur": 201000000,
+        "fonds_propres_eur": 459500000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3050c727d5_161ecf6b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3050c727d5",
+      "entity_name": "KERIALIS RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_3050c727d5_2950a7d5",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_3050c727d5",
+      "entity_name": "KERIALIS RETRAITE",
+      "summary": "SCR: 168.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 168.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4bd4bfc90e_a60d1af1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4bd4bfc90e",
+      "entity_name": "ALAN INSURANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_4bd4bfc90e_193ade57",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_4bd4bfc90e",
+      "entity_name": "ALAN INSURANCE",
+      "summary": "R. net: 34.0 M€ | FP: 45 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 34000000,
+        "fonds_propres_eur": 45,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ab42cfa153_8b9bd93b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ab42cfa153",
+      "entity_name": "AXA Réassurance Vie France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_ab42cfa153_582e832a",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_ab42cfa153",
+      "entity_name": "AXA Réassurance Vie France",
+      "summary": "FP: 1.46 Md€ | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1461000000,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_eb9058870f_d11349ae",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_eb9058870f",
+      "entity_name": "CARCO FRPS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_eb9058870f_930ec713",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_eb9058870f",
+      "entity_name": "CARCO FRPS",
+      "summary": "Primes: 151021.16 Md€ | R. net: 2.2 M€ | SCR: 137.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 151021162225612,
+        "resultat_net_eur": 2219000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 137.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_69fcbae5a9_ea59d600",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_69fcbae5a9",
+      "entity_name": "MNCAP SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_69fcbae5a9_a1a41043",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_69fcbae5a9",
+      "entity_name": "MNCAP SA",
+      "summary": "FP: 116.3 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 116343000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_053fe2defd_6a46d619",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_053fe2defd",
+      "entity_name": "ALAN",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_053fe2defd_97d47f1c",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_053fe2defd",
+      "entity_name": "ALAN",
+      "summary": "R. net: 34.0 M€ | FP: 45 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 34000000,
+        "fonds_propres_eur": 45,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_57c9d3f5d0_1e5cc78f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_57c9d3f5d0",
+      "entity_name": "NATIXIS ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_57c9d3f5d0_a7f38279",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_57c9d3f5d0",
+      "entity_name": "NATIXIS ASSURANCES",
+      "summary": "Primes: 478.6 M€ | R. net: 28.0 M€ | FP: 1.0 M€ | SCR: 150.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 478600000,
+        "resultat_net_eur": 28000000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 150.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_99a67d81cb_a84825f9",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_99a67d81cb",
+      "entity_name": "BIG WAKAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_99a67d81cb_580d8025",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_99a67d81cb",
+      "entity_name": "BIG WAKAM",
+      "summary": "R. net: 2.02 Md€ | FP: 1 € | SCR: 109.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2025000000,
+        "fonds_propres_eur": 1,
+        "scr_ratio_pct": 109.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_0e6845b32a_978d2218",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_0e6845b32a",
+      "entity_name": "AGPM GROUPE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_0e6845b32a_1de21539",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_0e6845b32a",
+      "entity_name": "AGPM GROUPE",
+      "summary": "Primes: 547506515.54 Md€ | R. net: 2.02 Md€ | FP: 79539.94 Md€ | SCR: 291.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 547506515535523968,
+        "resultat_net_eur": 2024000000,
+        "fonds_propres_eur": 79539944300079,
+        "scr_ratio_pct": 291.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_bea442cf3a_55ba3513",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_bea442cf3a",
+      "entity_name": "GROUPE VYV",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_bea442cf3a_285627cd",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_bea442cf3a",
+      "entity_name": "GROUPE VYV",
+      "summary": "Primes: 60671.25 Md€ | FP: 260.7 M€ | SCR: 182.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 60671251150395,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 260745645,
+        "scr_ratio_pct": 182.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_04c6adea00_0b79294e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_04c6adea00",
+      "entity_name": "ABEILLE ASSURANCES HOLDING",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1b2674fe61_c3838a20",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1b2674fe61",
+      "entity_name": "SGAM MAE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_1b2674fe61_6a812c66",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_1b2674fe61",
+      "entity_name": "SGAM MAE",
+      "summary": "FP: 86 k€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 0,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 86000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_8874917cab_20ca30d4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_8874917cab",
+      "entity_name": "SGAPS IRCEM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_8874917cab_d97a75ad",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_8874917cab",
+      "entity_name": "SGAPS IRCEM",
+      "summary": "Primes: 15.1 M€ | R. net: 46.7 M€ | FP: 216 k€ | SCR: 216.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 15100000,
+        "resultat_net_eur": 46724000,
+        "fonds_propres_eur": 216000,
+        "scr_ratio_pct": 216.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_359990e000_a0ed64e4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_359990e000",
+      "entity_name": "SAS UNOFI",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_359990e000_78ebd058",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_359990e000",
+      "entity_name": "SAS UNOFI",
+      "summary": "FP: 570910.48 Md€ | SCR: 268.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 570910477609910,
+        "scr_ratio_pct": 268.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d20e58c4eb_56703499",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d20e58c4eb",
+      "entity_name": "SGAPS IRP AUTO ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_d20e58c4eb_4db29157",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_d20e58c4eb",
+      "entity_name": "SGAPS IRP AUTO ASSURANCES",
+      "summary": "FP: 2.02 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2019000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3b0644cb19_de53e3b4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3b0644cb19",
+      "entity_name": "UMG MUTUALIA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_3b0644cb19_2f783cf4",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_3b0644cb19",
+      "entity_name": "UMG MUTUALIA",
+      "summary": "R. net: 52.57 Md€ | FP: 212.3 M€ | SCR: 808.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 52565232000,
+        "fonds_propres_eur": 212300000,
+        "scr_ratio_pct": 808.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_648f5095ab_a086fe42",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_648f5095ab",
+      "entity_name": "EULER HERMES GROUP",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1c6836efdd_17d294ca",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1c6836efdd",
+      "entity_name": "SGAPS BTP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_1c6836efdd_b91f1a63",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_1c6836efdd",
+      "entity_name": "SGAPS BTP",
+      "summary": "R. net: 166.7 M€ | SCR: 248.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 166700000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 248.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_05819c5696_ccec30c1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_05819c5696",
+      "entity_name": "UMG ENTIS MUTUELLES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn",
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_05819c5696_f0f1093e",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_05819c5696",
+      "entity_name": "UMG ENTIS MUTUELLES",
+      "summary": "R. net: 69.75 Md€ | FP: 632815.63 Md€ | SCR: 187.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 69747958000,
+        "fonds_propres_eur": 632815630712000,
+        "scr_ratio_pct": 187.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_da5d7d92ee_fe70f41a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_da5d7d92ee",
+      "entity_name": "SGAPS UGO",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_da5d7d92ee_64c96225",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_da5d7d92ee",
+      "entity_name": "SGAPS UGO",
+      "summary": "Primes: 210573.15 Md€ | R. net: 3.9 M€ | FP: 358.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210573145105915,
+        "resultat_net_eur": 3900000,
+        "fonds_propres_eur": 358000000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4183b9373b_7292bde1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4183b9373b",
+      "entity_name": "COFACE SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_4183b9373b_76196e92",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_4183b9373b",
+      "entity_name": "COFACE SA",
+      "summary": "Primes: 1.4 M€ | R. net: 261.0 M€ | FP: 95 € | SCR: 196.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1385000,
+        "resultat_net_eur": 261000000,
+        "fonds_propres_eur": 95,
+        "scr_ratio_pct": 196.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d7127c097a_2edaf6c1",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d7127c097a",
+      "entity_name": "BONDUELLE SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_d7127c097a_55a56bde",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_d7127c097a",
+      "entity_name": "BONDUELLE SA",
+      "summary": "R. net: 120.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 120000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_11b4e98d8c_a61846e6",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_11b4e98d8c",
+      "entity_name": "SEB SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_11b4e98d8c_17f46781",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_11b4e98d8c",
+      "entity_name": "SEB SA",
+      "summary": "R. net: 386.23 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 386232000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_45f0bacc4d_7293d7f5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_45f0bacc4d",
+      "entity_name": "L'ALLIANCE MUTUALISTE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_45f0bacc4d_d2fe6436",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_45f0bacc4d",
+      "entity_name": "L'ALLIANCE MUTUALISTE",
+      "summary": "FP: 53.2 M€ | SCR: 169.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 53200000,
+        "scr_ratio_pct": 169.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d6941f2fa8_ba0af897",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d6941f2fa8",
+      "entity_name": "Groupe Limagrain Holding",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a3adc53c5c_ede5b96f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a3adc53c5c",
+      "entity_name": "La Poste",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_a3adc53c5c_2af3ea2b",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_a3adc53c5c",
+      "entity_name": "La Poste",
+      "summary": "R. net: 2.0 M€ | FP: 105 € | SCR: 105.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2024000,
+        "fonds_propres_eur": 105,
+        "scr_ratio_pct": 105.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_adba3196fa_68d2e66f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_adba3196fa",
+      "entity_name": "Orange SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ddfcd3289f_231645df",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ddfcd3289f",
+      "entity_name": "Chantiers de l’Atlantique",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1c416ec958_cbab2dac",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1c416ec958",
+      "entity_name": "WORLDLINE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5558cf2abc_e2b26dfe",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5558cf2abc",
+      "entity_name": "VEOLIA ENVIRONNEMENT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_5558cf2abc_36c49342",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_5558cf2abc",
+      "entity_name": "VEOLIA ENVIRONNEMENT",
+      "summary": "R. net: 1.53 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 1530000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_828fe01a9a_80c135f2",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_828fe01a9a",
+      "entity_name": "Orano SA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "emtn"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f966133363_ce164151",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f966133363",
+      "entity_name": "BARON PHILIPPE DE ROTHSCHILD S.A.",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_dc2e1166b1_933f59f7",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_dc2e1166b1",
+      "entity_name": "BIG BANG",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b9feddb2c9_b4002ec9",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b9feddb2c9",
+      "entity_name": "Agence du court métrage",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_036bbee76b_d75e80ef",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_036bbee76b",
+      "entity_name": "Armateurs de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1b2f9ec5e9_48689142",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1b2f9ec5e9",
+      "entity_name": "Association française des sociétés financières",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f06e7557b0_334442a3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f06e7557b0",
+      "entity_name": "Association bretonne des entreprises agroalimentaires",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_1167b8a48e_030fcc13",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_1167b8a48e",
+      "entity_name": "Association des archivistes français",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_d155d39f61_260988ed",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_d155d39f61",
+      "entity_name": "Association des bibliothécaires de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f69d38867e_20f36e4d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f69d38867e",
+      "entity_name": "Association des directeurs et personnels de direction des bibliothèques universitaires et de la documentation",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9e1ad536f7_2a84aa9c",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9e1ad536f7",
+      "entity_name": "Association internationale des archives francophones",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b6bfa6ada4_b54fb4d5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b6bfa6ada4",
+      "entity_name": "Association nationale des industries alimentaires",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c38f5b512e_0efe6cd9",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c38f5b512e",
+      "entity_name": "Association nationale pour l’emploi et la formation en agriculture",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f8fabc87da_3c311655",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f8fabc87da",
+      "entity_name": "Association pour la coopération des professionnels de l'information musicale",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7141a831a0_17a4194f",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7141a831a0",
+      "entity_name": "Comité des constructeurs français d'automobiles",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5bf9382ce4_b52999b3",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5bf9382ce4",
+      "entity_name": "Groupement pour l'amélioration des liaisons dans l'industrie automobile",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f125b7aa33_4383103d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f125b7aa33",
+      "entity_name": "Centre de ressources technologiques",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_f102eda555_a3d9ebec",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_f102eda555",
+      "entity_name": "Centre technique des institutions de prévoyance",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ae36194a71_b41ea7d2",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ae36194a71",
+      "entity_name": "Chambre consulaire",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4c67dfd25e_aa38a4c8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4c67dfd25e",
+      "entity_name": "Chambre syndicale de l'édition musicale",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4e3c84f114_7e48c5d0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4e3c84f114",
+      "entity_name": "Confédération nationale de l'artisanat des métiers et des services",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_bfbeeb6b75_ab426031",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_bfbeeb6b75",
+      "entity_name": "Confédération de l'artisanat et des petites entreprises du bâtiment",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_bd772d9b83_c6c17bdc",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_bd772d9b83",
+      "entity_name": "Confédération des grossistes de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c9bda8cf5c_d8f21437",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c9bda8cf5c",
+      "entity_name": "Confédération nationale de la mutualité, de la coopération et du crédit agricoles",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3e766fbe4c_954facd8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3e766fbe4c",
+      "entity_name": "Agence de développement et d'urbanisme de l'agglomération strasbourgeoise",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b49a42dc2e_46df39bf",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b49a42dc2e",
+      "entity_name": "Domaines skiables de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a37fef0913_c4f1c911",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a37fef0913",
+      "entity_name": "Fédération bancaire française",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_dc84e77a8b_901aeffc",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_dc84e77a8b",
+      "entity_name": "Fédération des associations et sociétés françaises d'ingénieurs diplômés",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3515cea577_2c21e7c4",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3515cea577",
+      "entity_name": "Fédération des orthophonistes de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c9ad2c307d_2d96679b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c9ad2c307d",
+      "entity_name": "Fédération des particuliers employeurs",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b6a53963dd_e296cf2e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b6a53963dd",
+      "entity_name": "Fédération des SCOP du BTP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3069fe3509_5b12665d",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3069fe3509",
+      "entity_name": "Fédération du e-commerce et de la vente à distance",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_4533ecce3f_4acb9885",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_4533ecce3f",
+      "entity_name": "Fédération Française du Prêt à Porter Féminin",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_dabbf12568_8760c909",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_dabbf12568",
+      "entity_name": "Fédération morbihannaise du bâtiment et des travaux publics",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_5c48846547_c62b5324",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_5c48846547",
+      "entity_name": "Fédération nationale d'agriculture biologique",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_c0f424e960_232540e8",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_c0f424e960",
+      "entity_name": "Fédération nationale de l'aviation et de ses métiers",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_2437116502_f0010a52",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_2437116502",
+      "entity_name": "Fédération nationale des orthophonistes",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a9ee70ab41_349dfdf0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a9ee70ab41",
+      "entity_name": "Fédération nationale des sapeurs-pompiers de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_456a017b8a_b2d882bb",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_456a017b8a",
+      "entity_name": "Fédération nationale des travaux publics",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a9e3d1e7e6_45c9b324",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a9e3d1e7e6",
+      "entity_name": "Fonds de garantie des assurances obligatoires de dommages",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ab4edb7c74_4b1abb78",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ab4edb7c74",
+      "entity_name": "France Assureurs",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_ab4edb7c74_51e4eaac",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_ab4edb7c74",
+      "entity_name": "France Assureurs",
+      "summary": "R. net: 14.30 Md€ | FP: 2.50 Md€ | SCR: 240.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 14300000000,
+        "fonds_propres_eur": 2500000000,
+        "scr_ratio_pct": 240.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_92ada252fd_f2c196b0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_92ada252fd",
+      "entity_name": "France digitale",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_933a9587c6_b7b1682b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_933a9587c6",
+      "entity_name": "France Renouvelables",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "phoenix"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e107d3da78_546f1c5b",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e107d3da78",
+      "entity_name": "Groupement des industriels français de l'énergie nucléaire",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e32a285eb7_ea9070bf",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e32a285eb7",
+      "entity_name": "Groupement national des transports combinés",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_99ca9a4435_36c85885",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_99ca9a4435",
+      "entity_name": "Ingénieurs et scientifiques de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_b981e4b49c_790db12e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_b981e4b49c",
+      "entity_name": "Office professionnel de qualification des urbanistes",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_67758d0c03_fb962482",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_67758d0c03",
+      "entity_name": "Organisme pour le registre unique des intermédiaires en assurance, banque et finance",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_094a7227b6_5f390246",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_094a7227b6",
+      "entity_name": "Organisme professionnel de prévention du bâtiment et des travaux publics",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9f89dcf937_c00362f5",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9f89dcf937",
+      "entity_name": "Technical Diving International",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_54ffcc46c7_5341a347",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_54ffcc46c7",
+      "entity_name": "Réunion des opéras de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_a4ef38e1ba_08b63cf9",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_a4ef38e1ba",
+      "entity_name": "Société des ingénieurs et scientifiques de France",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3f387fed12_6709747a",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3f387fed12",
+      "entity_name": "Société française de génie des procédés",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e063806fe2_3e691e37",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e063806fe2",
+      "entity_name": "Société française des ingénieurs d'outre-mer",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_dfb831b764_f4648de9",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_dfb831b764",
+      "entity_name": "Syndicat des éditeurs de la presse magazine",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_3bc16d3182_9a4d3b43",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_3bc16d3182",
+      "entity_name": "Syndicat français des artistes-interprètes",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_ff9d449930_49edbdf2",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_ff9d449930",
+      "entity_name": "Syndicat national des artistes tatoueurs",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_9a36ae7b7c_f185a3d0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_9a36ae7b7c",
+      "entity_name": "Syndicat national des espaces de loisirs, d'attractions et culturels",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_951e83c463_4e7decc0",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_951e83c463",
+      "entity_name": "Union des producteurs phonographiques français indépendants",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7a0b1d718c_0aaf160e",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7a0b1d718c",
+      "entity_name": "Union française de la bijouterie, joaillerie, orfèvrerie, des pierres et des perles",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_e71dac721d_c21b0de6",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_e71dac721d",
+      "entity_name": "Union nationale des entreprises du paysage",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_str_ent_7c088b0484_6604bddc",
+      "date": "2026-05-06",
+      "type": "structured_update",
+      "entity_id": "ent_7c088b0484",
+      "entity_name": "Les mutuelles adhérentes",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260506_fin_ent_7c088b0484_ceb8e802",
+      "date": "2026-05-06",
+      "type": "financial_update",
+      "entity_id": "ent_7c088b0484",
+      "entity_name": "Les mutuelles adhérentes",
+      "summary": "Primes: 210.2 M€ | FP: 4.03 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210210206,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 4028285000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
       }
     },
     {

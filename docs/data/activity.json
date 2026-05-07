@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T06:27:14Z",
+  "last_updated": "2026-05-07T08:37:00Z",
   "events": [
     {
       "id": "evt_20260507_str_ent_8e6394879e_7f5302d9",
@@ -201,6 +201,62 @@
         "primes_eur": null,
         "resultat_net_eur": null,
         "fonds_propres_eur": 5,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_b76b1b8952_085cff1d",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_b76b1b8952_7af2dba4",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes: 44 k€ | FP: 99010.93 Md€ | SCR: 602.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 99010928146197,
+        "scr_ratio_pct": 602.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260507_str_ent_cb09c621f2_c67651e1",
+      "date": "2026-05-07",
+      "type": "structured_update",
+      "entity_id": "ent_cb09c621f2",
+      "entity_name": "SMACL ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260507_fin_ent_cb09c621f2_b3668597",
+      "date": "2026-05-07",
+      "type": "financial_update",
+      "entity_id": "ent_cb09c621f2",
+      "entity_name": "SMACL ASSURANCES",
+      "summary": "Primes: 405802.39 Md€ | R. net: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 405802387560000,
+        "resultat_net_eur": 2022000,
+        "fonds_propres_eur": null,
         "scr_ratio_pct": null,
         "source": "SFCR"
       }

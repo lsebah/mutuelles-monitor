@@ -113,10 +113,54 @@ def run_wave(wave):
     return result.returncode
 
 
+def auto_commit_push(label):
+    """After each wave, commit + push the in-flight data files so GitHub
+    Pages reflects the latest enrichment without waiting for the whole
+    pipeline. Failures are logged but never stop the orchestrator."""
+    try:
+        # Stage only the data files we know change between waves
+        subprocess.run(
+            ["git", "add",
+             "docs/data/entities.json",
+             "docs/data/activity.json",
+             "docs/data/stats.json"],
+            cwd=str(REPO),
+            check=False,
+        )
+        # Anything to commit?
+        diff = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"],
+            cwd=str(REPO),
+        )
+        if diff.returncode == 0:
+            print(f"  [auto-sync] no changes to commit after {label}")
+            return
+        msg = f"Auto-checkpoint after {label} (mutuelles enrichment)"
+        commit = subprocess.run(
+            ["git", "commit", "-m", msg],
+            cwd=str(REPO),
+        )
+        if commit.returncode != 0:
+            print(f"  [auto-sync] commit failed for {label} (rc={commit.returncode})")
+            return
+        # Pull --rebase first to avoid push rejection if anything else landed
+        subprocess.run(["git", "pull", "--rebase"], cwd=str(REPO), check=False)
+        push = subprocess.run(["git", "push"], cwd=str(REPO))
+        if push.returncode == 0:
+            print(f"  [auto-sync] pushed {label} successfully")
+        else:
+            print(f"  [auto-sync] push failed for {label} (rc={push.returncode})")
+    except Exception as e:
+        # Never let auto-sync crash the orchestrator
+        print(f"  [auto-sync] error after {label}: {e}")
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--skip-wave", type=int, action="append", default=[],
                    help="Skip a wave number (can repeat)")
+    p.add_argument("--no-auto-sync", action="store_true",
+                   help="Skip the git commit + push that runs after each wave.")
     args = p.parse_args()
 
     coverage_snapshot("BEFORE")
@@ -130,12 +174,16 @@ def main():
         coverage_snapshot(f"AFTER WAVE {wave['n']}")
         if rc != 0:
             print(f"\n!! Wave {wave['n']} returned exit code {rc} — continuing anyway")
+        if not args.no_auto_sync:
+            auto_commit_push(f"wave {wave['n']} ({wave['name']})")
 
     total = time.time() - overall_t0
     print("\n" + "=" * 70)
     print(f"ALL WAVES DONE in {total/60:.1f} min")
     print("=" * 70)
     coverage_snapshot("FINAL")
+    if not args.no_auto_sync:
+        auto_commit_push("ALL WAVES (final)")
 
 
 if __name__ == "__main__":

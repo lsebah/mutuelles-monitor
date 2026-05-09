@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-07T08:37:00Z",
+  "last_updated": "2026-05-09T08:00:25Z",
   "events": [
+    {
+      "id": "evt_20260509_str_ent_d9825ce168_af103fb2",
+      "date": "2026-05-09",
+      "type": "structured_update",
+      "entity_id": "ent_d9825ce168",
+      "entity_name": "MUTUELLE GENERALE INTERPROFESSIONNELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260507_str_ent_8e6394879e_7f5302d9",
       "date": "2026-05-07",

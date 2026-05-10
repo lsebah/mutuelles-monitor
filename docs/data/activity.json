@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-09T08:00:25Z",
+  "last_updated": "2026-05-10T08:19:15Z",
   "events": [
+    {
+      "id": "evt_20260510_str_ent_312d54393d_c88b9007",
+      "date": "2026-05-10",
+      "type": "structured_update",
+      "entity_id": "ent_312d54393d",
+      "entity_name": "MUTUELLE INTERENTREPRISES DU GAN",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260509_str_ent_d9825ce168_af103fb2",
       "date": "2026-05-09",

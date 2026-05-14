@@ -145,7 +145,7 @@ Kyle,English,Directeur Financier,PACIFICA,,,https://www.linkedin.com/in/kyle-eng
 ,,,MUTUELLE GENERALE SOLIDARITE DE LA REUNION,,,,14 BOULEVARD DORET  BP 340,SAINT DENIS CEDEX (REUNION),97467,La Reunion,La Reunion,,mutuelle,,388213423,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CAPMA & CAPMI,,,,36 A 38  RUE DE SAINT PETERSBOURG,PARIS,75008,Paris,Ile-de-France,,assurance_vie,,775670482,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTEX,,,,140 AVENUE  DE LA REPUBLIQUE,CHATILLON,92320,Hauts-de-Seine,Ile-de-France,,assurance_mixte,,529219040,,,unknown,Sources: acpr_xlsx_2026.
-,,,COVEA COOPERATIONS,,,,160 RUE HENRI CHAMPION,LE MANS,72100,Sarthe,Pays de la Loire,,reassurance,Covea,439881137,,,unknown,Sources: acpr_xlsx_2026.
+,,,COVEA COOPERATIONS,,,,160 RUE HENRI CHAMPION,LE MANS,72100,Sarthe,Pays de la Loire,,reassurance,Covea,439881137,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE DE FRANCE UNIE,,,,39 RUE  DU JOURDIL - CRAN GEVRIER  BP 9029,ANNECY CEDEX 9,74991,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,776531642,,,unknown,Sources: acpr_xlsx_2026.
 ,,,LA MUTUELLE CATALANE,,,,20 AVENUE  DE GRANDE BRETAGNE,PERPIGNAN,66029,Pyrenees-Orientales,Occitanie,,mutuelle,,302476536,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE CENTRALE DE REASSURANCE,,,,36 A 38  RUE DE SAINT PETERSBOURG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,775364383,,,unknown,Sources: acpr_xlsx_2026.
@@ -156,7 +156,7 @@ Kyle,English,Directeur Financier,PACIFICA,,,https://www.linkedin.com/in/kyle-eng
 ,,,REUNION DES MUTUELLES D ASSURANCES  REGIONALES,,,,2 RUE JEAN JAURES,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775626377,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BANQUE POPULAIRE MUTUALITE,,,,10 QUAI DES QUEYRIES,BORDEAUX,33100,Gironde,Nouvelle-Aquitaine,,mutuelle,,429873706,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CARMA VIE,,,,ZAE Saint Guénault 1 Rue Jean Mermoz,EVRY-COURCOURONNES,91000,Essonne,Ile-de-France,,assurance_vie,,428798136,,,unknown,Sources: acpr_xlsx_2026.
-,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,,,unknown,Sources: acpr_xlsx_2026.
+,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,43600,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SANTE MUT ROANNE,,,,14 RUE ROGER SALENGRO,ROANNE,42300,Loire,Auvergne-Rhone-Alpes,,mutuelle,,776346462,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTAME & PLUS,,,,4 RUE EMILE ENAULT  CS 72208,SAINT LO CEDEX,50008,Manche,Normandie,,mutuelle,,780915898,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUAIDE ASSISTANCE,,,,126 RUE DE LA PIAZZA,NOISY-LE-GRAND,93160,Seine-Saint-Denis,Ile-de-France,,assurance_non_vie,,383974086,,,unknown,Sources: acpr_xlsx_2026.
@@ -632,7 +632,7 @@ Kyle,English,Directeur Financier,PACIFICA,,,https://www.linkedin.com/in/kyle-eng
 ,,,SGAPS AG2R LA MONDIALE,,,,14-16 BOULEVARD MALESHERBES,PARIS,75008,Paris,Ile-de-France,,groupe,AG2R La Mondiale,833002983,54000000,53000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,ODYSSEY RE EUROPE HOLDINGS,,,,15 RUE DU 4 SEPTEMBRE,PARIS,75002,Paris,Ile-de-France,,groupe,,829589696,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BIG WAKAM,,,,120 A 122 RUE REAUMUR,PARIS,75002,Paris,Ile-de-France,,groupe,,422755983,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAM KLESIA ASSURANCES,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,groupe,Klesia,811360965,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAM KLESIA ASSURANCES,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,groupe,Klesia,811360965,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MAPA-MAB SGAM,,,,1 RUE ANATOLE CONTRE,SAINT JEAN D ANGELY,17400,Charente-Maritime,Nouvelle-Aquitaine,,groupe,,810881995,,,unknown,Sources: acpr_xlsx_2026.
 ,,,AGPM GROUPE,,,,RUE NICOLAS APPERT  QUARTIER SAINTE MUSSE,TOULON,83100,Var,Provence-Alpes-Cote d'Azur,,groupe,,834846099,,,unknown,Sources: acpr_xlsx_2026.
 ,,,GROUPE VYV,,,,33 AVENUE DU MAINE TOUR MONTPARNASSE BP 25,PARIS CEDEX 15,75755,Paris,Ile-de-France,,groupe,,532661832,,,unknown,Sources: acpr_xlsx_2026.

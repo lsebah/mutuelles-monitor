@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-05-20T09:20:28Z",
+  "last_updated": "2026-05-21T09:24:48Z",
   "events": [
+    {
+      "id": "evt_20260521_str_ent_51bfc34a8b_36e2b774",
+      "date": "2026-05-21",
+      "type": "structured_update",
+      "entity_id": "ent_51bfc34a8b",
+      "entity_name": "ALLIANZ FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260521_str_ent_c8ecbfa124_08e46353",
+      "date": "2026-05-21",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260521_fin_ent_c8ecbfa124_9ed145c9",
+      "date": "2026-05-21",
+      "type": "financial_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "FP: 440 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 440,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260521_str_ent_5122c9d415_704133b4",
+      "date": "2026-05-21",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260521_fin_ent_5122c9d415_ba66ed01",
+      "date": "2026-05-21",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260520_str_ent_8d1293f4ad_0d9c7d17",
       "date": "2026-05-20",

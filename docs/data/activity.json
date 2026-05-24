@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-05-23T08:24:45Z",
+  "last_updated": "2026-05-24T08:44:02Z",
   "events": [
+    {
+      "id": "evt_20260524_str_ent_cb09c621f2_5ae540df",
+      "date": "2026-05-24",
+      "type": "structured_update",
+      "entity_id": "ent_cb09c621f2",
+      "entity_name": "SMACL ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260524_fin_ent_cb09c621f2_48abe1f3",
+      "date": "2026-05-24",
+      "type": "financial_update",
+      "entity_id": "ent_cb09c621f2",
+      "entity_name": "SMACL ASSURANCES",
+      "summary": "Primes: 405802.39 Md€ | R. net: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 405802387560000,
+        "resultat_net_eur": 2022000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260524_str_ent_0ec2f5dbed_427af07a",
+      "date": "2026-05-24",
+      "type": "structured_update",
+      "entity_id": "ent_0ec2f5dbed",
+      "entity_name": "UNMI'MUT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260523_str_ent_27a6449b06_18cd3789",
       "date": "2026-05-23",

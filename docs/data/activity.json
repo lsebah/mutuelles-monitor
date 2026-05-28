@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-05-27T09:32:48Z",
+  "last_updated": "2026-05-28T09:35:58Z",
   "events": [
+    {
+      "id": "evt_20260528_str_ent_5122c9d415_7a08f5ea",
+      "date": "2026-05-28",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260528_fin_ent_5122c9d415_84a157bc",
+      "date": "2026-05-28",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260528_str_ent_4b40a0ab3b_17a9e14c",
+      "date": "2026-05-28",
+      "type": "structured_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260527_str_ent_8e6394879e_81cbd87d",
       "date": "2026-05-27",

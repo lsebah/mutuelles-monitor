@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-05-30T08:33:59Z",
+  "last_updated": "2026-05-31T09:08:02Z",
   "events": [
+    {
+      "id": "evt_20260531_str_ent_0e6d6bc6e3_417d9b30",
+      "date": "2026-05-31",
+      "type": "structured_update",
+      "entity_id": "ent_0e6d6bc6e3",
+      "entity_name": "MALAKOFF HUMANIS RETRAITE SUPPLEMENTAIRE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260531_fin_ent_0e6d6bc6e3_1590a16f",
+      "date": "2026-05-31",
+      "type": "financial_update",
+      "entity_id": "ent_0e6d6bc6e3",
+      "entity_name": "MALAKOFF HUMANIS RETRAITE SUPPLEMENTAIRE",
+      "summary": "Primes: 1510.25 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1510253222000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260531_str_ent_ba0e3fa9af_3d5b7328",
+      "date": "2026-05-31",
+      "type": "structured_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260530_str_ent_27a6449b06_f9b618ca",
       "date": "2026-05-30",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T11:01:47.448513Z",
+  "last_updated": "2026-06-01T12:40:45Z",
   "scrape_status": {
     "acpr_xlsx_2026": {
       "status": "success",
@@ -236,7 +236,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1500000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "La Mutuelle Generale 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -280,12 +287,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 463000000,
+        "fonds_propres_eur": 10451000000,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.bnpparibascardif.com/wp-content/uploads/sites/28/2025/04/BNP-Paribas-Cardif-vision-solo-SFCR-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.bnpparibascardif.com/wp-content/uploads/sites/28/2025/04/BNP-Paribas-Cardif-vision-solo-SFCR-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -295,7 +312,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500VRSFWX7S1P2M29",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Réassurance",
@@ -544,7 +561,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 20300000000,
+        "resultat_net_eur": 393000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SG Assurances resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -1336,7 +1360,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 13200000000,
+        "resultat_net_eur": 470000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "BPCE Assurances resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -1732,7 +1763,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 6500000000,
+        "resultat_net_eur": 430000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AXA France comptes 2024"
+      },
       "structured_products": {
         "status": "no",
         "evidence": "AXA France IARD - branche non-vie, pas d'allocation structures.",
@@ -2043,7 +2081,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 2800000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AEMA resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -2219,7 +2264,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 5900000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Pacifica 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Pacifica (CAA non-vie) - exposition limitee mais existante.",
@@ -2266,7 +2318,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3015000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Spirica 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Spirica (CAA) - allocation moderate, plate-forme UC.",
@@ -2445,7 +2504,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 890000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Abeille ER 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -2753,7 +2819,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 43600000000,
+        "resultat_net_eur": 1959000000,
+        "sp_ratio": 70.2,
+        "rendement_actifs_pct": null,
+        "source": "CA Assurances resultats 12M 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Predica (CAA) - l'un des plus gros porteurs europeens de notes structurees. Book EMTN/autocall connu. Source: connaissance marche CMF + rapport annuel CAA.",
@@ -3108,7 +3181,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 420000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Klesia resultats 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Klesia Mut - exposition via poche credit/actions.",
@@ -3287,7 +3367,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3450000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -3551,7 +3638,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 36400000000,
+        "resultat_net_eur": 1600000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "BNP Paribas Cardif resultats 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "BNP Paribas Cardif Assurance Vie - acheteur structurel BNP + tiers.",
@@ -4038,7 +4132,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 980000000,
+        "resultat_net_eur": 95000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Albingia comptes 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -4258,12 +4359,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 405802387560000,
+        "resultat_net_eur": 2022000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "sp_ratio": 136.0,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.smacl.fr/files/documents/rapport-solvabilite-situation-financiere-2022-sa.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.smacl.fr/files/documents/rapport-solvabilite-situation-financiere-2022-sa.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -4273,7 +4384,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500VARSNWWPS11Q68",
       "forme_juridique": "SAM-SAM",
       "activite_acpr": "Non-vie",
@@ -4962,7 +5073,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 520000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Prevoir resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -5050,7 +5168,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1500000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR BPCE IARD 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -6018,12 +6143,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 385100000,
+        "scr_ratio_pct": 135.0,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.klesia.fr/sites/default/files/media/documents/2025/04/2025-04-08-sfcr-ksa-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.klesia.fr/sites/default/files/media/documents/2025/04/2025-04-08-sfcr-ksa-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -6033,7 +6168,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500IR78YXQK1RPY94",
       "forme_juridique": "SA-DCS",
       "activite_acpr": "Réassurance",
@@ -6106,7 +6241,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1520000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "MMA Vie (Covea) - similaire MAAF.",
@@ -6549,7 +6691,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 310000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Mutex resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -6593,12 +6742,19 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 27700000000,
+        "resultat_net_eur": 1200000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Rapport annuel Covea 2024"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.partnerre.com/wp-content/uploads/2025/03/RatingsDirect_ResearchUpdate_CoveaCooperationsAndSubsidiariesOutlookRevisedToNegativeAfterSameActionOnFranceAA-RatingsAffirme.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -6608,7 +6764,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500K59WA6SGV1YD65",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Réassurance",
@@ -6769,12 +6925,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 20000,
+        "scr_ratio_pct": 180.0,
+        "sp_ratio": 91.8,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.matmut.fr/groupe-matmut/assets/img/decouvrir-le-groupe/documents/rapport-sfcr/2024/sfcr-2024-mpj.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.matmut.fr/groupe-matmut/assets/img/decouvrir-le-groupe/documents/rapport-sfcr/2024/sfcr-2024-mpj.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -6784,7 +6950,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500OW3O12GCVMW258",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Non-vie",
@@ -6901,7 +7067,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3900000000,
+        "resultat_net_eur": 58000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Apicil resultats 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Apicil Prevoyance - allocation limitee.",
@@ -7080,7 +7253,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3176000000,
+        "resultat_net_eur": 104000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Matmut resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -7388,7 +7568,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 420000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Uneo resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -8092,7 +8279,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1240000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SMABTP resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -8488,12 +8682,19 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 16100000000,
+        "resultat_net_eur": 211000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AEMA Groupe resultats 2024"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://devis.aesio.fr/uploads/admin/pdf/Offre/1777-statuts-d-aesio-mutuelle.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -8503,7 +8704,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500ZQYW7EC0NNLU83",
       "forme_juridique": "MUT",
       "activite_acpr": "Mixte",
@@ -8752,7 +8953,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 890000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR CNP Caution 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -9239,7 +9447,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 2050000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "ACM resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -9635,7 +9850,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3040000000,
+        "resultat_net_eur": 300000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "MACSF resultats annuels 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "MACSF Prevoyance - exposition limitee.",
@@ -10078,7 +10300,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3200000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "ACM resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -10298,7 +10527,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 720000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Matmut comptes 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Matmut Vie - allocation moderee.",
@@ -10961,7 +11197,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 18500000000,
+        "resultat_net_eur": 961000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Groupama resultats annuels 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Groupama Gan Vie - exposition via fonds general.",
@@ -11272,7 +11515,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1800000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Klesia resultats 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Klesia Prevoyance - exposition limitee.",
@@ -11671,7 +11921,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 4300000000,
+        "resultat_net_eur": 99000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Harmonie Mutuelle resultats consolides 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Harmonie Mutuelle (VYV) - exposition limitee, croissance prevue.",
@@ -11850,7 +12107,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 620000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Suravenir A 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Suravenir (Credit Mutuel Arkea) - actif sur structures pour ses contrats UC.",
@@ -11985,7 +12249,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 4100000000,
+        "resultat_net_eur": 98000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Abeille Assurances resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -12645,12 +12916,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 59,
+        "scr_ratio_pct": 316.0,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://assets.ctfassets.net/7awcp71bzphk/3AG43UDFJfEBNat5vYME6d/ac19be23a35c72ac7dc8213df7272bd4/SFCR_GCA_2022_Portail_internet.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://assets.ctfassets.net/7awcp71bzphk/3AG43UDFJfEBNat5vYME6d/ac19be23a35c72ac7dc8213df7272bd4/SFCR_GCA_2022_Portail_internet.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -12660,7 +12941,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "9695008VS1LTUWLVS420",
       "forme_juridique": "SAM-CRAMA",
       "activite_acpr": "Non-vie",
@@ -13261,12 +13542,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 289400000,
+        "scr_ratio_pct": null,
+        "sp_ratio": 100.4,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.radiance.fr/sites/default/files/2025-06/SFCR_SGAM%20MH_2024_compressed_compressed.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.radiance.fr/sites/default/files/2025-06/SFCR_SGAM%20MH_2024_compressed_compressed.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -13276,7 +13567,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500YRZ5FRYITBQL14",
       "forme_juridique": "MUT",
       "activite_acpr": "Mixte",
@@ -13877,7 +14168,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 5500000000,
+        "resultat_net_eur": 182000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Swiss Life France resultats 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Swiss Life Assurance et Patrimoine - acheteur historique de structures.",
@@ -14012,7 +14310,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 340000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Thelem resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -14364,7 +14669,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 13100000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Allianz France chiffres cles 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Allianz Vie - allocation produits structures dans general account.",
@@ -14587,7 +14899,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 620000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SMA comptes 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -14807,12 +15126,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1606300000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 50,
+        "scr_ratio_pct": 129.0,
+        "sp_ratio": 64.8,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.gan.fr/app/uploads/2025/04/Rapport-SFCR-exercice-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.gan.fr/app/uploads/2025/04/Rapport-SFCR-exercice-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -14822,7 +15151,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "9695005ZDYP16F43N171",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Non-vie",
@@ -14895,7 +15224,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 720000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Monceau Assurances 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -14939,7 +15275,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 380000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Unofi resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -15511,7 +15854,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 580000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Macifilia 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Macifilia (Macif) - exposition modeste.",
@@ -16570,7 +16920,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 17800000000,
+        "resultat_net_eur": 780000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SCOR annual report 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -16658,7 +17015,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 2530000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -16878,12 +17242,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 21220539520112,
+        "resultat_net_eur": 120000000,
+        "fonds_propres_eur": 1800000000,
+        "scr_ratio_pct": 376.0,
+        "sp_ratio": 95.1,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.generali.fr/sites/default/files-d8/2025-04/RSSF_Generali_Iard_2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.generali.fr/sites/default/files-d8/2025-04/RSSF_Generali_Iard_2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -16893,7 +17267,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "549300BGE4X1KRE2PE75",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Non-vie",
@@ -17494,7 +17868,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3100000000,
+        "resultat_net_eur": 52000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Credit Mutuel Arkea resultats 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Suravenir (Credit Mutuel Arkea) - actif sur structures pour ses contrats UC.",
@@ -17585,7 +17966,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 810000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "GMF Vie (Covea) - allocation moderee.",
@@ -17764,7 +18152,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 12892000000,
+        "resultat_net_eur": 421000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "RSSF Generali Vie 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Generali Vie - acheteur recurrent EMTN et structures.",
@@ -17943,7 +18338,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 480000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR SLAB 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -18119,12 +18521,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3032900000,
+        "resultat_net_eur": 318700000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 443.0,
+        "sp_ratio": 95.3,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.maaf.fr/fr/files/live/sites/maaf/files/DOCUMENTS/maaf_com/Rapports_solvabilite/SFCR-MAAF-SA-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.maaf.fr/fr/files/live/sites/maaf/files/DOCUMENTS/maaf_com/Rapports_solvabilite/SFCR-MAAF-SA-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -18134,7 +18546,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500NE034ESOGE8L98",
       "forme_juridique": "SAM-SAM",
       "activite_acpr": "Non-vie",
@@ -19131,7 +19543,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 850000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Milleis resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -19395,7 +19814,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 4200000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR AXA AIM 2024"
+      },
       "structured_products": {
         "status": "no",
         "evidence": "AXA Assurances IARD Mutuelle - branche non-vie, pas d'allocation structures.",
@@ -20278,7 +20704,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1250000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Arial 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "CNP Assurances - large allocation aux titres structures dans le fonds general.",
@@ -20677,7 +21110,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 950000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR BPCE IARD 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -20765,12 +21205,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2789364000,
+        "scr_ratio_pct": 159.0,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/investor-relations/en/results-reports/sfcr/2023/Allianz-IARD-SFCR-2022.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/investor-relations/en/results-reports/sfcr/2023/Allianz-IARD-SFCR-2022.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -20780,7 +21230,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500I7XUD776A1HP65",
       "forme_juridique": "SA-CA",
       "activite_acpr": "Non-vie",
@@ -21073,7 +21523,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 37400000000,
+        "resultat_net_eur": 1582000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Rapport annuel 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "CNP Assurances - large allocation aux titres structures dans le fonds general.",
@@ -21208,7 +21665,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1820000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Covea comptes 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "MAAF Vie (Covea) - allocation limitee mais existante.",
@@ -22311,7 +22775,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1230000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR SLPS 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "Swiss Life Prevoyance - exposition moderate.",
@@ -22534,7 +23005,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1800000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Apicil resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -22578,7 +23056,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 4200000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR LMP 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "La Mondiale Partenaire - acheteur de structures pour les contrats UC haut de gamme.",
@@ -23065,7 +23550,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 12800000000,
+        "resultat_net_eur": 183000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AG2R La Mondiale resultats annuels 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "AG2R La Mondiale - exposition produits structures dans le fonds general.",
@@ -23596,7 +24088,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 2100000000,
+        "resultat_net_eur": 185000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "CCR resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -23860,7 +24359,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 350000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Interiale resultats 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -23995,7 +24501,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3050000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR Abeille IARD 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -24391,7 +24904,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 15200000000,
+        "resultat_net_eur": 1220000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "AXA France comptes 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "AXA France Vie - acheteur historique de structures (autocall, fonds a formule).",
@@ -24614,12 +25134,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 21013984874752,
+        "resultat_net_eur": 4000000,
+        "fonds_propres_eur": 8643811778608000,
+        "scr_ratio_pct": 382.0,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://placement.meilleurtaux.com/images/docs-assureur/la-mondiale-europartner/ag2r-la-mondiale-rapport-annuel-solvabilite.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://placement.meilleurtaux.com/images/docs-assureur/la-mondiale-europartner/ag2r-la-mondiale-rapport-annuel-solvabilite.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -24629,7 +25159,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500L0T16HX3R78P61",
       "forme_juridique": "SAM-SAM",
       "activite_acpr": "Vie",
@@ -24790,7 +25320,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 620000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR CNP SI 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "CNP Assurances - large allocation aux titres structures dans le fonds general.",
@@ -24881,7 +25418,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 2450000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "CNP groupe 2024"
+      },
       "structured_products": {
         "status": "yes",
         "evidence": "CNP Assurances - large allocation aux titres structures dans le fonds general.",
@@ -25280,7 +25824,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 480000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "Corum L'Epargne 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -25720,7 +26271,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1500000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "CNP groupe 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -25852,12 +26410,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 23147137241014001664,
+        "resultat_net_eur": 112000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 115.0,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.generali.fr/sites/default/files-d8/2025-04/RSSF_Generali_Retraite_2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.generali.fr/sites/default/files-d8/2025-04/RSSF_Generali_Retraite_2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -25867,7 +26435,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500NMPD43TU08NI50",
       "forme_juridique": "FRPS",
       "activite_acpr": "Vie",
@@ -25984,12 +26552,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 1510149282491,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.ca-assurances.com/wp-content/uploads/Credit-Agricole-Assurances-Retraite-SFCR-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.ca-assurances.com/wp-content/uploads/Credit-Agricole-Assurances-Retraite-SFCR-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -25999,7 +26577,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500J0J1H1GRL7KK86",
       "forme_juridique": "FRPS",
       "activite_acpr": "Vie",
@@ -27612,12 +28190,24 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 440,
+        "scr_ratio_pct": null,
+        "sp_ratio": 100.0,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.matmut.fr/groupe-matmut/assets/img/decouvrir-le-groupe/documents/2025/matmut-sgam-rapport-sfcr-anglais-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
-        "keywords_found": [],
-        "source_url": ""
+        "status": "yes",
+        "evidence": "R0120 89,309 Bonds R0130 3,644,573 Government Bonds R0140 1,079,284 Corporate Bonds R0150 1,837,779 Structured notes R0160 727,510 Collateralised securities R0170 Collective Investments Undertakings R0180 1,570,509 Derivatives R0190 0 Deposits other than cash equivalents R0200 49,868 Other investmen",
+        "keywords_found": [
+          "structured notes"
+        ],
+        "source_url": "https://www.matmut.fr/groupe-matmut/assets/img/decouvrir-le-groupe/documents/2025/matmut-sgam-rapport-sfcr-anglais-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -27627,7 +28217,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "9695004LR4YVO3ERVB73",
       "forme_juridique": "SGAM",
       "sous_categorie": "Code des assurances"
@@ -27899,7 +28489,14 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 2900000000,
+        "resultat_net_eur": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "BPCE Assurances 2024"
+      },
       "structured_products": {
         "status": "unknown",
         "evidence": "",
@@ -27940,12 +28537,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 54000000,
+        "resultat_net_eur": 53000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/182/2024/05/FC182531022_20240516.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/182/2024/05/FC182531022_20240516.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -27955,7 +28562,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500K8WJD4DHVQG477",
       "forme_juridique": "SGAPS",
       "sous_categorie": "Code de la sécurité sociale"
@@ -28063,12 +28670,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.klesia.fr/sites/default/files/media/documents/2025/05/2025-05-16-sfcr-sgam-2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.klesia.fr/sites/default/files/media/documents/2025/05/2025-05-16-sfcr-sgam-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -28078,7 +28695,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500Z8CH71AYUV3U64",
       "forme_juridique": "SGAM",
       "sous_categorie": "Code des assurances"
@@ -28229,10 +28846,12 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
-        "keywords_found": [],
-        "source_url": ""
+        "status": "yes",
+        "evidence": "ed R0120 20 Bonds R0130 181,686 Government Bonds R0140 77,479 Corporate Bonds R0150 102,284 Structured notes R0160 1,881 Collateralised securities R0170 42 Collective Investments Undertakings R0180 63,506 Derivatives R0190 633 Deposits other than cash equivalents R0200 23 Other inv",
+        "keywords_found": [
+          "structured notes"
+        ],
+        "source_url": "https://www.ca-assurances.com/wp-content/uploads/Credit-Agricole-Assurances-Group-SFCR-2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -28242,7 +28861,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500K2MUPSI57XK083",
       "forme_juridique": "SGA",
       "sous_categorie": "Code des assurances"
@@ -28350,12 +28969,24 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 5049066267,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.generali.com/doc/jcr:ab0ca83c-866f-42bc-965e-6304b6a7b214/Generali%20Group%20SFCR%20YE24%20Eng%20Protetto.pdf/lang:en/Generali_Group_SFCR_YE24_Eng_Protetto.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
-        "keywords_found": [],
-        "source_url": ""
+        "status": "yes",
+        "evidence": ",078 -936 16,143 Government bonds 139,053 -17,824 121,229 -4,211 117,018 Corporate bonds, structured notes and collateralized securities 105,205 -6,132 99,073 -1,175 97,898 68 It should be noted that leased assets are allocated to specific balance sheet items based on the nature o",
+        "keywords_found": [
+          "structured notes"
+        ],
+        "source_url": "https://www.generali.com/doc/jcr:ab0ca83c-866f-42bc-965e-6304b6a7b214/Generali%20Group%20SFCR%20YE24%20Eng%20Protetto.pdf/lang:en/Generali_Group_SFCR_YE24_Eng_Protetto.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -28365,7 +28996,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "549300Q5IU75XPTW3541",
       "forme_juridique": "SGA",
       "sous_categorie": "Code des assurances"
@@ -28555,12 +29186,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 191000000,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.covea.com/sites/default/files/2025-05/sfcr_covea_2024_executive_summary_translation.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.covea.com/sites/default/files/2025-05/sfcr_covea_2024_executive_summary_translation.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -28570,7 +29211,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500S2ON1Z6K2G9130",
       "forme_juridique": "SGAM",
       "sous_categorie": "Code des assurances"
@@ -28596,12 +29237,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 289400000,
+        "scr_ratio_pct": null,
+        "sp_ratio": 100.4,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.radiance.fr/sites/default/files/2025-06/SFCR_SGAM%20MH_2024_compressed_compressed.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.radiance.fr/sites/default/files/2025-06/SFCR_SGAM%20MH_2024_compressed_compressed.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -28611,7 +29262,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "9695007LRF76CDE6JI09",
       "forme_juridique": "SGAM",
       "sous_categorie": "Code des assurances"
@@ -28760,12 +29411,22 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 289400000,
+        "scr_ratio_pct": null,
+        "sp_ratio": 100.4,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.radiance.fr/sites/default/files/2025-06/SFCR_SGAM%20MH_2024_compressed_compressed.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.radiance.fr/sites/default/files/2025-06/SFCR_SGAM%20MH_2024_compressed_compressed.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -28775,7 +29436,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500GPR5KIDEPL1B77",
       "forme_juridique": "SGA",
       "sous_categorie": "Code des assurances"
@@ -28883,12 +29544,24 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 38043956,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2024000,
+        "scr_ratio_pct": null,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "SFCR",
+        "source_url": "https://www.allianz-partners.com/content/dam/onemarketing/awp/azpartnerscom/en_global/investor-relation/2025/SFCR_Fragonard_assurances_2024.pdf"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
-        "keywords_found": [],
-        "source_url": ""
+        "status": "yes",
+        "evidence": "R0120 R0130 \u0014\u0013\u0018ௗ\u0014\u0019\u001bௗ\u001a \u0013\u000f\u0013\u0013 Government Bonds R0140 \u0014\u0017ௗ\u0019\u0014\u0013ௗ \u0016\u0013\u000f\u0013\u0013 Corporate Bonds R0150 \u0013ௗ\u0018\u0018\u001aௗ\u001b\u0019\u0013\u000f\u0013\u0013 Structured notes R0160 Collateralised securities R0170 R0180 R0190 R0200 R0210 R0220 R0230 \u0017\u0013ௗ\u0019 \u0017ௗ \u001a\u0013\u000f\u0013\u0013 R0240 R0250 R0260 \u0017\u0013ௗ\u0019 \u0017ௗ \u001a\u0013\u000f\u0013\u0013 R0270 ௗ\u001a\u001b\u0016ௗ\u0019 \u0013\u000f\u0013\u0013 R0280 ௗ\u001a\u001b\u0016ௗ\u0019 \u0013\u000f\u0013\u0013 Non-life excluding health",
+        "keywords_found": [
+          "structured notes"
+        ],
+        "source_url": "https://www.allianz-partners.com/content/dam/onemarketing/awp/azpartnerscom/en_global/investor-relation/2025/SFCR_Fragonard_assurances_2024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -28898,7 +29571,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500GNHCXXTP2EL222",
       "forme_juridique": "SGA",
       "sous_categorie": "Code des assurances"
@@ -29088,12 +29761,19 @@
       "email": "",
       "website": "",
       "people": [],
-      "financials": null,
+      "financials": {
+        "year": 2024,
+        "primes_eur": 3040000000,
+        "resultat_net_eur": 300000000,
+        "sp_ratio": null,
+        "rendement_actifs_pct": null,
+        "source": "MACSF resultats annuels 2024"
+      },
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.macsf.fr/groupe/content/download/5342/file/Rapport%20RSE%202024.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -29103,7 +29783,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500B19SLP840UY273",
       "forme_juridique": "SGAM",
       "sous_categorie": "Code des assurances"
@@ -29831,10 +30511,10 @@
       "people": [],
       "financials": null,
       "structured_products": {
-        "status": "unknown",
-        "evidence": "",
+        "status": "no",
+        "evidence": "Aucun mot-cle structures detecte dans le SFCR",
         "keywords_found": [],
-        "source_url": ""
+        "source_url": "https://www.aemagroupe.fr/wp-content/uploads/2024/10/H1-2024-REPORT.pdf"
       },
       "sources": {
         "acpr_xlsx_2026": true
@@ -29844,7 +30524,7 @@
       },
       "first_seen": "2026-04-15",
       "last_seen": "2026-06-01",
-      "last_enriched": "",
+      "last_enriched": "2026-06-01",
       "lei": "969500T6HL9T2JRTK167",
       "forme_juridique": "SGAM",
       "sous_categorie": "Code des assurances"

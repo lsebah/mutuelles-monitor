@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-06-01T12:40:44Z",
+  "last_updated": "2026-06-02T10:01:09Z",
   "events": [
+    {
+      "id": "evt_20260602_per_ent_f9f6e15f1b_445dcf3b",
+      "date": "2026-06-02",
+      "type": "person_joined",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "Kyle English - Directeur Financier",
+      "details": {
+        "name": "Kyle English",
+        "role": "Directeur Financier",
+        "linkedin": "https://www.linkedin.com/in/kyle-english-9b0163181",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260602_str_ent_b76b1b8952_95c8c0c4",
+      "date": "2026-06-02",
+      "type": "structured_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260602_fin_ent_b76b1b8952_ad8eaeb7",
+      "date": "2026-06-02",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes: 44 k€ | FP: 99010.93 Md€ | SCR: 602.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 99010928146197,
+        "scr_ratio_pct": 602.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260602_str_ent_0ec2f5dbed_0a932c3c",
+      "date": "2026-06-02",
+      "type": "structured_update",
+      "entity_id": "ent_0ec2f5dbed",
+      "entity_name": "UNMI'MUT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260601_fin_ent_2b8c44ba20_f4d7844a",
       "date": "2026-06-01",

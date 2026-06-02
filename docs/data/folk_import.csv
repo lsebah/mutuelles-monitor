@@ -1,5 +1,5 @@
 ﻿First Name,Last Name,Job Title,Company,Email,Phone,LinkedIn,Address,City,Postal Code,Department,Region,Website,Type,Groupe,SIREN,Primes 2024 (EUR),Resultat net (EUR),Produits structures,Notes
-,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,unknown,Sources: acpr_xlsx_2026.
+,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,1500000000,,unknown,Sources: acpr_xlsx_2026.
 ,,,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,reassurance,BNP Paribas Cardif,382983922,,463000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
@@ -46,7 +46,7 @@
 ,,,SERENIS ASSURANCES,,,,25 RUE DU DOCTEUR HENRI ABEL,VALENCE,26000,Drome,Auvergne-Rhone-Alpes,,assurance_non_vie,,350838686,,,unknown,Sources: acpr_xlsx_2026.
 ,,,L EQUITE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,assurance_non_vie,,572084697,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE INTERGROUPES D ENTRAIDE,,,,16 AVENUE LOUISON BOBET Immeuble Le Péricentre CS60005,FONTENAY-SOUS-BOIS CEDEX,94132,Val-de-Marne,Ile-de-France,,mutuelle,,784275885,,,unknown,Sources: acpr_xlsx_2026.
-,,,PACIFICA,,,,8 A 10 BOULEVARD DE VAUGIRARD,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_non_vie,Credit Agricole Assurances,352358865,5900000000,,yes,Sources: acpr_xlsx_2026. Pacifica (CAA non-vie) - exposition limitee mais existante.
+Kyle,English,Directeur Financier,PACIFICA,,,https://www.linkedin.com/in/kyle-english-9b0163181,8 A 10 BOULEVARD DE VAUGIRARD,PARIS CEDEX 15,75724,Paris,Ile-de-France,,assurance_non_vie,Credit Agricole Assurances,352358865,5900000000,,yes,Sources: acpr_xlsx_2026. Pacifica (CAA non-vie) - exposition limitee mais existante.
 ,,,SPIRICA,,,,16/18 boulevard de Vaugirard,PARIS CEDEX 15,75015,Paris,Ile-de-France,,assurance_vie,Credit Agricole Assurances,487739963,3015000000,,yes,"Sources: acpr_xlsx_2026. Spirica (CAA) - allocation moderate, plate-forme UC."
 ,,,MUTUELLE D ASSURANCES DU CORPS DE SANTE FRANCAIS,,,,10 RUE DE VALMY COURS DU TRIANGLE,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775665631,,,unknown,Sources: acpr_xlsx_2026.
 ,,,GENERATION VIE,,,,20 PLACE DE SEINE TOUR NEPTUNE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_vie,,403267487,,,unknown,Sources: acpr_xlsx_2026.
@@ -156,7 +156,7 @@
 ,,,REUNION DES MUTUELLES D ASSURANCES  REGIONALES,,,,2 RUE JEAN JAURES,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775626377,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BANQUE POPULAIRE MUTUALITE,,,,10 QUAI DES QUEYRIES,BORDEAUX,33100,Gironde,Nouvelle-Aquitaine,,mutuelle,,429873706,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CARMA VIE,,,,ZAE Saint Guénault 1 Rue Jean Mermoz,EVRY-COURCOURONNES,91000,Essonne,Ile-de-France,,assurance_vie,,428798136,,,unknown,Sources: acpr_xlsx_2026.
-,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,3176000000,104000000,unknown,Sources: acpr_xlsx_2026.
+,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,43600,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SANTE MUT ROANNE,,,,14 RUE ROGER SALENGRO,ROANNE,42300,Loire,Auvergne-Rhone-Alpes,,mutuelle,,776346462,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTAME & PLUS,,,,4 RUE EMILE ENAULT  CS 72208,SAINT LO CEDEX,50008,Manche,Normandie,,mutuelle,,780915898,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUAIDE ASSISTANCE,,,,126 RUE DE LA PIAZZA,NOISY-LE-GRAND,93160,Seine-Saint-Denis,Ile-de-France,,assurance_non_vie,,383974086,,,unknown,Sources: acpr_xlsx_2026.

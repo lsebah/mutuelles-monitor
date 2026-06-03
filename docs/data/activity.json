@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026-06-02T10:01:09Z",
+  "last_updated": "2026-06-03T10:20:02Z",
   "events": [
+    {
+      "id": "evt_20260603_str_ent_8d1293f4ad_1bdd8143",
+      "date": "2026-06-03",
+      "type": "structured_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260603_fin_ent_8d1293f4ad_c9b3c879",
+      "date": "2026-06-03",
+      "type": "financial_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Primes: 1 € | FP: 50 € | SCR: 245.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 50,
+        "scr_ratio_pct": 245.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260603_str_ent_1ce0fee567_ae6046b6",
+      "date": "2026-06-03",
+      "type": "structured_update",
+      "entity_id": "ent_1ce0fee567",
+      "entity_name": "A2VIP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260603_fin_ent_1ce0fee567_45e78f8d",
+      "date": "2026-06-03",
+      "type": "financial_update",
+      "entity_id": "ent_1ce0fee567",
+      "entity_name": "A2VIP",
+      "summary": "FP: 77 k€ | SCR: 290.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 77000,
+        "scr_ratio_pct": 290.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260603_str_ent_d9825ce168_98beee3c",
+      "date": "2026-06-03",
+      "type": "structured_update",
+      "entity_id": "ent_d9825ce168",
+      "entity_name": "MUTUELLE GENERALE INTERPROFESSIONNELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260602_per_ent_f9f6e15f1b_445dcf3b",
       "date": "2026-06-02",

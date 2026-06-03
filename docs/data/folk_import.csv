@@ -1,7 +1,7 @@
 ﻿First Name,Last Name,Job Title,Company,Email,Phone,LinkedIn,Address,City,Postal Code,Department,Region,Website,Type,Groupe,SIREN,Primes 2024 (EUR),Resultat net (EUR),Produits structures,Notes
 ,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
-,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,unknown,Sources: acpr_xlsx_2026.
-,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,1500000000,,unknown,Sources: acpr_xlsx_2026.
+,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,1500000000,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,reassurance,BNP Paribas Cardif,382983922,,463000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,AUBEANE MUTUELLE DE FRANCE,,,,59 BOULEVARD BLANQUI  BP 3013,TROYES CEDEX,10012,Aube,Grand Est,,mutuelle,,780349924,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE D ENTREPRISES SCHNEIDER ELECTRIC,,,,"4 RUE DE L'OCTANT PARC SUD GALAXIE, BATIMENT ALPHA, 2 EME ETAGE",ECHIROLLES,38130,Isere,Auvergne-Rhone-Alpes,,mutuelle,,390820058,,,unknown,Sources: acpr_xlsx_2026.
@@ -323,7 +323,7 @@ Kyle,English,Directeur Financier,PACIFICA,,,https://www.linkedin.com/in/kyle-eng
 ,,,MUTUELLE FAMILIALE,,,,52 RUE D HAUTEVILLE,PARIS,75010,Paris,Ile-de-France,,mutuelle,,784442915,,,unknown,Sources: acpr_xlsx_2026.
 ,,,ALLIANZ VIE,,,,1 COURS  MICHELET  CS 30051,PARIS LA DEFENSE CEDEX,92076,Hauts-de-Seine,Ile-de-France,,assurance_mixte,Allianz,340234962,13100000000,,yes,Sources: acpr_xlsx_2026. Allianz Vie - allocation produits structures dans general account.
 ,,,MUTUELLE DU MONDE COMBATTANT,,,,5 RUE DU HAVRE,PARIS,75008,Paris,Ile-de-France,,mutuelle,,784360661,,,unknown,Sources: acpr_xlsx_2026.
-,,,GROUPAMA ASSURANCE-CREDIT & CAUTION,,,,8 A 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,380810283,,,unknown,Sources: acpr_xlsx_2026.
+,,,GROUPAMA ASSURANCE-CREDIT & CAUTION,,,,8 A 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,380810283,1,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE GENERALE DE PREVOYANCE,,,,39 RUE DU JOURDIL,CRAN GEVRIER,74960,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,337682660,,,unknown,Sources: acpr_xlsx_2026.
 ,,,AFI ESCA,,,,2 QUAI KLEBER  CS 30441,STRASBOURG CEDEX,67008,Bas-Rhin,Grand Est,,assurance_vie,,548502517,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SMA SA,,,,8 RUE LOUIS ARMAND,PARIS,75015,Paris,Ile-de-France,,assurance_non_vie,,332789296,620000000,,unknown,Sources: acpr_xlsx_2026.

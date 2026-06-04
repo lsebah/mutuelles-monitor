@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-06-03T10:20:02Z",
+  "last_updated": "2026-06-04T09:41:48Z",
   "events": [
+    {
+      "id": "evt_20260604_str_ent_c591bcaa5c_96dda336",
+      "date": "2026-06-04",
+      "type": "structured_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260604_fin_ent_c591bcaa5c_ef750560",
+      "date": "2026-06-04",
+      "type": "financial_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "R. net: 2 k€ | FP: 402.0 M€ | SCR: 405.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2024,
+        "fonds_propres_eur": 402000000,
+        "scr_ratio_pct": 405.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260603_str_ent_8d1293f4ad_1bdd8143",
       "date": "2026-06-03",

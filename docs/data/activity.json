@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-06-04T09:41:48Z",
+  "last_updated": "2026-06-06T07:39:42Z",
   "events": [
+    {
+      "id": "evt_20260606_per_ent_f9f6e15f1b_0750b2e5",
+      "date": "2026-06-06",
+      "type": "person_joined",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "Adam Bandel - Directeur des Investissements",
+      "details": {
+        "name": "Adam Bandel",
+        "role": "Directeur des Investissements",
+        "linkedin": "https://www.linkedin.com/in/adam-bandel-b5b6381a",
+        "source": "ddg_linkedin"
+      }
+    },
     {
       "id": "evt_20260604_str_ent_c591bcaa5c_96dda336",
       "date": "2026-06-04",

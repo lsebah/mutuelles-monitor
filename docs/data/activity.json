@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-06-11T10:06:53Z",
+  "last_updated": "2026-06-12T09:51:41Z",
   "events": [
+    {
+      "id": "evt_20260612_str_ent_8e6394879e_5f5fd306",
+      "date": "2026-06-12",
+      "type": "structured_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260612_fin_ent_8e6394879e_7e6ec6b1",
+      "date": "2026-06-12",
+      "type": "financial_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Primes: 210 € | FP: 2.79 Md€ | SCR: 159.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2789364000,
+        "scr_ratio_pct": 159.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260611_str_ent_5122c9d415_d5a7792a",
       "date": "2026-06-11",

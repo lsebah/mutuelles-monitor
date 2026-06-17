@@ -1,6 +1,176 @@
 {
-  "last_updated": "2026-06-16T11:01:40Z",
+  "last_updated": "2026-06-17T10:23:47Z",
   "events": [
+    {
+      "id": "evt_20260617_str_ent_0e6d6bc6e3_aff805b6",
+      "date": "2026-06-17",
+      "type": "structured_update",
+      "entity_id": "ent_0e6d6bc6e3",
+      "entity_name": "MALAKOFF HUMANIS RETRAITE SUPPLEMENTAIRE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260617_fin_ent_0e6d6bc6e3_dc4b650e",
+      "date": "2026-06-17",
+      "type": "financial_update",
+      "entity_id": "ent_0e6d6bc6e3",
+      "entity_name": "MALAKOFF HUMANIS RETRAITE SUPPLEMENTAIRE",
+      "summary": "Primes: 1510.25 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1510253222000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260617_str_ent_8d1293f4ad_f6dded38",
+      "date": "2026-06-17",
+      "type": "structured_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260617_fin_ent_8d1293f4ad_cdeea9ee",
+      "date": "2026-06-17",
+      "type": "financial_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Primes: 1 € | FP: 50 € | SCR: 245.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 50,
+        "scr_ratio_pct": 245.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260617_str_ent_c618166f27_d0bd0c97",
+      "date": "2026-06-17",
+      "type": "structured_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260617_fin_ent_c618166f27_8ab717b3",
+      "date": "2026-06-17",
+      "type": "financial_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Primes: 38.0 M€ | FP: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 38043956,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2024000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260617_str_ent_3a89b6c158_e990ddd8",
+      "date": "2026-06-17",
+      "type": "structured_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260617_fin_ent_3a89b6c158_5273cd26",
+      "date": "2026-06-17",
+      "type": "financial_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "FP: 430.6 M€ | SCR: 143.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 430600000,
+        "scr_ratio_pct": 143.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260617_str_ent_21f88fc860_ae66d139",
+      "date": "2026-06-17",
+      "type": "structured_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260617_fin_ent_21f88fc860_0d87ca58",
+      "date": "2026-06-17",
+      "type": "financial_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Primes: 400 k€ | FP: 20 k€ | SCR: 180.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 20000,
+        "scr_ratio_pct": 180.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260617_str_ent_b76b1b8952_f5ad90ea",
+      "date": "2026-06-17",
+      "type": "structured_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260617_fin_ent_b76b1b8952_872fc827",
+      "date": "2026-06-17",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes: 44 k€ | FP: 99010.93 Md€ | SCR: 602.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 99010928146197,
+        "scr_ratio_pct": 602.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260616_per_ent_f9f6e15f1b_a79bbb46",
       "date": "2026-06-16",

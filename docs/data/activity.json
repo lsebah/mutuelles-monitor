@@ -1,6 +1,64 @@
 {
-  "last_updated": "2026-06-17T10:23:47Z",
+  "last_updated": "2026-06-18T13:19:50Z",
   "events": [
+    {
+      "id": "evt_20260618_str_ent_c8ecbfa124_6f9ab8bb",
+      "date": "2026-06-18",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260618_fin_ent_c8ecbfa124_5a377b7d",
+      "date": "2026-06-18",
+      "type": "financial_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "FP: 440 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 440,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260618_str_ent_5122c9d415_b2d5cd18",
+      "date": "2026-06-18",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260618_fin_ent_5122c9d415_99358f31",
+      "date": "2026-06-18",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260617_str_ent_0e6d6bc6e3_aff805b6",
       "date": "2026-06-17",

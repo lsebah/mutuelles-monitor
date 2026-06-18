@@ -622,7 +622,7 @@ Adam,Bandel,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,EGIS RE,,,,"15, avenue du Centre",GUYANCOURT,78280,Yvelines,Ile-de-France,,reassurance,,988799755,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CAPQUARTZ,,,,2 Rue Pierre Fixot,AULNAY-SOUS-BOIS,93600,Seine-Saint-Denis,Ile-de-France,,reassurance,,943478339,,,unknown,Sources: acpr_xlsx_2026.
 ,,,ALAN,,,,117 QUAI VALMY,PARIS,75010,Paris,Ile-de-France,,groupe,,818353070,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAM MATMUT,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,groupe,Matmut,513866723,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAM MATMUT,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,groupe,Matmut,513866723,,,yes,"Sources: acpr_xlsx_2026. R0120 89,309 Bonds R0130 3,644,573 Government Bonds R0140 1,079,284 Corporate Bonds R0150 1,837,779 Structured notes R0160 727,510 Collateralised securities R0170 Collective Investments Undertakings R0180 1,570,509 Derivatives R0190 0 Deposits other than cash equivalents R0200 49,868 Other investmen"
 ,,,SGAPS LOURMEL,,,,8 BIS ALLEE GASTON BACHELARD,PARIS,75014,Paris,Ile-de-France,,groupe,,828277897,,,unknown,Sources: acpr_xlsx_2026.
 ,,,INTER MUTUELLES ASSISTANCE,,,,118 AVENUE DE PARIS  BP 8000,NIORT CEDEX 9,79033,Deux-Sevres,Nouvelle-Aquitaine,,groupe,,320281025,,,unknown,Sources: acpr_xlsx_2026.
 ,,,UMG AESIO MACIF,,,,25 PLACE  DE LA MADELEINE,PARIS,75008,Paris,Ile-de-France,,groupe,AESIO/AEMA,821965241,,,unknown,Sources: acpr_xlsx_2026.
@@ -633,7 +633,7 @@ Adam,Bandel,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,SGAPS AG2R LA MONDIALE,,,,14-16 BOULEVARD MALESHERBES,PARIS,75008,Paris,Ile-de-France,,groupe,AG2R La Mondiale,833002983,54000000,53000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,ODYSSEY RE EUROPE HOLDINGS,,,,15 RUE DU 4 SEPTEMBRE,PARIS,75002,Paris,Ile-de-France,,groupe,,829589696,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BIG WAKAM,,,,120 A 122 RUE REAUMUR,PARIS,75002,Paris,Ile-de-France,,groupe,,422755983,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAM KLESIA ASSURANCES,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,groupe,Klesia,811360965,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAM KLESIA ASSURANCES,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,groupe,Klesia,811360965,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MAPA-MAB SGAM,,,,1 RUE ANATOLE CONTRE,SAINT JEAN D ANGELY,17400,Charente-Maritime,Nouvelle-Aquitaine,,groupe,,810881995,,,unknown,Sources: acpr_xlsx_2026.
 ,,,AGPM GROUPE,,,,RUE NICOLAS APPERT  QUARTIER SAINTE MUSSE,TOULON,83100,Var,Provence-Alpes-Cote d'Azur,,groupe,,834846099,,,unknown,Sources: acpr_xlsx_2026.
 ,,,GROUPE VYV,,,,33 AVENUE DU MAINE TOUR MONTPARNASSE BP 25,PARIS CEDEX 15,75755,Paris,Ile-de-France,,groupe,,532661832,,,unknown,Sources: acpr_xlsx_2026.

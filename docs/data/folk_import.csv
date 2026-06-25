@@ -407,7 +407,7 @@ Blair,Bodek,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,OCIRP,,,,17 RUE DE MARIGNAN  CS 50003,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,788334720,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DU PERSONNEL DES ORGANISMES SOCIAUX ET SIMILAIRES DE LA REGION MIDI PYRENEES,,,,174 AVENUE DES MINIMES,TOULOUSE,31200,Haute-Garonne,Occitanie,,mutuelle,,776950602,,,unknown,Sources: acpr_xlsx_2026.
 ,,,INSTITUTION DE PREVOYANCE DU BATIMENT ET DES TRAVAUX PUBLICS,,,,7 RUE DU REGARD,PARIS CEDEX 06,75294,Paris,Ile-de-France,,institution_prevoyance,,784621468,,,unknown,Sources: acpr_xlsx_2026.
-,,,MAAF ASSURANCES,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Covea,781423280,,,unknown,Sources: acpr_xlsx_2026.
+,,,MAAF ASSURANCES,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Covea,781423280,3032900000,318700000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,CAISSE MUTUELLE DE PREVOYANCE DU PERSONNEL DES COLLECTIVITES TERRITORIALES DE LA HAUTE SAVOIE,,,,55 RUE DU VAL VERT  MAISON DE LA FONCTION PUBLIQUE TERRITORIALE DE LA HAUTE-SAVOIE,SEYNOD,74600,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,776525610,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DE FRANCE ALPES DU SUD,,,,16 AVENUE DES ARCADES  BP 2,SISTERON CEDEX,04201,Alpes-de-Haute-Provence,Provence-Alpes-Cote d'Azur,,mutuelle,,782416127,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUALIA GRAND OUEST,,,,4 RUE ANITA CONTI   PARC D ACTIVITE DE LAROISEAU CS 82320,VANNES CEDEX,56008,Morbihan,Bretagne,,mutuelle,,401285309,,,unknown,Sources: acpr_xlsx_2026.
@@ -506,7 +506,7 @@ Blair,Bodek,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,MUTARIS CAUTION,,,,1 A 11 RUE BRILLAT SAVARIN,PARIS,75013,Paris,Ile-de-France,,assurance_non_vie,,490909454,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DES ENTREPRISES  DES INDEPENDANTS DU COMMERCE ET DE L INDUSTRIE ET DES SERVICES,,,,12-14 RUE DE MEDERIC CS 82345,PARIS CEDEX 17,75830,Paris,Ile-de-France,,assurance_vie,,315062687,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SOCIETE MUTUALISTE INTERDEPARTEMENTALE DE BANQUE,,,,137 RUE SAINT DIZIER,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,390953222,,,unknown,Sources: acpr_xlsx_2026.
-,,,COVEA PROTECTION JURIDIQUE,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 2,72045,Sarthe,Pays de la Loire,,assurance_non_vie,Covea,442935227,,,unknown,Sources: acpr_xlsx_2026.
+,,,COVEA PROTECTION JURIDIQUE,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 2,72045,Sarthe,Pays de la Loire,,assurance_non_vie,Covea,442935227,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,APICIL EPARGNE,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_mixte,Apicil,440839942,,,unknown,Sources: acpr_xlsx_2026.
 ,,,LA MONDIALE PARTENAIRE,,,,14-16 BOULEVARD MALESHERBES,PARIS,75008,Paris,Ile-de-France,,assurance_vie,AG2R La Mondiale,313689713,,,yes,Sources: acpr_xlsx_2026. La Mondiale Partenaire - acheteur de structures pour les contrats UC haut de gamme.
 ,,,MUT EST,,,,11 BOULEVARD DU PRESIDENT WILSON,STRASBOURG CEDEX,67082,Bas-Rhin,Grand Est,,mutuelle,,775641681,,,unknown,Sources: acpr_xlsx_2026.

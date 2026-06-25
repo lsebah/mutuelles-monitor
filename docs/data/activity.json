@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-06-24T10:52:50Z",
+  "last_updated": "2026-06-25T09:16:30Z",
   "events": [
+    {
+      "id": "evt_20260625_str_ent_6be4bd8e63_39874fe2",
+      "date": "2026-06-25",
+      "type": "structured_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260625_fin_ent_6be4bd8e63_eaf6d980",
+      "date": "2026-06-25",
+      "type": "financial_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Primes: 3.03 Md€ | R. net: 318.7 M€ | FP: 1.0 M€ | SCR: 443.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3032900000,
+        "resultat_net_eur": 318700000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 443.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260625_str_ent_9332f306d8_87198e76",
+      "date": "2026-06-25",
+      "type": "structured_update",
+      "entity_id": "ent_9332f306d8",
+      "entity_name": "COVEA PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260624_str_ent_8e6394879e_a61eefbc",
       "date": "2026-06-24",

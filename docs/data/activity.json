@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-06-26T09:25:51Z",
+  "last_updated": "2026-06-27T08:41:44Z",
   "events": [
+    {
+      "id": "evt_20260627_str_ent_0ec2f5dbed_ad6be422",
+      "date": "2026-06-27",
+      "type": "structured_update",
+      "entity_id": "ent_0ec2f5dbed",
+      "entity_name": "UNMI'MUT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260627_str_ent_1ce0fee567_c88f9386",
+      "date": "2026-06-27",
+      "type": "structured_update",
+      "entity_id": "ent_1ce0fee567",
+      "entity_name": "A2VIP",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260627_fin_ent_1ce0fee567_0702b884",
+      "date": "2026-06-27",
+      "type": "financial_update",
+      "entity_id": "ent_1ce0fee567",
+      "entity_name": "A2VIP",
+      "summary": "FP: 77 k€ | SCR: 290.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 77000,
+        "scr_ratio_pct": 290.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260626_str_ent_4b40a0ab3b_128a48f5",
       "date": "2026-06-26",

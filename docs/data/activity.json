@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-06-30T09:25:04Z",
+  "last_updated": "2026-07-01T09:43:53Z",
   "events": [
+    {
+      "id": "evt_20260701_str_ent_c618166f27_abe8c86b",
+      "date": "2026-07-01",
+      "type": "structured_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260701_fin_ent_c618166f27_6aa40395",
+      "date": "2026-07-01",
+      "type": "financial_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Primes: 38.0 M€ | FP: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 38043956,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2024000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260701_str_ent_3a89b6c158_8b614a47",
+      "date": "2026-07-01",
+      "type": "structured_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260701_fin_ent_3a89b6c158_35a49caa",
+      "date": "2026-07-01",
+      "type": "financial_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "FP: 385.1 M€ | SCR: 135.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 385100000,
+        "scr_ratio_pct": 135.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260701_str_ent_21f88fc860_82356eac",
+      "date": "2026-07-01",
+      "type": "structured_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260701_fin_ent_21f88fc860_707d561a",
+      "date": "2026-07-01",
+      "type": "financial_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Primes: 400 k€ | FP: 20 k€ | SCR: 180.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 20000,
+        "scr_ratio_pct": 180.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260701_str_ent_c8ecbfa124_0271cff6",
+      "date": "2026-07-01",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260701_fin_ent_c8ecbfa124_3f0eb4f5",
+      "date": "2026-07-01",
+      "type": "financial_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "FP: 440 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 440,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260701_str_ent_5122c9d415_09d4ce02",
+      "date": "2026-07-01",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260701_fin_ent_5122c9d415_618d7e54",
+      "date": "2026-07-01",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260630_per_ent_f9f6e15f1b_40516e2b",
       "date": "2026-06-30",

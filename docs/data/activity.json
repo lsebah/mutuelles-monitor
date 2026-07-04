@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-01T10:45:06Z",
+  "last_updated": "2026-07-04T08:36:19Z",
   "events": [
+    {
+      "id": "evt_20260704_str_ent_813b73ede3_3bc21fc1",
+      "date": "2026-07-04",
+      "type": "structured_update",
+      "entity_id": "ent_813b73ede3",
+      "entity_name": "LA MONDIALE RETRAITE SUPPLEMENTAIRE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260704_str_ent_4b40a0ab3b_58372e01",
+      "date": "2026-07-04",
+      "type": "structured_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260701_str_ent_c618166f27_abe8c86b",
       "date": "2026-07-01",

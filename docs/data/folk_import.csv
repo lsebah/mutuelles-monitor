@@ -146,7 +146,7 @@ Blair,Bodek,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,MUTUELLE GENERALE SOLIDARITE DE LA REUNION,,,,14 BOULEVARD DORET  BP 340,SAINT DENIS CEDEX (REUNION),97467,La Reunion,La Reunion,,mutuelle,,388213423,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CAPMA & CAPMI,,,,36 A 38  RUE DE SAINT PETERSBOURG,PARIS,75008,Paris,Ile-de-France,,assurance_vie,,775670482,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTEX,,,,140 AVENUE  DE LA REPUBLIQUE,CHATILLON,92320,Hauts-de-Seine,Ile-de-France,,assurance_mixte,,529219040,310000000,,unknown,Sources: acpr_xlsx_2026.
-,,,COVEA COOPERATIONS,,,,160 RUE HENRI CHAMPION,LE MANS,72100,Sarthe,Pays de la Loire,,reassurance,Covea,439881137,27700000000,1200000000,unknown,Sources: acpr_xlsx_2026.
+,,,COVEA COOPERATIONS,,,,160 RUE HENRI CHAMPION,LE MANS,72100,Sarthe,Pays de la Loire,,reassurance,Covea,439881137,27700000000,1200000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE DE FRANCE UNIE,,,,39 RUE  DU JOURDIL - CRAN GEVRIER  BP 9029,ANNECY CEDEX 9,74991,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,776531642,,,unknown,Sources: acpr_xlsx_2026.
 ,,,LA MUTUELLE CATALANE,,,,20 AVENUE  DE GRANDE BRETAGNE,PERPIGNAN,66029,Pyrenees-Orientales,Occitanie,,mutuelle,,302476536,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE CENTRALE DE REASSURANCE,,,,36 A 38  RUE DE SAINT PETERSBOURG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,775364383,,,unknown,Sources: acpr_xlsx_2026.
@@ -578,7 +578,7 @@ Blair,Bodek,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,GROUPE SEB RE,,,,112 CHEMIN DU MOULIN-CARRON CAMPUS SEB,ECULLY,69130,Rhone,Auvergne-Rhone-Alpes,,reassurance,,898183108,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MILA S.A.,,,,"1 PARVIS DE LA DEFENSE SWAVE, PARIS & CO GRANDE ARCHE DE LA DEFENSE",PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,892000357,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CPCEA RETRAITE SUPPLEMENTAIRE,,,,21 RUE DE LA BIENFAISANCE,PARIS,75008,Paris,Ile-de-France,,assurance_vie,,891966574,,,unknown,Sources: acpr_xlsx_2026.
-,,,LA MONDIALE RETRAITE SUPPLEMENTAIRE,,,,32 avenue Émile Zola,MONS-EN-BARŒUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,903475515,,,unknown,Sources: acpr_xlsx_2026.
+,,,LA MONDIALE RETRAITE SUPPLEMENTAIRE,,,,32 avenue Émile Zola,MONS-EN-BARŒUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,903475515,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,CNP RETRAITE,,,,4 PROMENADE COEUR DE VILLE,ISSY LES MOULINEAUX,92130,Hauts-de-Seine,Ile-de-France,,assurance_vie,,892347501,1500000000,,unknown,Sources: acpr_xlsx_2026.
 ,,,PUBLICIS RE,,,,133 AVENUE DES CHAMPS ELYSEES,PARIS,75008,Paris,Ile-de-France,,reassurance,,914281357,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CARDIF RETRAITE,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,assurance_vie,,903364321,,,unknown,Sources: acpr_xlsx_2026.

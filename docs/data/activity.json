@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-09T10:53:12Z",
+  "last_updated": "2026-07-10T09:14:59Z",
   "events": [
+    {
+      "id": "evt_20260710_str_ent_4b40a0ab3b_5134b099",
+      "date": "2026-07-10",
+      "type": "structured_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260710_str_ent_ba0e3fa9af_aeb9c119",
+      "date": "2026-07-10",
+      "type": "structured_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260710_str_ent_0ec2f5dbed_4ce25bb8",
+      "date": "2026-07-10",
+      "type": "structured_update",
+      "entity_id": "ent_0ec2f5dbed",
+      "entity_name": "UNMI'MUT",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260709_str_ent_b76b1b8952_302ee029",
       "date": "2026-07-09",

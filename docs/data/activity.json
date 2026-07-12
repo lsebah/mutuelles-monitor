@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-11T08:05:40Z",
+  "last_updated": "2026-07-12T08:24:49Z",
   "events": [
+    {
+      "id": "evt_20260712_str_ent_92b5ab4acf_f67bcfbc",
+      "date": "2026-07-12",
+      "type": "structured_update",
+      "entity_id": "ent_92b5ab4acf",
+      "entity_name": "MUTUELLE FRATERNELLE D ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260712_fin_ent_92b5ab4acf_bdde56bc",
+      "date": "2026-07-12",
+      "type": "financial_update",
+      "entity_id": "ent_92b5ab4acf",
+      "entity_name": "MUTUELLE FRATERNELLE D ASSURANCES",
+      "summary": "FP: 898.7 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 898710100,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260711_str_ent_8e6394879e_464239f5",
       "date": "2026-07-11",

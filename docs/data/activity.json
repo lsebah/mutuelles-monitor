@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-07-16T09:49:04Z",
+  "last_updated": "2026-07-17T08:09:58Z",
   "events": [
+    {
+      "id": "evt_20260717_str_ent_813b73ede3_8e57aab9",
+      "date": "2026-07-17",
+      "type": "structured_update",
+      "entity_id": "ent_813b73ede3",
+      "entity_name": "LA MONDIALE RETRAITE SUPPLEMENTAIRE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260717_str_ent_27a6449b06_8c13067d",
+      "date": "2026-07-17",
+      "type": "structured_update",
+      "entity_id": "ent_27a6449b06",
+      "entity_name": "COVEA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260717_str_ent_ba0e3fa9af_07dca522",
+      "date": "2026-07-17",
+      "type": "structured_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260716_str_ent_4b40a0ab3b_e7cc606c",
       "date": "2026-07-16",

@@ -1,6 +1,6 @@
 ﻿First Name,Last Name,Job Title,Company,Email,Phone,LinkedIn,Address,City,Postal Code,Department,Region,Website,Type,Groupe,SIREN,Primes 2024 (EUR),Resultat net (EUR),Produits structures,Notes
-,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,unknown,Sources: acpr_xlsx_2026.
-,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,unknown,Sources: acpr_xlsx_2026.
+,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
+,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,reassurance,BNP Paribas Cardif,382983922,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,AUBEANE MUTUELLE DE FRANCE,,,,59 BOULEVARD BLANQUI  BP 3013,TROYES CEDEX,10012,Aube,Grand Est,,mutuelle,,780349924,,,unknown,Sources: acpr_xlsx_2026.
@@ -157,7 +157,7 @@ Adam,Bandel,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,REUNION DES MUTUELLES D ASSURANCES  REGIONALES,,,,2 RUE JEAN JAURES,PUTEAUX,92800,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,,775626377,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BANQUE POPULAIRE MUTUALITE,,,,10 QUAI DES QUEYRIES,BORDEAUX,33100,Gironde,Nouvelle-Aquitaine,,mutuelle,,429873706,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CARMA VIE,,,,ZAE Saint Guénault 1 Rue Jean Mermoz,EVRY-COURCOURONNES,91000,Essonne,Ile-de-France,,assurance_vie,,428798136,,,unknown,Sources: acpr_xlsx_2026.
-,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,,,unknown,Sources: acpr_xlsx_2026.
+,,,MATMUT MUTUALITE,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,mutuelle,Matmut,775701485,43600,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SANTE MUT ROANNE,,,,14 RUE ROGER SALENGRO,ROANNE,42300,Loire,Auvergne-Rhone-Alpes,,mutuelle,,776346462,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTAME & PLUS,,,,4 RUE EMILE ENAULT  CS 72208,SAINT LO CEDEX,50008,Manche,Normandie,,mutuelle,,780915898,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUAIDE ASSISTANCE,,,,126 RUE DE LA PIAZZA,NOISY-LE-GRAND,93160,Seine-Saint-Denis,Ile-de-France,,assurance_non_vie,,383974086,,,unknown,Sources: acpr_xlsx_2026.

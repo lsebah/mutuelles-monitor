@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026-07-18T07:53:29Z",
+  "last_updated": "2026-07-19T08:21:24Z",
   "events": [
+    {
+      "id": "evt_20260719_str_ent_cb09c621f2_cd8b78c0",
+      "date": "2026-07-19",
+      "type": "structured_update",
+      "entity_id": "ent_cb09c621f2",
+      "entity_name": "SMACL ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260719_fin_ent_cb09c621f2_b69c345a",
+      "date": "2026-07-19",
+      "type": "financial_update",
+      "entity_id": "ent_cb09c621f2",
+      "entity_name": "SMACL ASSURANCES",
+      "summary": "Primes: 405802.39 Md€ | R. net: 2.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 405802387560000,
+        "resultat_net_eur": 2022000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260719_str_ent_d9825ce168_bdb5dcc4",
+      "date": "2026-07-19",
+      "type": "structured_update",
+      "entity_id": "ent_d9825ce168",
+      "entity_name": "MUTUELLE GENERALE INTERPROFESSIONNELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260719_str_ent_c591bcaa5c_2e6e2d79",
+      "date": "2026-07-19",
+      "type": "structured_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260719_fin_ent_c591bcaa5c_08e7b47c",
+      "date": "2026-07-19",
+      "type": "financial_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "R. net: 2 k€ | FP: 402.0 M€ | SCR: 405.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2024,
+        "fonds_propres_eur": 402000000,
+        "scr_ratio_pct": 405.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260718_str_ent_b76b1b8952_f11bebaa",
       "date": "2026-07-18",

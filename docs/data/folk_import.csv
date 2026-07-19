@@ -1,9 +1,9 @@
 ﻿First Name,Last Name,Job Title,Company,Email,Phone,LinkedIn,Address,City,Postal Code,Department,Region,Website,Type,Groupe,SIREN,Primes 2024 (EUR),Resultat net (EUR),Produits structures,Notes
 ,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
-,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,,,unknown,Sources: acpr_xlsx_2026.
+,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,reassurance,BNP Paribas Cardif,382983922,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
-,,,AUBEANE MUTUELLE DE FRANCE,,,,59 BOULEVARD BLANQUI  BP 3013,TROYES CEDEX,10012,Aube,Grand Est,,mutuelle,,780349924,,,unknown,Sources: acpr_xlsx_2026.
+,,,AUBEANE MUTUELLE DE FRANCE,,,,59 BOULEVARD BLANQUI  BP 3013,TROYES CEDEX,10012,Aube,Grand Est,,mutuelle,,780349924,,2024,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE D ENTREPRISES SCHNEIDER ELECTRIC,,,,"4 RUE DE L'OCTANT PARC SUD GALAXIE, BATIMENT ALPHA, 2 EME ETAGE",ECHIROLLES,38130,Isere,Auvergne-Rhone-Alpes,,mutuelle,,390820058,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CAISSE MUTUELLE D ASSURANCES SUR LA VIE,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,assurance_mixte,,784647307,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE PRECOCIA,,,,21 RUE DE SARLIEVE,COURNON D'AUVERGNE,63800,Puy-de-Dome,Auvergne-Rhone-Alpes,,mutuelle,,779209436,,,unknown,Sources: acpr_xlsx_2026.
@@ -93,7 +93,7 @@ Adam,Bandel,Directeur des Investissements,PACIFICA,,,https://www.linkedin.com/in
 ,,,QUATREM,,,,21  RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,assurance_mixte,,412367724,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTAC,,,,771 AVENUE ALFRED SAUVY IMMEUBLE LES COROLLYS - ZAC ODE ACTE I,PEROLS,34470,Herault,Occitanie,,mutuelle,,339198939,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SOCIETE ANONYME DE CONSOLIDATION DES RETRAITES DE L'ASSURANCE,,,,26 BD HAUSSMANN,PARIS CEDEX 09,75311,Paris,Ile-de-France,,assurance_vie,,409196755,,,unknown,Sources: acpr_xlsx_2026.
-,,,SMACL ASSURANCES,,,,141 AVENUE SALVADOR ALLENDE,NIORT CEDEX 9,79031,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,VYV,301309605,,,unknown,Sources: acpr_xlsx_2026.
+,,,SMACL ASSURANCES,,,,141 AVENUE SALVADOR ALLENDE,NIORT CEDEX 9,79031,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,VYV,301309605,405802387560000,2022000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE DES SAPEURS POMPIERS DU GERS,,,,59 ROUTE DE PESSAN RESIDENCE STE BARBE,AUCH,32000,Gers,Occitanie,,mutuelle,,326313764,,,unknown,Sources: acpr_xlsx_2026.
 ,,,POUEY RENSEIGNEMENT COMMERCIAL GARANTI SA,,,,11 RUE DE MADRID,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,,414494419,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SOCIETE MUTUALISTE INTERENTREPRISES DU PERSONNEL DES ORGANISMES SOCIAUX DU LOT,,,,238 RUE HAUTESSERRE,CAHORS,46015,Lot,Occitanie,,mutuelle,,431535327,,,unknown,Sources: acpr_xlsx_2026.

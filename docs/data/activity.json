@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026-07-22T08:29:04Z",
+  "last_updated": "2026-07-23T08:25:34Z",
   "events": [
+    {
+      "id": "evt_20260723_str_ent_b76b1b8952_fac09b31",
+      "date": "2026-07-23",
+      "type": "structured_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260723_fin_ent_b76b1b8952_c7711585",
+      "date": "2026-07-23",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes: 44 k€ | FP: 99010.93 Md€ | SCR: 602.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 99010928146197,
+        "scr_ratio_pct": 602.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260723_str_ent_5122c9d415_08212311",
+      "date": "2026-07-23",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260723_fin_ent_5122c9d415_ad583a58",
+      "date": "2026-07-23",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260723_str_ent_4b40a0ab3b_f82d7fc1",
+      "date": "2026-07-23",
+      "type": "structured_update",
+      "entity_id": "ent_4b40a0ab3b",
+      "entity_name": "COVEA COOPERATIONS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260722_str_ent_817cd8fdd1_c5520c89",
       "date": "2026-07-22",

@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-24T08:25:11Z",
+  "last_updated": "2026-07-25T08:09:25Z",
   "events": [
+    {
+      "id": "evt_20260725_str_ent_813b73ede3_ac4c13ce",
+      "date": "2026-07-25",
+      "type": "structured_update",
+      "entity_id": "ent_813b73ede3",
+      "entity_name": "LA MONDIALE RETRAITE SUPPLEMENTAIRE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260725_str_ent_ba0e3fa9af_2b8faeb8",
+      "date": "2026-07-25",
+      "type": "structured_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260724_str_ent_6be4bd8e63_c54c1ed2",
       "date": "2026-07-24",

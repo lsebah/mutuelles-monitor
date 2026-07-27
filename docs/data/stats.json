@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T08:32:04Z",
-  "total": 829,
+  "last_updated": "2026-07-27T09:00:30.024552Z",
+  "total": 830,
   "by_type": {
     "mutuelle": 278,
     "institution_prevoyance": 30,
@@ -9,7 +9,7 @@
     "assurance_non_vie": 170,
     "assurance_vie": 58,
     "groupe": 78,
-    "federation": 128
+    "federation": 129
   },
   "by_department": {
     "75": 232,
@@ -82,7 +82,7 @@
   "structured_products": {
     "yes": 0,
     "no": 0,
-    "unknown": 829
+    "unknown": 830
   },
   "enrichment": {
     "with_people": 0,

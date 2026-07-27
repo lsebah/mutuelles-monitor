@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-07-26T08:32:04Z",
+  "last_updated": "2026-07-27T09:00:30Z",
   "events": [
+    {
+      "id": "evt_20260727_new_ent_02ba04b014_cc8cac84",
+      "date": "2026-07-27",
+      "type": "new_entity",
+      "entity_id": "ent_02ba04b014",
+      "entity_name": "Fédération des distributeurs de matériaux de construction",
+      "summary": "Nouvelle entite (federation)",
+      "details": {
+        "type_organisme": "federation",
+        "city": "",
+        "source": [
+          "wikipedia_orgs"
+        ]
+      }
+    },
     {
       "id": "evt_20260726_str_ent_0ec2f5dbed_d5f2ab74",
       "date": "2026-07-26",

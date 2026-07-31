@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-30T08:26:33Z",
+  "last_updated": "2026-07-31T08:45:19Z",
   "events": [
+    {
+      "id": "evt_20260731_str_ent_27a6449b06_e3728804",
+      "date": "2026-07-31",
+      "type": "structured_update",
+      "entity_id": "ent_27a6449b06",
+      "entity_name": "COVEA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260731_str_ent_ba0e3fa9af_3e2ce0ae",
+      "date": "2026-07-31",
+      "type": "structured_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260730_str_ent_813b73ede3_6af86bbe",
       "date": "2026-07-30",

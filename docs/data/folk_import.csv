@@ -1,7 +1,7 @@
 ﻿First Name,Last Name,Job Title,Company,Email,Phone,LinkedIn,Address,City,Postal Code,Department,Region,Website,Type,Groupe,SIREN,Primes 2024 (EUR),Resultat net (EUR),Produits structures,Notes
 ,,,UNMI'MUT,,,,50 AVENUE DAUMESNIL,PARIS,75012,Paris,Ile-de-France,,mutuelle,,851629162,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,A2VIP,,,,20 rue de la Baume,PARIS,75008,Paris,Ile-de-France,,institution_prevoyance,,803795038,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
-,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,1500000000,,unknown,Sources: acpr_xlsx_2026.
+,,,MUTUELLE GENERALE INTERPROFESSIONNELLE,,,,108 RUE DE LOURMEL,PARIS,75015,Paris,Ile-de-France,,mutuelle,,437994205,1500000000,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,BNP PARIBAS CARDIF,,,,1 BOULEVARD HAUSSMANN,PARIS,75009,Paris,Ile-de-France,,reassurance,BNP Paribas Cardif,382983922,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,AUBEANE MUTUELLE DE FRANCE,,,,59 BOULEVARD BLANQUI  BP 3013,TROYES CEDEX,10012,Aube,Grand Est,,mutuelle,,780349924,,2024,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE D ENTREPRISES SCHNEIDER ELECTRIC,,,,"4 RUE DE L'OCTANT PARC SUD GALAXIE, BATIMENT ALPHA, 2 EME ETAGE",ECHIROLLES,38130,Isere,Auvergne-Rhone-Alpes,,mutuelle,,390820058,,,unknown,Sources: acpr_xlsx_2026.
@@ -426,7 +426,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,SELENCIA,,,,7 ALLEE DE L'ARCHE,COURBEVOIE,92400,Hauts-de-Seine,Ile-de-France,,assurance_vie,,352191167,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CAISSE REGIONALE D ASSURANCES MUTUELLES AGRICOLES DE L OCEAN INDIEN,,,,7 RUE ANDRE LARDY  BP 103,SAINTE MARIE (REUNION),97438,La Reunion,La Reunion,,assurance_non_vie,,314635319,,,unknown,Sources: acpr_xlsx_2026.
 ,,,KERIALIS PREVOYANCE,,,,80 RUE SAINT LAZARE,PARIS CEDEX 09,75455,Paris,Ile-de-France,,institution_prevoyance,,784411175,,,unknown,Sources: acpr_xlsx_2026.
-,,,MATMUT & CO,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,assurance_non_vie,Matmut,487597510,,,unknown,Sources: acpr_xlsx_2026.
+,,,MATMUT & CO,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,assurance_non_vie,Matmut,487597510,102000,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,IPRIAC,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,institution_prevoyance,,400013306,,,unknown,Sources: acpr_xlsx_2026.
 ,,,APICIL MUTUELLE,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,Apicil,302927553,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SOLUCIA PROTECTION JURIDIQUE,,,,111 AVENUE DE FRANCE,PARIS,75013,Paris,Ile-de-France,,assurance_non_vie,,481997708,,,unknown,Sources: acpr_xlsx_2026.

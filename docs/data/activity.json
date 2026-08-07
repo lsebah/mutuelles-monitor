@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-08-06T08:31:56Z",
+  "last_updated": "2026-08-07T07:03:41Z",
   "events": [
+    {
+      "id": "evt_20260807_str_ent_27a6449b06_2818da67",
+      "date": "2026-08-07",
+      "type": "structured_update",
+      "entity_id": "ent_27a6449b06",
+      "entity_name": "COVEA",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
     {
       "id": "evt_20260806_str_ent_6be4bd8e63_4abd22d7",
       "date": "2026-08-06",

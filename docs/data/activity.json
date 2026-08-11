@@ -1,6 +1,370 @@
 {
-  "last_updated": "2026-08-08T06:34:23Z",
+  "last_updated": "2026-08-11T06:45:19Z",
   "events": [
+    {
+      "id": "evt_20260811_per_ent_f9f6e15f1b_fbda6278",
+      "date": "2026-08-11",
+      "type": "person_joined",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "George Watkins - Directeur Financier",
+      "details": {
+        "name": "George Watkins",
+        "role": "Directeur Financier",
+        "linkedin": "https://www.linkedin.com/in/george-watkins-161708b",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260811_per_ent_f9f6e15f1b_c39fa35f",
+      "date": "2026-08-11",
+      "type": "person_joined",
+      "entity_id": "ent_f9f6e15f1b",
+      "entity_name": "PACIFICA",
+      "summary": "Miguel Ángel M. Albores - Directeur des Investissements",
+      "details": {
+        "name": "Miguel Ángel M. Albores",
+        "role": "Directeur des Investissements",
+        "linkedin": "https://mx.linkedin.com/in/miguel-%C3%A1ngel-m-albores-33193b35",
+        "source": "ddg_linkedin"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_817cd8fdd1_5eb10ab1",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_817cd8fdd1",
+      "entity_name": "CREDIT AGRICOLE ASSURANCES",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_ab0835245f_27f7ae79",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_ab0835245f",
+      "entity_name": "BNP PARIBAS CARDIF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_1296391c0b_cb5c8ccd",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_1296391c0b",
+      "entity_name": "MUTUELLE MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_1296391c0b_6db074d2",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_1296391c0b",
+      "entity_name": "MUTUELLE MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€ | FP: 289.4 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 289400000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_7200c3cbfb_c2369a1d",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_7200c3cbfb",
+      "entity_name": "LA MONDIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_7200c3cbfb_2e5d42c7",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_7200c3cbfb",
+      "entity_name": "LA MONDIALE",
+      "summary": "Primes: 4033.81 Md€ | SCR: 397.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 4033806707702,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 397.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_61d86456b1_405f3efe",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_61d86456b1",
+      "entity_name": "SGAPS AG2R LA MONDIALE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_61d86456b1_fc68655e",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_61d86456b1",
+      "entity_name": "SGAPS AG2R LA MONDIALE",
+      "summary": "Primes: 54.0 M€ | R. net: 53.0 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": 54000000,
+        "resultat_net_eur": 53000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_d500a368a1_cb57ee68",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_d500a368a1",
+      "entity_name": "SGAM MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_d500a368a1_1fb46599",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_d500a368a1",
+      "entity_name": "SGAM MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€ | FP: 289.4 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 289400000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_8d13294f89_e9d94039",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_8d13294f89",
+      "entity_name": "HOLDING MALAKOFF HUMANIS",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_8d13294f89_12ebae8b",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_8d13294f89",
+      "entity_name": "HOLDING MALAKOFF HUMANIS",
+      "summary": "R. net: 211.0 M€ | FP: 289.4 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 211000000,
+        "fonds_propres_eur": 289400000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_f243550078_d05e5bfd",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_f243550078",
+      "entity_name": "SGAM MACIF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_f243550078_6f33f463",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_f243550078",
+      "entity_name": "SGAM MACIF",
+      "summary": "R. net: 178.6 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 178600000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_62da18241a_3cc55e67",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_62da18241a",
+      "entity_name": "GROUPAMA CENTRE-ATLANTIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_62da18241a_d3d832d7",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_62da18241a",
+      "entity_name": "GROUPAMA CENTRE-ATLANTIQUE",
+      "summary": "Primes: 3 € | FP: 59 € | SCR: 316.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 59,
+        "scr_ratio_pct": 316.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_f5b2efeaf7_904664bb",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_f5b2efeaf7",
+      "entity_name": "GAN ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_f5b2efeaf7_800741b1",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_f5b2efeaf7",
+      "entity_name": "GAN ASSURANCES",
+      "summary": "Primes: 1.61 Md€ | FP: 50 € | SCR: 129.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1606300000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 50,
+        "scr_ratio_pct": 129.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_1af8e657f9_bc9da26d",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_1af8e657f9",
+      "entity_name": "GENERALI IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_1af8e657f9_7873917c",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_1af8e657f9",
+      "entity_name": "GENERALI IARD",
+      "summary": "Primes: 21220.54 Md€ | R. net: 120.0 M€ | FP: 1.80 Md€ | SCR: 376.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 21220539520112,
+        "resultat_net_eur": 120000000,
+        "fonds_propres_eur": 1800000000,
+        "scr_ratio_pct": 376.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_98fd28164b_711c6118",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_98fd28164b",
+      "entity_name": "GENERALI RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_98fd28164b_2432040a",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_98fd28164b",
+      "entity_name": "GENERALI RETRAITE",
+      "summary": "Primes: 23147137241.01 Md€ | R. net: 112.0 M€ | SCR: 115.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 23147137241014001664,
+        "resultat_net_eur": 112000000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 115.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260811_str_ent_8d3a577ac1_f802ae30",
+      "date": "2026-08-11",
+      "type": "structured_update",
+      "entity_id": "ent_8d3a577ac1",
+      "entity_name": "GENERALI FRANCE",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260811_fin_ent_8d3a577ac1_80e39020",
+      "date": "2026-08-11",
+      "type": "financial_update",
+      "entity_id": "ent_8d3a577ac1",
+      "entity_name": "GENERALI FRANCE",
+      "summary": "FP: 5.05 Md€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 5049066267,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260808_str_ent_ba0e3fa9af_bcdc75e8",
       "date": "2026-08-08",

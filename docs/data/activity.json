@@ -1,6 +1,176 @@
 {
-  "last_updated": "2026-08-11T06:45:19Z",
+  "last_updated": "2026-08-12T07:06:49Z",
   "events": [
+    {
+      "id": "evt_20260812_str_ent_8d1293f4ad_5893c5d8",
+      "date": "2026-08-12",
+      "type": "structured_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260812_fin_ent_8d1293f4ad_8c788c22",
+      "date": "2026-08-12",
+      "type": "financial_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Primes: 1 € | FP: 50 € | SCR: 245.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 50,
+        "scr_ratio_pct": 245.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260812_str_ent_8e6394879e_8be3e9af",
+      "date": "2026-08-12",
+      "type": "structured_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260812_fin_ent_8e6394879e_10b136e7",
+      "date": "2026-08-12",
+      "type": "financial_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Primes: 210 € | FP: 2.79 Md€ | SCR: 159.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2789364000,
+        "scr_ratio_pct": 159.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260812_str_ent_c618166f27_f40fe7a8",
+      "date": "2026-08-12",
+      "type": "structured_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260812_fin_ent_c618166f27_9a06cc84",
+      "date": "2026-08-12",
+      "type": "financial_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Primes: 52.0 M€ | FP: 534.53 Md€ | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 52000000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 534531000000,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260812_str_ent_3a89b6c158_df34cd09",
+      "date": "2026-08-12",
+      "type": "structured_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260812_fin_ent_3a89b6c158_270d726f",
+      "date": "2026-08-12",
+      "type": "financial_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "FP: 385.1 M€ | SCR: 135.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 385100000,
+        "scr_ratio_pct": 135.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260812_str_ent_21f88fc860_b8b1ca1b",
+      "date": "2026-08-12",
+      "type": "structured_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260812_fin_ent_21f88fc860_0916eb01",
+      "date": "2026-08-12",
+      "type": "financial_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Primes: 400 k€ | FP: 20 k€ | SCR: 180.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 20000,
+        "scr_ratio_pct": 180.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260812_str_ent_b76b1b8952_5c6efd04",
+      "date": "2026-08-12",
+      "type": "structured_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260812_fin_ent_b76b1b8952_a8715beb",
+      "date": "2026-08-12",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes: 44 k€ | FP: 99010.93 Md€ | SCR: 602.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 99010928146197,
+        "scr_ratio_pct": 602.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260811_per_ent_f9f6e15f1b_fbda6278",
       "date": "2026-08-11",

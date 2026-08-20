@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-19T06:22:32Z",
+  "last_updated": "2026-08-20T06:20:45Z",
   "events": [
+    {
+      "id": "evt_20260820_str_ent_5122c9d415_ea936623",
+      "date": "2026-08-20",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260820_fin_ent_5122c9d415_a9ab76b4",
+      "date": "2026-08-20",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260819_str_ent_8e6394879e_4d62e911",
       "date": "2026-08-19",

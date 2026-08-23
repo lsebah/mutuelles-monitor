@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-22T07:51:31Z",
+  "last_updated": "2026-08-23T06:19:33Z",
   "events": [
+    {
+      "id": "evt_20260823_str_ent_ba0e3fa9af_fa055c95",
+      "date": "2026-08-23",
+      "type": "structured_update",
+      "entity_id": "ent_ba0e3fa9af",
+      "entity_name": "MACSF SGAM",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260822_str_ent_27a6449b06_f1b0c87a",
       "date": "2026-08-22",

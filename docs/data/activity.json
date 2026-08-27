@@ -1,6 +1,58 @@
 {
-  "last_updated": "2026-08-23T06:19:33Z",
+  "last_updated": "2026-08-27T16:58:42Z",
   "events": [
+    {
+      "id": "evt_20260827_str_ent_27c5f797c6_0e70e25c",
+      "date": "2026-08-27",
+      "type": "structured_update",
+      "entity_id": "ent_27c5f797c6",
+      "entity_name": "CARDIF IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260827_fin_ent_27c5f797c6_e3684a8f",
+      "date": "2026-08-27",
+      "type": "financial_update",
+      "entity_id": "ent_27c5f797c6",
+      "entity_name": "CARDIF IARD",
+      "summary": "FP: 65.2 M€",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 65200000,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260827_str_ent_3bf0b16d5a_a6117787",
+      "date": "2026-08-27",
+      "type": "structured_update",
+      "entity_id": "ent_3bf0b16d5a",
+      "entity_name": "MACIF VIE SE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260827_str_ent_51bfc34a8b_dc9119be",
+      "date": "2026-08-27",
+      "type": "structured_update",
+      "entity_id": "ent_51bfc34a8b",
+      "entity_name": "ALLIANZ FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260823_str_ent_ba0e3fa9af_fa055c95",
       "date": "2026-08-23",

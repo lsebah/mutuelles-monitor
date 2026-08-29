@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-08-28T17:59:24Z",
+  "last_updated": "2026-08-29T13:59:08Z",
   "events": [
+    {
+      "id": "evt_20260829_str_ent_d9825ce168_ba14b3b5",
+      "date": "2026-08-29",
+      "type": "structured_update",
+      "entity_id": "ent_d9825ce168",
+      "entity_name": "MUTUELLE GENERALE INTERPROFESSIONNELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260829_str_ent_c591bcaa5c_1fe4879a",
+      "date": "2026-08-29",
+      "type": "structured_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260829_fin_ent_c591bcaa5c_7ada85ad",
+      "date": "2026-08-29",
+      "type": "financial_update",
+      "entity_id": "ent_c591bcaa5c",
+      "entity_name": "AUBEANE MUTUELLE DE FRANCE",
+      "summary": "R. net: 2 k€ | FP: 402.0 M€ | SCR: 405.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 2024,
+        "fonds_propres_eur": 402000000,
+        "scr_ratio_pct": 405.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260828_str_ent_0ec2f5dbed_2f64ce05",
       "date": "2026-08-28",

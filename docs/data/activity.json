@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-29T13:59:08Z",
+  "last_updated": "2026-08-30T11:11:03Z",
   "events": [
+    {
+      "id": "evt_20260830_str_ent_6a20193d17_1ab44ac5",
+      "date": "2026-08-30",
+      "type": "structured_update",
+      "entity_id": "ent_6a20193d17",
+      "entity_name": "MUTUELLE PRECOCIA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260829_str_ent_d9825ce168_ba14b3b5",
       "date": "2026-08-29",

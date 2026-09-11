@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-10T13:27:22Z",
+  "last_updated": "2026-09-11T10:12:45Z",
   "events": [
+    {
+      "id": "evt_20260911_str_ent_ab0835245f_36ef2cf5",
+      "date": "2026-09-11",
+      "type": "structured_update",
+      "entity_id": "ent_ab0835245f",
+      "entity_name": "BNP PARIBAS CARDIF",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
     {
       "id": "evt_20260910_str_ent_c8ecbfa124_b8cbc7be",
       "date": "2026-09-10",

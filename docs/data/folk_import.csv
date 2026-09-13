@@ -407,7 +407,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,OCIRP,,,,17 RUE DE MARIGNAN  CS 50003,PARIS,75008,Paris,Ile-de-France,,assurance_mixte,,788334720,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DU PERSONNEL DES ORGANISMES SOCIAUX ET SIMILAIRES DE LA REGION MIDI PYRENEES,,,,174 AVENUE DES MINIMES,TOULOUSE,31200,Haute-Garonne,Occitanie,,mutuelle,,776950602,,,unknown,Sources: acpr_xlsx_2026.
 ,,,INSTITUTION DE PREVOYANCE DU BATIMENT ET DES TRAVAUX PUBLICS,,,,7 RUE DU REGARD,PARIS CEDEX 06,75294,Paris,Ile-de-France,,institution_prevoyance,,784621468,,,unknown,Sources: acpr_xlsx_2026.
-,,,MAAF ASSURANCES,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Covea,781423280,,,unknown,Sources: acpr_xlsx_2026.
+,,,MAAF ASSURANCES,,,,CHABAN,CHAURAY,79180,Deux-Sevres,Nouvelle-Aquitaine,,assurance_non_vie,Covea,781423280,3032900000,318700000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,CAISSE MUTUELLE DE PREVOYANCE DU PERSONNEL DES COLLECTIVITES TERRITORIALES DE LA HAUTE SAVOIE,,,,55 RUE DU VAL VERT  MAISON DE LA FONCTION PUBLIQUE TERRITORIALE DE LA HAUTE-SAVOIE,SEYNOD,74600,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,776525610,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DE FRANCE ALPES DU SUD,,,,16 AVENUE DES ARCADES  BP 2,SISTERON CEDEX,04201,Alpes-de-Haute-Provence,Provence-Alpes-Cote d'Azur,,mutuelle,,782416127,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUALIA GRAND OUEST,,,,4 RUE ANITA CONTI   PARC D ACTIVITE DE LAROISEAU CS 82320,VANNES CEDEX,56008,Morbihan,Bretagne,,mutuelle,,401285309,,,unknown,Sources: acpr_xlsx_2026.
@@ -428,7 +428,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,KERIALIS PREVOYANCE,,,,80 RUE SAINT LAZARE,PARIS CEDEX 09,75455,Paris,Ile-de-France,,institution_prevoyance,,784411175,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MATMUT & CO,,,,66 RUE DE SOTTEVILLE,ROUEN,76100,Seine-Maritime,Normandie,,assurance_non_vie,Matmut,487597510,,,unknown,Sources: acpr_xlsx_2026.
 ,,,IPRIAC,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,institution_prevoyance,,400013306,,,unknown,Sources: acpr_xlsx_2026.
-,,,APICIL MUTUELLE,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,Apicil,302927553,,,unknown,Sources: acpr_xlsx_2026.
+,,,APICIL MUTUELLE,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,mutuelle,Apicil,302927553,210340008,2024000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SOLUCIA PROTECTION JURIDIQUE,,,,111 AVENUE DE FRANCE,PARIS,75013,Paris,Ile-de-France,,assurance_non_vie,,481997708,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MILLEIS VIE,,,,2 à 22 PLACE DES VINS DE FRANCE,PARIS,75012,Paris,Ile-de-France,,assurance_vie,,384532172,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE MARE GAILLARD,,,,SECTION BERNARD,LE GOSIER (GUADELOUPE),97190,Guadeloupe,Guadeloupe,,mutuelle,,314559451,,,unknown,Sources: acpr_xlsx_2026.
@@ -507,7 +507,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,MUTUELLE DES ENTREPRISES  DES INDEPENDANTS DU COMMERCE ET DE L INDUSTRIE ET DES SERVICES,,,,12-14 RUE DE MEDERIC CS 82345,PARIS CEDEX 17,75830,Paris,Ile-de-France,,assurance_vie,,315062687,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SOCIETE MUTUALISTE INTERDEPARTEMENTALE DE BANQUE,,,,137 RUE SAINT DIZIER,NANCY,54000,Meurthe-et-Moselle,Grand Est,,mutuelle,,390953222,,,unknown,Sources: acpr_xlsx_2026.
 ,,,COVEA PROTECTION JURIDIQUE,,,,160 RUE HENRI CHAMPION,LE MANS CEDEX 2,72045,Sarthe,Pays de la Loire,,assurance_non_vie,Covea,442935227,,,unknown,Sources: acpr_xlsx_2026.
-,,,APICIL EPARGNE,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_mixte,Apicil,440839942,,,unknown,Sources: acpr_xlsx_2026.
+,,,APICIL EPARGNE,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_mixte,Apicil,440839942,,1100000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,LA MONDIALE PARTENAIRE,,,,14-16 BOULEVARD MALESHERBES,PARIS,75008,Paris,Ile-de-France,,assurance_vie,AG2R La Mondiale,313689713,,,yes,Sources: acpr_xlsx_2026. La Mondiale Partenaire - acheteur de structures pour les contrats UC haut de gamme.
 ,,,MUT EST,,,,11 BOULEVARD DU PRESIDENT WILSON,STRASBOURG CEDEX,67082,Bas-Rhin,Grand Est,,mutuelle,,775641681,,,unknown,Sources: acpr_xlsx_2026.
 ,,,MUTUELLE DES ANCIENS DES CHANTIERS LA ROCHELLE PALLICE,,,,11 RUE LEO LAGRANGE,DOMPIERRE SUR MER,17139,Charente-Maritime,Nouvelle-Aquitaine,,mutuelle,,432162113,,,unknown,Sources: acpr_xlsx_2026.
@@ -557,7 +557,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,LA MONDIALE,,,,32 AVENUE EMILE ZOLA,MONS EN BAROEUL,59370,Nord,Hauts-de-France,,assurance_vie,AG2R La Mondiale,775625635,21013984874752,4000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE DU PAYS MARTEGAL,,,,AVENUE CALMETTE ET GUERIN,MARTIGUES,13500,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,,mutuelle,,782746887,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SOCIETE MUTUALISTE DU PERSONNEL ACTIF ET RETRAITE DE LA MARQUE,,,,9 ROUTE DES BRUYERES,SAINT PRIEST DE GIMEL,19800,Correze,Nouvelle-Aquitaine,,assurance_non_vie,,390550986,,,unknown,Sources: acpr_xlsx_2026.
-,,,APICIL EPARGNE RETRAITE,,,,51 BOULEVARD MARIUS VIVIER MERLE,CALUIRE ET CUIRE,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_vie,Apicil,338746464,,,unknown,Sources: acpr_xlsx_2026.
+,,,APICIL EPARGNE RETRAITE,,,,51 BOULEVARD MARIUS VIVIER MERLE,CALUIRE ET CUIRE,69003,Rhone,Auvergne-Rhone-Alpes,,assurance_vie,Apicil,338746464,,1100000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,CNP ASSURANCES SANTE INDIVIDUELLE,,,,4 PROMENADE COEUR DE VILLE,ISSY-LES-MOULINEAUX,92130,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,CNP Assurances,440165041,,,yes,Sources: acpr_xlsx_2026. CNP Assurances - large allocation aux titres structures dans le fonds general.
 ,,,MUTUELLE DU GROUPE BNP PARIBAS,,,,16 BOULEVARD DES ITALIENS,PARIS,75009,Paris,Ile-de-France,,mutuelle,,784410847,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CNP ASSURANCES IARD,,,,4 PROMENADE COEUR DE VILLE,ISSY-LES-MOULINEAUX,92130,Hauts-de-Seine,Ile-de-France,,assurance_non_vie,CNP Assurances,493253652,,,yes,Sources: acpr_xlsx_2026. CNP Assurances - large allocation aux titres structures dans le fonds general.
@@ -643,7 +643,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,GENERALI FRANCE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,groupe,Generali,572044949,,,yes,"Sources: acpr_xlsx_2026. ,078 -936 16,143 Government bonds 139,053 -17,824 121,229 -4,211 117,018 Corporate bonds, structured notes and collateralized securities 105,205 -6,132 99,073 -1,175 97,898 68 It should be noted that leased assets are allocated to specific balance sheet items based on the nature o"
 ,,,SGAM MAE,,,,62 RUE LOUIS BOUILHET  CS 91833,ROUEN CEDEX,76044,Seine-Maritime,Normandie,,groupe,,831087929,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SGAPS IRCEM,,,,261 AVENUE  DES NATIONS UNIES,ROUBAIX,59100,Nord,Hauts-de-France,,groupe,,823214200,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAPS APICIL,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,groupe,Apicil,789861143,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAPS APICIL,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,groupe,Apicil,789861143,210775250,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SAS UNOFI,,,,7 A 7 BIS RUE GALVANI,PARIS CEDEX 17,75809,Paris,Ile-de-France,,groupe,,444786016,,,unknown,Sources: acpr_xlsx_2026.
 ,,,COVEA,,,,86 A 90 RUE SAINT-LAZARE,PARIS,75009,Paris,Ile-de-France,,groupe,Covea,450527916,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SGAM MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,844914887,,211000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR

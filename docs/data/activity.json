@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-09-11T10:12:45Z",
+  "last_updated": "2026-09-13T12:26:59Z",
   "events": [
+    {
+      "id": "evt_20260913_str_ent_68facd9a7a_341f8b0d",
+      "date": "2026-09-13",
+      "type": "structured_update",
+      "entity_id": "ent_68facd9a7a",
+      "entity_name": "APICIL MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260913_fin_ent_68facd9a7a_761763f7",
+      "date": "2026-09-13",
+      "type": "financial_update",
+      "entity_id": "ent_68facd9a7a",
+      "entity_name": "APICIL MUTUELLE",
+      "summary": "Primes: 210.3 M€ | R. net: 2.02 Md€ | FP: 1.4 M€ | SCR: 184.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210340008,
+        "resultat_net_eur": 2024000000,
+        "fonds_propres_eur": 1400000,
+        "scr_ratio_pct": 184.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260913_str_ent_d8b181b7f4_a802a83a",
+      "date": "2026-09-13",
+      "type": "structured_update",
+      "entity_id": "ent_d8b181b7f4",
+      "entity_name": "APICIL EPARGNE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260913_fin_ent_d8b181b7f4_a18e2d55",
+      "date": "2026-09-13",
+      "type": "financial_update",
+      "entity_id": "ent_d8b181b7f4",
+      "entity_name": "APICIL EPARGNE",
+      "summary": "R. net: 1.1 M€ | SCR: 638.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 1100000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 638.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260913_str_ent_4148dbb9b9_fdce9e54",
+      "date": "2026-09-13",
+      "type": "structured_update",
+      "entity_id": "ent_4148dbb9b9",
+      "entity_name": "APICIL EPARGNE RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260913_fin_ent_4148dbb9b9_420ed117",
+      "date": "2026-09-13",
+      "type": "financial_update",
+      "entity_id": "ent_4148dbb9b9",
+      "entity_name": "APICIL EPARGNE RETRAITE",
+      "summary": "R. net: 1.1 M€ | SCR: 638.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 1100000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 638.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260913_str_ent_3c434b3e73_525baa60",
+      "date": "2026-09-13",
+      "type": "structured_update",
+      "entity_id": "ent_3c434b3e73",
+      "entity_name": "SGAPS APICIL",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260913_fin_ent_3c434b3e73_9269a3ce",
+      "date": "2026-09-13",
+      "type": "financial_update",
+      "entity_id": "ent_3c434b3e73",
+      "entity_name": "SGAPS APICIL",
+      "summary": "Primes: 210.8 M€ | FP: 22.0 M€ | SCR: 182.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210775250,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 22000000,
+        "scr_ratio_pct": 182.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260913_str_ent_6be4bd8e63_dfe793ec",
+      "date": "2026-09-13",
+      "type": "structured_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260913_fin_ent_6be4bd8e63_95af1cfa",
+      "date": "2026-09-13",
+      "type": "financial_update",
+      "entity_id": "ent_6be4bd8e63",
+      "entity_name": "MAAF ASSURANCES",
+      "summary": "Primes: 3.03 Md€ | R. net: 318.7 M€ | FP: 1.0 M€ | SCR: 443.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 3032900000,
+        "resultat_net_eur": 318700000,
+        "fonds_propres_eur": 1000000,
+        "scr_ratio_pct": 443.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260911_str_ent_ab0835245f_36ef2cf5",
       "date": "2026-09-11",

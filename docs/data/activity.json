@@ -1,6 +1,232 @@
 {
-  "last_updated": "2026-09-15T10:39:48Z",
+  "last_updated": "2026-09-16T10:35:25Z",
   "events": [
+    {
+      "id": "evt_20260916_str_ent_8e6394879e_59632411",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_8e6394879e_e25816f2",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_8e6394879e",
+      "entity_name": "ALLIANZ IARD",
+      "summary": "Primes: 210 € | FP: 2.79 Md€ | SCR: 159.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 2789364000,
+        "scr_ratio_pct": 159.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260916_str_ent_c618166f27_7c857ae7",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_c618166f27_2bbf38ab",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_c618166f27",
+      "entity_name": "ALLIANZ PARTNERS SAS",
+      "summary": "FP: 583.61 Md€ | SCR: 100.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 583605000000,
+        "scr_ratio_pct": 100.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260916_str_ent_3a89b6c158_889fe69b",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_3a89b6c158_de6f3660",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_3a89b6c158",
+      "entity_name": "KLESIA SA",
+      "summary": "FP: 385.1 M€ | SCR: 135.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 385100000,
+        "scr_ratio_pct": 135.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260916_str_ent_21f88fc860_71f4fd60",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_21f88fc860_1d20c13d",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_21f88fc860",
+      "entity_name": "MATMUT PROTECTION JURIDIQUE",
+      "summary": "Primes: 400 k€ | FP: 20 k€ | SCR: 180.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 400000,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 20000,
+        "scr_ratio_pct": 180.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260916_str_ent_b76b1b8952_74c49478",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_b76b1b8952_6430c66c",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_b76b1b8952",
+      "entity_name": "MATMUT MUTUALITE",
+      "summary": "Primes: 44 k€ | SCR: 602.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 43600,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 602.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260916_str_ent_68facd9a7a_53fe0ad3",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_68facd9a7a",
+      "entity_name": "APICIL MUTUELLE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_68facd9a7a_91bc71f8",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_68facd9a7a",
+      "entity_name": "APICIL MUTUELLE",
+      "summary": "Primes: 210.3 M€ | R. net: 2.02 Md€ | FP: 1.4 M€ | SCR: 184.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210340008,
+        "resultat_net_eur": 2024000000,
+        "fonds_propres_eur": 1400000,
+        "scr_ratio_pct": 184.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260916_str_ent_d8b181b7f4_87bb7171",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_d8b181b7f4",
+      "entity_name": "APICIL EPARGNE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_d8b181b7f4_9e834cf0",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_d8b181b7f4",
+      "entity_name": "APICIL EPARGNE",
+      "summary": "R. net: 1.1 M€ | SCR: 638.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 1100000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 638.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260916_str_ent_4148dbb9b9_1d2932ee",
+      "date": "2026-09-16",
+      "type": "structured_update",
+      "entity_id": "ent_4148dbb9b9",
+      "entity_name": "APICIL EPARGNE RETRAITE",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260916_fin_ent_4148dbb9b9_564f346e",
+      "date": "2026-09-16",
+      "type": "financial_update",
+      "entity_id": "ent_4148dbb9b9",
+      "entity_name": "APICIL EPARGNE RETRAITE",
+      "summary": "R. net: 1.1 M€ | SCR: 638.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": 1100000,
+        "fonds_propres_eur": null,
+        "scr_ratio_pct": 638.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260915_per_ent_f9f6e15f1b_1ae7ab8e",
       "date": "2026-09-15",

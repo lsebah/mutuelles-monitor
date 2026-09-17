@@ -1,6 +1,120 @@
 {
-  "last_updated": "2026-09-16T10:35:25Z",
+  "last_updated": "2026-09-17T13:54:32Z",
   "events": [
+    {
+      "id": "evt_20260917_str_ent_8d1293f4ad_de2459cf",
+      "date": "2026-09-17",
+      "type": "structured_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260917_fin_ent_8d1293f4ad_82588b36",
+      "date": "2026-09-17",
+      "type": "financial_update",
+      "entity_id": "ent_8d1293f4ad",
+      "entity_name": "GROUPAMA ASSURANCE-CREDIT & CAUTION",
+      "summary": "Primes: 1 € | FP: 50 € | SCR: 245.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 1,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 50,
+        "scr_ratio_pct": 245.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260917_str_ent_c8ecbfa124_8b5a42d0",
+      "date": "2026-09-17",
+      "type": "structured_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "Produits structures: yes",
+      "details": {
+        "status": "yes",
+        "keywords_found": [
+          "structured notes"
+        ]
+      }
+    },
+    {
+      "id": "evt_20260917_fin_ent_c8ecbfa124_1c4be09e",
+      "date": "2026-09-17",
+      "type": "financial_update",
+      "entity_id": "ent_c8ecbfa124",
+      "entity_name": "SGAM MATMUT",
+      "summary": "FP: 440 €",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 440,
+        "scr_ratio_pct": null,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260917_str_ent_5122c9d415_8050a097",
+      "date": "2026-09-17",
+      "type": "structured_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260917_fin_ent_5122c9d415_a8cf0596",
+      "date": "2026-09-17",
+      "type": "financial_update",
+      "entity_id": "ent_5122c9d415",
+      "entity_name": "SGAM KLESIA ASSURANCES",
+      "summary": "FP: 1.08 Md€ | SCR: 183.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": null,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 1080000000,
+        "scr_ratio_pct": 183.0,
+        "source": "SFCR"
+      }
+    },
+    {
+      "id": "evt_20260917_str_ent_3c434b3e73_4b656160",
+      "date": "2026-09-17",
+      "type": "structured_update",
+      "entity_id": "ent_3c434b3e73",
+      "entity_name": "SGAPS APICIL",
+      "summary": "Produits structures: no",
+      "details": {
+        "status": "no",
+        "keywords_found": []
+      }
+    },
+    {
+      "id": "evt_20260917_fin_ent_3c434b3e73_2be98ba6",
+      "date": "2026-09-17",
+      "type": "financial_update",
+      "entity_id": "ent_3c434b3e73",
+      "entity_name": "SGAPS APICIL",
+      "summary": "Primes: 210.8 M€ | FP: 22.0 M€ | SCR: 182.0%",
+      "details": {
+        "year": 2024,
+        "primes_eur": 210775250,
+        "resultat_net_eur": null,
+        "fonds_propres_eur": 22000000,
+        "scr_ratio_pct": 182.0,
+        "source": "SFCR"
+      }
+    },
     {
       "id": "evt_20260916_str_ent_8e6394879e_59632411",
       "date": "2026-09-16",

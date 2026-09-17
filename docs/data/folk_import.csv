@@ -324,7 +324,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,MUTUELLE FAMILIALE,,,,52 RUE D HAUTEVILLE,PARIS,75010,Paris,Ile-de-France,,mutuelle,,784442915,,,unknown,Sources: acpr_xlsx_2026.
 ,,,ALLIANZ VIE,,,,1 COURS  MICHELET  CS 30051,PARIS LA DEFENSE CEDEX,92076,Hauts-de-Seine,Ile-de-France,,assurance_mixte,Allianz,340234962,,,yes,Sources: acpr_xlsx_2026. Allianz Vie - allocation produits structures dans general account.
 ,,,MUTUELLE DU MONDE COMBATTANT,,,,5 RUE DU HAVRE,PARIS,75008,Paris,Ile-de-France,,mutuelle,,784360661,,,unknown,Sources: acpr_xlsx_2026.
-,,,GROUPAMA ASSURANCE-CREDIT & CAUTION,,,,8 A 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,380810283,,,unknown,Sources: acpr_xlsx_2026.
+,,,GROUPAMA ASSURANCE-CREDIT & CAUTION,,,,8 A 10 RUE D ASTORG,PARIS,75008,Paris,Ile-de-France,,assurance_non_vie,Groupama,380810283,1,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MUTUELLE GENERALE DE PREVOYANCE,,,,39 RUE DU JOURDIL,CRAN GEVRIER,74960,Haute-Savoie,Auvergne-Rhone-Alpes,,mutuelle,,337682660,,,unknown,Sources: acpr_xlsx_2026.
 ,,,AFI ESCA,,,,2 QUAI KLEBER  CS 30441,STRASBOURG CEDEX,67008,Bas-Rhin,Grand Est,,assurance_vie,,548502517,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SMA SA,,,,8 RUE LOUIS ARMAND,PARIS,75015,Paris,Ile-de-France,,assurance_non_vie,,332789296,,,unknown,Sources: acpr_xlsx_2026.
@@ -622,7 +622,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,EGIS RE,,,,"15, avenue du Centre",GUYANCOURT,78280,Yvelines,Ile-de-France,,reassurance,,988799755,,,unknown,Sources: acpr_xlsx_2026.
 ,,,CAPQUARTZ,,,,2 Rue Pierre Fixot,AULNAY-SOUS-BOIS,93600,Seine-Saint-Denis,Ile-de-France,,reassurance,,943478339,,,unknown,Sources: acpr_xlsx_2026.
 ,,,ALAN,,,,117 QUAI VALMY,PARIS,75010,Paris,Ile-de-France,,groupe,,818353070,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAM MATMUT,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,groupe,Matmut,513866723,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAM MATMUT,,,,66 RUE DE SOTTEVILLE,ROUEN CEDEX 1,76030,Seine-Maritime,Normandie,,groupe,Matmut,513866723,,,yes,"Sources: acpr_xlsx_2026. R0120 89,309 Bonds R0130 3,644,573 Government Bonds R0140 1,079,284 Corporate Bonds R0150 1,837,779 Structured notes R0160 727,510 Collateralised securities R0170 Collective Investments Undertakings R0180 1,570,509 Derivatives R0190 0 Deposits other than cash equivalents R0200 49,868 Other investmen"
 ,,,SGAPS LOURMEL,,,,8 BIS ALLEE GASTON BACHELARD,PARIS,75014,Paris,Ile-de-France,,groupe,,828277897,,,unknown,Sources: acpr_xlsx_2026.
 ,,,INTER MUTUELLES ASSISTANCE,,,,118 AVENUE DE PARIS  BP 8000,NIORT CEDEX 9,79033,Deux-Sevres,Nouvelle-Aquitaine,,groupe,,320281025,,,unknown,Sources: acpr_xlsx_2026.
 ,,,UMG AESIO MACIF,,,,25 PLACE  DE LA MADELEINE,PARIS,75008,Paris,Ile-de-France,,groupe,AESIO/AEMA,821965241,,,unknown,Sources: acpr_xlsx_2026.
@@ -633,7 +633,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,SGAPS AG2R LA MONDIALE,,,,14-16 BOULEVARD MALESHERBES,PARIS,75008,Paris,Ile-de-France,,groupe,AG2R La Mondiale,833002983,55000000,1700000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,ODYSSEY RE EUROPE HOLDINGS,,,,15 RUE DU 4 SEPTEMBRE,PARIS,75002,Paris,Ile-de-France,,groupe,,829589696,,,unknown,Sources: acpr_xlsx_2026.
 ,,,BIG WAKAM,,,,120 A 122 RUE REAUMUR,PARIS,75002,Paris,Ile-de-France,,groupe,,422755983,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAM KLESIA ASSURANCES,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,groupe,Klesia,811360965,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAM KLESIA ASSURANCES,,,,4  RUE GEORGES PICQUART,PARIS,75017,Paris,Ile-de-France,,groupe,Klesia,811360965,,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,MAPA-MAB SGAM,,,,1 RUE ANATOLE CONTRE,SAINT JEAN D ANGELY,17400,Charente-Maritime,Nouvelle-Aquitaine,,groupe,,810881995,,,unknown,Sources: acpr_xlsx_2026.
 ,,,AGPM GROUPE,,,,RUE NICOLAS APPERT  QUARTIER SAINTE MUSSE,TOULON,83100,Var,Provence-Alpes-Cote d'Azur,,groupe,,834846099,,,unknown,Sources: acpr_xlsx_2026.
 ,,,GROUPE VYV,,,,33 AVENUE DU MAINE TOUR MONTPARNASSE BP 25,PARIS CEDEX 15,75755,Paris,Ile-de-France,,groupe,,532661832,,,unknown,Sources: acpr_xlsx_2026.
@@ -643,7 +643,7 @@ Miguel,Ángel M. Albores,Directeur des Investissements,PACIFICA,,,https://mx.lin
 ,,,GENERALI FRANCE,,,,89 RUE TAITBOUT,PARIS,75009,Paris,Ile-de-France,,groupe,Generali,572044949,,,yes,"Sources: acpr_xlsx_2026. ,078 -936 16,143 Government bonds 139,053 -17,824 121,229 -4,211 117,018 Corporate bonds, structured notes and collateralized securities 105,205 -6,132 99,073 -1,175 97,898 68 It should be noted that leased assets are allocated to specific balance sheet items based on the nature o"
 ,,,SGAM MAE,,,,62 RUE LOUIS BOUILHET  CS 91833,ROUEN CEDEX,76044,Seine-Maritime,Normandie,,groupe,,831087929,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SGAPS IRCEM,,,,261 AVENUE  DES NATIONS UNIES,ROUBAIX,59100,Nord,Hauts-de-France,,groupe,,823214200,,,unknown,Sources: acpr_xlsx_2026.
-,,,SGAPS APICIL,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,groupe,Apicil,789861143,,,unknown,Sources: acpr_xlsx_2026.
+,,,SGAPS APICIL,,,,51 BOULEVARD MARIUS VIVIER-MERLE,LYON,69003,Rhone,Auvergne-Rhone-Alpes,,groupe,Apicil,789861143,210775250,,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
 ,,,SAS UNOFI,,,,7 A 7 BIS RUE GALVANI,PARIS CEDEX 17,75809,Paris,Ile-de-France,,groupe,,444786016,,,unknown,Sources: acpr_xlsx_2026.
 ,,,COVEA,,,,86 A 90 RUE SAINT-LAZARE,PARIS,75009,Paris,Ile-de-France,,groupe,Covea,450527916,,,unknown,Sources: acpr_xlsx_2026.
 ,,,SGAM MALAKOFF HUMANIS,,,,21 RUE LAFFITTE,PARIS,75009,Paris,Ile-de-France,,groupe,Malakoff Humanis,844914887,,211000000,no,Sources: acpr_xlsx_2026. Aucun mot-cle structures detecte dans le SFCR
